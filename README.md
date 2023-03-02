@@ -1,2 +1,2 @@
-# harmontown
+# Harmontown
 Harmontown Wiki
