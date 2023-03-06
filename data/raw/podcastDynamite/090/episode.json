@@ -1,0 +1,20 @@
+{
+  "id": 90,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "76 - Hug Me, Hug Me, Hug Me",
+  "description": "The room is packed with Communicon fans and two of them are asked by Mayor Harmon to come on stage and discuss a recent internet exchange about why they feel Dan should \u0022stop talking.\u0022 A lengthy game of D\u0026D then ensues.",
+  "runtime": 6552,
+  "releaseDate": 1382369100.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5316",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8107073170.mp3?updated=1555622740",
+  "lastEpisodeId": 89,
+  "nextEpisodeId": 91,
+  "lastTitle": "75 - Selling Like Hot Snakes",
+  "nextTitle": "77 - Carpool Diem"
+}

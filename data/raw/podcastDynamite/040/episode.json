@@ -1,0 +1,20 @@
+{
+  "id": 40,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "27 - Harmoncountry: Nashville, TN",
+  "description": "Mayor Harmon chooses Music City, USA as the place to enter the \u0022drunk Brian Wilson\u0022 phase of his podcasting career. Is his mistake the pre-show Jaggerbombs or the mid-show moonshine? In any case, let this episode stand as a cautionary tale.",
+  "runtime": 4458,
+  "releaseDate": 1358297520.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2020",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1538092440.mp3?updated=1560293845",
+  "lastEpisodeId": 39,
+  "nextEpisodeId": 41,
+  "lastTitle": "26 - Harmoncountry: Atlanta, GA",
+  "nextTitle": "28 - Harmoncountry: Charlotte, NC"
+}

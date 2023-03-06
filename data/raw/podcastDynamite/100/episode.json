@@ -1,0 +1,20 @@
+{
+  "id": 100,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "86 - Constitutional Belieber",
+  "description": "Mayor Harmon is joined by Alie \u0026 Georgia of the Slumber Party podcast to defend the constitutional rights of Justin Bieber. In D\u0026D, Sharpie doesn\u0027t like Lineve\u0027s tone.",
+  "runtime": 7303,
+  "releaseDate": 1390243380.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5700",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8031854394.mp3?updated=1555717166",
+  "lastEpisodeId": 99,
+  "nextEpisodeId": 101,
+  "lastTitle": "85 - Gender Neutrality",
+  "nextTitle": "87 - Kiss Doesn\u0027t Get The Joke"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "roleId": 1,
+    "firstName": "Dan",
+    "middleName": "",
+    "lastName": "Harmon",
+    "name": "Host",
+    "personId": 1
+  },
+  {
+    "id": 0,
+    "roleId": 3,
+    "firstName": "Erin",
+    "middleName": "",
+    "lastName": "McGathy",
+    "name": "Comptroller",
+    "personId": 4
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Tiffany",
+    "middleName": "",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 15
+  }
+]

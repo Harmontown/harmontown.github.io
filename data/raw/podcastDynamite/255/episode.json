@@ -1,0 +1,20 @@
+{
+  "id": 255,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "238 - My name is Johnny Varvatos",
+  "description": "Featuring Dan Harmon, Jeff B. Davis, Rob Schrab and Brandon Johnson",
+  "runtime": 6544,
+  "releaseDate": 1490766480.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/AyAvdfROUTeUb19ISuhxL1azXJw6my9cWNRvdqIF1CM",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2062953615.mp3",
+  "lastEpisodeId": 254,
+  "nextEpisodeId": 256,
+  "lastTitle": "237 - Less Than White",
+  "nextTitle": "239 - LIVE from the Chicago Improv Festival 2017"
+}

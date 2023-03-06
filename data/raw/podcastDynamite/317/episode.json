@@ -1,0 +1,20 @@
+{
+  "id": 317,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "300 - We Do Right by Whatever You Are",
+  "description": "We celebrate the 300th episode by looking back at our favorite moments. Kumail Nanjiani, Emily Gordon, Rob Schrab, Steve Agee and Brandon Johnson help us jump the shark with our first clip show. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Emily V. Gordon, Kumail Nanjiani, Rob Schrab, Brandon Johnson and Steve Agee. Clips include Open Mike Eagle, Mitch Hurwitz, Curtis Armstrong, DeMorge Brown, Erin McGathy, Bobcat Goldthwait, John Mayer and Jonah Ray.",
+  "runtime": 7694,
+  "releaseDate": 1535018400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "993a1490-f9f3-41b4-97b1-a94401604d31",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9527834676.mp3",
+  "lastEpisodeId": 316,
+  "nextEpisodeId": 318,
+  "lastTitle": "299 - Rock Me Homo Deus",
+  "nextTitle": "301 - SuperNova"
+}

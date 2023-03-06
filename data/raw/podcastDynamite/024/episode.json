@@ -1,0 +1,20 @@
+{
+  "id": 24,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "11 - Tylenol With Codeine (9.17.12)",
+  "description": "The first appearance of Greg Proops provokes a fit of Mayor Harmon\u0027s pointless political rants and a D\u0026D adventure that shall forever be remembered as involving unicorn pee.",
+  "runtime": 5731,
+  "releaseDate": 1348799400.000000000,
+  "showDate": 1347854400.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=315",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8755972312.mp3?updated=1555712784",
+  "lastEpisodeId": 23,
+  "nextEpisodeId": 25,
+  "lastTitle": "10 - A Tuppence or a Shilling for Your Wainscotting (9.10.12)",
+  "nextTitle": "12 - Death, Fascism and the Pursuit of Not Remaking Robocop"
+}

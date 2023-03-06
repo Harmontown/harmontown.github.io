@@ -1,0 +1,20 @@
+{
+  "id": 368,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "351 - The Cowboy Rulebook",
+  "description": "Mitch Hurwitz is back! Mitch and Dan talk Arrested Development, Golden Girls, upcoming projects and the future of network TV. Singer/songwriter Robbie Fulks joins in with some tales told via country music. Featuring Dan Harmon, Jeff Bryan Davis, Mitch Hurwitz, Robbie Fulks and Rob Schrab.",
+  "runtime": 6860,
+  "releaseDate": 1570096800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "8d058fa0-e5b2-11e9-88dc-e3041fb7a035",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4296678179.mp3",
+  "lastEpisodeId": 367,
+  "nextEpisodeId": 369,
+  "lastTitle": "350 - You Have Ten Seconds to Comply",
+  "nextTitle": "352 - Throw Me Under the Grassy Knoll"
+}

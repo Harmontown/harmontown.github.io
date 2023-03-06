@@ -1,0 +1,20 @@
+{
+  "id": 147,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "132 - You Make My Shadow Run with David Cross!",
+  "description": "Kumail comptrolls, Dan tries to cover the zeitgeist and is joined by David Cross! Who sits in while the gang begin their Shadow Run campaign. Music by YACHT.",
+  "runtime": 8225,
+  "releaseDate": 1422477780.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=7460",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2865521820.mp3",
+  "lastEpisodeId": 146,
+  "nextEpisodeId": 148,
+  "lastTitle": "131 - Dirty Little Potato People",
+  "nextTitle": "133 - DeMorge Do You Know Jamal?"
+}

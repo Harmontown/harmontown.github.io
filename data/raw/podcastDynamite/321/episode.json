@@ -1,0 +1,20 @@
+{
+  "id": 321,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "304 - Magic Shinto Hat",
+  "description": "Is Schrab getting too comfortable in his comfy chair, and what is he doing with his microphone?",
+  "runtime": 7983,
+  "releaseDate": 1538042400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "42b9ae00-af2e-465b-8d38-a96800463710",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6586506051.mp3",
+  "lastEpisodeId": 320,
+  "nextEpisodeId": 322,
+  "lastTitle": "303 - Frog Complex",
+  "nextTitle": "305 - Smiles Wider Than Their Faces"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 324,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "307 - French Spencer",
+  "description": "Guest Comptroller Brandon Johnson and Dan discover French Spencer, and learn that sometimes applause hurts. Featuring Dan Harmon, Brandon Johnson and Spencer Crittenden.",
+  "runtime": 7589,
+  "releaseDate": 1539856800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "1eae1789-e459-4e50-9fcd-a97d004caad4",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8630704834.mp3",
+  "lastEpisodeId": 323,
+  "nextEpisodeId": 325,
+  "lastTitle": "306 - Cholo to Cholo: Crackers Try",
+  "nextTitle": "308 - Soft on Hitler, Hard on Dicks"
+}

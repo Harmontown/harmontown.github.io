@@ -1,0 +1,20 @@
+{
+  "id": 94,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "80 - Harmontown At Largo (Justin Roiland, John Oliver, Sarah Chalke)",
+  "description": "In conjunction with Adult Swim and Starburns Industries, HARMONTOWN Live at Largo Coronet Theatre! Featuring Justin Roiland, John Oliver and Sarah Chalke! (Presented in 128kbps Stereo)",
+  "runtime": 2841,
+  "releaseDate": 1384770000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5446",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5537922667.mp3?updated=1555625641",
+  "lastEpisodeId": 93,
+  "nextEpisodeId": 95,
+  "lastTitle": "79 - Dangle, Dipping and Heel Popping",
+  "nextTitle": "81 - Hot Dog With Lettuce (Laraine Newman, Dr. Chris Ryan)"
+}

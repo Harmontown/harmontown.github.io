@@ -1,0 +1,20 @@
+{
+  "id": 112,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "HARMONTOWN NIGHTS PREVIEW",
+  "description": "???",
+  "runtime": 1581,
+  "releaseDate": 1399078740.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6287",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6880779968.mp3",
+  "lastEpisodeId": 111,
+  "nextEpisodeId": 113,
+  "lastTitle": "97 - Long Brown Blood",
+  "nextTitle": "98 - HARMONOLOGY"
+}

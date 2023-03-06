@@ -1,0 +1,20 @@
+{
+  "id": 68,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "Lost Episode #14",
+  "description": "Lost Episode #14",
+  "runtime": 0,
+  "releaseDate": null,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "Dan talks too much about getting his job back, and subsequently buries the episode.",
+  "audio": null,
+  "lastEpisodeId": 67,
+  "nextEpisodeId": 69,
+  "lastTitle": "54 - Go, Marbles, Go! (Duncan Trussell, Greg Proops)",
+  "nextTitle": "55 - Shahruz the Web Guru"
+}

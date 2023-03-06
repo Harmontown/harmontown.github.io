@@ -1,0 +1,20 @@
+{
+  "id": 126,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "111 - Fluid Levitation",
+  "description": "Mayor Harmon, Jeff Davis, Erin McGathy and Spencer Crittenden discover a Belgian fan in the audience, but when a Londoner from the crowd",
+  "runtime": 7323,
+  "releaseDate": 1407782280.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6649",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3032194377.mp3?updated=1556746640",
+  "lastEpisodeId": 125,
+  "nextEpisodeId": 127,
+  "lastTitle": "110 - Dana Carvey Has Never Done Anything Wrong (feat. Tenacious D)",
+  "nextTitle": "112 - Popeye Is Our Lord And Savior"
+}

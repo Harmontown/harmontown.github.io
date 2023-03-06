@@ -1,0 +1,20 @@
+{
+  "id": 362,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "345 - Oh the Places You Won\u2019t Go",
+  "description": "Harmontown is honored to welcome Conflict Journalist Robert Evans to the show. With topics ranging from Syria to 8chan, Robert has done all the homework, and takes us through, with stunning detail, the conflicts that will define the era we live in. \nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Robert Evans.",
+  "runtime": 7499,
+  "releaseDate": 1565863200.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "d10eb1e4-bf1b-11e9-a25d-3b7019b67cb2",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9433274980.mp3",
+  "lastEpisodeId": 361,
+  "nextEpisodeId": 363,
+  "lastTitle": "344 - God Bless, But God Damn",
+  "nextTitle": "346 - Every Day is a New Hate"
+}

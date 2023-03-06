@@ -1,0 +1,20 @@
+{
+  "id": 114,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "99 - Homo Doolittle (Live from Bridgetown 2014!)",
+  "description": "Live from The Bridgetown Festival in Portland, Oregon; Harmontown is now in session!",
+  "runtime": 6296,
+  "releaseDate": 1399836420.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6321",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4114340673.mp3?updated=1556230071",
+  "lastEpisodeId": 113,
+  "nextEpisodeId": 115,
+  "lastTitle": "98 - HARMONOLOGY",
+  "nextTitle": "100 - Boner-Hurt Kansas"
+}

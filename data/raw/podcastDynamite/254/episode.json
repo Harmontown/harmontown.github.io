@@ -1,0 +1,20 @@
+{
+  "id": 254,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "237 - Less Than White",
+  "description": "Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Tim Talbott.",
+  "runtime": 6620,
+  "releaseDate": 1490166000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/dp4U5M8E84uiaF_l20Cxahgk4zIqudMbiXUbXvdxU9U",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2046806980.mp3",
+  "lastEpisodeId": 253,
+  "nextEpisodeId": 255,
+  "lastTitle": "236 - LIVE from Esther\u2019s Follies at SXSW\u201917 in Austin, TX",
+  "nextTitle": "238 - My name is Johnny Varvatos"
+}

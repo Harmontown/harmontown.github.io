@@ -1,0 +1,20 @@
+{
+  "id": 16,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "3 - If They Have Cubs, We\u0027re Already Dead (7.23.12)",
+  "description": "An unusually quiet night in Harmontown gives way to eruptions of arm wrestling, wolf hunting, dungeon mastering and child abuse.",
+  "runtime": 4418,
+  "releaseDate": 1343679900.000000000,
+  "showDate": 1343016000.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=170",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3517247513.mp3?updated=1555699595",
+  "lastEpisodeId": 15,
+  "nextEpisodeId": 17,
+  "lastTitle": "2 - The Inception Of Girlfriends (7.16.12)",
+  "nextTitle": "4 - The Technology Of N-Words (7.31.12)"
+}

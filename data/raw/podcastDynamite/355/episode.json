@@ -1,0 +1,20 @@
+{
+  "id": 355,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "338 - This Trident Has Four Dents",
+  "description": "Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer\u2019s bees and pirate eye patches are on the agenda tonight! Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Ryan Kraus.",
+  "runtime": 7322,
+  "releaseDate": 1561629600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "7c93855c-98c1-11e9-8df4-3f72d1b6f84a",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4645360136.mp3",
+  "lastEpisodeId": 354,
+  "nextEpisodeId": 356,
+  "lastTitle": "337 - I Was a Simpson",
+  "nextTitle": "339 - Swinging Three Bats"
+}

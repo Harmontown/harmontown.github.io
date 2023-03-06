@@ -1,0 +1,20 @@
+{
+  "id": 76,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "62 - Blinking 12:00",
+  "description": "Mayor Harmon has nothing to discuss so he opens it to the floor. Super powers are debated. Gifts are given. A special guest returns to D\u0026D.",
+  "runtime": 7041,
+  "releaseDate": 1372710840.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=4681",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5692275742.mp3?updated=1555528423",
+  "lastEpisodeId": 75,
+  "nextEpisodeId": 77,
+  "lastTitle": "61 - USS Hubris",
+  "nextTitle": "63 - Everyone in the World is Stupid"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 243,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "226 - Harmontownunder: Sydney Opera House Night 1",
+  "description": "Night 1 of Harmontown at the historic Sydney Opera House in Sydney Australia!",
+  "runtime": 7398,
+  "releaseDate": 1483575720.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/H13t7tPuZBT2X3yjc0SoeHqFpmKThI62fKH1Zru65xA",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5271634387.mp3",
+  "lastEpisodeId": 242,
+  "nextEpisodeId": 244,
+  "lastTitle": "225 - Harmontownunder: Melbourne, Australia",
+  "nextTitle": "227 - Harmontownunder: Sydney Opera House Night 2"
+}

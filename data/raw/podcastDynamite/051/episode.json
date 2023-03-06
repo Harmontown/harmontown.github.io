@@ -1,0 +1,20 @@
+{
+  "id": 51,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "38 - Harmoncountry: Kansas City, KS",
+  "description": "Kansas finds itself at the center of the biggest disaster since Dorothy\u0027s twister when Mayor Harmon and Erin McGathy conduct the worst town meeting of the tour. This episode is unedited because I have no idea what I\u0027d cut without cutting the entire thi...",
+  "runtime": 4471,
+  "releaseDate": 1359512700.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2068",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4660628644.mp3?updated=1554398096",
+  "lastEpisodeId": 50,
+  "nextEpisodeId": 52,
+  "lastTitle": "37 - Harmoncountry: Minneapolis, MN",
+  "nextTitle": "39 - Harmoncountry: Denver, CO"
+}

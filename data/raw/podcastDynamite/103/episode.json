@@ -1,0 +1,20 @@
+{
+  "id": 103,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "89 - Live At Cobb\u0027s in San Francisco with Joel Hodgson",
+  "description": "Harmontown does the 13th annual San Francisco Sketchfest, gets a drop in from Mystery Science Theater 3000\u0027s Joel Hodgson and later on, the show goes straight Maury Povich.",
+  "runtime": 7156,
+  "releaseDate": 1391801280.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5773",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8934035172.mp3?updated=1555718041",
+  "lastEpisodeId": 102,
+  "nextEpisodeId": 104,
+  "lastTitle": "88 - My Whole Life Is A Smile",
+  "nextTitle": "90 - CyberChrist and Stubnortz"
+}

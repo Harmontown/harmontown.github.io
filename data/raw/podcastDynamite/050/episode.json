@@ -1,0 +1,20 @@
+{
+  "id": 50,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "37 - Harmoncountry: Minneapolis, MN",
+  "description": "Mayor Harmon and Guest Comptroller McGathy interface with Twin Town from injured tendon to badly placed sound effect. Former Dead Alewives member Sean McKenna raps. Joyfully unedited episode.",
+  "runtime": 5713,
+  "releaseDate": 1359318600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2057",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7331800635.mp3?updated=1554336671",
+  "lastEpisodeId": 49,
+  "nextEpisodeId": 51,
+  "lastTitle": "36 - Harmoncountry: Madison, WI",
+  "nextTitle": "38 - Harmoncountry: Kansas City, KS"
+}

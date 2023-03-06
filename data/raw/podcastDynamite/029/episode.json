@@ -1,0 +1,20 @@
+{
+  "id": 29,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "16 - A Four Day March to the Butt\u0027s Expanse",
+  "description": "It\u0027s a Jareth-palooza as Harmenians descend on Hollywood dressed as David Bowie in Labyrinth for Halloween. Other topics include almost nothing!",
+  "runtime": 5146,
+  "releaseDate": 1352493420.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=474",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8086031692.mp3?updated=1555704351",
+  "lastEpisodeId": 28,
+  "nextEpisodeId": 30,
+  "lastTitle": "15 - Don\u0027t Ask Black People Time Travel Questions",
+  "nextTitle": "17 - Grumblesnakes!"
+}

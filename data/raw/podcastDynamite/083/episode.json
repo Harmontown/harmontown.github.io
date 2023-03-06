@@ -1,0 +1,20 @@
+{
+  "id": 83,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "69 - Cobra Customer Service",
+  "description": "Mayor Harmon issues an edict to wait staff, proclaims his eternal love for Erin and signs off on gay weddings.",
+  "runtime": 6848,
+  "releaseDate": 1377504600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5093",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2718692113.mp3?updated=1555611252",
+  "lastEpisodeId": 82,
+  "nextEpisodeId": 84,
+  "lastTitle": "68 - Jolly Rodger",
+  "nextTitle": "70 - Gone Fishin\u0027"
+}

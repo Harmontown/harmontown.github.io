@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "roleId": 1,
+    "firstName": "Dan",
+    "middleName": "",
+    "lastName": "Harmon",
+    "name": "Host",
+    "personId": 1
+  },
+  {
+    "id": 0,
+    "roleId": 3,
+    "firstName": "Jeff",
+    "middleName": "",
+    "lastName": "Davis",
+    "name": "Comptroller",
+    "personId": 2
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Bobcat",
+    "middleName": null,
+    "lastName": "Goldthwait",
+    "name": "Guest",
+    "personId": 164
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Marc",
+    "middleName": null,
+    "lastName": "Maron",
+    "name": "Guest",
+    "personId": 165
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Spencer",
+    "middleName": "",
+    "lastName": "Crittenden",
+    "name": "Guest",
+    "personId": 5
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Duncan",
+    "middleName": null,
+    "lastName": "Trussell",
+    "name": "Guest",
+    "personId": 166
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Sean",
+    "middleName": "\u0022SnapTheJap\u0022",
+    "lastName": "Sakimae",
+    "name": "Guest",
+    "personId": 19
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Roy",
+    "middleName": null,
+    "lastName": "McClurg",
+    "name": "Guest",
+    "personId": 167
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Erin",
+    "middleName": "",
+    "lastName": "McGathy",
+    "name": "Guest",
+    "personId": 4
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Adam",
+    "middleName": "",
+    "lastName": "Goldberg",
+    "name": "Audience Member",
+    "personId": 6
+  }
+]

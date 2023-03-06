@@ -1,0 +1,20 @@
+{
+  "id": 343,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "326 - Bootie Etiquette",
+  "description": "The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brandon Johnson.",
+  "runtime": 7737,
+  "releaseDate": 1553162400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "ec623daa-36de-11e9-be71-fbafd9164edb",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9382632600.mp3",
+  "lastEpisodeId": 342,
+  "nextEpisodeId": 344,
+  "lastTitle": "325 - Get Off My Lawn, Words",
+  "nextTitle": "327 - A Cardigan with Stab Holes"
+}

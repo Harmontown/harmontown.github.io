@@ -1,0 +1,20 @@
+{
+  "id": 41,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "28 - Harmoncountry: Charlotte, NC",
+  "description": "A quiet military bunker in Charlotte known as The Comedy Zone is the site of a kinder, gentler town meeting than Nashville\u0027s booze-drenched hootenanny. Mayor Harmon attempts to write a constitution and learns about the deep seated, low-stakes conflict...",
+  "runtime": 6030,
+  "releaseDate": 1358378940.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2025",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2730581515.mp3?updated=1554327971",
+  "lastEpisodeId": 40,
+  "nextEpisodeId": 42,
+  "lastTitle": "27 - Harmoncountry: Nashville, TN",
+  "nextTitle": "29 - Harmoncountry: Brooklyn, NY"
+}

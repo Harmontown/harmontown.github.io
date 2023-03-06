@@ -1,0 +1,20 @@
+{
+  "id": 136,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "121 - LIVE from 92y in NYC feat. Gilbert Gottfried",
+  "description": "Comptroller Gilbert Gottfried warms up Harmontown\u0027s biggest crowd yet at New York City\u0027s 92y!",
+  "runtime": 8134,
+  "releaseDate": 1413316980.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6945",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5041770987.mp3?updated=1561581385",
+  "lastEpisodeId": 135,
+  "nextEpisodeId": 137,
+  "lastTitle": "120 - LIVE in Toronto feat. Bobcat Goldthwait!",
+  "nextTitle": "122 - LIVE from The Roxie in San Francisco feat. Steve Agee"
+}

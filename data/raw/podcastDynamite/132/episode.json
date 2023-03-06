@@ -1,0 +1,20 @@
+{
+  "id": 132,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "117 - Debbie Request Permission To Do Dallas",
+  "description": "Harmontown tests its live streaming capabilities, Alex Rubens comptrolls and instead of D\u0026D the group goes on a sci-fi side quest.",
+  "runtime": 7195,
+  "releaseDate": 1411419300.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6832",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4345391070.mp3?updated=1560983332",
+  "lastEpisodeId": 131,
+  "nextEpisodeId": 133,
+  "lastTitle": "116 - LIVE From The XOXO Festival 2014 in Portland",
+  "nextTitle": "118 - LIVE from Seattle 2014 feat. Dino Stamatopoulos!"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 23,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "10 - A Tuppence or a Shilling for Your Wainscotting (9.10.12)",
+  "description": "Mayor Harmon and Guest Comptroller Erin McGathy discuss Knight Rider, Alf and anxiety, then play a quick round of Dungeons and Dragons before getting into a huge fight about movies and breaking up.",
+  "runtime": 4598,
+  "releaseDate": 1348191900.000000000,
+  "showDate": 1347249600.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=267",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4509016283.mp3?updated=1555696997",
+  "lastEpisodeId": 22,
+  "nextEpisodeId": 24,
+  "lastTitle": "9 - Examine Before You Fight (9.4.12)",
+  "nextTitle": "11 - Tylenol With Codeine (9.17.12)"
+}

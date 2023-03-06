@@ -1,0 +1,20 @@
+{
+  "id": 134,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "119 - LIVE at the Vista with bonus Q\u0026A",
+  "description": "In conjunction with Cinefamily and Starburns Industries, enjoy Harmontown, LIVE from the Vista theater with a special Q\u0026A for the HARMONTOWN movie, now at harmontown.com!",
+  "runtime": 6467,
+  "releaseDate": 1412531520.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6898",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9661898465.mp3?updated=1560988012",
+  "lastEpisodeId": 133,
+  "nextEpisodeId": 135,
+  "lastTitle": "118 - LIVE from Seattle 2014 feat. Dino Stamatopoulos!",
+  "nextTitle": "120 - LIVE in Toronto feat. Bobcat Goldthwait!"
+}

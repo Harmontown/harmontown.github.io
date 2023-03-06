@@ -1,0 +1,125 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="info-box">
+  <table>
+    <tbody>
+      <tr class="box-header">
+        <th colspan="2">
+          <div>{{ page.title }}</div>
+        </th>
+      </tr>
+
+      <tr>
+        <td colspan="2" class="episode-image">
+          <image src="{{ page.image }}" />
+        </td>
+      </tr>
+      <tr>
+        <th>Show Date</th>
+        <td>{{ page.showDate | date: "%B %d, %Y" }}</td>
+      </tr>
+      <tr>
+        <th>Location</th>
+        <td>{{ page.location }}</td>
+      </tr>
+
+      <tr class="section-header">
+        <th colspan="2">
+          <div>People</div>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <table>
+            <tbody>
+              <tr>
+                <th>Comptroller</th>
+                <td>{{ page.comptroller }}</td>
+              </tr>
+              <tr>
+                <th>Guests</th>
+                <td>
+                  <ul>
+                    {% for guest in page.guests %}
+                    <li>{{ guest }}</li>
+                    {% endfor %}
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr class="section-header">
+        <th colspan="2">
+          <div>Podcast</div>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <table>
+            <tbody>
+              <tr>
+                <th>Episode no.</th>
+                <td>{{ page.number | prepend: '00' | slice: 0, 3 }}</td>
+              </tr>
+              <tr>
+                <th>Run time</th>
+                <td>{{ page.duration }}</td>
+              </tr>
+              <tr>
+                <th>Episode Type</th>
+                <td>{{ page.episodeType | capitalize }}</td>
+              </tr>
+              <tr>
+                <th>Published On</th>
+                <td>{{ page.publishDate | date: "%B %d, %Y" }}</td>
+              </tr>
+              <tr>
+                <th>Sound File</th>
+                <td><a href="{{ page.soundFile }}">link</a></td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      <tr class="section-header">
+        <th colspan="2">
+          <div>External <span class="material-icons">open_in_new</span></div>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <table>
+            <tbody>
+              <tr>
+                <th>Transcription</th>
+                <td>
+                  <a href="https://harmon.city/{{ page.publishDate | date: '%Y'}}/{{ page.publishDate | date: '%m'}}/{{ page.publishDate | date: '%d'}}/episode-{{ page.number }}"
+                    target="_blank">harmon.city</a>
+                </td>
+              </tr>
+              <tr>
+                <th>Minutes</th>
+                <td>
+                  <a href="https://harmon.city/{{ page.publishDate | date: '%Y'}}/{{ page.publishDate | date: '%m'}}/{{ page.publishDate | date: '%d'}}/episode-{{ page.number }}"
+                    target="_blank">podcastdynamite.com</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+    </tbody>
+
+  </table>
+</div>
+
+{{ content }}

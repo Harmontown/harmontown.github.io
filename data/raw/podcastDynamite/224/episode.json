@@ -1,0 +1,20 @@
+{
+  "id": 224,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "Lost Episode #16",
+  "description": "Lost Episode #16",
+  "runtime": 0,
+  "releaseDate": null,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "Harmontown at Outside Lands",
+  "audio": null,
+  "lastEpisodeId": 223,
+  "nextEpisodeId": 225,
+  "lastTitle": "207 - LIVE from Just for Laughs Montreal 2016",
+  "nextTitle": "208 - Kratom Barrel"
+}

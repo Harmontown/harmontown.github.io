@@ -1,0 +1,20 @@
+{
+  "id": 36,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "23 - Turtle Panties",
+  "description": "Harmontown\u0027s last show before the tour becomes a star studded bon voyage. Eric Idle teaches Dan to write songs, Patton Oswalt teaches him the meaning of fear and Ryan Stiles teaches him that fighting displacer beasts takes 45 minutes.",
+  "runtime": 7202,
+  "releaseDate": 1357796520.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2006",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2507815919.mp3?updated=1554324809",
+  "lastEpisodeId": 35,
+  "nextEpisodeId": 37,
+  "lastTitle": "22 - Nanu Nanu, I\u0027m Racist",
+  "nextTitle": "24 - Harmoncountry: Phoenix, Arizona"
+}

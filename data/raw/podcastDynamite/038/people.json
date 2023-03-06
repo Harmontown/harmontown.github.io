@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "roleId": 1,
+    "firstName": "Dan",
+    "middleName": "",
+    "lastName": "Harmon",
+    "name": "Host",
+    "personId": 1
+  },
+  {
+    "id": 0,
+    "roleId": 3,
+    "firstName": "Jeff",
+    "middleName": "",
+    "lastName": "Davis",
+    "name": "Comptroller",
+    "personId": 2
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Spencer",
+    "middleName": "",
+    "lastName": "Crittenden",
+    "name": "Guest",
+    "personId": 5
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Erin",
+    "middleName": "",
+    "lastName": "McGathy",
+    "name": "Guest",
+    "personId": 4
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Ray",
+    "middleName": "",
+    "lastName": "Pruitt",
+    "name": "Audience Member",
+    "personId": 62
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Jen",
+    "middleName": "",
+    "lastName": "Brown",
+    "name": "Audience Member",
+    "personId": 63
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Mars",
+    "middleName": "",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 64
+  }
+]

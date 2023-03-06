@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "Lost Episode #12",
+  "description": "",
+  "runtime": 0,
+  "releaseDate": null,
+  "showDate": 1335758400.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "",
+  "audio": null,
+  "lastEpisodeId": 11,
+  "nextEpisodeId": 13,
+  "lastTitle": "Lost Episode #11",
+  "nextTitle": "Lost Episode #13"
+}

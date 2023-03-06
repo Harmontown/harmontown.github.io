@@ -1,0 +1,20 @@
+{
+  "id": 60,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "47 - Procrasturbation",
+  "description": "Mayor Harmon suggests a new, fecal approach to morality. Other topics include Halle Berry, Superman and accents. In D\u0026D, the gang runs afoul of snake men and each other.",
+  "runtime": 6085,
+  "releaseDate": 1362736260.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2138",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6342558089.mp3?updated=1554494366",
+  "lastEpisodeId": 59,
+  "nextEpisodeId": 61,
+  "lastTitle": "46 - Neigh Means Yay",
+  "nextTitle": "48 - Felicity Wackamole (Doug Benson, Kumail Nanjiani)"
+}

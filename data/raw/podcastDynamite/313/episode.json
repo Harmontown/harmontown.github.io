@@ -1,0 +1,20 @@
+{
+  "id": 313,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "296 - You Can Live Forever Here at Bevmo",
+  "description": "Jeff returns briefly to flex his vocal chords after surgery. Legendary SNL alum Laraine Newman shares Groundlings and Coneheads behind the scenes stories. Steve Levy explains a new dating app. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jeff Bryan Davis and Laraine Newman.",
+  "runtime": 6120,
+  "releaseDate": 1532599200.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "ce004e4e-035d-4ce7-9741-a928016ef45a",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7505077183.mp3",
+  "lastEpisodeId": 312,
+  "nextEpisodeId": 314,
+  "lastTitle": "295 - Dadfished",
+  "nextTitle": "297 - You Got That Baby To Tell The Truth"
+}

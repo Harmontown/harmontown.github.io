@@ -1,0 +1,20 @@
+{
+  "id": 250,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "233 - The Only Enemy is Stopping",
+  "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Open Mike Eagle.",
+  "runtime": 7088,
+  "releaseDate": 1487795940.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/ZdRSaI-Bv_P9E63bMOBEFa65y4bRUy19KF3NRee08gc",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7187157677.mp3",
+  "lastEpisodeId": 249,
+  "nextEpisodeId": 251,
+  "lastTitle": "232 - You\u0027re An Ant To My Cum",
+  "nextTitle": "234 - The Patron Saint of Acid Wash"
+}

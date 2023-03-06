@@ -1,0 +1,20 @@
+{
+  "id": 203,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "187 - The Four Points Of The Triangle",
+  "description": "Dan is stoned...Schrab too, the creator of The Stanley Parable randomly joins the stage and Spencer steals the show with some improv. Watch the video at harmontown.com/live!",
+  "runtime": 7198,
+  "releaseDate": 1457498340.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/WRZW4XNu9BTtqlhQi0jemicKwv3wWhiYxlkmBtXO1EA",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8942295485.mp3?updated=1560383637",
+  "lastEpisodeId": 202,
+  "nextEpisodeId": 204,
+  "lastTitle": "186 - Auld Lang Schrab",
+  "nextTitle": "188 - Donna Schrab Gets Things Done"
+}

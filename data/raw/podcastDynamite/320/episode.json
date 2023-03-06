@@ -1,0 +1,20 @@
+{
+  "id": 320,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "303 - Frog Complex",
+  "description": "Is it morally right to eat Gillian Anderson\u2019s sandwiches? Why are Ron Perlman\u2019s hands so soft? What\u2019s really going on with Predator? Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.",
+  "runtime": 8374,
+  "releaseDate": 1537437600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "9bbc8041-db10-4d66-8979-a9610054f614",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6521287811.mp3",
+  "lastEpisodeId": 319,
+  "nextEpisodeId": 321,
+  "lastTitle": "302 - You Can Freeze Me For Seven Dollars",
+  "nextTitle": "304 - Magic Shinto Hat"
+}

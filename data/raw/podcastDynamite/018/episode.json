@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "5 - Confessions Of An Alcoholic Mars Rover (8.7.12)",
+  "description": "Jeff blows the whistle on NASA\u0027s secret agenda and Dan blows surprise guest Chris Hardwick!",
+  "runtime": 4738,
+  "releaseDate": 1345171860.000000000,
+  "showDate": 1344312000.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=199",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8937834520.mp3?updated=1555698403",
+  "lastEpisodeId": 17,
+  "nextEpisodeId": 19,
+  "lastTitle": "4 - The Technology Of N-Words (7.31.12)",
+  "nextTitle": "6 - Atonement with the Mannequins and Butts (8.16.12)"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 20,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "7 - Cranky Mayors, Pink Hairs and Shoelace Cares (8.20.12)",
+  "description": "An especially antsy crowd turns Harmontown\u0027s meeting into a flippin\u0027 town meeting, pushing our fearless leader from musings on infidelity to contemplations of suicide. Plus: Dungeonmaster Spencer unveils the boys\u0027 characters!",
+  "runtime": 5437,
+  "releaseDate": 1346307180.000000000,
+  "showDate": 1345435200.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=229",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028373533.mp3?updated=1555697031",
+  "lastEpisodeId": 19,
+  "nextEpisodeId": 21,
+  "lastTitle": "6 - Atonement with the Mannequins and Butts (8.16.12)",
+  "nextTitle": "8 - Cleft In Twain! (8.27.12)"
+}

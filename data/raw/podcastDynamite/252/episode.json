@@ -1,0 +1,20 @@
+{
+  "id": 252,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "235 - LIVE from the Cherokee Casino in West Siloam Springs, OK",
+  "description": "Featuring Dan Harmon, Jeff Bryan Davis, and Spencer Crittenden.",
+  "runtime": 7400,
+  "releaseDate": 1488958200.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/41UJ7RJgyhRNJd52Lh_zAodpLL-jrHlEQb1jFvDRBQM",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8575453930.mp3",
+  "lastEpisodeId": 251,
+  "nextEpisodeId": 253,
+  "lastTitle": "234 - The Patron Saint of Acid Wash",
+  "nextTitle": "236 - LIVE from Esther\u2019s Follies at SXSW\u201917 in Austin, TX"
+}

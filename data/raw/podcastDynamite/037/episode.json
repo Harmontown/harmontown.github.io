@@ -1,0 +1,20 @@
+{
+  "id": 37,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "24 - Harmoncountry: Phoenix, Arizona",
+  "description": "Mayor Harmon begins his tour feeling way more insecure than the kind-hearted heroes of a new city. A Harmontown theme with an awesome hook starts getting workshopped. In D\u0026D, the heroes fight cylinders.",
+  "runtime": 5791,
+  "releaseDate": 1357951800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2010",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1114500278.mp3?updated=1554325242",
+  "lastEpisodeId": 36,
+  "nextEpisodeId": 38,
+  "lastTitle": "23 - Turtle Panties",
+  "nextTitle": "25 - Harmoncountry: Austin, TX"
+}

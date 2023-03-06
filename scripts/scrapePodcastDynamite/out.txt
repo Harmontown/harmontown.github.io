@@ -1,0 +1,15 @@
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Podcast Dynamite</title>
+	<base href="/">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+ <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="styles.d9d6b4f759f7e588b8e8.css"></head>
+<body>
+	<app-root></app-root>
+<script src="runtime.0f137e655adc0dd0db94.js" defer></script><script src="polyfills-es5.485fce60073713185ec1.js" nomodule defer></script><script src="polyfills.be9d872bdfddcd02317e.js" defer></script><script src="main.da799a24d1f5d8953d2c.js" defer></script></body>
+</html>

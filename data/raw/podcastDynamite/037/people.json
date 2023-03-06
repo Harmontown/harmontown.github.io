@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "roleId": 1,
+    "firstName": "Dan",
+    "middleName": "",
+    "lastName": "Harmon",
+    "name": "Host",
+    "personId": 1
+  },
+  {
+    "id": 0,
+    "roleId": 3,
+    "firstName": "Jeff",
+    "middleName": "",
+    "lastName": "Davis",
+    "name": "Comptroller",
+    "personId": 2
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Spencer",
+    "middleName": "",
+    "lastName": "Crittenden",
+    "name": "Guest",
+    "personId": 5
+  },
+  {
+    "id": 0,
+    "roleId": 2,
+    "firstName": "Erin",
+    "middleName": "",
+    "lastName": "McGathy",
+    "name": "Guest",
+    "personId": 4
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Alex",
+    "middleName": "",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 55
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Dustin",
+    "middleName": "",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 56
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Pam",
+    "middleName": "",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 57
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Brianne",
+    "middleName": "I",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 58
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Brianne",
+    "middleName": "II",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 59
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Ben",
+    "middleName": "(Injured Scrabbler)",
+    "lastName": "",
+    "name": "Audience Member",
+    "personId": 60
+  },
+  {
+    "id": 0,
+    "roleId": 5,
+    "firstName": "Tyler",
+    "middleName": "",
+    "lastName": "Dandy",
+    "name": "Audience Member",
+    "personId": 61
+  }
+]

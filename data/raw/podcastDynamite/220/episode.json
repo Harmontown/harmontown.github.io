@@ -1,0 +1,20 @@
+{
+  "id": 220,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "204 - I\u0027m Drunk And High And Shouldn\u0027t Have A Podcast",
+  "description": "What would seem like a classic episode format, becomes weird. Weird af. A great weird episode. Watch the video at harmontown.com/live !",
+  "runtime": 7820,
+  "releaseDate": 1468400100.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/wXxJ5cTm2uyAxO6ZWfLd3Cc_bX2UQAy4cp37E0wAbsk",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6084753233.mp3?updated=1559947602",
+  "lastEpisodeId": 219,
+  "nextEpisodeId": 221,
+  "lastTitle": "203 - Pubic Hairs Travel Or Migrate",
+  "nextTitle": "205 - LIVE in San Diego 2016 (During A Comic Book Convention)"
+}

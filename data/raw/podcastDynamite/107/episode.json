@@ -1,0 +1,20 @@
+{
+  "id": 107,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "93 - McConaissance",
+  "description": "Mayor Harmon tearfully reflects on the passing of Harold Ramis and while the Academy Awards ceremony takes place mere blocks away, Harmontown hosts its own Oscars special.",
+  "runtime": 6995,
+  "releaseDate": 1393878720.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6019",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7537699370.mp3?updated=1556134512",
+  "lastEpisodeId": 106,
+  "nextEpisodeId": 108,
+  "lastTitle": "92 - It\u0027s Not Personal, It\u0027s Business",
+  "nextTitle": "94 - Live From SXSW \u002714 \u002B Movie Q\u0026A"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "22 - Nanu Nanu, I\u0027m Racist",
+  "description": "An impromptu Fellowship of the Nerds is assembled to explain how to break The Hobbit into three movies. Jury duty stories! Adam Goldberg\u0027s roommate!",
+  "runtime": 7340,
+  "releaseDate": 1357529580.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=984",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6502803547.mp3?updated=1554323867",
+  "lastEpisodeId": 34,
+  "nextEpisodeId": 36,
+  "lastTitle": "21 - Adventurtunity Mobisode!",
+  "nextTitle": "23 - Turtle Panties"
+}

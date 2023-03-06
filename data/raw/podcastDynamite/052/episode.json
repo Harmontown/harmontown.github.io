@@ -1,0 +1,20 @@
+{
+  "id": 52,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "39 - Harmoncountry: Denver, CO",
+  "description": "High atop the nation, in Omlette Country, Comptroller Davis returns. Topics include cheese sticks, sports, beat boxing, dungeons, dragons and crazy people.",
+  "runtime": 6268,
+  "releaseDate": 1359515220.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2069",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3534238693.mp3?updated=1554398574",
+  "lastEpisodeId": 51,
+  "nextEpisodeId": 53,
+  "lastTitle": "38 - Harmoncountry: Kansas City, KS",
+  "nextTitle": "40 - Harmoncountry: Salt Lake City, UT"
+}

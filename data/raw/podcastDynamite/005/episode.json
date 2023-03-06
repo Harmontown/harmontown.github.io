@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "Lost Episode #5",
+  "description": "Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0",
+  "runtime": 0,
+  "releaseDate": null,
+  "showDate": 1317009600.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "",
+  "audio": null,
+  "lastEpisodeId": 4,
+  "nextEpisodeId": 6,
+  "lastTitle": "Lost Episode #4",
+  "nextTitle": "Lost Episode #6"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 180,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "165 - Where The Moon?",
+  "description": "Steve Agee comptrolls, Felicia Day guests, Shadowrun kicks ass. Watch the video at harmontown.com/live!",
+  "runtime": 7260,
+  "releaseDate": 1443572460.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=9285",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7721272978.mp3?updated=1561160787",
+  "lastEpisodeId": 179,
+  "nextEpisodeId": 181,
+  "lastTitle": "164 - Peak Hitler",
+  "nextTitle": "166 - #CHIOPS"
+}

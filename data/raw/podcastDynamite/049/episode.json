@@ -1,0 +1,20 @@
+{
+  "id": 49,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "36 - Harmoncountry: Madison, WI",
+  "description": "Atonement turns to struggle within a dark cavern. Dan\u0027s friend loses an appendage. His Improv mentor is there, but Jeff is leaving?! The audience shouts weird things! Latinos are everywhere!",
+  "runtime": 5189,
+  "releaseDate": 1359228300.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2055",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3478816529.mp3?updated=1554336643",
+  "lastEpisodeId": 48,
+  "nextEpisodeId": 50,
+  "lastTitle": "35 - Harmoncountry: Chicago, IL",
+  "nextTitle": "37 - Harmoncountry: Minneapolis, MN"
+}

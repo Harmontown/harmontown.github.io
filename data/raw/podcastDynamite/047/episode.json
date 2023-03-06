@@ -1,0 +1,20 @@
+{
+  "id": 47,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "34 - Harmoncountry: Bloomington, IN",
+  "description": "In honor of his Midwestern heritage, The Mayor puts a town meeting straight up the middle and over the plate, with sports talk, a cosmic meditation and an in depth discussion of science and religion with some of Indiana\u0027s greatest, drunkest minds!",
+  "runtime": 7666,
+  "releaseDate": 1358969940.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2047",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2533895752.mp3?updated=1560295561",
+  "lastEpisodeId": 46,
+  "nextEpisodeId": 48,
+  "lastTitle": "33 - Harmoncountry: Pittsburgh, PA",
+  "nextTitle": "35 - Harmoncountry: Chicago, IL"
+}

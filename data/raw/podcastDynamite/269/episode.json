@@ -1,0 +1,20 @@
+{
+  "id": 269,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "252 - Epeephany",
+  "description": "Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, and Steve Levy.",
+  "runtime": 7457,
+  "releaseDate": 1500492960.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/98pg1ePnkMG1pgj2VPckG0zjLrXzHvpQ4Nd2NHm-UjU",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6825371497.mp3",
+  "lastEpisodeId": 268,
+  "nextEpisodeId": 270,
+  "lastTitle": "251 - Brothers Killing Brothers for Some Dank Memes",
+  "nextTitle": "253 - No Church People Got No Hortches"
+}

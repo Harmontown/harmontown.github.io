@@ -1,0 +1,20 @@
+{
+  "id": 206,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "190 - Pineapple",
+  "description": "A packed episode leads to three Robs and the roast of Jimmy Carrane. Watch the video at harmontown.com/live! Opening music by Titanic Sinclair! Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Rob Corddry, Jimmy Carrane, Cameron Espos...",
+  "runtime": 6990,
+  "releaseDate": 1459314000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/rlqW1C2JuKEUmS0zEP8feO7lXlGJkiVcn2rWvuGl-Kk",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3342011339.mp3?updated=1560378632",
+  "lastEpisodeId": 205,
+  "nextEpisodeId": 207,
+  "lastTitle": "189 - Monster Man",
+  "nextTitle": "191 - Monochromophiliacs"
+}

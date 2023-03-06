@@ -1,0 +1,20 @@
+{
+  "id": 371,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "354 - Mobile Pork Unit",
+  "description": "Classic Harmontown is back! The return of role playing with Steve Levy, the iHarmon and all the potatoes you could ever want. Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.",
+  "runtime": 6604,
+  "releaseDate": 1571911200.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "73acde0a-f63d-11e9-851f-97d213a64e2d",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2565186341.mp3",
+  "lastEpisodeId": 370,
+  "nextEpisodeId": 372,
+  "lastTitle": "353 - Nice Dunking, Cool Swishing",
+  "nextTitle": "355 - Hershey\u2019s Rorschach"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "8 - Cleft In Twain! (8.27.12)",
+  "description": "Mayor Harmon grapples with fame and exposes The Family Feud; Comptroller Davis grapples with and exposes Harmon\u0027s shocking inability to tell jokes and the roleplaying Adventures of Sharpie and Quark begin.",
+  "runtime": 5029,
+  "releaseDate": 1346999580.000000000,
+  "showDate": 1346040000.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=246",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3426767880.mp3?updated=1555697511",
+  "lastEpisodeId": 20,
+  "nextEpisodeId": 22,
+  "lastTitle": "7 - Cranky Mayors, Pink Hairs and Shoelace Cares (8.20.12)",
+  "nextTitle": "9 - Examine Before You Fight (9.4.12)"
+}
