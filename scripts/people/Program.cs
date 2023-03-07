@@ -22,7 +22,9 @@ void AggregatePeople()
         id = item.personId,
         name = string.Join(' ',
           new[] { item.firstName, item.middleName, item.lastName }
-            .Where(item => !string.IsNullOrWhiteSpace(item))).Trim()
+            .Where(item => !string.IsNullOrWhiteSpace(item)))
+            .Trim()
+            .Replace("Jeff Davis", "Jeff B. Davis")
       })
       .OrderBy(item => item.id)
       .Distinct()

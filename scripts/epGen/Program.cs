@@ -1,57 +1,70 @@
 ﻿using System.Text.Json;
+using System.Linq;
+using System.Web;
 
 const string ChronologyInput = "../../data/chronology.json";
 
 void GenerateEpisodeStubs()
 {
-  var input = File.ReadAllText(ChronologyInput);
+  var chronolgy = JsonDocument.Parse(File.ReadAllText(ChronologyInput));
 
-  var doc = JsonDocument.Parse(input);
+  var episodes = new List<EpisodeHeader>();
 
-  var episodes =
-    doc.RootElement.EnumerateArray()
-      .Select(item =>
-        new EpisodeHeader(
-          item.GetProperty("sequenceNumber").GetInt32(),
-          item.GetProperty("episodeNumber").ValueKind == JsonValueKind.Null
-            ? null
-            : item.GetProperty("episodeNumber").GetInt32(),
-          item.GetProperty("title").GetString()!,
-          DateTimeOffset.TryParse(item.GetProperty("showDate").GetString()!, out var showDate)
-            ? showDate
-            : null,
-          DateTimeOffset.TryParse(item.GetProperty("releaseDate").GetString()!, out var releaseDate)
-            ? releaseDate
-            : null,
-          TimeSpan.TryParse(item.GetProperty("duration").GetString()!, out var duration)
-            ? duration
-            : null,
-          item.GetProperty("description").GetString()!,
-          item.GetProperty("isLostEpisode").GetBoolean(),
-          item.GetProperty("isTrailer").GetBoolean(),
+  foreach (var item in chronolgy.RootElement.EnumerateArray())
+  {
+    int? pdId =
+     item.GetProperty("pdId").ValueKind == JsonValueKind.Null
+        ? null
+        : item.GetProperty("pdId").GetInt32();
+
+    var ep = new EpisodeHeader(
+      SequenceNumber: item.GetProperty("sequenceNumber").GetInt32(),
+      EpisodeNumber: item.GetProperty("episodeNumber").ValueKind == JsonValueKind.Null
+        ? null
+        : item.GetProperty("episodeNumber").GetInt32(),
+      Title: item.GetProperty("title").GetString()!,
+      Venue: item.GetProperty("venue").GetString()!,
+      ShowDate: DateTimeOffset.TryParse(item.GetProperty("showDate").GetString()!, out var showDate)
+        ? showDate
+        : null,
+      ReleaseDate: DateTimeOffset.TryParse(item.GetProperty("releaseDate").GetString()!, out var releaseDate)
+        ? releaseDate
+        : null,
+      Duration: TimeSpan.TryParse(item.GetProperty("duration").GetString()!, out var duration)
+        ? duration
+        : null,
+      Description: item.GetProperty("description").GetString()!,
+      Comptroller: item.GetProperty("comptroller").GetString()!,
+      Guests: item.GetProperty("guests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
+      AudienceGuests: item.GetProperty("audienceGuests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
+      IsLostEpisode: item.GetProperty("isLostEpisode").GetBoolean(),
+          IsTrailer: item.GetProperty("isTrailer").GetBoolean(),
           item.GetProperty("hasExplicitLanguage").GetBoolean(),
           "episode-placeholder.jpg",
-          item.GetProperty("soundfile").ValueKind == JsonValueKind.Null 
-            ? null 
-            : item.GetProperty("soundfile").GetString(),
-          item.GetProperty("pdId").ValueKind == JsonValueKind.Null
+          item.GetProperty("soundfile").ValueKind == JsonValueKind.Null
             ? null
-            : item.GetProperty("pdId").GetInt32()
-        )
-      )
-      .ToList();
+            : item.GetProperty("soundfile").GetString(),
+          pdId
+        );
+
+    episodes.Add(ep);
+  }
 
   // debugging...
-  episodes = episodes.Take(25).ToList();
+  episodes = episodes.Skip(0).Take(60).ToList();
 
   var first = episodes.First();
   var last = episodes.Last();
+
+  // string FormatList(string[] list) => string.Join(", ", list.Select(item => "'" + HttpUtility.HtmlEncode(item) + "'"));
+  string FormatList(string[] list) => string.Join(", ", list.Select(item => $"\"{HttpUtility.HtmlEncode(item)}\""));
+
   foreach (var ep in episodes)
   {
     var epDir = $"../../docs/episodes/{ep.SequenceNumber:D3}";
     Directory.CreateDirectory(epDir);
     File.WriteAllText($"{epDir}/index.md",
-$$"""
+  $$"""
 ---
 sequenceNumber:       {{ep.SequenceNumber}}
 episodeNumber:        {{ep.EpisodeNumber}}
@@ -59,24 +72,24 @@ title:                "{{ep.Title}}"
 image:                {{ep.Image}}
 description: >
   {{ep.Description.Replace("\n", "\n  ")}}
-showDate:             ""
-publishDate:          "{{ep.ReleaseDate:u}}"
+showDate:             "{{ep.ShowDate?.ToString("u") ?? "TBC"}}"
+releaseDate:          "{{ep.ReleaseDate:u}}"
 duration:             "{{ep.Duration:c}}"
 isLostEpisode:        {{ep.IsLostEpisode.ToString().ToLower()}}
 isTrailer:            {{ep.IsTrailer.ToString().ToLower()}}
 hasExplicitLanguage:  {{ep.HasExplicitLanguage.ToString().ToLower()}}
 soundFile:            {{ep.SoundFile}}
 
-location:             
-comptroller:          
-guests:               []
-audienceGuests:       []
+venue:                "{{ep.Venue}}"
+comptroller:          "{{ep.Comptroller}}"
+guests:               [{{FormatList(ep.Guests)}}]
+audienceGuests:       [{{FormatList(ep.AudienceGuests)}}]
 
 # Generated.  Do not change:
 layout:               episode
 hasPrevious:          {{ep != first}}
 hasNext:              {{ep != last}}
-podcastDynamiteId:    {{ep.podcastDynamiteId}}
+podcastDynamiteId:    {{ep.PodcastDynamiteId}}
 ---
 
 {% include podcastBlurb.md %}
@@ -103,17 +116,22 @@ podcastDynamiteId:    {{ep.podcastDynamiteId}}
 
 
 GenerateEpisodeStubs();
+
 record EpisodeHeader(
-  int SequenceNumber,
-  int? EpisodeNumber,
-  string Title,
-  DateTimeOffset? ShowDate,
-  DateTimeOffset? ReleaseDate,
-  TimeSpan? Duration,
-  string Description,
-  bool IsLostEpisode,
-  bool IsTrailer,
-  bool HasExplicitLanguage,
-  string? Image,
-  string? SoundFile,
-  int? podcastDynamiteId);
+    int SequenceNumber,
+    int? EpisodeNumber,
+    string Title,
+    string Venue,
+    DateTimeOffset? ShowDate,
+    DateTimeOffset? ReleaseDate,
+    TimeSpan? Duration,
+    string Description,
+    string Comptroller,
+    string[] Guests,
+    string[] AudienceGuests,
+    bool IsLostEpisode,
+    bool IsTrailer,
+    bool HasExplicitLanguage,
+    string? Image,
+    string? SoundFile,
+    int? PodcastDynamiteId);

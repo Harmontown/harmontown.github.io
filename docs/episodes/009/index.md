@@ -5,16 +5,16 @@ title:                "Lost Episode #9 (Live at San Francisco Sketchfest 2012)"
 image:                episode-placeholder.jpg
 description: >
   Live at San Francisco Sketchfest 2012
-showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
+showDate:             "2012-01-29 05:00:00Z"
+releaseDate:          ""
+duration:             ""
 isLostEpisode:        true
 isTrailer:            false
 hasExplicitLanguage:  false
 soundFile:            
 
-location:             
-comptroller:          
+venue:                "NerdMelt"
+comptroller:          "Jeff B. Davis"
 guests:               []
 audienceGuests:       []
 

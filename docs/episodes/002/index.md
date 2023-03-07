@@ -5,16 +5,16 @@ title:                "Lost Episode #2"
 image:                episode-placeholder.jpg
 description: >
   
-showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
+showDate:             "2011-06-20 04:00:00Z"
+releaseDate:          ""
+duration:             ""
 isLostEpisode:        true
 isTrailer:            false
 hasExplicitLanguage:  false
 soundFile:            
 
-location:             
-comptroller:          
+venue:                "NerdMelt"
+comptroller:          "Jeff B. Davis"
 guests:               []
 audienceGuests:       []
 

@@ -56,7 +56,8 @@
   }
 
   th {
-    text-align: right;
+    // text-align: right;
+    width: 80px;
     vertical-align: baseline;
   }
 
@@ -68,7 +69,6 @@
   td {
     padding: 0;
     border: unset;
-    width: 50%;
   }
 
   tr.section-header,
@@ -101,11 +101,15 @@
     padding: 0 12px;
   }
 
-  ul {
+  ul.guest-list {
     padding: 0;
     margin: 0;
     list-style-image: unset;
     list-style-type: square;
+
+    &>li:only-child {
+      list-style-type: none;
+    }
   }
 }
 
