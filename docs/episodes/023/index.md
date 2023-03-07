@@ -1,17 +1,17 @@
 ---
-sequenceNumber:       5
-episodeNumber:        
-title:                "Lost Episode #5"
+sequenceNumber:       23
+episodeNumber:        10
+title:                "A Tuppence or a Shilling for Your Wainscotting (9.10.12)"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  Mayor Harmon and Guest Comptroller Erin McGathy discuss Knight Rider, Alf and anxiety, then play a quick round of Dungeons and Dragons before getting into a huge fight about movies and breaking up.
 showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
-isLostEpisode:        true
+publishDate:          "2012-09-21 01:45:00Z"
+duration:             "01:17:08"
+isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            
+soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4509016283.mp3?updated=1555697297
 
 location:             
 comptroller:          
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    23
 ---
 
 {% include podcastBlurb.md %}

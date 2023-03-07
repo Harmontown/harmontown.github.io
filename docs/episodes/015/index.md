@@ -1,17 +1,17 @@
 ---
-sequenceNumber:       5
-episodeNumber:        
-title:                "Lost Episode #5"
+sequenceNumber:       15
+episodeNumber:        2
+title:                "The Inception Of Girlfriends (7.16.12)"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  While Jeff Davis works abroad, Guest Comptroller Erin McGathy ("This Feels Terrible") joins Mayor Harmon for an in depth look at overrated masterpieces, passive aggressive text messages and how to destroy someone else's relationship on stage.
 showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
-isLostEpisode:        true
+publishDate:          "2012-07-20 04:22:00Z"
+duration:             "01:18:13"
+isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            
+soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7648412420.mp3
 
 location:             
 comptroller:          
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    15
 ---
 
 {% include podcastBlurb.md %}

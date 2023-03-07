@@ -1,17 +1,17 @@
 ---
-sequenceNumber:       5
-episodeNumber:        
-title:                "Lost Episode #5"
+sequenceNumber:       20
+episodeNumber:        7
+title:                "Cranky Mayors, Pink Hairs and Shoelace Cares (8.20.12)"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  An especially antsy crowd turns Harmontown's meeting into a flippin' town meeting, pushing our fearless leader from musings on infidelity to contemplations of suicide. Plus: Dungeonmaster Spencer unveils the boys' characters!
 showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
-isLostEpisode:        true
+publishDate:          "2012-08-30 06:13:00Z"
+duration:             "01:31:07"
+isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            
+soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028373533.mp3?updated=1555697331
 
 location:             
 comptroller:          
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    20
 ---
 
 {% include podcastBlurb.md %}

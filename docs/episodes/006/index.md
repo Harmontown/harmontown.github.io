@@ -1,10 +1,10 @@
 ---
-sequenceNumber:       5
+sequenceNumber:       6
 episodeNumber:        
-title:                "Lost Episode #5"
+title:                "Lost Episode #6"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  Guest Donald Glover
 showDate:             ""
 publishDate:          ""
 duration:             "00:00:00"
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    6
 ---
 
 {% include podcastBlurb.md %}

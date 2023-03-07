@@ -66,13 +66,14 @@ void DeriveChronology()
       rssIndex = rssItem == null ? (int?)null : rssIndex,
       episodeNumber = (pdItem?.IsLostEpisode ?? false) ? (int?)null : episodeNumber,
       isLostEpisode = pdItem?.IsLostEpisode ?? false,
-      isTrailer = rssItem?.IsTrailer,
+      isTrailer = rssItem?.IsTrailer ?? false,
       title = rssItem?.Title ?? pdItem?.Title ?? "",
       image = "episode-placeholder.jpg",
       description = rssItem?.Description ?? pdItem?.Description ?? "",
       showDate = pdItem?.ShowDate,
       releaseDate = rssItem?.ReleaseDate ?? pdItem?.ReleaseDate,
-      hasExplicitLanguage = rssItem?.HasExplicitLanguage,
+      duration = rssItem?.Duration ?? pdItem?.Duration,
+      hasExplicitLanguage = rssItem?.HasExplicitLanguage ?? false,
       soundfile = rssItem?.SoundFile,
     };
 

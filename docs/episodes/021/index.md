@@ -1,17 +1,17 @@
 ---
-sequenceNumber:       5
-episodeNumber:        
-title:                "Lost Episode #5"
+sequenceNumber:       21
+episodeNumber:        8
+title:                "Cleft In Twain! (8.27.12)"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  Mayor Harmon grapples with fame and exposes The Family Feud; Comptroller Davis grapples with and exposes Harmon's shocking inability to tell jokes and the roleplaying Adventures of Sharpie and Quark begin.
 showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
-isLostEpisode:        true
+publishDate:          "2012-09-07 06:33:00Z"
+duration:             "01:24:19"
+isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            
+soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3426767880.mp3?updated=1555697811
 
 location:             
 comptroller:          
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    21
 ---
 
 {% include podcastBlurb.md %}

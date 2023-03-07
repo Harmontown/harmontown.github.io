@@ -1,17 +1,17 @@
 ---
-sequenceNumber:       5
-episodeNumber:        
-title:                "Lost Episode #5"
+sequenceNumber:       19
+episodeNumber:        6
+title:                "Atonement with the Mannequins and Butts (8.16.12)"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  Sometimes it happens. Sometimes an innocent story about junior high proceeds down a road of perversion straight to where the sun doesn't shine. Also: Spencer collects info for Harmon and Davis' D&D characters, and special guest Rob Schrab tells a stor...
 showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
-isLostEpisode:        true
+publishDate:          "2012-08-24 07:40:00Z"
+duration:             "01:24:01"
+isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            
+soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8221722384.mp3?updated=1555698443
 
 location:             
 comptroller:          
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    19
 ---
 
 {% include podcastBlurb.md %}

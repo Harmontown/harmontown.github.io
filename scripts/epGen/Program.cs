@@ -1,57 +1,70 @@
-﻿using System.Xml.Linq;
+﻿using System.Text.Json;
 
-const string TidiedRssInput = "../../data/rss-tidied.xml";
-const string chronologyInput = "../../data/chronology.json";
+const string ChronologyInput = "../../data/chronology.json";
 
 void GenerateEpisodeStubs()
 {
-  var input = File.ReadAllText(TidiedRssInput);
+  var input = File.ReadAllText(ChronologyInput);
 
-  var doc = XDocument.Parse(input);
+  var doc = JsonDocument.Parse(input);
 
   var episodes =
-    doc
-      .Descendants("item")
-      .OrderBy(item => DateTimeOffset.Parse(item.Element("pubDate")!.Value))
-      .Select((item, i) =>
-      {
-        var ep = new EpisodeHeader(
-          i + 1,
-          item.Element("title")!.Value,
-          DateTimeOffset.Parse(item.Element("pubDate")!.Value),
-          TimeSpan.FromSeconds(int.Parse(item.Element("duration")!.Value)),
-          item.Element("description")!.Value,
-          item.Element("episodeType")!.Value,
-          item.Element("explicit")?.Value == "yes",
-          // item.Element("image") != null ? new Uri(item.Element("image")?.Attribute("href")?.Value ?? "") : null,
+    doc.RootElement.EnumerateArray()
+      .Select(item =>
+        new EpisodeHeader(
+          item.GetProperty("sequenceNumber").GetInt32(),
+          item.GetProperty("episodeNumber").ValueKind == JsonValueKind.Null
+            ? null
+            : item.GetProperty("episodeNumber").GetInt32(),
+          item.GetProperty("title").GetString()!,
+          DateTimeOffset.TryParse(item.GetProperty("showDate").GetString()!, out var showDate)
+            ? showDate
+            : null,
+          DateTimeOffset.TryParse(item.GetProperty("releaseDate").GetString()!, out var releaseDate)
+            ? releaseDate
+            : null,
+          TimeSpan.TryParse(item.GetProperty("duration").GetString()!, out var duration)
+            ? duration
+            : null,
+          item.GetProperty("description").GetString()!,
+          item.GetProperty("isLostEpisode").GetBoolean(),
+          item.GetProperty("isTrailer").GetBoolean(),
+          item.GetProperty("hasExplicitLanguage").GetBoolean(),
           "episode-placeholder.jpg",
-          new Uri(item.Element("url")!.Value));
-        return ep;
-      })
+          item.GetProperty("soundfile").ValueKind == JsonValueKind.Null 
+            ? null 
+            : item.GetProperty("soundfile").GetString(),
+          item.GetProperty("pdId").ValueKind == JsonValueKind.Null
+            ? null
+            : item.GetProperty("pdId").GetInt32()
+        )
+      )
       .ToList();
 
   // debugging...
-  episodes = episodes.Take(5).ToList();
+  episodes = episodes.Take(25).ToList();
 
   var first = episodes.First();
   var last = episodes.Last();
   foreach (var ep in episodes)
   {
-    var epDir = $"../../docs/episodes/{ep.Number:D3}";
+    var epDir = $"../../docs/episodes/{ep.SequenceNumber:D3}";
     Directory.CreateDirectory(epDir);
     File.WriteAllText($"{epDir}/index.md",
 $$"""
 ---
-number:               {{ep.Number}}
+sequenceNumber:       {{ep.SequenceNumber}}
+episodeNumber:        {{ep.EpisodeNumber}}
 title:                "{{ep.Title}}"
 image:                {{ep.Image}}
 description: >
   {{ep.Description.Replace("\n", "\n  ")}}
 showDate:             ""
-publishDate:          "{{ep.PublishDate:u}}"
+publishDate:          "{{ep.ReleaseDate:u}}"
 duration:             "{{ep.Duration:c}}"
-episodeType:          {{ep.Type}}
-hasExplicitLanguage:  {{ep.HasExplicitLanguage}}
+isLostEpisode:        {{ep.IsLostEpisode.ToString().ToLower()}}
+isTrailer:            {{ep.IsTrailer.ToString().ToLower()}}
+hasExplicitLanguage:  {{ep.HasExplicitLanguage.ToString().ToLower()}}
 soundFile:            {{ep.SoundFile}}
 
 location:             
@@ -59,9 +72,11 @@ comptroller:
 guests:               []
 audienceGuests:       []
 
+# Generated.  Do not change:
 layout:               episode
 hasPrevious:          {{ep != first}}
 hasNext:              {{ep != last}}
+podcastDynamiteId:    {{ep.podcastDynamiteId}}
 ---
 
 {% include podcastBlurb.md %}
@@ -86,15 +101,19 @@ hasNext:              {{ep != last}}
   }
 }
 
-GenerateEpisodeStubs();
 
+GenerateEpisodeStubs();
 record EpisodeHeader(
-  int Number,
+  int SequenceNumber,
+  int? EpisodeNumber,
   string Title,
-  DateTimeOffset PublishDate,
-  TimeSpan Duration,
+  DateTimeOffset? ShowDate,
+  DateTimeOffset? ReleaseDate,
+  TimeSpan? Duration,
   string Description,
-  string Type,
+  bool IsLostEpisode,
+  bool IsTrailer,
   bool HasExplicitLanguage,
   string? Image,
-  Uri SoundFile);
+  string? SoundFile,
+  int? podcastDynamiteId);

@@ -5,14 +5,25 @@ layout: default
 <div class="episode-navigation">
   {% if page.hasPrevious %}
   <div id="previous">
-    <a href="/episodes/{{ page.number | minus: 1 | prepend: '00' | slice: -3, 3 }}">← Previous</a>
+    <a href="/episodes/{{ page.sequenceNumber | minus: 1 | prepend: '00' | slice: -3, 3 }}">← Previous</a>
   </div>
   {% endif %}
   {% if page.hasNext %}
   <div id="next">
-    <a href="/episodes/{{ page.number | plus: 1 | prepend: '00' | slice: -3, 3 }}">Next →</a>
+    <a href="/episodes/{{ page.sequenceNumber | plus: 1 | prepend: '00' | slice: -3, 3 }}">Next →</a>
   </div>
   {% endif %}
+</div>
+
+<div class="lost-episode banner-box{% if page.isLostEpisode == false %} hidden{% endif%}">
+  <div class="material-icons">warning_amber</div>
+  <div class="message">
+    This is a lost episode. We have little to no information about it. Please consider adding any information you have.
+  </div>
+</div>
+
+<div class="trailer banner-box{% if page.isTrailer == false %} hidden{% endif%}">
+  FYI this is a trailer. TODO: Make this pretty.
 </div>
 
 <h1>{{ page.title }}</h1>
@@ -36,8 +47,8 @@ layout: default
         <td>{{ page.showDate | date: "%B %d, %Y" }}</td>
       </tr>
       <tr>
-        <th>Location</th>
-        <td>{{ page.location }}</td>
+        <th>Venue</th>
+        <td>{{ page.venue }}</td>
       </tr>
 
       <tr class="section-header">
@@ -107,24 +118,30 @@ layout: default
         <td colspan="2">
           <table>
             <tbody>
+              {% if page.episodeNumber != null %}
               <tr>
                 <th>Transcription</th>
                 <td>
-                  <a href="https://harmon.city/{{ page.publishDate | date: '%Y'}}/{{ page.publishDate | date: '%m'}}/{{ page.publishDate | date: '%d'}}/episode-{{ page.number }}"
+                  <a href="https://harmon.city/{{ page.releaseDate | date: '%Y'}}/{{ page.publishDate | date: '%m'}}/{{ page.publishDate | date: '%d'}}/episode-{{ page.episodeNumber }}"
                     target="_blank">harmon.city</a>
                 </td>
               </tr>
-              <!-- <tr>
+              {% endif %}
+              {% if page.podcastDynamiteId != null %}
+              <tr>
                 <th>Minutes</th>
                 <td>
-                  <a href="https://podcastdynamite.com/#/p/Harmontown/e/{{ page.number }}"
+                  <a href="https://podcastdynamite.com/#/p/Harmontown/e/{{ page.podcastDynamiteId }}/{{ page.episodeNumber }}"
                     target="_blank">podcastdynamite.com</a>
                 </td>
-              </tr> -->
+              </tr>
+              {% endif %}
+              {% if page.soundFile != null %}
               <tr>
                 <th>Sound File</th>
                 <td><a href="{{ page.soundFile }}">link</a></td>
               </tr>
+              {% endif %}
             </tbody>
           </table>
         </td>

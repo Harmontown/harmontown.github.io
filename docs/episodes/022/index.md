@@ -1,17 +1,17 @@
 ---
-sequenceNumber:       5
-episodeNumber:        
-title:                "Lost Episode #5"
+sequenceNumber:       22
+episodeNumber:        9
+title:                "Examine Before You Fight (9.4.12)"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  A discussion of the clarinet and nine eleven is briefly interrupted by an amazing D&D adventure before proceeding into an indictment of the Hugo Awards and concluding with a demonstration of how hard it is to conclude.
 showDate:             ""
-publishDate:          ""
-duration:             "00:00:00"
-isLostEpisode:        true
+publishDate:          "2012-09-14 03:04:00Z"
+duration:             "01:34:48"
+isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            
+soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1215947889.mp3?updated=1555696807
 
 location:             
 comptroller:          
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    22
 ---
 
 {% include podcastBlurb.md %}

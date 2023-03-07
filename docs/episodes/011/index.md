@@ -1,10 +1,10 @@
 ---
-sequenceNumber:       5
+sequenceNumber:       11
 episodeNumber:        
-title:                "Lost Episode #5"
+title:                "Lost Episode #11"
 image:                episode-placeholder.jpg
 description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+  Probably the infamous Chevy Chase voicemail episode.
 showDate:             ""
 publishDate:          ""
 duration:             "00:00:00"
@@ -22,7 +22,7 @@ audienceGuests:       []
 layout:               episode
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
+podcastDynamiteId:    11
 ---
 
 {% include podcastBlurb.md %}

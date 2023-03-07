@@ -5,13 +5,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #1",
     "image": "episode-placeholder.jpg",
     "description": "On May 23, 2011, Meltdown hosted HarmonTown an event that was part comedy stand-up, part pre-beta podcast, and part first initiative on establishing a community on the Moon that starred head of state Dan Harmon creator of Community and also featuring Jeff Bryan Davis as City Comptroller (Harmon\u0027s right hand man), Rob Schrab as the Tweetmaster of Classic Tweets (for when Harmon starts to lose the audience), Mike Rock as the purveyor of sexual moments (to add some saucy flavor to the event), and Christen the JPL/NASA scientist who focuses on ionic space propulsion (adding a level of legitimacy and science to the night). The event featured hilarious anecdotes from Harmon\u0027s storied life, classic tweets, and singing and dancing. Here\u0027s some highlights from the first meeting!I Will Be Your Watermelon",
     "showDate": "2011-05-24T00:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:15:54",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -20,13 +21,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #2",
     "image": "episode-placeholder.jpg",
     "description": "",
     "showDate": "2011-06-20T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -35,13 +37,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #3",
     "image": "episode-placeholder.jpg",
     "description": "",
     "showDate": "2011-07-25T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -50,13 +53,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #4",
     "image": "episode-placeholder.jpg",
     "description": "",
     "showDate": "2011-08-29T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -65,13 +69,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #5",
     "image": "episode-placeholder.jpg",
     "description": "Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0",
     "showDate": "2011-09-26T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -80,13 +85,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #6",
     "image": "episode-placeholder.jpg",
     "description": "Guest Donald Glover",
     "showDate": "2011-10-17T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -95,13 +101,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #7",
     "image": "episode-placeholder.jpg",
     "description": "",
     "showDate": "2011-11-21T05:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -110,13 +117,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #8",
     "image": "episode-placeholder.jpg",
     "description": "Guests Gillian Jacobs and Dana DeArmond",
     "showDate": "2011-12-09T05:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -125,13 +133,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #9 (Live at San Francisco Sketchfest 2012)",
     "image": "episode-placeholder.jpg",
     "description": "Live at San Francisco Sketchfest 2012",
     "showDate": "2012-01-29T05:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -140,13 +149,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #10",
     "image": "episode-placeholder.jpg",
     "description": "",
     "showDate": "2012-02-27T05:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -155,13 +165,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #11",
     "image": "episode-placeholder.jpg",
     "description": "Probably the infamous Chevy Chase voicemail episode.",
     "showDate": "2012-03-26T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -170,13 +181,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #12",
     "image": "episode-placeholder.jpg",
     "description": "",
     "showDate": "2012-04-30T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -185,13 +197,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #13",
     "image": "episode-placeholder.jpg",
     "description": "",
     "showDate": "2012-05-28T04:00:00+00:00",
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -206,6 +219,7 @@
     "description": "It\u0027s a special night at Harmontown when Mayor Harmon decides the goal is to \u0022achieve weightlessness\u0022 and establish Harmontown\u0027s real purpose. One hour, thirty tangents, two emails from Harmon\u0027s big brother and that goal remains unachieved, but a legen...",
     "showDate": "2012-06-16T04:00:00+00:00",
     "releaseDate": "2012-07-04T08:20:00+00:00",
+    "duration": "01:12:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6968392779.mp3?updated=1554335997"
   },
@@ -221,6 +235,7 @@
     "description": "While Jeff Davis works abroad, Guest Comptroller Erin McGathy (\u0022This Feels Terrible\u0022) joins Mayor Harmon for an in depth look at overrated masterpieces, passive aggressive text messages and how to destroy someone else\u0027s relationship on stage.",
     "showDate": "2012-07-16T04:00:00+00:00",
     "releaseDate": "2012-07-20T04:22:00+00:00",
+    "duration": "01:18:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7648412420.mp3"
   },
@@ -236,6 +251,7 @@
     "description": "An unusually quiet night in Harmontown gives way to eruptions of arm wrestling, wolf hunting, dungeon mastering and child abuse.",
     "showDate": "2012-07-23T04:00:00+00:00",
     "releaseDate": "2012-07-30T20:25:00+00:00",
+    "duration": "01:14:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3517247513.mp3?updated=1555699895"
   },
@@ -251,6 +267,7 @@
     "description": "A discussion of something the Scottish call a \u0022Wizard Sleeve\u0022 is ever-so-briefly interrupted by racism, robots, and a visit from something Erin McGathy calls a \u0022game corner.\u0022",
     "showDate": "2012-07-31T04:00:00+00:00",
     "releaseDate": "2012-08-04T02:29:00+00:00",
+    "duration": "01:15:37",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2303221881.mp3?updated=1555700005"
   },
@@ -266,6 +283,7 @@
     "description": "Jeff blows the whistle on NASA\u0027s secret agenda and Dan blows surprise guest Chris Hardwick!",
     "showDate": "2012-08-07T04:00:00+00:00",
     "releaseDate": "2012-08-17T02:51:00+00:00",
+    "duration": "01:19:28",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8937834520.mp3?updated=1555698703"
   },
@@ -281,6 +299,7 @@
     "description": "Sometimes it happens. Sometimes an innocent story about junior high proceeds down a road of perversion straight to where the sun doesn\u0027t shine. Also: Spencer collects info for Harmon and Davis\u0027 D\u0026D characters, and special guest Rob Schrab tells a stor...",
     "showDate": "2012-08-16T04:00:00+00:00",
     "releaseDate": "2012-08-24T07:40:00+00:00",
+    "duration": "01:24:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8221722384.mp3?updated=1555698443"
   },
@@ -296,6 +315,7 @@
     "description": "An especially antsy crowd turns Harmontown\u0027s meeting into a flippin\u0027 town meeting, pushing our fearless leader from musings on infidelity to contemplations of suicide. Plus: Dungeonmaster Spencer unveils the boys\u0027 characters!",
     "showDate": "2012-08-20T04:00:00+00:00",
     "releaseDate": "2012-08-30T06:13:00+00:00",
+    "duration": "01:31:07",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028373533.mp3?updated=1555697331"
   },
@@ -311,6 +331,7 @@
     "description": "Mayor Harmon grapples with fame and exposes The Family Feud; Comptroller Davis grapples with and exposes Harmon\u0027s shocking inability to tell jokes and the roleplaying Adventures of Sharpie and Quark begin.",
     "showDate": "2012-08-27T04:00:00+00:00",
     "releaseDate": "2012-09-07T06:33:00+00:00",
+    "duration": "01:24:19",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3426767880.mp3?updated=1555697811"
   },
@@ -326,6 +347,7 @@
     "description": "A discussion of the clarinet and nine eleven is briefly interrupted by an amazing D\u0026D adventure before proceeding into an indictment of the Hugo Awards and concluding with a demonstration of how hard it is to conclude.",
     "showDate": "2012-09-04T04:00:00+00:00",
     "releaseDate": "2012-09-14T03:04:00+00:00",
+    "duration": "01:34:48",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1215947889.mp3?updated=1555696807"
   },
@@ -341,6 +363,7 @@
     "description": "Mayor Harmon and Guest Comptroller Erin McGathy discuss Knight Rider, Alf and anxiety, then play a quick round of Dungeons and Dragons before getting into a huge fight about movies and breaking up.",
     "showDate": "2012-09-10T04:00:00+00:00",
     "releaseDate": "2012-09-21T01:45:00+00:00",
+    "duration": "01:17:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4509016283.mp3?updated=1555697297"
   },
@@ -356,6 +379,7 @@
     "description": "The first appearance of Greg Proops provokes a fit of Mayor Harmon\u0027s pointless political rants and a D\u0026D adventure that shall forever be remembered as involving unicorn pee.",
     "showDate": "2012-09-17T04:00:00+00:00",
     "releaseDate": "2012-09-28T02:30:00+00:00",
+    "duration": "01:36:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8755972312.mp3?updated=1555713084"
   },
@@ -371,6 +395,7 @@
     "description": "Special guest Greg Proops returns! The question of what happens after you die remains unanswered, but tangents include mental illness, poverty and misunderstood Van Halen lyrics. Meanwhile, in D\u0026D world, Sharpie and Quark claim their Embermauler boun...",
     "showDate": null,
     "releaseDate": "2012-10-19T02:09:00+00:00",
+    "duration": "01:06:17",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8088402176.mp3?updated=1555712014"
   },
@@ -386,6 +411,7 @@
     "description": "Dan complains about things he\u0027s not allowed to complain about, then outs himself as the world\u0027s laziest gay rights and medical marijuana advocate. Plus, in D\u0026D world: nothing happens!",
     "showDate": "2012-10-01T04:00:00+00:00",
     "releaseDate": "2012-10-22T10:19:00+00:00",
+    "duration": "01:20:57",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2299183434.mp3?updated=1555706170"
   },
@@ -401,6 +427,7 @@
     "description": "An unflinching examination of Dan\u0027s mustache absorption becomes a flinching examination of Harmontown regular Adam Goldberg. Plus: special guest Steve Agee drops by for a discussion of airline food and the ridiculous infiltration of Admiral Darkstar\u0027s...",
     "showDate": "2012-10-15T04:00:00+00:00",
     "releaseDate": "2012-10-26T06:48:00+00:00",
+    "duration": "01:26:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9966987632.mp3?updated=1555705125"
   },
@@ -416,6 +443,7 @@
     "description": "Dan has nothing, so he answers twitter questions. Adam Goldberg takes over the show, then, Dan interviews ethnic people. Plus: in D\u0026D world: the party levels up!",
     "showDate": null,
     "releaseDate": "2012-11-02T17:31:00+00:00",
+    "duration": "01:51:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9457245543.mp3?updated=1555705843"
   },
@@ -431,6 +459,7 @@
     "description": "It\u0027s a Jareth-palooza as Harmenians descend on Hollywood dressed as David Bowie in Labyrinth for Halloween. Other topics include almost nothing!",
     "showDate": null,
     "releaseDate": "2012-11-09T20:37:00+00:00",
+    "duration": "01:26:16",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8086031692.mp3?updated=1555704651"
   },
@@ -446,6 +475,7 @@
     "description": "It\u0027s election night fever when Dan and Jeff realize that the episode will air long after the election. Clearly a devout Democrat, Dan complains about his hired help before bringing up a real live woman to referee history\u0027s least informed Harry Potter ...",
     "showDate": null,
     "releaseDate": "2012-11-17T02:29:00+00:00",
+    "duration": "01:30:23",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4038433294.mp3?updated=1555704658"
   },
@@ -461,6 +491,7 @@
     "description": "Dan reads from his magical adolescent journals, casting a magical spell of adolescent depression over the entire audience and the dungeons and dragons session. So he brings up a depressed Harmenian and attempts to cure him. But by then he\u0027s pretty dr...",
     "showDate": null,
     "releaseDate": "2012-11-30T05:48:00+00:00",
+    "duration": "01:40:21",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4402179215.mp3?updated=1555703184"
   },
@@ -476,6 +507,7 @@
     "description": "Mayor Harmon comes up spittin\u0027 decidedly unmad fire. We meet a mysterious lady in the audience that can only say \u0022no.\u0022 No D\u0026D this week but Spencer rules the day just the same. Adam Goldberg takes a swipe at having a segment. Dan raps EVEN MORE. N...",
     "showDate": null,
     "releaseDate": "2012-12-05T12:43:00+00:00",
+    "duration": "01:22:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8398406951.mp3?updated=1555703126"
   },
@@ -491,6 +523,7 @@
     "description": "Note: the audience was not mic\u0027d this episode. More horrible rapping, a new character named Big Red, a phone call to Chevy Chase and a conversation with Adam Goldberg. In D\u0026D: our heroes fall into a pit!",
     "showDate": null,
     "releaseDate": "2013-01-05T05:37:00+00:00",
+    "duration": "01:34:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2157303919.mp3?updated=1555703714"
   },
@@ -506,6 +539,7 @@
     "description": "Mayor Harmon does his Bane impression and practices getting booed in various cities for the upcoming tour. In D\u0026D: the heroes finally encounter Sharpie\u0027s dad.",
     "showDate": null,
     "releaseDate": "2013-01-06T06:10:00+00:00",
+    "duration": "01:41:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5087783962.mp3?updated=1554322675"
   },
@@ -521,6 +555,7 @@
     "description": "An impromptu Fellowship of the Nerds is assembled to explain how to break The Hobbit into three movies. Jury duty stories! Adam Goldberg\u0027s roommate!",
     "showDate": null,
     "releaseDate": "2013-01-07T03:33:00+00:00",
+    "duration": "02:03:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6502803547.mp3?updated=1554324167"
   },
@@ -536,6 +571,7 @@
     "description": "Harmontown\u0027s last show before the tour becomes a star studded bon voyage. Eric Idle teaches Dan to write songs, Patton Oswalt teaches him the meaning of fear and Ryan Stiles teaches him that fighting displacer beasts takes 45 minutes.",
     "showDate": null,
     "releaseDate": "2013-01-10T05:42:00+00:00",
+    "duration": "02:00:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2507815919.mp3?updated=1554325109"
   },
@@ -551,6 +587,7 @@
     "description": "Mayor Harmon begins his tour feeling way more insecure than the kind-hearted heroes of a new city. A Harmontown theme with an awesome hook starts getting workshopped. In D\u0026D, the heroes fight cylinders.",
     "showDate": null,
     "releaseDate": "2013-01-12T00:50:00+00:00",
+    "duration": "01:37:16",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1114500278.mp3?updated=1554325542"
   },
@@ -566,6 +603,7 @@
     "description": "What else would Mayor Harmon discuss in Austin other than Politics, Mexican food, Hey Yah by Outkast and pooping? In D\u0026D: a friend\u0027s dark secret is revealed.",
     "showDate": null,
     "releaseDate": "2013-01-13T08:53:00+00:00",
+    "duration": "01:29:10",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6409005607.mp3?updated=1554326191"
   },
@@ -581,6 +619,7 @@
     "description": "Mayor Harmon regales the \u0022Paris of Georgia\u0022 with historic knowledge, general trivia and mad rapping science. Topics include his armpits and race.",
     "showDate": null,
     "releaseDate": "2013-01-14T19:51:00+00:00",
+    "duration": "01:19:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6937998010.mp3?updated=1554327206"
   },
@@ -596,6 +635,7 @@
     "description": "Mayor Harmon chooses Music City, USA as the place to enter the \u0022drunk Brian Wilson\u0022 phase of his podcasting career. Is his mistake the pre-show Jaggerbombs or the mid-show moonshine? In any case, let this episode stand as a cautionary tale.",
     "showDate": null,
     "releaseDate": "2013-01-16T00:52:00+00:00",
+    "duration": "01:20:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1538092440.mp3?updated=1560294145"
   },
@@ -611,6 +651,7 @@
     "description": "A quiet military bunker in Charlotte known as The Comedy Zone is the site of a kinder, gentler town meeting than Nashville\u0027s booze-drenched hootenanny. Mayor Harmon attempts to write a constitution and learns about the deep seated, low-stakes conflict...",
     "showDate": null,
     "releaseDate": "2013-01-16T23:29:00+00:00",
+    "duration": "01:41:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2730581515.mp3?updated=1554328271"
   },
@@ -626,6 +667,7 @@
     "description": "New York\u0027s biggest borrough rolls out the longest red carpet in Harmoncountry yet. Jeff and Dan improvise a Black Mexican guest\u0027s screenplay. Jason Sudeikis drops by and jumps into D\u0026D with astonishing vigor. Dan does a bad job of supporting Erin\u0027s ...",
     "showDate": null,
     "releaseDate": "2013-01-17T17:27:00+00:00",
+    "duration": "01:46:06",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8916035221.mp3?updated=1560295539"
   },
@@ -641,6 +683,7 @@
     "description": "Mayor Harmon and Comptroller Davis begin the show like any other - discussing the city\u0027s auto theft statistics. What comes next is 80\u002B minutes of insanity, featuring Adam Goldberg\u0027s brothers, Erin and Dan\u0027s sex life and much, much, sooooo much more.",
     "showDate": null,
     "releaseDate": "2013-01-19T09:04:00+00:00",
+    "duration": "01:58:45",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2988867057.mp3?updated=1554329784"
   },
@@ -656,6 +699,7 @@
     "description": "Mayor Harmon used the country\u0027s smallest state to tackle the country\u0027s biggest issues - suicide and race - before remembering someone double booked the room so he has to leave.",
     "showDate": null,
     "releaseDate": "2013-01-20T13:27:00+00:00",
+    "duration": "01:19:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4515436291.mp3?updated=1554331209"
   },
@@ -671,6 +715,7 @@
     "description": "The mayor and comptroller spend their night in the X Files capitol investigating ghosts, aliens, incest and 9-11 before playing D\u0026D with all black people.",
     "showDate": null,
     "releaseDate": "2013-01-22T01:53:00+00:00",
+    "duration": "01:49:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5735310974.mp3?updated=1554331324"
   },
@@ -686,6 +731,7 @@
     "description": "The Harmontown tour \u0022meets its goddess\u0022 in a featureless black box theatre, where Dan cries, arouses himself, tells a joke and gets in a fight with Erin. Unedited episode.",
     "showDate": null,
     "releaseDate": "2013-01-22T03:20:00+00:00",
+    "duration": "02:03:17",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1438167606.mp3?updated=1554331766"
   },
@@ -701,6 +747,7 @@
     "description": "In honor of his Midwestern heritage, The Mayor puts a town meeting straight up the middle and over the plate, with sports talk, a cosmic meditation and an in depth discussion of science and religion with some of Indiana\u0027s greatest, drunkest minds!",
     "showDate": null,
     "releaseDate": "2013-01-23T19:39:00+00:00",
+    "duration": "02:13:46",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2533895752.mp3?updated=1560295861"
   },
@@ -716,6 +763,7 @@
     "description": "Mayor Harmon starts Atoning With The Father when he presents a day in his fantasy TV writer life, confronts a drunk Darth Vader, then adopts a 15 year old version of himself. The night ends with an impromptu rap battle before new Harmenian Kahleel take...",
     "showDate": null,
     "releaseDate": "2013-01-24T23:47:00+00:00",
+    "duration": "02:06:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6230550878.mp3?updated=1560295661"
   },
@@ -731,6 +779,7 @@
     "description": "Atonement turns to struggle within a dark cavern. Dan\u0027s friend loses an appendage. His Improv mentor is there, but Jeff is leaving?! The audience shouts weird things! Latinos are everywhere!",
     "showDate": null,
     "releaseDate": "2013-01-26T19:25:00+00:00",
+    "duration": "01:27:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3478816529.mp3?updated=1554336943"
   },
@@ -746,6 +795,7 @@
     "description": "Mayor Harmon and Guest Comptroller McGathy interface with Twin Town from injured tendon to badly placed sound effect. Former Dead Alewives member Sean McKenna raps. Joyfully unedited episode.",
     "showDate": null,
     "releaseDate": "2013-01-27T20:30:00+00:00",
+    "duration": "01:35:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7331800635.mp3?updated=1554336971"
   },
@@ -761,6 +811,7 @@
     "description": "Kansas finds itself at the center of the biggest disaster since Dorothy\u0027s twister when Mayor Harmon and Erin McGathy conduct the worst town meeting of the tour. This episode is unedited because I have no idea what I\u0027d cut without cutting the entire thi...",
     "showDate": null,
     "releaseDate": "2013-01-30T02:25:00+00:00",
+    "duration": "01:15:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4660628644.mp3?updated=1554398396"
   },
@@ -776,6 +827,7 @@
     "description": "High atop the nation, in Omlette Country, Comptroller Davis returns. Topics include cheese sticks, sports, beat boxing, dungeons, dragons and crazy people.",
     "showDate": null,
     "releaseDate": "2013-01-30T03:07:00+00:00",
+    "duration": "01:44:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3534238693.mp3?updated=1554398874"
   },
@@ -791,6 +843,7 @@
     "description": "Harmontown is reborn in a strange land of complex liquor laws, polarized religion and Kevin Nealon photos. Plus: Sports Corner, Fart Corner, odor dating and weird rants!",
     "showDate": null,
     "releaseDate": "2013-01-31T02:19:00+00:00",
+    "duration": "01:55:03",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7901438098.mp3?updated=1554491095"
   },
@@ -806,6 +859,7 @@
     "description": "Mayoral Master Harmon strides boldly across the return threshold and declares Spencer God. Then he raps and dicks around with people in the audience. It doesn\u0027t sound like much on paper but it\u0027s a pretty great episode.",
     "showDate": null,
     "releaseDate": "2013-02-01T20:55:00+00:00",
+    "duration": "01:42:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8634366520.mp3?updated=1554491351"
   },
@@ -821,6 +875,7 @@
     "description": "The tour ends at the golden gate, where freedom to live is achieved by getting drunk, talking nonsense, meeting strangers and, well, you know the forumla.",
     "showDate": null,
     "releaseDate": "2013-02-03T02:56:00+00:00",
+    "duration": "01:24:59",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2125874763.mp3?updated=1554322131"
   },
@@ -836,6 +891,7 @@
     "description": "Looking back on his tour, non-heroic Mayjor Harmon asks what have I learned (spoiler: he doesn\u0027t know) with friends Bobcat Goldthwait, Marc Maron and Duncan Trussell in an epic show at L.A\u0027s Egyptian Theater.",
     "showDate": null,
     "releaseDate": "2013-02-08T09:24:00+00:00",
+    "duration": "02:33:31",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9327404085.mp3?updated=1554492541"
   },
@@ -851,6 +907,7 @@
     "description": "After a few false starts, it turns out Mayor Harmon may be suffering from a show-threatening case of homecoming confidence, but when special guests D.C Pierson and Kumail Nanjiani join, the meeting erupts into an awesome discussion of drugs, religion,...",
     "showDate": null,
     "releaseDate": "2013-02-14T15:21:00+00:00",
+    "duration": "01:49:26",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4652021328.mp3?updated=1554491927"
   },
@@ -866,6 +923,7 @@
     "description": "A discussion of hygiene heats up with Kumail Nanjiani, then boils over when Bobcat Goldthwait drops by. In D\u0026D, zombies attack while Quark engages in advanced animal husbandry. This fabulous episode is unedited so we will just warn you of a small gli...",
     "showDate": null,
     "releaseDate": "2013-02-21T00:21:00+00:00",
+    "duration": "01:51:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4031683895.mp3?updated=1554491720"
   },
@@ -881,6 +939,7 @@
     "description": "\u0027Rick and Morty\u0027 writer Ryan Ridley drops by, \u0027Real Abed\u0027 Gheith pitches his insane restuarant and Kumail Nanjiani reveals secrets to brown acting. In D\u0026D: the party climbs into a hole.",
     "showDate": null,
     "releaseDate": "2013-03-01T02:03:00+00:00",
+    "duration": "01:54:46",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8748679485.mp3?updated=1554494005"
   },
@@ -896,6 +955,7 @@
     "description": "Mayor Harmon suggests a new, fecal approach to morality. Other topics include Halle Berry, Superman and accents. In D\u0026D, the gang runs afoul of snake men and each other.",
     "showDate": null,
     "releaseDate": "2013-03-08T09:51:00+00:00",
+    "duration": "01:41:55",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6342558089.mp3?updated=1554494666"
   },
@@ -911,6 +971,7 @@
     "description": "Featuring Doug Benson and Kumail Nanjiani. Topics include Gene Hackman, emphysema, sharks, cereal, Thalidomide, Wreck it Ralph, burn victims, Dracula, Special Olympics, regular Olympics, Bruce Villanch, missing electronics and law enforcement. The D\u0026...",
     "showDate": null,
     "releaseDate": "2013-03-15T06:57:00+00:00",
+    "duration": "01:53:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5496026101.mp3?updated=1554494350"
   },
@@ -926,6 +987,7 @@
     "description": "Man versus lion, Space Jam versus Goonies, Leprechaun versus his own sexuality. Brian W. Collins retires his horror movie blog. Kumail Nanjiani and the rest of the D\u0026D party finish their battle with specific parts of a dragon.",
     "showDate": null,
     "releaseDate": "2013-03-23T10:06:00+00:00",
+    "duration": "01:59:31",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8399808518.mp3?updated=1554494017"
   },
@@ -941,6 +1003,7 @@
     "description": "In honor of the 50th episode, Harmon drinks too much five hour energy, Genevieve Pearson teaches us to fabricate reality and Kumail proposes to three-time-wife Emily. D\u0026D is bunch of garbage, but then, and, admittedly, this is Harmon saying this, but: ...",
     "showDate": null,
     "releaseDate": "2013-03-29T11:51:00+00:00",
+    "duration": "01:39:55",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8805102383.mp3?updated=1554500605"
   },
@@ -956,6 +1019,7 @@
     "description": "Bobcat Goldthwait returns with his friend Robin Williams and an amazingly sad story from a very dark carnival. Then, Robin and Bobcat leave, and it\u0027s kind of hard to follow them, so Mayor Harmon plays D\u0026D and talks to a girl about sexism or something.",
     "showDate": null,
     "releaseDate": "2013-04-08T03:57:00+00:00",
+    "duration": "02:01:56",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7440364615.mp3?updated=1554501262"
   },
@@ -971,6 +1035,7 @@
     "description": "In which Mayor Harmon explores everything that\u0027s already been explored about the topics of Road House, Roger Ebert and Skeletor. Plus: Kumail Nanjiani, Drunk Spencer and the final word on nipple size.",
     "showDate": null,
     "releaseDate": "2013-04-15T01:53:00+00:00",
+    "duration": "01:39:25",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7444258099.mp3?updated=1554500600"
   },
@@ -986,6 +1051,7 @@
     "description": "Mayor Harmon finds out about terrorism after everyone else. Plus: cake making, tentanus, Kumail, and making love to spiders!",
     "showDate": null,
     "releaseDate": "2013-04-16T10:08:00+00:00",
+    "duration": "01:59:55",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8733810661.mp3?updated=1554501252"
   },
@@ -1001,6 +1067,7 @@
     "description": "Mayor Harmon, sore from softball practice, enlists the aid of Duncan Trussell and Greg Proops to keep the meeting moving. Topics include virtual reality, dead mothers and Jaws 4. In Dungeons and Dragons, Erin summons her first monkey.",
     "showDate": null,
     "releaseDate": "2013-04-23T10:29:00+00:00",
+    "duration": "01:57:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5026135164.mp3?updated=1554504114"
   },
@@ -1010,13 +1077,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #14",
     "image": "episode-placeholder.jpg",
     "description": "Lost Episode #14",
     "showDate": null,
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -1031,6 +1099,7 @@
     "description": "After a well meaning stranger poisons the audience with beef fungus, Chinese Ironman, Eddie Murphy, John Landis and Yakov Smirnoff are discussed. In D\u0026D, everyone dies.",
     "showDate": null,
     "releaseDate": "2013-05-10T06:55:00+00:00",
+    "duration": "01:48:45",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7654524907.mp3?updated=1554503594"
   },
@@ -1046,6 +1115,7 @@
     "description": "An all around provocapalooza surrounding language, race, religion, science, bugs, moms and fake dinosaurs. In D\u0026D, the characters awake in Ye Olde Arena Milieu.",
     "showDate": null,
     "releaseDate": "2013-05-13T17:30:00+00:00",
+    "duration": "01:54:24",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1414022938.mp3?updated=1554503431"
   },
@@ -1061,6 +1131,7 @@
     "description": "Mayor Harmon and Guest Comptroller Goldthwait examine their own bodies, Dan\u0027s drinking, Jeremy Piven, Bigfoot and their likely deaths by significant other. In D\u0026D, the heroes continue to fight their shadow selves.",
     "showDate": null,
     "releaseDate": "2013-05-21T18:11:00+00:00",
+    "duration": "02:08:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6515807780.mp3?updated=1554504161"
   },
@@ -1076,6 +1147,7 @@
     "description": "Mayor Harmon explains why an episode was lost; soon to be uncontextually quoted frivolity ensues. Jeff reveals he\u0027s psychic; Kumail\u0027s resultant bewilderment preempts D\u0026D.",
     "showDate": null,
     "releaseDate": "2013-06-08T19:45:00+00:00",
+    "duration": "01:50:17",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1983763317.mp3?updated=1554505890"
   },
@@ -1091,6 +1163,7 @@
     "description": "Mayor Harmon tells us how to not write. Also discussed: Wikileaks, Disabilities, Ben Affleck and puppies.",
     "showDate": null,
     "releaseDate": "2013-06-13T22:20:00+00:00",
+    "duration": "01:50:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7617164198.mp3?updated=1554506313"
   },
@@ -1106,6 +1179,7 @@
     "description": "In which it asserted by Harmontown, that Fathers are important. Guest starring Spencer\u0027s Dad.",
     "showDate": null,
     "releaseDate": "2013-06-17T10:14:00+00:00",
+    "duration": "01:58:29",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1485037642.mp3?updated=1554506430"
   },
@@ -1121,6 +1195,7 @@
     "description": "Titanic Sinclair and Mars Argo help examine the internet\u0027s war on the self. Comptroller McGathy refs a game of \u0022Spencer or Goldberg\u0022 between Mayor Harmon and Kumail.",
     "showDate": null,
     "releaseDate": "2013-06-24T20:49:00+00:00",
+    "duration": "01:50:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6792775903.mp3?updated=1560295734"
   },
@@ -1136,6 +1211,7 @@
     "description": "Mayor Harmon has nothing to discuss so he opens it to the floor. Super powers are debated. Gifts are given. A special guest returns to D\u0026D.",
     "showDate": null,
     "releaseDate": "2013-07-01T20:34:00+00:00",
+    "duration": "01:57:51",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5692275742.mp3?updated=1555528723"
   },
@@ -1151,6 +1227,7 @@
     "description": "New editions of Things Dan Can\u0027t Complain About and Connor\u0027s Conundrums, a chat with aneurysm survivor Siike and a violent fight with Spencer about \u0022meta gaming.\u0022",
     "showDate": null,
     "releaseDate": "2013-07-08T10:34:00+00:00",
+    "duration": "01:49:21",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3783792489.mp3?updated=1555529288"
   },
@@ -1166,6 +1243,7 @@
     "description": "Mayor Harmon strives to understand whether or not he\u0027s a 9/11 conspiracy theorist with special guest James Urbaniak. Also: race and stuff.",
     "showDate": null,
     "releaseDate": "2013-07-15T10:18:00+00:00",
+    "duration": "02:04:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5285436060.mp3?updated=1555529807"
   },
@@ -1181,6 +1259,7 @@
     "description": "Harmon talks to Matt Dwyer about being a better interviewer than Mayor Harmon, who no longer needs to be good at anything because he survived an endoscopy. In D\u0026D: Frost Giant politics.",
     "showDate": null,
     "releaseDate": "2013-07-29T09:50:00+00:00",
+    "duration": "02:01:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7540490285.mp3?updated=1555529172"
   },
@@ -1196,6 +1275,7 @@
     "description": "Mayor Harmon has got nothing. This prompts Kumail and Erin to join the stage for some dream interpretation and penis trauma. In D\u0026D, Sharpie dies.",
     "showDate": null,
     "releaseDate": "2013-08-05T09:56:00+00:00",
+    "duration": "01:53:19",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5400422615.mp3?updated=1555545411"
   },
@@ -1211,6 +1291,7 @@
     "description": "Mayor Pet psychology is discussed. Then the usual topics of race and terrorism. Then crap gets real about anarchy on the moon.",
     "showDate": null,
     "releaseDate": "2013-08-12T11:35:00+00:00",
+    "duration": "01:47:26",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3539909450.mp3?updated=1555545291"
   },
@@ -1226,6 +1307,7 @@
     "description": "In the middle of working on Community 501, a very tired Mayor Harmon takes to a crowd of Harmenians and revels in their eccentricities. In D\u0026D, an Ogre cums.",
     "showDate": null,
     "releaseDate": "2013-08-19T22:57:00+00:00",
+    "duration": "02:03:46",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1835457808.mp3?updated=1560294708"
   },
@@ -1241,6 +1323,7 @@
     "description": "Mayor Harmon issues an edict to wait staff, proclaims his eternal love for Erin and signs off on gay weddings.",
     "showDate": null,
     "releaseDate": "2013-08-26T08:10:00+00:00",
+    "duration": "01:54:38",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2718692113.mp3?updated=1555611552"
   },
@@ -1256,6 +1339,7 @@
     "description": "Mayor Harmon, now equipped with his trusty new invention, is joined by Johnny Pemberton to break down prank phone calls. Afterwards a visit from \u0022The Tumor Lady\u0022 and then later on, the topic of fishing for compliments becomes a major issue for everyone...",
     "showDate": null,
     "releaseDate": "2013-09-03T00:04:00+00:00",
+    "duration": "02:16:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4912930871.mp3?updated=1560295082"
   },
@@ -1271,6 +1355,7 @@
     "description": "The Mayor uses his iHarmon to knock down an entire show agenda that includes topics like Premium Gas and what Harmontown should do this year for Halloween when Comptroller Jeff Davis says no to his idea for 15 minutes straight. Later, Erin doesn\u0027t unde...",
     "showDate": null,
     "releaseDate": "2013-09-09T19:12:00+00:00",
+    "duration": "02:02:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3646792805.mp3?updated=1555607950"
   },
@@ -1286,6 +1371,7 @@
     "description": "Rejoice! Kumail is back and joins Dan and Jeff on stage along with comedians John Roy, James Adomian and the entire front row.",
     "showDate": null,
     "releaseDate": "2013-09-16T19:08:00+00:00",
+    "duration": "01:59:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8798524951.mp3?updated=1555610463"
   },
@@ -1301,6 +1387,7 @@
     "description": "Don Cheatle\u0027s speech at the Emmys leaves Mayor Harmon pondering. Also, spider monsters, the Beef Fungus Bill game and co-creator of Channel 101 Rob Schrab sits in on D\u0026D!",
     "showDate": null,
     "releaseDate": "2013-09-24T08:24:00+00:00",
+    "duration": "01:49:43",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1376751870.mp3?updated=1555607420"
   },
@@ -1316,6 +1403,7 @@
     "description": "Mayor Harmon tries to examine our ethical boundaries, but when that sounds too much like going to bat for pedophiles, everyone starts high fiving themselves for not wanting to do it with babies",
     "showDate": null,
     "releaseDate": "2013-09-30T09:04:00+00:00",
+    "duration": "01:56:29",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9654197280.mp3?updated=1555612163"
   },
@@ -1331,6 +1419,7 @@
     "description": "Mayor Harmon is joined once again by guest Rob Schrab and Erin McGathy plays the role of Comptroller. Spontaneous combustion, peeing your pants and letters from reddit await you in this weeks Harmontown!",
     "showDate": null,
     "releaseDate": "2013-10-08T00:08:00+00:00",
+    "duration": "01:47:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6599196205.mp3?updated=1560295820"
   },
@@ -1346,6 +1435,7 @@
     "description": "The room is packed with Communicon fans and two of them are asked by Mayor Harmon to come on stage and discuss a recent internet exchange about why they feel Dan should \u0022stop talking.\u0022 A lengthy game of D\u0026D then ensues.",
     "showDate": null,
     "releaseDate": "2013-10-21T15:25:00+00:00",
+    "duration": "01:49:42",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8107073170.mp3?updated=1555623040"
   },
@@ -1361,6 +1451,7 @@
     "description": "In the wake of Lou Reed\u0027s passing, in which this episode is dedicated to; a sad, stripped down, sleepy and introspective Velvet Harmontown. Plus, the introduction of Harmontown\u0027s new character \u0022Johnny Jackhammer.\u0022 In DnD, the gang is helpless to watch ...",
     "showDate": null,
     "releaseDate": "2013-10-28T08:39:00+00:00",
+    "duration": "02:00:38",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8257519142.mp3?updated=1555624819"
   },
@@ -1376,6 +1467,7 @@
     "description": "For the second time in Harmontown history a bottle of moonshine appears. It\u0027s Integrity vs. dishonesty, Baby Boomers vs. Gen X\u0027ers vs. Millennials, it\u0027s Mayor Harmon vs. the bathroom at Meltdown Comics, it\u0027s Adam vs. Levi, it\u0027s Harmontown vs. the world!",
     "showDate": null,
     "releaseDate": "2013-11-05T01:58:00+00:00",
+    "duration": "01:53:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1718346436.mp3?updated=1555626658"
   },
@@ -1391,6 +1483,7 @@
     "description": "After some women demonstrate foot fetish techniques that audibly won\u0027t make any sense to you, dear listener, the enigmatic Brody Stevens joins Harmontown for the first time. Later, Mayor Harmon is inducted into a prestigious alliance and Kumail returns...",
     "showDate": null,
     "releaseDate": "2013-11-11T07:50:00+00:00",
+    "duration": "02:07:28",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1565626686.mp3?updated=1560295827"
   },
@@ -1406,6 +1499,7 @@
     "description": "In conjunction with Adult Swim and Starburns Industries, HARMONTOWN Live at Largo Coronet Theatre! Featuring Justin Roiland, John Oliver and Sarah Chalke! (Presented in 128kbps Stereo)",
     "showDate": null,
     "releaseDate": "2013-11-18T10:20:00+00:00",
+    "duration": "00:47:51",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5537922667.mp3?updated=1555625941"
   },
@@ -1421,6 +1515,7 @@
     "description": "Mayor Harmon jumps right into a drop in from original Saturday Night Live cast member Laraine Newman which merges into a visit from controversial author Dr. Chris Ryan to delves into polygamy and the very nature of our sexuality. In D\u0026D, Spencer gives ...",
     "showDate": null,
     "releaseDate": "2013-11-25T19:36:00+00:00",
+    "duration": "02:04:11",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3049044663.mp3?updated=1555626131"
   },
@@ -1436,6 +1531,7 @@
     "description": "Mayor Harmon brings Arrested Development\u0027s creator Mitch Hurwitz on stage to talk shop about TV. Later Kumail returns and the whole thing ends with an epic D\u0026D session. Quit reading already and press play!",
     "showDate": null,
     "releaseDate": "2013-12-02T23:08:00+00:00",
+    "duration": "01:57:41",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5496750200.mp3?updated=1555715359"
   },
@@ -1451,6 +1547,7 @@
     "description": "It\u0027s the last Harmontown of 2013, get ready for some Christmas magic. Anatoly gets on stage nearly nude, Duncan Trussell talks Christmas as a mushroom cult, Adam Goldberg nearly murders everyone, Jeff Davis hates Paul McCartney and Rob Schrab jumps in ...",
     "showDate": null,
     "releaseDate": "2013-12-17T02:15:00+00:00",
+    "duration": "01:56:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3632226250.mp3?updated=1555715785"
   },
@@ -1466,6 +1563,7 @@
     "description": "Mayor Harmon and his Comptroller Jeff Davis return from Scotland where Dan proposed to Erin McGathy. Then, uhh, Mitch Hurwitz, Harris Wittels, Kumail Nanjiani and Steve Agee join the stage... stop reading and get in here!",
     "showDate": null,
     "releaseDate": "2014-01-07T00:33:00+00:00",
+    "duration": "01:57:56",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7804848748.mp3?updated=1555715797"
   },
@@ -1481,6 +1579,7 @@
     "description": "A mysterious package sparks a conversation about gender roles in our society; and upon colonizing the moon, is it even possible to raise children gender neutral? Later, Jeff shares kind of a f****d up story.",
     "showDate": null,
     "releaseDate": "2014-01-13T19:38:00+00:00",
+    "duration": "01:57:28",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9620222690.mp3?updated=1555716356"
   },
@@ -1496,6 +1595,7 @@
     "description": "Mayor Harmon is joined by Alie \u0026 Georgia of the Slumber Party podcast to defend the constitutional rights of Justin Bieber. In D\u0026D, Sharpie doesn\u0027t like Lineve\u0027s tone.",
     "showDate": null,
     "releaseDate": "2014-01-20T18:43:00+00:00",
+    "duration": "02:02:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8031854394.mp3?updated=1555717466"
   },
@@ -1511,6 +1611,7 @@
     "description": "Guest Comptroller Mitch Hurwitz does his best to help Mayor Harmon and Kumail Nanjiani ridicule Rob Schrab as he tries to celebrate 20 years of his comic book SCUD: The Disposable Assassin. In D\u0026D, Sharpie and Laan-ev go to blows.",
     "showDate": null,
     "releaseDate": "2014-01-27T19:11:00+00:00",
+    "duration": "02:25:46",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5034086784.mp3?updated=1555718415"
   },
@@ -1526,6 +1627,7 @@
     "description": "Harmontown commemorates Phillip Seymour Hoffman, discusses happiness, takes a Sports Corner break and in Pathfinder, Laan-Ev introduces the gang to his friends.",
     "showDate": null,
     "releaseDate": "2014-02-03T21:41:00+00:00",
+    "duration": "02:04:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8311092189.mp3?updated=1555717480"
   },
@@ -1541,6 +1643,7 @@
     "description": "Harmontown does the 13th annual San Francisco Sketchfest, gets a drop in from Mystery Science Theater 3000\u0027s Joel Hodgson and later on, the show goes straight Maury Povich.",
     "showDate": null,
     "releaseDate": "2014-02-07T19:28:00+00:00",
+    "duration": "01:59:46",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8934035172.mp3?updated=1555718341"
   },
@@ -1556,6 +1659,7 @@
     "description": "Mayor Harmon has some qualms with Uber, we check in with Adam Goldberg and SuperEgo\u0027s Matt Gourley settles a dispute during D\u0026D.",
     "showDate": null,
     "releaseDate": "2014-02-10T07:40:00+00:00",
+    "duration": "01:55:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028819427.mp3?updated=1555718145"
   },
@@ -1571,6 +1675,7 @@
     "description": "Net Neutrality activist Eddie Geller shines a light onto how our rights online are on their way out. This, naturally, agitates Mayor Harmon\u0027s disenchantment with bureaucracy and capitalism. Meanwhile, Comptroller Jeff Davis and Kumail Nanjiani attempt ...",
     "showDate": null,
     "releaseDate": "2014-02-18T00:50:00+00:00",
+    "duration": "02:08:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9689774999.mp3?updated=1556145437"
   },
@@ -1586,6 +1691,7 @@
     "description": "Mayor Harmon becomes label mates with Ice-T, which spurs Comptroller Jeff Davis into having Dan rattle off all his impressions. Mitch Hurwitz joins the group and when Spencer is out for the week, an abstract game of D\u0026D ensues.",
     "showDate": null,
     "releaseDate": "2014-02-24T20:27:00+00:00",
+    "duration": "02:00:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2795222181.mp3?updated=1556134195"
   },
@@ -1601,6 +1707,7 @@
     "description": "Mayor Harmon tearfully reflects on the passing of Harold Ramis and while the Academy Awards ceremony takes place mere blocks away, Harmontown hosts its own Oscars special.",
     "showDate": null,
     "releaseDate": "2014-03-03T20:32:00+00:00",
+    "duration": "01:57:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7537699370.mp3?updated=1556134812"
   },
@@ -1616,6 +1723,7 @@
     "description": "From Austin, TX, Harmontown is live from the Liberty Tavern and SXSW. Bonus audio from the Q \u0026 A following the premiere of the \u0022Harmontown\u0022 documentary.",
     "showDate": null,
     "releaseDate": "2014-03-10T22:26:00+00:00",
+    "duration": "02:25:57",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7536468874.mp3?updated=1556133349"
   },
@@ -1631,6 +1739,7 @@
     "description": "The Harmontown dream team; Dan Harmon, Jeff Bryan Davis, Erin McGathy, Mitch Hurwitz and Kumail Nanjiani recap SXSW; Fred Phelps death bed and later, Spencer returns for a roaring session of D\u0026D!",
     "showDate": null,
     "releaseDate": "2014-03-17T18:41:00+00:00",
+    "duration": "02:02:43",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4041552340.mp3?updated=1556133291"
   },
@@ -1646,6 +1755,7 @@
     "description": "Following the 826LA charity event, Mayor Harmon is met by an agent of compromise when a psychologist takes the stage. Later, Erin McGathy attempts her first Dungeon Mastering in D\u0026D!",
     "showDate": null,
     "releaseDate": "2014-03-24T21:53:00+00:00",
+    "duration": "01:59:57",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7122764314.mp3?updated=1556131723"
   },
@@ -1661,6 +1771,7 @@
     "description": "Preparing for its first month hiatus, Harmontown goes for a big blow out that tackles the usual; racism, censorship, health, mortality etc. Spencer returns for D\u0026D to promote Friendship \u0026 Cigarettes.",
     "showDate": null,
     "releaseDate": "2014-03-31T19:58:00+00:00",
+    "duration": "02:09:54",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9806272080.mp3?updated=1556231620"
   },
@@ -1676,6 +1787,7 @@
     "description": "???",
     "showDate": null,
     "releaseDate": "2014-05-03T00:59:00+00:00",
+    "duration": "00:11:20",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6880779968.mp3"
   },
@@ -1691,6 +1803,7 @@
     "description": "Hot off the Renaissance Faire, the whole gang is back from hiatus... and very drunk. Kumail Nanjiani and Matt Gourley join the stage while Mayor Harmon proposes a new religion.",
     "showDate": null,
     "releaseDate": "2014-05-05T08:06:00+00:00",
+    "duration": "01:56:07",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8371089088.mp3?updated=1556230251"
   },
@@ -1706,6 +1819,7 @@
     "description": "Live from The Bridgetown Festival in Portland, Oregon; Harmontown is now in session!",
     "showDate": null,
     "releaseDate": "2014-05-11T19:27:00+00:00",
+    "duration": "01:45:26",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4114340673.mp3?updated=1556230371"
   },
@@ -1721,6 +1835,7 @@
     "description": "It is the Centepisodial Spectacular of Harmontown! Adam Goldberg runs a quiz against a super fan and your Mayor to see who knows more about Harmontown.",
     "showDate": null,
     "releaseDate": "2014-05-19T20:36:00+00:00",
+    "duration": "02:02:41",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3107672992.mp3?updated=1556230790"
   },
@@ -1736,6 +1851,7 @@
     "description": "A hungover stroll through such topics as bumper stickers, misogyny, Wolfenstein and how horrifying that game must be for Germans. Kumail Nanjiani\u0027s back and we welcome DeMorge Brown to the stage!",
     "showDate": null,
     "releaseDate": "2014-05-26T07:47:00+00:00",
+    "duration": "02:07:56",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6155953699.mp3?updated=1556238761"
   },
@@ -1751,6 +1867,7 @@
     "description": "Tony Danza can read Dan\u0027s tweets; everyone shares crying stories and there is a sleepy canyoneer in the crowd.",
     "showDate": null,
     "releaseDate": "2014-06-02T09:54:00+00:00",
+    "duration": "02:01:20",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4107649191.mp3?updated=1556325586"
   },
@@ -1766,6 +1883,7 @@
     "description": "Happy Birthday to all the Fathers out there, Kumail is comptrolling, Erin runs her best game yet and D\u0026D is sizzling. Come get your Harmontown!",
     "showDate": null,
     "releaseDate": "2014-06-16T20:27:00+00:00",
+    "duration": "02:12:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868103730.mp3?updated=1556231623"
   },
@@ -1781,6 +1899,7 @@
     "description": "Its just Mayor Harmon, Jeff and Spencer and Dan catches you up in World Cup corner and later, Dan improvises his own Superman movie. In D\u0026D, the gang becomes a literal gang and finally loots.",
     "showDate": null,
     "releaseDate": "2014-06-23T19:50:00+00:00",
+    "duration": "01:59:57",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2790185279.mp3?updated=1556326540"
   },
@@ -1796,6 +1915,7 @@
     "description": "Mayor Harmon enters couples therapy and makes an emotional bid. Kumail Nanjiani is back and doesn\u0027t understand why Jeff talks to strangers. Doctors are too prostate happy and a Brazilian fan from Rio defends them. Just a great episode from top to botto...",
     "showDate": null,
     "releaseDate": "2014-06-30T22:19:00+00:00",
+    "duration": "02:02:52",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8463661551.mp3?updated=1556325651"
   },
@@ -1811,6 +1931,7 @@
     "description": "Dan Harmon, Jeff Davis, Greg Proops, Kumail Nanjiani, Erin McGathy and Spencer Crittenden perform for another sold out HARMONTOWN and FINALLY, necrophillia is discussed at great length.",
     "showDate": null,
     "releaseDate": "2014-07-07T20:08:00+00:00",
+    "duration": "02:02:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1542016211.mp3?updated=1556325115"
   },
@@ -1826,6 +1947,7 @@
     "description": "Mayor Harmon perfects the apology, Erin McGathy runs an epic Game Corner and in D\u0026D the gang encounter a black dragon.",
     "showDate": null,
     "releaseDate": "2014-07-14T20:36:00+00:00",
+    "duration": "02:07:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5867394719.mp3?updated=1556323770"
   },
@@ -1841,6 +1963,7 @@
     "description": "Mayor Dan Harmon and Comptroller Duncan Trussell makes another sold out show at Nerdmelt Theater one for the ages!",
     "showDate": null,
     "releaseDate": "2014-07-21T18:28:00+00:00",
+    "duration": "01:50:04",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9185241368.mp3?updated=1556325079"
   },
@@ -1856,6 +1979,7 @@
     "description": "Mayor Harmon discusses ComicCon, we enter the Animal Corner, finds out Rogaine will kill your cat and Kumail returns just in time for a rousing round of D\u0026D.",
     "showDate": null,
     "releaseDate": "2014-07-28T19:52:00+00:00",
+    "duration": "02:05:21",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6447459003.mp3?updated=1556750515"
   },
@@ -1871,6 +1995,7 @@
     "description": "Mayor Harmon welcomes Dana Carvey to Harmontown who for some reason apologizes for Wayne\u0027s World two and out of nowhere, Tenacious D of www.festivalsupreme.com appear out of thin air! In D\u0026D, someone dies.",
     "showDate": null,
     "releaseDate": "2014-08-04T18:55:00+00:00",
+    "duration": "01:54:20",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2785277550.mp3?updated=1556750451"
   },
@@ -1886,6 +2011,7 @@
     "description": "Mayor Harmon, Jeff Davis, Erin McGathy and Spencer Crittenden discover a Belgian fan in the audience, but when a Londoner from the crowd",
     "showDate": null,
     "releaseDate": "2014-08-11T18:38:00+00:00",
+    "duration": "02:02:33",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3032194377.mp3?updated=1556746940"
   },
@@ -1901,6 +2027,7 @@
     "description": "Harmontown is not ready to say goodbye to our friend Robin WIlliams; Jeff \u0026 Dan write a new song, an Emmy award winning special effects editor makes their way to the stage, Ferguson and the current paramilitary police state are discussed at length. You...",
     "showDate": null,
     "releaseDate": "2014-08-18T15:18:00+00:00",
+    "duration": "01:59:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3249789679.mp3?updated=1556746942"
   },
@@ -1916,6 +2043,7 @@
     "description": "Mayor Harmon is possibly a bit jealous of Spencer and Real Abed\u0027s budding friendship, and later we welcome Demorge Brown to the mix which spawns a TV pilot pitch, \u0022FlagCop\u0022.",
     "showDate": null,
     "releaseDate": "2014-08-25T20:32:00+00:00",
+    "duration": "02:06:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1653306381.mp3?updated=1556750498"
   },
@@ -1931,6 +2059,7 @@
     "description": "Mayor Harmon pays an Australian in the audience 100 bucks to serve them cups of ice. We get to the bottom of Schrabbing with Internet Trolling Sensation Rob Schrab and later, Rob provides all sound effects for D\u0026D.",
     "showDate": null,
     "releaseDate": "2014-09-01T18:25:00+00:00",
+    "duration": "01:59:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8358410382.mp3?updated=1556734794"
   },
@@ -1946,6 +2075,7 @@
     "description": "Dolphins are bad, Jews are great as learn with comptroller, Rick \u0026 Morty writer Ryan Ridley! Then for the first time we welcome our hilarious friend Dave Horwitz to the stage who you all now can begin to fall for. In D\u0026D, its really funny.",
     "showDate": null,
     "releaseDate": "2014-09-08T19:50:00+00:00",
+    "duration": "02:06:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4351991043.mp3"
   },
@@ -1961,6 +2091,7 @@
     "description": "Technology! Industry! Vodka! Harmontown live in Portland from the XOXO Festival with Spencer as your humble comptroller!",
     "showDate": null,
     "releaseDate": "2014-09-15T07:40:00+00:00",
+    "duration": "02:02:33",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9718803846.mp3"
   },
@@ -1976,6 +2107,7 @@
     "description": "Harmontown tests its live streaming capabilities, Alex Rubens comptrolls and instead of D\u0026D the group goes on a sci-fi side quest.",
     "showDate": null,
     "releaseDate": "2014-09-22T20:55:00+00:00",
+    "duration": "02:03:10",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4345391070.mp3?updated=1560983632"
   },
@@ -1991,6 +2123,7 @@
     "description": "Harmontown kicks of its run of movie screenings followed by a live podcast in Seattle to a powerful crowd of Harmenians and is post lifted to new heights and derailed from its first guest comptrolling appearance from Dino Stamatopoulos!",
     "showDate": null,
     "releaseDate": "2014-09-29T22:13:00+00:00",
+    "duration": "01:49:02",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7041950481.mp3?updated=1560985770"
   },
@@ -2006,6 +2139,7 @@
     "description": "In conjunction with Cinefamily and Starburns Industries, enjoy Harmontown, LIVE from the Vista theater with a special Q\u0026A for the HARMONTOWN movie, now at harmontown.com!",
     "showDate": null,
     "releaseDate": "2014-10-05T17:52:00+00:00",
+    "duration": "01:51:02",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9661898465.mp3?updated=1560988312"
   },
@@ -2021,6 +2155,7 @@
     "description": "Harmontown visits Toronto for a massive show with comptroller Bobcat Goldthwait! Later, our friend Jane comes on stage to talk transgenderism.",
     "showDate": null,
     "releaseDate": "2014-10-10T21:37:00+00:00",
+    "duration": "02:33:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8667367468.mp3?updated=1561579748"
   },
@@ -2036,6 +2171,7 @@
     "description": "Comptroller Gilbert Gottfried warms up Harmontown\u0027s biggest crowd yet at New York City\u0027s 92y!",
     "showDate": null,
     "releaseDate": "2014-10-14T20:03:00+00:00",
+    "duration": "02:18:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5041770987.mp3?updated=1561581685"
   },
@@ -2051,6 +2187,7 @@
     "description": "Harmontown begins an epic 4 days of non-stop podcasting starting in San Francisco with none other then comptroller Steve Agee!",
     "showDate": null,
     "releaseDate": "2014-10-27T22:09:00+00:00",
+    "duration": "01:58:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9019948493.mp3?updated=1561582927"
   },
@@ -2066,6 +2203,7 @@
     "description": "Harmontown goes to Austin and holy sh*t, LeVar Burton is the comptroller.",
     "showDate": null,
     "releaseDate": "2014-10-29T10:45:00+00:00",
+    "duration": "01:59:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8232975554.mp3?updated=1561584917"
   },
@@ -2081,6 +2219,7 @@
     "description": "Harmontown is in Aust...no wait Houston and the gang discusses weddings, Erin hosts a game corner and producer Dustin shares stories about cum.",
     "showDate": null,
     "releaseDate": "2014-10-30T23:33:00+00:00",
+    "duration": "02:17:48",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5167677903.mp3?updated=1561588429"
   },
@@ -2096,6 +2235,7 @@
     "description": "After 4 days of straight podcasting, the gang returns to LA with comptroller Duncan Trussell and a special drop in from Community\u0027s Joel McHale.",
     "showDate": null,
     "releaseDate": "2014-11-03T22:16:00+00:00",
+    "duration": "01:58:52",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6087651486.mp3?updated=1561589861"
   },
@@ -2111,6 +2251,7 @@
     "description": "Harmontown is live from Chicago, with Dino, Spencer, a guy with gout , a racism specialist and a live organist! Watch a full HD video of this episode at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2014-11-06T05:08:00+00:00",
+    "duration": "01:31:04",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2596802380.mp3?updated=1561593457"
   },
@@ -2126,6 +2267,7 @@
     "description": "Comproller Dave Horwitz makes his first appearance. A Russian travels the world to ask Dan one question, and Spencer devises a way to get off of an island if stranded.",
     "showDate": null,
     "releaseDate": "2014-11-11T22:46:00+00:00",
+    "duration": "01:37:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6471051966.mp3"
   },
@@ -2141,6 +2283,7 @@
     "description": "Schrab secretly schrab\u0027s the gang, Cameron Esposito and Rhea Butcher of the Put Your Hands Together podcast stop by and talk movies, Kumail returns, Dan and Erin got married, and in D\u0026D they encounter some sleeping bears.",
     "showDate": null,
     "releaseDate": "2014-11-25T00:39:00+00:00",
+    "duration": "02:07:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1261445002.mp3"
   },
@@ -2156,6 +2299,7 @@
     "description": "Harmontown welcomes the return of comptroller Jeff Davis, Mayor Harmon wants you off his lawn and creator of The IT Crowd, Graham Linehan, meets Dan on stage for the first time and they exchange their transcontinental show runner blues.",
     "showDate": null,
     "releaseDate": "2014-12-08T21:05:00+00:00",
+    "duration": "01:58:38",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6924818498.mp3"
   },
@@ -2171,6 +2315,7 @@
     "description": "It\u0027s the last Harmontown of 2014 and the first time we\u0027ve had the whole gang together in a while. Dan Harmon, Jeff Davis, Kumail Nanjiani, Erin McGathy, Spencer Crittendon and guest John Roy talk sniffers. Video available at Harmontown.com!",
     "showDate": null,
     "releaseDate": "2014-12-16T01:50:00+00:00",
+    "duration": "02:00:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3118086938.mp3?updated=1560295601"
   },
@@ -2186,6 +2331,7 @@
     "description": "Harmontown 2015 is here! Back To The Future 2 conspiracies, Ireland and D\u0026D goes on hiatus as the gang begins a 2015 ShadowRun campaign.",
     "showDate": null,
     "releaseDate": "2015-01-14T21:24:00+00:00",
+    "duration": "02:07:48",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3048674665.mp3"
   },
@@ -2201,6 +2347,7 @@
     "description": "Kumail comptrolls, Dan tries to cover the zeitgeist and is joined by David Cross! Who sits in while the gang begin their Shadow Run campaign. Music by YACHT.",
     "showDate": null,
     "releaseDate": "2015-01-28T20:43:00+00:00",
+    "duration": "02:23:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2865521820.mp3"
   },
@@ -2216,6 +2363,7 @@
     "description": "It\u0027s sports corner for all you Superbowl heads, audience member Jamal sheds some light on race and ShadowRun is in full effect.",
     "showDate": null,
     "releaseDate": "2015-02-04T19:53:00+00:00",
+    "duration": "02:13:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6058998457.mp3"
   },
@@ -2231,6 +2379,7 @@
     "description": "Dan solicits black audience members to join the show and organically, not by force or anything, they engage in a rap battle. Guest Greg Proops returns and adds a nice layer of insanity to our Shadow Run campaign.",
     "showDate": null,
     "releaseDate": "2015-02-11T21:53:00+00:00",
+    "duration": "01:59:17",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8793200116.mp3"
   },
@@ -2246,6 +2395,7 @@
     "description": "Post Valentine\u0027s Day Harmon is burnt out and declares it to be a bad show, then throws to Twitter and takes us along a musical journey. This is episode is so wide.",
     "showDate": null,
     "releaseDate": "2015-02-18T18:49:00+00:00",
+    "duration": "02:00:02",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7977376576.mp3"
   },
@@ -2261,6 +2411,7 @@
     "description": "It\u0027s Oscar night and Dino almost had a three way. There\u0027s a new Adam Goldberg, Erin McGathy\u0027s acceptance speech game corner, Shadow Run and more. RIP Harris Wittels, we miss you. End music \u0022Lisa\u0022 by Don\u0027t Stop Or We\u0027ll Die.",
     "showDate": null,
     "releaseDate": "2015-02-25T03:02:00+00:00",
+    "duration": "02:03:11",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2511788109.mp3"
   },
@@ -2276,6 +2427,7 @@
     "description": "King of all nerds, Curtis Armstrong, AKA \u0022Booger\u0022 visits Harmontown and apparently never has played a role-playing game before and then completely crushes it in Shadowrun.",
     "showDate": null,
     "releaseDate": "2015-03-04T03:34:00+00:00",
+    "duration": "02:05:17",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2761155168.mp3?updated=1562025727"
   },
@@ -2291,6 +2443,7 @@
     "description": "We meet the laziest rapper, Curtis Armstrong becomes the latest member of the Harmontown family and the plot in Shadowrun thickens.",
     "showDate": null,
     "releaseDate": "2015-03-11T22:37:00+00:00",
+    "duration": "01:58:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4180527222.mp3?updated=1562024746"
   },
@@ -2306,6 +2459,7 @@
     "description": "Harmontown LIVE from SXSW at the Yahoo! Community premiere party feat. Chris McKenna and a very loud bar!",
     "showDate": null,
     "releaseDate": "2015-03-17T22:22:00+00:00",
+    "duration": "01:57:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5282100447.mp3?updated=1562022913"
   },
@@ -2321,6 +2475,7 @@
     "description": "Hear ye, hear ye, Harmontown is now in session. There\u0027s some talkin\u0027, there\u0027s some rappin\u0027, there\u0027s some shadow runnin\u0027. Watch the video at Harmontown.com!",
     "showDate": null,
     "releaseDate": "2015-03-25T02:10:00+00:00",
+    "duration": "01:57:38",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9194196176.mp3?updated=1562021477"
   },
@@ -2336,6 +2491,7 @@
     "description": "Its HarmonBlock 2015, some of us really had ADD and we adhere to the wisdom of Sam Elliot on HARMONTOWN! Become a member! Get the video at harmontown.com",
     "showDate": null,
     "releaseDate": "2015-04-01T05:17:00+00:00",
+    "duration": "01:59:53",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2096923357.mp3?updated=1562019708"
   },
@@ -2351,6 +2507,7 @@
     "description": "It\u0027s Easter. Jeff does not understand Chain Zingers. Like, really doesn\u0027t get it. Curtis Armstrong returns for Shadowrun and there is a lot of testicle play. Watch the video at Harmontown.com!",
     "showDate": null,
     "releaseDate": "2015-04-07T23:28:00+00:00",
+    "duration": "01:52:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2645892210.mp3?updated=1562018428"
   },
@@ -2366,6 +2523,7 @@
     "description": "Rick and Morty\u0027s Justin Roiland makes a revelation to Curtis Armstrong. Harmon longs for the cold war and its Shadow Run, not Shadow Picnic! Brought to you by Doritos and Honda! Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-04-15T02:16:00+00:00",
+    "duration": "01:38:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2125009876.mp3?updated=1562016830"
   },
@@ -2381,6 +2539,7 @@
     "description": "Harmon hates muppets. We meet a guy named Skuta and shortly after, the most intense fan in the show\u0027s history. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-04-29T08:32:00+00:00",
+    "duration": "02:00:09",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9452351749.mp3?updated=1562009622"
   },
@@ -2396,6 +2555,7 @@
     "description": "Mayor Harmon\u0027s neighbor posts an elitist sign in their neighborhood and he loses it. There\u0027s rants, bits, baby talk, Shadownrun. Spencer, Curtis, Erin and DeMorge. Become a member and watch the video at Harmontown.com!",
     "showDate": null,
     "releaseDate": "2015-05-06T02:31:00+00:00",
+    "duration": "02:05:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8556507448.mp3?updated=1562016466"
   },
@@ -2411,6 +2571,7 @@
     "description": "Harmontown goes back to Portland for Bridgetown 2015 and it gets squatchy, bro!",
     "showDate": null,
     "releaseDate": "2015-05-13T01:02:00+00:00",
+    "duration": "02:06:37",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3913962223.mp3?updated=1562006425"
   },
@@ -2426,6 +2587,7 @@
     "description": "Sen. Bernie Sanders pays a visit to Harmontown and talks the bottom 45 percent of the top 60 percent of the top 1 percent. Watch the video at harmontown.com/live and become a member!",
     "showDate": null,
     "releaseDate": "2015-05-20T03:18:00+00:00",
+    "duration": "02:02:10",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2993846717.mp3?updated=1562005100"
   },
@@ -2441,6 +2603,7 @@
     "description": "The great Andy Kindler finally visits Harmontown!!! Watch the video at harmontown.com/live and become a member!",
     "showDate": null,
     "releaseDate": "2015-05-27T07:53:00+00:00",
+    "duration": "02:05:34",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9127618283.mp3?updated=1561766439"
   },
@@ -2456,6 +2619,7 @@
     "description": "Harmontown is back in Portland for Everything Is Terrible! Penis size is questioned and two well dressed audio members take the brunt of it, Dan is accused of sh*tting his pants and ends up revealing his balls. Watch the video at Harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-06-02T23:29:00+00:00",
+    "duration": "01:28:17",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9554704726.mp3?updated=1561763799"
   },
@@ -2471,6 +2635,7 @@
     "description": "Dan can see more colors than the average person and doesn\u0027t care because colors are dumb. Curtis Armstrong comptrolls. Watch the live video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-06-09T23:30:00+00:00",
+    "duration": "02:02:59",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9218698326.mp3?updated=1561594017"
   },
@@ -2486,6 +2651,7 @@
     "description": "In what has become an instant classic episode of Harmontown, Mayor Harmon is joined by Paget Brewster, Curtis Armstrong, Jeff Davis, Erin McGathy, Spencer Crittenden, Demorge Brown and more for a non-stop insane episode. Watch the video at Harmontown.c...",
     "showDate": null,
     "releaseDate": "2015-06-17T09:06:00+00:00",
+    "duration": "01:58:45",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7362760529.mp3?updated=1561592039"
   },
@@ -2501,6 +2667,7 @@
     "description": "Dan, Jeff and Spencer start out the show, World Cup sports corner and lots of privilege and guilt. Watch the video at Harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-06-24T01:29:00+00:00",
+    "duration": "02:05:52",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8970080096.mp3?updated=1561589913"
   },
@@ -2516,6 +2683,7 @@
     "description": "The reason Harmontown exists, Emily Gordon, guest for the first time. Kumail drops in, feminists are responsible for 99.9% of blowjobs and sperm is like a slushy. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2015-06-30T23:40:00+00:00",
+    "duration": "01:59:55",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3828999804.mp3?updated=1561588624"
   },
@@ -2531,6 +2699,7 @@
     "description": "Meet Taye Brigston the world\u0027s Littlest Show Promoter of Tiny You! Become a member and watch the video! harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-07-07T04:12:00+00:00",
+    "duration": "01:58:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9547733715.mp3?updated=1561582514"
   },
@@ -2546,6 +2715,7 @@
     "description": "Hot off of ComicCon, Harmontown summons harmenians to San Diego\u0027s Tin Roof for a night of drinking, rapping, dinosaurs, bananas and more. Watch the video at harmontown.com/live and become a member!",
     "showDate": null,
     "releaseDate": "2015-07-15T07:30:00+00:00",
+    "duration": "02:11:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1744918897.mp3?updated=1561580518"
   },
@@ -2561,6 +2731,7 @@
     "description": "How big is a bulls urethra? Dan has a video game romance he\u0027s guilty about and the gang tries to initiate some butt chuggin\u0027. Become a member! Only $5 and get the HD live stream and near instant download after the show!",
     "showDate": null,
     "releaseDate": "2015-07-22T06:24:00+00:00",
+    "duration": "02:11:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2985013051.mp3?updated=1561579030"
   },
@@ -2576,6 +2747,7 @@
     "description": "Dan\u0027s in New York for a project and Harmontown does a small intimate show at Upright Citizens Brigade Theater East. Daily Show writer Rory Albanese swings by, Absinth is drank. Drunk? Dranken? Whatever! Watch the video at Harmontown.com/live and become...",
     "showDate": null,
     "releaseDate": "2015-08-05T02:23:00+00:00",
+    "duration": "02:03:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2828358188.mp3?updated=1561418820"
   },
@@ -2591,6 +2763,7 @@
     "description": "Erin is out of the country and Harmon is playing a lot of video games and has strong opinions on them. Ryan Ridley comptrolls and the guys from Before You Were Funny make Harmon read one of his earliest short stories. Watch the video at harmontown.com/...",
     "showDate": null,
     "releaseDate": "2015-08-12T07:30:00+00:00",
+    "duration": "02:07:29",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7347511160.mp3?updated=1561416479"
   },
@@ -2606,6 +2779,7 @@
     "description": "Our friends Bobcat Goldthwait and Curtis Armstrong return to the show with plenty of insane stories to share. Watch the live at harmontown.com/live and become a member!",
     "showDate": null,
     "releaseDate": "2015-08-19T06:13:00+00:00",
+    "duration": "01:50:29",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9884448786.mp3?updated=1561415215"
   },
@@ -2621,6 +2795,7 @@
     "description": "As we learned last week, the movie Boat Trip is insane, and a surprise drop in from Horatio Sanz discusses just how strange working on it really was. Later, the audiences awwws. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-08-25T22:34:00+00:00",
+    "duration": "02:10:03",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1030279687.mp3?updated=1561412499"
   },
@@ -2636,6 +2811,7 @@
     "description": "Harmon experiences true virtual reality and makes soup, Paul Scheer and Rob Huebel join us for the first time, chimpanzees are monsters and ideal ways to die. Watch the video in HD at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-09-02T17:31:00+00:00",
+    "duration": "01:59:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6994483720.mp3?updated=1561406218"
   },
@@ -2651,6 +2827,7 @@
     "description": "Kumail returns! The Lil\u0027 Cuties drop by, Harmon questions his sperm count and MORE!",
     "showDate": null,
     "releaseDate": "2015-09-09T07:09:00+00:00",
+    "duration": "02:14:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9623823308.mp3?updated=1561404935"
   },
@@ -2666,6 +2843,7 @@
     "description": "Author of the quintessential book on autism, \u0022NeuroTribes\u0022, Steven Silberman joins Harmontown for an in depth conversation on the history of and hyper-intelligent nature of autism. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2015-09-16T07:00:00+00:00",
+    "duration": "02:08:09",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6337563853.mp3?updated=1561403794"
   },
@@ -2681,6 +2859,7 @@
     "description": "Senator Bernie Sanders returns, Harmon thinks of the most insulting thing to tattoo above your penis and Shadowrun is faced with a newfound time limit. Watch the video and become a member at harmontown.com!",
     "showDate": null,
     "releaseDate": "2015-09-23T05:32:00+00:00",
+    "duration": "02:05:19",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8074304759.mp3?updated=1561399904"
   },
@@ -2696,6 +2875,7 @@
     "description": "Steve Agee comptrolls, Felicia Day guests, Shadowrun kicks ass. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-09-30T00:21:00+00:00",
+    "duration": "02:04:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7721272978.mp3?updated=1561161087"
   },
@@ -2711,6 +2891,7 @@
     "description": "Comptroller Rob Schrab comes out of the gate yelling, an over zealous fan brings hot sauce to the stage and guest Amy Berg and Wil Wheaton play a game of Werewolf!",
     "showDate": null,
     "releaseDate": "2015-10-07T02:33:00+00:00",
+    "duration": "02:13:28",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1155491856.mp3?updated=1561158088"
   },
@@ -2720,13 +2901,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #15",
     "image": "episode-placeholder.jpg",
     "description": "Lost Episode #15",
     "showDate": null,
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -2741,6 +2923,7 @@
     "description": "Dan and Erin get a divorce, The Bootsins return and are torn up about a dying eucalyptus tree, Curtis Armstrong comptrolls, Colin Hanks guests... buckle up. watch the video on harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-10-14T18:03:00+00:00",
+    "duration": "02:11:57",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7661325042.mp3?updated=1561155997"
   },
@@ -2756,6 +2939,7 @@
     "description": "Harmontown invades The New York Television festival for the launch of SeeSo, a new comedy streaming service and the home of our upcoming show Harmonquest!",
     "showDate": null,
     "releaseDate": "2015-10-21T23:58:00+00:00",
+    "duration": "01:01:04",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4321993911.mp3?updated=1561153990"
   },
@@ -2771,6 +2955,7 @@
     "description": "We welcome the great Andy Kindler back to Harmontown and Dan goes to the haunted hayride and something incredibly offensive happens. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2015-10-28T04:26:00+00:00",
+    "duration": "02:04:33",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1112536018.mp3?updated=1561153550"
   },
@@ -2786,6 +2971,7 @@
     "description": "Back by popular demand, Rob Schrab returns to the show even to Harmon\u0027s detriment. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2015-11-03T23:59:00+00:00",
+    "duration": "02:08:06",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6205817424.mp3?updated=1561146922"
   },
@@ -2801,6 +2987,7 @@
     "description": "Guest comptroller Ryan Ridley and guest Aubrey Plaza forge their way through the pseudo socio-political intestinal tract of Harmontown! Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-11-11T01:11:00+00:00",
+    "duration": "02:18:10",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6281409763.mp3?updated=1561144376"
   },
@@ -2816,6 +3003,7 @@
     "description": "Get ready for two nights of the craziest Harmontowns ever.",
     "showDate": null,
     "releaseDate": "2015-11-18T04:50:00+00:00",
+    "duration": "01:35:02",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5763141609.mp3?updated=1561142080"
   },
@@ -2831,6 +3019,7 @@
     "description": "Scott Adsit and Dino Stamatopoulos join Harmontown Night 2 at the Gramcery. Watch the INSANE footage at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-11-21T21:44:00+00:00",
+    "duration": "02:15:57",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3793708845.mp3?updated=1561141113"
   },
@@ -2846,6 +3035,7 @@
     "description": "Thomas Middleditch joins Harmontown for some full body scrubbing, Shadow Run and possibly some deeply offensiveness. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2015-11-26T03:43:00+00:00",
+    "duration": "02:07:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5840030065.mp3?updated=1560987817"
   },
@@ -2861,6 +3051,7 @@
     "description": "The guys make Siri do their bidding, an emotional moment with an audeince memeber, Rick and Morty writers playing Shadowrun. Be careful, cause there\u0027s snakes out here bitch! harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-12-03T04:43:00+00:00",
+    "duration": "02:16:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7705968922.mp3?updated=1560986309"
   },
@@ -2876,6 +3067,7 @@
     "description": "Kyle, heart transplant survivor joins the stage and Rob Schrab guest comptrolls and makes Dan feel bad about not hanging out with him more. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2015-12-08T11:38:00+00:00",
+    "duration": "02:23:22",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9840576740.mp3?updated=1560982593"
   },
@@ -2891,6 +3083,7 @@
     "description": "Rob Schrab questions Lord Of The Ring(s), depression and someone dies in Shadow Run! Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-12-16T01:11:00+00:00",
+    "duration": "02:12:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4624322295.mp3?updated=1560969258"
   },
@@ -2906,6 +3099,7 @@
     "description": "Its the last Harmontown of 2015. Plenty of Schrabbing, mannequin leg fetishes, cartoon pornography and we meet Fred, a video game instruction manual artist. Thanks for listening everyone! We will see you in 2016! watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2015-12-23T07:42:00+00:00",
+    "duration": "01:59:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7052337107.mp3?updated=1560815017"
   },
@@ -2921,6 +3115,7 @@
     "description": "Harmontown returns to San Francisco Sketchfest for porn, adult diapers, breast cancer awareness and pure insanity. Watch the video at harmontown.com/live! Become a member for $5 a month.",
     "showDate": null,
     "releaseDate": "2016-01-13T07:59:00+00:00",
+    "duration": "01:51:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5718170164.mp3?updated=1560812976"
   },
@@ -2936,6 +3131,7 @@
     "description": "Guest comptroller Rhea Butcher joins your Mayor through the world of politics, gay weddings and mannequin legs. Watch the video at harmontown.com/live. Become a member!",
     "showDate": null,
     "releaseDate": "2016-01-18T08:26:00+00:00",
+    "duration": "02:01:11",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4126889238.mp3?updated=1560556056"
   },
@@ -2951,6 +3147,7 @@
     "description": "The now infamous episode of Harmontown from Miami with guest comptroller Dino Stamatopoulos takes a turn when some uncool violence goes down. Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-01-26T02:17:00+00:00",
+    "duration": "01:58:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4930919055.mp3?updated=1560553950"
   },
@@ -2966,6 +3163,7 @@
     "description": "Fallout Shelter racism, Rob Schrab has bags on his feet and wonders, how come we haven\u0027t gone down? harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-01-28T19:13:00+00:00",
+    "duration": "02:00:31",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4403673610.mp3?updated=1560551812"
   },
@@ -2981,6 +3179,7 @@
     "description": "Our friend Colin joins us to fill us in what it\u0027s like to be a little person. Brought to you by Balls, it\u0027s whats for dinner. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2016-02-03T06:00:00+00:00",
+    "duration": "01:55:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3971065366.mp3?updated=1560547150"
   },
@@ -2996,6 +3195,7 @@
     "description": "Harmontown meets Zoe Lister Jones then turns into an hour of improv and complete chaos! You really should watch the video at harmontown.com/live. Become a member!",
     "showDate": null,
     "releaseDate": "2016-02-10T06:00:00+00:00",
+    "duration": "02:01:55",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8725070688.mp3?updated=1560541629"
   },
@@ -3011,6 +3211,7 @@
     "description": "A game changing sold out show in Chicago\u0027s beautiful Park West theatre! Music by Babes. Watch the video at harmontown.com/live, become a member!",
     "showDate": null,
     "releaseDate": "2016-02-24T02:50:00+00:00",
+    "duration": "01:56:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8739285076.mp3?updated=1560540027"
   },
@@ -3026,6 +3227,7 @@
     "description": "Harmon loses an Oscar, Phil and Mike of HBO\u0027s Animals, Abed Geith returns and Schrab is extra disruptive on HARMONTOWN! Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-03-02T06:00:00+00:00",
+    "duration": "01:59:42",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1911269215.mp3?updated=1560538069"
   },
@@ -3041,6 +3243,7 @@
     "description": "Dan is stoned...Schrab too, the creator of The Stanley Parable randomly joins the stage and Spencer steals the show with some improv. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2016-03-09T04:39:00+00:00",
+    "duration": "02:03:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8942295485.mp3?updated=1560383937"
   },
@@ -3056,6 +3259,7 @@
     "description": "Rob Corddry visits Harmontown for the first time and is a die-hard fan, everyone falls in love with him. Later we meet Rob Schrab\u0027s parents! Watch the video at harmontown.com. Become a member! Outro music: \u0022Lonely Forever\u0022 by Babes",
     "showDate": null,
     "releaseDate": "2016-03-16T05:00:00+00:00",
+    "duration": "02:07:03",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7659970412.mp3?updated=1560382687"
   },
@@ -3071,6 +3275,7 @@
     "description": "The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens. Watch the video at harmontown.com! Become a member! Opening song by Babes. feat. Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, A...",
     "showDate": null,
     "releaseDate": "2016-03-23T04:28:00+00:00",
+    "duration": "02:05:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8911442095.mp3?updated=1560380738"
   },
@@ -3086,6 +3291,7 @@
     "description": "A packed episode leads to three Robs and the roast of Jimmy Carrane. Watch the video at harmontown.com/live! Opening music by Titanic Sinclair! Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Rob Corddry, Jimmy Carrane, Cameron Espos...",
     "showDate": null,
     "releaseDate": "2016-03-30T05:00:00+00:00",
+    "duration": "01:59:45",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3342011339.mp3?updated=1560378932"
   },
@@ -3101,6 +3307,7 @@
     "description": "It\u0027s a whodunit with Paul F. Tompkins on Harmontown!",
     "showDate": null,
     "releaseDate": "2016-04-06T05:00:00+00:00",
+    "duration": "02:01:56",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5103402031.mp3?updated=1560377659"
   },
@@ -3116,6 +3323,7 @@
     "description": "Aisha Tyler visits Harmontown along with Hour Of Goon\u0027s Jeordie White and Fred Sablan for some complete insanity. Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-04-13T05:00:00+00:00",
+    "duration": "02:08:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4323981266.mp3?updated=1560376564"
   },
@@ -3131,6 +3339,7 @@
     "description": "Deadbeat\u0027s Tyler Labine plus the return of Kumail Nanjiani with Rob Schrab, Spencer and Jeff all on stage at once! Watch the video at harmontown.com/live! Music by Jeordie White",
     "showDate": null,
     "releaseDate": "2016-04-20T05:00:00+00:00",
+    "duration": "02:04:20",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2609226706.mp3?updated=1560374783"
   },
@@ -3146,6 +3355,7 @@
     "description": "Gigantic sweetheart and actor Derek Mears visits Harmontown, Dan doesn\u0027t trust when Rob says \u0022I love you\u0022, music by Jeordie White. Watch the video at harmontown.com! Only $5 a month, we are independently owned, you can watch live, stream or download an...",
     "showDate": null,
     "releaseDate": "2016-04-27T05:00:00+00:00",
+    "duration": "02:03:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3551674438.mp3?updated=1560211176"
   },
@@ -3161,6 +3371,7 @@
     "description": "The most legendary television writer and producer in all of history Norman Lear joins Harmontown, you\u0027ll never look at birthday candles the same way again. Watch the video at harmontown.com/live! $5 a month gets you access to the live stream, instant ...",
     "showDate": null,
     "releaseDate": "2016-05-04T17:33:00+00:00",
+    "duration": "02:09:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7272187326.mp3?updated=1560208635"
   },
@@ -3176,6 +3387,7 @@
     "description": "The Doughboys drop by Harmontown on Mother\u0027s Day and some insane improv ensues. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2016-05-11T05:00:00+00:00",
+    "duration": "02:09:10",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7740080157.mp3?updated=1560206588"
   },
@@ -3191,6 +3403,7 @@
     "description": "Your Mayor poops his pants again, flat earth theory and pulling the plug on Rob Schrab. Subscribe for $5 at harmontown.com/live! Live streaming videos, help us big Harmontown bigger and better!",
     "showDate": null,
     "releaseDate": "2016-05-18T05:15:00+00:00",
+    "duration": "02:03:26",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5627385465.mp3?updated=1560204642"
   },
@@ -3206,6 +3419,7 @@
     "description": "Guest comptroller Cameron Esposito, a baseball team clad Rhea Butcher, a just wrapped Great Minds director Heath Cullen, our transgender friend Jane Cook equipped with a key to Harmon\u0027s house, a poked in the stomach Spencer and a very happy Harmon on a...",
     "showDate": null,
     "releaseDate": "2016-05-25T05:20:00+00:00",
+    "duration": "02:11:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4071830522.mp3?updated=1560201980"
   },
@@ -3221,6 +3435,7 @@
     "description": "Dan and Jeff trip balls and your Mayor has a message from the Void. Jason Sudeikis returns for the first time since the movie tour along with first time guest Will Forte! Watch the video at harmontown.com/live! Become a member",
     "showDate": null,
     "releaseDate": "2016-06-01T08:07:00+00:00",
+    "duration": "02:08:06",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5095515149.mp3?updated=1560196813"
   },
@@ -3236,6 +3451,7 @@
     "description": "Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever. Watch the video for free at harmontown.com/live! Thank you for all your support. This episode is ...",
     "showDate": null,
     "releaseDate": "2016-06-08T05:00:00+00:00",
+    "duration": "02:13:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6676936577.mp3?updated=1560195531"
   },
@@ -3251,6 +3467,7 @@
     "description": "Spencer comptrolls, Dino stops by and it\u0027s hot as absolute Hell. Watch the video at harmontown.com/live! Become a member and help grow the show! This episode is brought to you by Fullscreen\u2013-get your free one-month trial at fullscreen.com/harmontown!",
     "showDate": null,
     "releaseDate": "2016-06-22T05:00:00+00:00",
+    "duration": "02:02:22",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6654036124.mp3?updated=1560193507"
   },
@@ -3266,6 +3483,7 @@
     "description": "An all-star hunk episode of Harmontown with humanitarian beefcake Daniel Gillies, the mouth watering Duncan Trussell and the cut from marble stone greek god Kumail Nanjiani. Watch the video at harmontown.com/live! Become a member, support our show. Th...",
     "showDate": null,
     "releaseDate": "2016-06-29T04:58:00+00:00",
+    "duration": "01:58:33",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9504164677.mp3?updated=1560191838"
   },
@@ -3281,6 +3499,7 @@
     "description": "Power trio Dan Harmon, Jeff Davis and Spencer Crittenden lay down another classic episode of Harmon. Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-07-06T20:37:00+00:00",
+    "duration": "02:01:43",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6294944934.mp3?updated=1560189832"
   },
@@ -3296,6 +3515,7 @@
     "description": "What would seem like a classic episode format, becomes weird. Weird af. A great weird episode. Watch the video at harmontown.com/live !",
     "showDate": null,
     "releaseDate": "2016-07-13T08:55:00+00:00",
+    "duration": "02:13:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6084753233.mp3?updated=1559947902"
   },
@@ -3311,6 +3531,7 @@
     "description": "There is no other Harmontown like this. In an effort to sell tickets Dan writes a Community Movie projected on screen. Watch ONLY at harmontown.com/live. It\u0027s $5 a month! Subscribe already. Live streaming, instant post-show downloads and get the podcas...",
     "showDate": null,
     "releaseDate": "2016-07-27T07:58:00+00:00",
+    "duration": "01:52:07",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3520710901.mp3?updated=1559944757"
   },
@@ -3326,6 +3547,7 @@
     "description": "Of Search Party and Arrested Development Alia Shawkat stops by self-imposed sleepy Harmontown with a historical 30 minute MeUndies commercial. Visit MeUndies.com/feral. Become a member at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-07-30T04:18:00+00:00",
+    "duration": "02:12:02",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9731376278.mp3?updated=1559933874"
   },
@@ -3341,6 +3563,7 @@
     "description": "Harmontown is welcomed by a warm crowd and a sold out show in Montreal for another gut spilling and heart wrenching episode steeped in comedy and loving kindness. Watch the video exclusively at harmontown.com/live. Become a member! We are a small busi...",
     "showDate": null,
     "releaseDate": "2016-08-03T08:53:00+00:00",
+    "duration": "01:35:37",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6991577370.mp3?updated=1559931827"
   },
@@ -3350,13 +3573,14 @@
     "rssIndex": null,
     "episodeNumber": null,
     "isLostEpisode": true,
-    "isTrailer": null,
+    "isTrailer": false,
     "title": "Lost Episode #16",
     "image": "episode-placeholder.jpg",
     "description": "Lost Episode #16",
     "showDate": null,
     "releaseDate": null,
-    "hasExplicitLanguage": null,
+    "duration": "00:00:00",
+    "hasExplicitLanguage": false,
     "soundfile": null
   },
   {
@@ -3371,6 +3595,7 @@
     "description": "Dan riffs on what happens when Michael Winslow goes to war with Radiohead. Later on, transgender back rubs. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2016-08-10T20:52:00+00:00",
+    "duration": "01:58:10",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3508953202.mp3?updated=1559777010"
   },
@@ -3386,6 +3611,7 @@
     "description": "Of the FeralAudio.com podcast Obsessed, Joseph Scrimshaw talks Obsession with the Harmontown gang and your Mayor dives into his pantyhose fetish. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2016-08-17T03:32:00+00:00",
+    "duration": "02:00:41",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5723474089.mp3?updated=1559774885"
   },
@@ -3401,6 +3627,7 @@
     "description": "A 4 year old takes the stage, a 16 year old stage, Cameron Esposito and Rhea Butcher, The Bootzins, Casper Mattresses. Watch the video at harmontown.com/live. We own everything! Help us grow, become a member.",
     "showDate": null,
     "releaseDate": "2016-08-24T05:49:00+00:00",
+    "duration": "02:05:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9537031624.mp3?updated=1559772408"
   },
@@ -3416,6 +3643,7 @@
     "description": "My Favorite Murder meets Harmontown. Watch the video at harmontown.com/live! Become a member!",
     "showDate": null,
     "releaseDate": "2016-08-31T09:57:00+00:00",
+    "duration": "02:02:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9584979609.mp3?updated=1559765095"
   },
@@ -3431,6 +3659,7 @@
     "description": "Skull Juice\u0027s Dino Stamatopoulos and Andy Dick and the creators of \u0022Stranger Things\u0022 The Duffer Brothers all in one episode. Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-09-14T22:54:00+00:00",
+    "duration": "02:01:04",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5045132074.mp3?updated=1559762320"
   },
@@ -3446,6 +3675,7 @@
     "description": "SCHRAB IS HERE. And the best improvised scene ever ensues. Watch the video at harmontown.com/live. Become a member! Watch the live stream and gain access to all our shows anytime anywhere.",
     "showDate": null,
     "releaseDate": "2016-09-21T23:45:00+00:00",
+    "duration": "02:01:33",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6204938258.mp3?updated=1559759946"
   },
@@ -3461,6 +3691,7 @@
     "description": "Harmontown comes to Toronto along with Emily Gordon and Kumail Nanjiani to perform some weird improv in front of a lot of people. Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2016-09-30T05:04:00+00:00",
+    "duration": "01:56:06",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8596851826.mp3?updated=1559757108"
   },
@@ -3476,6 +3707,7 @@
     "description": "Rapper Logic joins Harmontown and we continue our legacy of the greatest advertising money can buy. Watch the live and on demand at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2016-10-05T10:23:00+00:00",
+    "duration": "02:01:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8945763572.mp3?updated=1559605758"
   },
@@ -3491,6 +3723,7 @@
     "description": "The Michael Jordan of porn Riley Reid enlightens Harmenians and Californians why we need to vote NO on Prop 60. dontharassca.com Later military nerds enlighten us all on why not to join the military or get out. Watch the video at harmontown.com/live. B...",
     "showDate": null,
     "releaseDate": "2016-10-12T10:25:00+00:00",
+    "duration": "01:58:25",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8424537740.mp3"
   },
@@ -3506,6 +3739,7 @@
     "description": "Andy Dick and Dino Stamatopoulos return for some music, slide whistle and some feels. Your Mayor uses the pressure valve on his brain and lets off some steam. Watch the video at harmontown.com/live! Become a member for $5/mo to watch the show stream li...",
     "showDate": null,
     "releaseDate": "2016-10-20T05:04:00+00:00",
+    "duration": "02:03:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6091559969.mp3"
   },
@@ -3521,6 +3755,7 @@
     "description": "Drew Ackerman of the Sleep With Me podcast tries to test out his ability to put people to sleep on the Harmontown fan. Speaking of fans, one of the weirdest ones ever takes the stage. Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2016-10-27T00:45:00+00:00",
+    "duration": "02:06:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6815451731.mp3"
   },
@@ -3536,6 +3771,7 @@
     "description": "We\u0027re back at New York\u0027s Gramercy Theater and meet comedian and artist Mary Houlihan as well as Evan Shapiro, the Founder SeeSo, the home of Harmonquest!",
     "showDate": null,
     "releaseDate": "2016-11-09T00:05:00+00:00",
+    "duration": "01:32:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9252200176.mp3"
   },
@@ -3551,6 +3787,7 @@
     "description": "For the first time EVER it\u0027s Spencer and Dan. Two stools, one show runner, one game master. Watch both nights at harmontown.com/live, become a member!",
     "showDate": null,
     "releaseDate": "2016-11-11T07:10:00+00:00",
+    "duration": "01:46:30",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3937338382.mp3"
   },
@@ -3566,6 +3803,7 @@
     "description": "In the wake of an upsetting election and racial tension, Harmontown welcomes the Avenger\u0027s Elizabeth Olsen, Rick and Morty\u0027s Brandon Johnson and our first musical guest ever Babes to suss it all out. Ha-ha-ha ha-ha ha ha-ha.",
     "showDate": null,
     "releaseDate": "2016-11-16T11:42:00+00:00",
+    "duration": "02:14:07",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6470253579.mp3"
   },
@@ -3581,6 +3819,7 @@
     "description": "\u0022Erin McGathy makes a triumphant return to Harmontown as the role of Spencer and brings the sounded of 20 sided die back to Harmontown! Watch the video at harmontown.com/live Bonus track: an all new song originally made for Harmontown by Colleen Gree...",
     "showDate": null,
     "releaseDate": "2016-11-24T03:01:00+00:00",
+    "duration": "01:48:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9729988647.mp3?updated=1596672956"
   },
@@ -3596,6 +3835,7 @@
     "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Ptolemy Slocum.",
     "showDate": null,
     "releaseDate": "2016-12-07T20:08:00+00:00",
+    "duration": "02:02:46",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7831819096.mp3?updated=1596675652"
   },
@@ -3611,6 +3851,7 @@
     "description": "Harmontown journeys to Australia! First stop, Brisbane.",
     "showDate": null,
     "releaseDate": "2016-12-21T15:59:00+00:00",
+    "duration": "01:59:06",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1350613279.mp3"
   },
@@ -3626,6 +3867,7 @@
     "description": "The Australian adventures of Harmontown continue with a sold out show in Melbourne, Australia! Watch the video at harmontown.com/live.",
     "showDate": null,
     "releaseDate": "2016-12-28T20:08:00+00:00",
+    "duration": "02:03:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1334561981.mp3"
   },
@@ -3641,6 +3883,7 @@
     "description": "Night 1 of Harmontown at the historic Sydney Opera House in Sydney Australia!",
     "showDate": null,
     "releaseDate": "2017-01-05T00:22:00+00:00",
+    "duration": "02:07:33",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5271634387.mp3"
   },
@@ -3656,6 +3899,7 @@
     "description": "Night 2 of Harmontown\u0027s historic performances at the Sydney Opera House has a true opera unfold. Watch at harmontown.com/live. Become a member, we\u0027re independent. Help us make more shows!",
     "showDate": null,
     "releaseDate": "2017-01-10T01:09:00+00:00",
+    "duration": "02:00:38",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3964757791.mp3?updated=1596787200"
   },
@@ -3671,6 +3915,7 @@
     "description": "Harmontown is back in the states for the first show of 2017! Watch the video at harmontown.com/live!",
     "showDate": null,
     "releaseDate": "2017-01-12T09:30:00+00:00",
+    "duration": "02:02:39",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3406345858.mp3?updated=1596834110"
   },
@@ -3686,6 +3931,7 @@
     "description": "Founders of Reductress, Beth Newell and Sarah Pappalardo join Harmontown to promote their podcast Mouth Time and Dan tries to gain a feminist perspective, our friend Brandon Johnson returns and more! Watch the video at harmontown.com/live",
     "showDate": null,
     "releaseDate": "2017-01-18T17:00:00+00:00",
+    "duration": "02:00:23",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5865931038.mp3?updated=1596834230"
   },
@@ -3701,6 +3947,7 @@
     "description": "Fascism comes to America and Harmontown susses it out with the city of San Francisco. Watch the video at harmontown.com! Become a member. Original music made for Harmontown by Titanic Sinclair.",
     "showDate": null,
     "releaseDate": "2017-02-02T06:45:00+00:00",
+    "duration": "01:56:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7033395606.mp3?updated=1596827132"
   },
@@ -3716,6 +3963,7 @@
     "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab and Cassandra Church. Watch the video at harmontown.com/live. Become a member, help support the show!",
     "showDate": null,
     "releaseDate": "2017-02-08T08:15:00+00:00",
+    "duration": "02:05:28",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2483494367.mp3?updated=1596826350"
   },
@@ -3731,6 +3979,7 @@
     "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Richie Keen, Dino Stamatopoulos, Scott Adsit, Britta Phillips, Rob Schrab and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-02-15T10:00:00+00:00",
+    "duration": "02:00:52",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5112786742.mp3?updated=1596825121"
   },
@@ -3746,6 +3995,7 @@
     "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Open Mike Eagle.",
     "showDate": null,
     "releaseDate": "2017-02-22T20:39:00+00:00",
+    "duration": "02:02:23",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7187157677.mp3"
   },
@@ -3761,6 +4011,7 @@
     "description": "Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jason Sklar, Randy Sklar and Brandon Johnson.",
     "showDate": null,
     "releaseDate": "2017-03-01T17:16:00+00:00",
+    "duration": "01:47:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7386526526.mp3"
   },
@@ -3776,6 +4027,7 @@
     "description": "Featuring Dan Harmon, Jeff Bryan Davis, and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2017-03-08T07:30:00+00:00",
+    "duration": "02:07:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8575453930.mp3"
   },
@@ -3791,6 +4043,7 @@
     "description": "Guest Doug Benson and audience members discuss movies, Dan \u0026 Spencer do some feminist role playing, and Dan gets complimented on his beer choice.",
     "showDate": null,
     "releaseDate": "2017-03-16T07:00:00+00:00",
+    "duration": "01:16:22",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3174263783.mp3"
   },
@@ -3806,6 +4059,7 @@
     "description": "Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Tim Talbott.",
     "showDate": null,
     "releaseDate": "2017-03-22T07:00:00+00:00",
+    "duration": "01:54:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2046806980.mp3"
   },
@@ -3821,6 +4075,7 @@
     "description": "Featuring Dan Harmon, Jeff B. Davis, Rob Schrab and Brandon Johnson",
     "showDate": null,
     "releaseDate": "2017-03-29T05:48:00+00:00",
+    "duration": "01:51:07",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2062953615.mp3?updated=1596756147"
   },
@@ -3836,6 +4091,7 @@
     "description": "Harmontown joins the Chicago Improv Festival with guest Comptroller Brandon Johnson. Improv legends Jimmy Carrane and Scott Adsit help Dan demonstrate the difference between improv and written comedy, while Brandon and Dan discover the seven types of p...",
     "showDate": null,
     "releaseDate": "2017-04-05T05:37:00+00:00",
+    "duration": "01:49:56",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2468356696.mp3"
   },
@@ -3851,6 +4107,7 @@
     "description": "Creator of the documentary \u201CAccidental Courtesy: Daryl Davis, Race \u0026 America\u201D Matt Ornstein drops by to discuss his new film with guests Brandon Johnson and Steve Agee. Steve Levy does a quick Jew and A. Featuring Dan Harmon, Jeff B. Davis, Spencer Cr...",
     "showDate": null,
     "releaseDate": "2017-04-12T13:51:00+00:00",
+    "duration": "02:05:01",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6664172127.mp3"
   },
@@ -3866,6 +4123,7 @@
     "description": "Kumail and Emily return to discuss Harmontown leaving NerdMelt, Spencer \u0026 Schrab provide color commentary while Brandon Johnson and Doug Benson get to meet Dan\u0027s newest rap character, Peanut Jones. Featuring Dan Harmon, Jeff B. Davis, Spencer Crittende...",
     "showDate": null,
     "releaseDate": "2017-04-19T05:09:00+00:00",
+    "duration": "01:57:39",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5143422799.mp3?updated=1596757203"
   },
@@ -3881,6 +4139,7 @@
     "description": "The end of an era when Harmontown performs its last show on the stages of Nerdmelt in the back of Meltdown comics with the help of Mitch Hurwitz.",
     "showDate": null,
     "releaseDate": "2017-04-26T08:03:00+00:00",
+    "duration": "02:02:24",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7562208359.mp3?updated=1596757730"
   },
@@ -3896,6 +4155,7 @@
     "description": "Our first show after moving to the Starburns Castle with Brandon Johnson as the guest comptroller! Dan finds a giant surprise gift on stage then shows off his latest Minecraft creations then we hear the history of America as a rap. Featuring Dan Harmo...",
     "showDate": null,
     "releaseDate": "2017-05-03T13:52:00+00:00",
+    "duration": "01:59:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3847603239.mp3?updated=1596758479"
   },
@@ -3911,6 +4171,7 @@
     "description": "Dan explores new interactive options for the show, Rob Corddry and Rob Schrab weigh in on Dan\u0027s writing methods, while Guest Comptroller Brandon Johnson becomes Dan\u0027s angry writing coach. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob C...",
     "showDate": null,
     "releaseDate": "2017-05-10T08:00:00+00:00",
+    "duration": "01:58:22",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1256494511.mp3?updated=1596759091"
   },
@@ -3926,6 +4187,7 @@
     "description": "Mystery Science Theater\u0027s Joel Hodgson stops by, everyone\u0027s world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, J...",
     "showDate": null,
     "releaseDate": "2017-05-24T06:43:00+00:00",
+    "duration": "02:03:56",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7038219060.mp3?updated=1596759709"
   },
@@ -3941,6 +4203,7 @@
     "description": "We learn some shocking truths about Spencer while Steve Levy fills in for him, Fred Stoller delves deep into the writing process of Seinfeld, Dan suspects our guest comptroller (Brandon Johnson) is a time traveler. Featuring Dan Harmon, Brandon Johnson...",
     "showDate": null,
     "releaseDate": "2017-05-31T05:47:00+00:00",
+    "duration": "02:11:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3180026616.mp3?updated=1596760999"
   },
@@ -3956,6 +4219,7 @@
     "description": "Jeff Davis returns with a fantastic reprise of the classic \u201CPringles Dick\u201D. Brandon Johnson passes the comptroller torch back to Jeff. Dan, Jeff, Spencer and Steve Levy create characters for their new D\u0026D campaign! Featuring Dan Harmon, Jeff Davis, Spe...",
     "showDate": null,
     "releaseDate": "2017-06-07T13:50:00+00:00",
+    "duration": "02:04:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3321103982.mp3?updated=1596761750"
   },
@@ -3971,6 +4235,7 @@
     "description": "Dan and Jeff take their brand new role playing characters out for a spin. Christina Oh talks movies with Dan. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Christina Oh.",
     "showDate": null,
     "releaseDate": "2017-06-21T12:00:00+00:00",
+    "duration": "02:01:53",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6164762105.mp3?updated=1596762494"
   },
@@ -3986,6 +4251,7 @@
     "description": "Harmontown goes to Chris Hardwick\u0027s ID10T Festival. Dan raps about Kubrick, takes questions from the audience, does some push ups and even dance battles with a cosplayer! Our role playing game continues, with Steve getting a feel for Diarrhea Junior. F...",
     "showDate": null,
     "releaseDate": "2017-06-28T15:17:00+00:00",
+    "duration": "01:25:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1116061381.mp3?updated=1596762834"
   },
@@ -4001,6 +4267,7 @@
     "description": "Role playing \u0026 Ghostsplaining through our 250th episode! A medical emergency is averted after Jeff gets a nose bleed from laughing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-07-06T01:43:00+00:00",
+    "duration": "02:03:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6996533152.mp3?updated=1596763711"
   },
@@ -4016,6 +4283,7 @@
     "description": "Dan dives into his writing process, we go deep into the meme wars, before wrapping the show up with some role playing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-07-12T10:00:00+00:00",
+    "duration": "02:08:04",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5055069311.mp3?updated=1596764386"
   },
@@ -4031,6 +4299,7 @@
     "description": "Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-07-19T19:36:00+00:00",
+    "duration": "02:08:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6825371497.mp3"
   },
@@ -4046,6 +4315,7 @@
     "description": "Comedian Jamali Maddix comes by to discuss his project exploring extremism. While role playing, Steve Levy discovers the most beautiful horses he\u0027s ever seen. Dan closes the show with a rap about West Virginia. Featuring Dan Harmon, Jeff Davis, Spencer...",
     "showDate": null,
     "releaseDate": "2017-08-09T10:00:00+00:00",
+    "duration": "02:06:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3016743362.mp3?updated=1596764788"
   },
@@ -4061,6 +4331,7 @@
     "description": "Dan explains his feelings on Nazis, The Game Grumps (Arin Hanson \u0026 Dan Avidan) visit the show, then the gang continues their role playing adventures. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Arin Hanson, Dan Avidan and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-08-16T10:00:00+00:00",
+    "duration": "01:50:10",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2734591514.mp3?updated=1596592157"
   },
@@ -4076,6 +4347,7 @@
     "description": "Graham Linehan returns to Harmontown! Dan discovers what an \u201Comega virgin\u201D is by a dramatic reading of an incident involving creepy soup. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Graham Linehan and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-08-23T10:00:00+00:00",
+    "duration": "02:02:48",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5773768330.mp3?updated=1596591567"
   },
@@ -4091,6 +4363,7 @@
     "description": "Rob Schrab is back! Dan sports a new look, tells his top 5 shoe jokes, then takes the role playing team on a wild adventure. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2017-08-30T10:00:00+00:00",
+    "duration": "02:04:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8483761964.mp3?updated=1596591092"
   },
@@ -4106,6 +4379,7 @@
     "description": "Dan gets Christian dating tips from a ride-sharing driver and explores what various Scottish dogs might sound like. The gang\u0027s role playing characters level up and face a new foe! Featuring Dan Harmon, Jeff Davis and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2017-09-06T10:00:00+00:00",
+    "duration": "02:05:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9716998511.mp3?updated=1596590196"
   },
@@ -4121,6 +4395,7 @@
     "description": "Rapper B. Squid and Dan sing about a thousand winters, we question \u201CWhat if a guy had long arms?\u201D and \u201CWho really stole Steve Levy\u0027s roommate\u0027s car?\u201D before realizing we\u0027re entering Harmageddon. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, B. ...",
     "showDate": null,
     "releaseDate": "2017-09-13T10:00:00+00:00",
+    "duration": "02:06:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2014893639.mp3?updated=1596589563"
   },
@@ -4136,6 +4411,7 @@
     "description": "Rob Schrab returns as our comptroller with Eddie Pepitone dropping in to discuss comedy. Rob and Dan weigh in on biometrics, then the role playing gang shouts their way through an adventure. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Eddie P...",
     "showDate": null,
     "releaseDate": "2017-09-20T10:00:00+00:00",
+    "duration": "02:05:30",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5061221157.mp3?updated=1596589169"
   },
@@ -4151,6 +4427,7 @@
     "description": "Duncan Trussell wants us all to try Nitrous Oxide and start a cult, Dan is unapologetic about last week\u0027s show, and everyone shares their favorite stories about Steve Levy\u0027s anatomy. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Duncan Tr...",
     "showDate": null,
     "releaseDate": "2017-09-27T10:00:00+00:00",
+    "duration": "01:55:50",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2647159183.mp3?updated=1596588403"
   },
@@ -4166,6 +4443,7 @@
     "description": "In an in-studio episode, Jeff tells a mysterious story about Ron Jeremy and Dan discusses the tragedy in Las Vegas as well as the effect of easily-available smut on the web on today\u0027s youth. Then the role playing gang ventures forth in their exploits. ...",
     "showDate": null,
     "releaseDate": "2017-10-11T10:00:00+00:00",
+    "duration": "01:59:38",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9796926661.mp3?updated=1596587868"
   },
@@ -4181,6 +4459,7 @@
     "description": "Dan and Rob talk about sexual harassment in the entertainment industry and the ramifications of a Rick \u0026 Morty porn parody being produced. Spencer reveals why people really buy iPads. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-10-18T10:00:00+00:00",
+    "duration": "02:07:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5330727073.mp3?updated=1596587371"
   },
@@ -4196,6 +4475,7 @@
     "description": "Jeff revisits the idea of zip-line transportation after Dan meets with Elon Musk. \u201CHarmontown\u201D documentary creator Neil Berkeley comes by to talk about his new film about Gilbert Gottfried. The show ends with a fan submitted rap that does a lot of thin...",
     "showDate": null,
     "releaseDate": "2017-10-25T17:37:00+00:00",
+    "duration": "02:03:31",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5799653036.mp3?updated=1596586374"
   },
@@ -4211,6 +4491,7 @@
     "description": "Dan and Jeff solve the Ron Jeremy banana mystery, even stranger things happen with Dan\u0027s girlfriend, and the gang jumps back in to roleplaying. Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-11-01T17:24:00+00:00",
+    "duration": "02:07:26",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3204180936.mp3?updated=1596585934"
   },
@@ -4226,6 +4507,7 @@
     "description": "Guest Comptroller Brandon Johnson joins Dan and Spencer to lay down some beats and serve up the best role playing snacks we\u0027ve ever tasted.",
     "showDate": null,
     "releaseDate": "2017-11-08T11:00:00+00:00",
+    "duration": "02:05:41",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7124168321.mp3"
   },
@@ -4241,6 +4523,7 @@
     "description": "Spencer shares his adventures in jogging, needles and cupping. The Ron Jeremy banana mystery continues to perplex Jeff. Dan records an introduction video for Rob Schrab and spends a little extra time making sure it\u0027s perfect.\u00A0 Featuring Dan Harmon, Jef...",
     "showDate": null,
     "releaseDate": "2017-11-15T11:00:00+00:00",
+    "duration": "02:09:54",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8300498738.mp3"
   },
@@ -4256,6 +4539,7 @@
     "description": "Guest Comptroller Brandon Johnson and actor Rob Huebel return to the show. Rob gives us the inside information about his new show, while Brandon introduces us to Tiny Brandon. Dan\u0027s worried he might have played a role in Charles Manson\u0027s death. Featuri...",
     "showDate": null,
     "releaseDate": "2017-11-22T16:45:00+00:00",
+    "duration": "02:16:50",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3770942281.mp3"
   },
@@ -4271,6 +4555,7 @@
     "description": "Josh Androsky educates us about the Democratic Socialists of America, Schrab enjoys an office chair, Church sings and shares her political side, and Jeff claims an exception to the \u201Csmelt it, dealt it\u201D rule. We all learn how to dance like Spencer. Feat...",
     "showDate": null,
     "releaseDate": "2017-11-29T10:30:00+00:00",
+    "duration": "02:14:44",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1954462337.mp3"
   },
@@ -4286,6 +4571,7 @@
     "description": "Dan, Jeff and Spencer dig deep into genitals of unusual size, bats, giraffes, dolphins and Paul Newman. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Steve Levy.",
     "showDate": null,
     "releaseDate": "2017-12-07T00:11:00+00:00",
+    "duration": "02:16:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4169205236.mp3"
   },
@@ -4301,6 +4587,7 @@
     "description": "Guest Comptroller Brandon Johnson and Josh Androsky return to discuss the current state of higher education with Ben Nelson from the Minerva Project. Everyone plays Balderdash while Andy Dick entertains everyone with... Featuring Dan Harmon, Brandon Jo...",
     "showDate": null,
     "releaseDate": "2017-12-13T11:00:00+00:00",
+    "duration": "02:14:17",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7587189943.mp3"
   },
@@ -4316,6 +4603,7 @@
     "description": "It\u0027s Christmas, and this show has something for everyone! Our traditional holiday events include: The return of DeMorge Brown, Dan and Brandon discussing net neutrality, Josh Androsky stopping in again to play some games, and Spencer studying for his h...",
     "showDate": null,
     "releaseDate": "2017-12-20T11:00:00+00:00",
+    "duration": "02:13:06",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6498538551.mp3"
   },
@@ -4331,6 +4619,7 @@
     "description": "We hear about the drunk driver that hit Dan\u0027s house, plus Jeff\u0027s trip to India. Everyone questions Steve Levy\u0027s doctor\u0027s qualifications, but is glad he\u0027s alive. While roleplaying, the gang stakes out an in-use restroom for a very, very long time. Featu...",
     "showDate": null,
     "releaseDate": "2018-01-10T11:00:00+00:00",
+    "duration": "02:12:25",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7319556997.mp3?updated=1596858894"
   },
@@ -4346,6 +4635,7 @@
     "description": "What\u0027s a Bellman Joke? Does it have anything to do with Casablanca and the Thundercats? How do the Smurfs fit into all of this? Rob Schrab returns to give Dan some much needed therapy. then takes over for Diarrhea Jr. who makes eye contact during a ver...",
     "showDate": null,
     "releaseDate": "2018-01-17T11:00:00+00:00",
+    "duration": "02:13:34",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6455473615.mp3"
   },
@@ -4361,6 +4651,7 @@
     "description": "Harmontown visits San Fransisco Sketchfest for a live show with stories about Dan\u0027s grandpa, an interview with the developer of iBone, and more. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2018-01-24T11:00:00+00:00",
+    "duration": "01:42:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5465138853.mp3"
   },
@@ -4376,6 +4667,7 @@
     "description": "Guest Comptroller Brandon Johnson and Spencer question Dan\u0027s retirement requirements. Singer-songwriter John Mayer comes on to really get inside Dan\u0027s wonderland of a mind. Dan and John debate the pros and cons of Googling yourself. The show wraps up b...",
     "showDate": null,
     "releaseDate": "2018-01-31T11:00:00+00:00",
+    "duration": "02:04:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8129623335.mp3"
   },
@@ -4391,6 +4683,7 @@
     "description": "Steve Levy and Rob Schrab share an intimate physical moment, Dan shows off his Dave Matthews impression, and we discuss the hot button political issue on everyone\u0027s mind: Spiro Agnew. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schr...",
     "showDate": null,
     "releaseDate": "2018-02-07T11:00:00+00:00",
+    "duration": "02:03:23",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4108191484.mp3?updated=1596784321"
   },
@@ -4406,6 +4699,7 @@
     "description": "Dan has some strong opinions on being chased by bees and what goes on in the mind of dogs. Jeff tells his career defining joke. Schrab isn\u0027t happy with the title of last week\u0027s show, but joins Dan and Steve in another intimate moment on the stage floor...",
     "showDate": null,
     "releaseDate": "2018-02-14T11:00:00+00:00",
+    "duration": "02:02:48",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7831846317.mp3?updated=1596783745"
   },
@@ -4421,6 +4715,7 @@
     "description": "The Walking Dead creator, Robert Kirkman, joins Rob Schrab on stage to talk comics, writing and more. Dan tries putting things on blast, to varying success. Jeff plays a listener submitted remix of Schrab\u0027s dog\u0027s freakout. Featuring Dan Harmon, Jeff Br...",
     "showDate": null,
     "releaseDate": "2018-02-28T11:00:00+00:00",
+    "duration": "02:10:44",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9261979258.mp3?updated=1596782420"
   },
@@ -4436,6 +4731,7 @@
     "description": "It\u0027s Oscar night! Dan discusses the current political landscape, the value politicians are bringing to the table, and where we should go next. Also, Spencer thinks the NRA has some dank ass memes. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Critten...",
     "showDate": null,
     "releaseDate": "2018-03-07T11:00:00+00:00",
+    "duration": "02:07:30",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8292607205.mp3?updated=1596762818"
   },
@@ -4451,6 +4747,7 @@
     "description": "The show takes a decidedly weird turn from the start. Guests Rob Schrab and DeMorge Brown talk with Dan, Jeff and Spencer about enemas, prostate massage and more. Steve Levy shares Diarrhea Junior\u0027s real life origin story. Featuring Dan Harmon, Jeff Br...",
     "showDate": null,
     "releaseDate": "2018-03-14T10:00:00+00:00",
+    "duration": "02:02:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4247006774.mp3?updated=1596756872"
   },
@@ -4466,6 +4763,7 @@
     "description": "This week\u0027s guest is Kara Brown, staff writer for the Black-ish spinoff, Grown-ish. Dan shares how a social media interaction with a fan lead to questions about Rick and Morty\u0027s future. Schrab tells tales of his small hometown, and Spencer tries to get...",
     "showDate": null,
     "releaseDate": "2018-03-21T10:00:00+00:00",
+    "duration": "01:58:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6760230398.mp3?updated=1596761450"
   },
@@ -4481,6 +4779,7 @@
     "description": "The show breaks new ground with a cold open ad, Dan introduces the show\u0027s latest lovable sponsored character M.C. Gun Control, we explore Dan\u0027s therapy revelations and Jeff hatches a cunning plan turning himself into a tree. Featuring Dan Harmon, Jeff ...",
     "showDate": null,
     "releaseDate": "2018-03-28T10:00:00+00:00",
+    "duration": "02:06:46",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3969094748.mp3?updated=1630440104"
   },
@@ -4496,6 +4795,7 @@
     "description": "We have a lot of questions about Necrophilia. Dan answers a lot of questions about his underwear and debates the morality and accuracy of veterinary medicine, while Jeff has a creative solution for man boobs. Featuring Dan Harmon, Jeff Bryan Davis, Spe...",
     "showDate": null,
     "releaseDate": "2018-04-11T10:00:00+00:00",
+    "duration": "02:04:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9556317921.mp3?updated=1596754193"
   },
@@ -4511,6 +4811,7 @@
     "description": "Duncan Trussell is this weeks guest comptroller, who brings a sense of spirituality that could only be countered by Rob Schrab\u0027s chair noises.\u00A0Featuring Dan Harmon, Duncan Trussell and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2018-04-18T10:00:00+00:00",
+    "duration": "02:01:11",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5654595688.mp3?updated=1596664632"
   },
@@ -4526,6 +4827,7 @@
     "description": "Dan, Rob and Spencer share embarrassing celebrity encounters, hotel room trashing and poop stories. Steve has a problem with the violence in shellfish. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Schrab, DeMorge Brown and Steve Levy.",
     "showDate": null,
     "releaseDate": "2018-04-25T10:00:00+00:00",
+    "duration": "02:04:43",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2909477626.mp3?updated=1596661474"
   },
@@ -4541,6 +4843,7 @@
     "description": "Dan reacts to being diagnosed with Shingles by bringing a bed on stage and eating eggs. Fellow podcasters Keith Malley and Chemda Khalili join Jeff and Schrab in Dan\u0027s bed to discuss infectious diseases.\u00A0\n\nFeaturing Dan Harmon, Jeff Bryan Davis, Spence...",
     "showDate": null,
     "releaseDate": "2018-05-02T10:00:00+00:00",
+    "duration": "01:59:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4379813941.mp3"
   },
@@ -4556,6 +4859,7 @@
     "description": "Dan\u0027s still in bed recovering from shingles, but Schrab wants to know why Dan won\u0027t go to a movie with him. Rob Schrab almost lists his top four Infinity Wars spoilers, Spencer shares history of the incel movement, and Dan explains why his brain is gen...",
     "showDate": null,
     "releaseDate": "2018-05-09T10:00:00+00:00",
+    "duration": "02:06:31",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2437724248.mp3?updated=1596871881"
   },
@@ -4571,6 +4875,7 @@
     "description": "In our final episode at the Starburns Castle before moving to our new home, we welcome actor and fellow Podcaster Johnny Pemberton. Dan \u0026 Jeff\u0027s hot button issues this week include squeakers, cold cases, Kanye and the logistics of a human centipede. ...",
     "showDate": null,
     "releaseDate": "2018-05-23T10:00:00+00:00",
+    "duration": "02:04:17",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3239648695.mp3?updated=1596869520"
   },
@@ -4586,6 +4891,7 @@
     "description": "Our first show at the beautiful Dynasty Typewriter theater kicks off with an audience for the first time in months. Brandon Johnson haunts the theater, Rob Schrab makes himself mini comptroller with a mini podium, M.C. Gun Control returns, and Spencer ...",
     "showDate": null,
     "releaseDate": "2018-06-07T10:00:00+00:00",
+    "duration": "02:00:51",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7579118444.mp3?updated=1596867207"
   },
@@ -4601,6 +4907,7 @@
     "description": "Dan and Jeff discuss airliner pooping and Elon Musk stories. Judd Apatow explains how his casting style has changed over his career. How much self loathing goes into being a show creator? Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and ...",
     "showDate": null,
     "releaseDate": "2018-06-14T10:00:00+00:00",
+    "duration": "02:00:27",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8334159380.mp3?updated=1596865970"
   },
@@ -4616,6 +4923,7 @@
     "description": "Dan\u0027s back in the Rick \u0026 Morty writer\u0027s room, James Adomian and Rob Schrab face off with cartoon voices doing unspeakable things, Spencer says Binkis a lot. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, James Adomian, Rob Schrab and Stev...",
     "showDate": null,
     "releaseDate": "2018-06-21T10:00:00+00:00",
+    "duration": "01:49:01",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7618204728.mp3?updated=1596862467"
   },
@@ -4631,6 +4939,7 @@
     "description": "Live from the Wilbur in Boston, MA. Special guest Aaron Mahnke from the Lore podcast. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Aaron Mahnke and Steve Levy.",
     "showDate": null,
     "releaseDate": "2018-06-28T10:00:00+00:00",
+    "duration": "02:21:26",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7351617876.mp3?updated=1596861023"
   },
@@ -4646,6 +4955,7 @@
     "description": "Live from The Cradle of Aviation Museum in Long Island, NY. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.",
     "showDate": null,
     "releaseDate": "2018-07-05T10:00:00+00:00",
+    "duration": "02:06:54",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6980282854.mp3?updated=1596856688"
   },
@@ -4661,6 +4971,7 @@
     "description": "Andy Kindler and Brandon Johnson join us to discuss their feelings on Kombucha and social media. Dan explores a career as a cover song musician. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Andy Kindler.",
     "showDate": null,
     "releaseDate": "2018-07-12T10:00:00+00:00",
+    "duration": "02:01:28",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8654995383.mp3?updated=1596855710"
   },
@@ -4676,6 +4987,7 @@
     "description": "\u201CGreat Minds with Dan Harmon\u201D director Heath Cullens tells the tale of how he accidentally convinced Dan that he\u0027s Dan\u0027s father. Brandon Johnson is our comptroller and Steve Levy joins for a return to role playing. Featuring Dan Harmon, Brandon Johnso...",
     "showDate": null,
     "releaseDate": "2018-07-19T10:00:00+00:00",
+    "duration": "01:55:31",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868028924.mp3?updated=1596851865"
   },
@@ -4691,6 +5003,7 @@
     "description": "Jeff returns briefly to flex his vocal chords after surgery. Legendary SNL alum Laraine Newman shares Groundlings and Coneheads behind the scenes stories. Steve Levy explains a new dating app. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jeff Bryan Davis and Laraine Newman.",
     "showDate": null,
     "releaseDate": "2018-07-26T10:00:00+00:00",
+    "duration": "01:46:16",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7505077183.mp3?updated=1596849971"
   },
@@ -4706,6 +5019,7 @@
     "description": "Dan, Jeff, Spencer, Brandon, Schrab and Steve all try to get to the bottom of some deep Harmontown mysteries. Is Spencer\u0027s desk backwards? What does Steve Levy do with silly putty? Can Schrab reboot Sanford and Son? Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis, Rob Schrab and Steve Levy.",
     "showDate": null,
     "releaseDate": "2018-08-02T10:00:00+00:00",
+    "duration": "01:54:07",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9867072715.mp3?updated=1596840362"
   },
@@ -4721,6 +5035,7 @@
     "description": "Dan explains dog intelligence and Canadian creepypasta, while Schrab and Jeff demonstrate the perfect stage walk-on. Spencer tries MeUndies for the first time, and Dan plays himself. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2018-08-09T10:00:00+00:00",
+    "duration": "02:04:31",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2817009246.mp3?updated=1596836932"
   },
@@ -4736,6 +5051,7 @@
     "description": "Dan\u0027s trainer, Dave Klein, returns to take the audience through a workout session. Jeff returns as comptroller, and Schrab shows Dan what it would be like to live next to a Neanderthal. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Dave Klein and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2018-08-16T10:00:00+00:00",
+    "duration": "01:58:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6341944220.mp3?updated=1596833912"
   },
@@ -4751,6 +5067,7 @@
     "description": "We celebrate the 300th episode by looking back at our favorite moments. Kumail Nanjiani, Emily Gordon, Rob Schrab, Steve Agee and Brandon Johnson help us jump the shark with our first clip show. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Emily V. Gordon, Kumail Nanjiani, Rob Schrab, Brandon Johnson and Steve Agee. Clips include Open Mike Eagle, Mitch Hurwitz, Curtis Armstrong, DeMorge Brown, Erin McGathy, Bobcat Goldthwait, John Mayer and Jonah Ray.",
     "showDate": null,
     "releaseDate": "2018-08-23T10:00:00+00:00",
+    "duration": "02:03:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9527834676.mp3?updated=1596833283"
   },
@@ -4766,6 +5083,7 @@
     "description": "We\u0027re all mad about scooters, Dan gives an audience member a backpack and makes a new friend, then Spencer debuts his new role playing grading system. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2018-08-30T10:00:00+00:00",
+    "duration": "02:02:27",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2850970357.mp3?updated=1596748135"
   },
@@ -4781,6 +5099,7 @@
     "description": "Dan is baffled by an Emmy seat filler, Schrab has a new favorite TV show, and what happened to Wicker Man? Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2018-09-13T10:00:00+00:00",
+    "duration": "01:54:34",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3432050954.mp3?updated=1596747251"
   },
@@ -4796,6 +5115,7 @@
     "description": "Is it morally right to eat Gillian Anderson\u0027s sandwiches? Why are Ron Perlman\u0027s hands so soft? What\u0027s really going on with Predator? Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2018-09-20T10:00:00+00:00",
+    "duration": "02:15:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6521287811.mp3?updated=1596581570"
   },
@@ -4811,6 +5131,7 @@
     "description": "Is Schrab getting too comfortable in his comfy chair, and what is he doing with his microphone?",
     "showDate": null,
     "releaseDate": "2018-09-27T10:00:00+00:00",
+    "duration": "02:07:41",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6586506051.mp3?updated=1596580673"
   },
@@ -4826,6 +5147,7 @@
     "description": "Podcaster David Cummings, from The NoSleep Podcast, joins guest comptroller Brandon Johnson for a spooky evening of horror stories, cuckoo clocks and wholesome Canadian terror. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and David Cummings.",
     "showDate": null,
     "releaseDate": "2018-10-04T10:00:00+00:00",
+    "duration": "01:56:23",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5666200554.mp3?updated=1596580121"
   },
@@ -4841,6 +5163,7 @@
     "description": "Omar Camacho from the hit YouTube series \u201CCholos Try\u201D teaches Dan, Spencer and Brandon what it means to be a Cholo. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and Omar Camacho.",
     "showDate": null,
     "releaseDate": "2018-10-11T10:00:00+00:00",
+    "duration": "02:05:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4556556911.mp3?updated=1596579878"
   },
@@ -4856,6 +5179,7 @@
     "description": "Guest Comptroller Brandon Johnson and Dan discover French Spencer, and learn that sometimes applause hurts. Featuring Dan Harmon, Brandon Johnson and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2018-10-18T10:00:00+00:00",
+    "duration": "02:05:58",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8630704834.mp3?updated=1596579045"
   },
@@ -4871,6 +5195,7 @@
     "description": "Actor/Comedian Brett Gelman and Dan talk about constipation, Dan\u0027s new abs, Buck Rogers, and Hitler. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brett Gelman.",
     "showDate": null,
     "releaseDate": "2018-10-25T10:00:00+00:00",
+    "duration": "02:02:25",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3463313160.mp3?updated=1596579103"
   },
@@ -4886,6 +5211,7 @@
     "description": "Dan and Spencer welcome our latest sponsor \u201CMeOnesie\u201D to the show, and our favorite socialist Josh Androsky pops in to explain Measure B. Antonio Banderas also premiers his latest musical, and is not to be missed.",
     "showDate": null,
     "releaseDate": "2018-11-08T11:00:00+00:00",
+    "duration": "01:56:58",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6611330489.mp3?updated=1596579052"
   },
@@ -4901,6 +5227,7 @@
     "description": "Dan and Spencer dig deep into the how\u0027s and why\u0027s of their Red Dead Redemption 2 addictions, Jeff is sober. Crescendoing in a panel of three audience members talking shop with Dan, therapy shop.\nFeaturing Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2018-11-15T11:00:00+00:00",
+    "duration": "02:03:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6705652686.mp3?updated=1596579071"
   },
@@ -4916,6 +5243,7 @@
     "description": "Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character.\nFeaturing Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2018-11-22T11:00:00+00:00",
+    "duration": "02:05:08",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3167373224.mp3?updated=1596582516"
   },
@@ -4931,6 +5259,7 @@
     "description": "Harmontown is live from the New York Comedy Festival!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.",
     "showDate": null,
     "releaseDate": "2018-11-29T11:00:00+00:00",
+    "duration": "01:30:41",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2995642060.mp3?updated=1596578696"
   },
@@ -4946,6 +5275,7 @@
     "description": "Self destructive writer Dan Harmon claims he will one day found a colony of like-minded misfits. He\u0027s appointed suit-clad gadabout Jeff Davis as his Comptroller and bearded dreamboat Spencer Crittenden as his Dungeon Master. It\u0027s like a neurotic town hall meeting, often with alcohol and famous people.\nFeaturing Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2018-12-06T11:00:00+00:00",
+    "duration": "01:56:06",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7192102916.mp3?updated=1596578450"
   },
@@ -4961,6 +5291,7 @@
     "description": "Comedian and fellow podcaster Pete Holmes joins Dan, Jeff and Spencer to answer: What Hurts Pete Holmes?\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Pete Holmes.",
     "showDate": null,
     "releaseDate": "2018-12-13T11:00:00+00:00",
+    "duration": "02:11:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8064478533.mp3"
   },
@@ -4976,6 +5307,7 @@
     "description": "Steven Conrad, writer/director of the TV Series \u2018Patriot\u0027 joins guest Comptroller Brandon Johnson. The Santa Clause 2, Have You Seen It?\nFeaturing Dan Harmon, Brandon Johnson, Spencer Crittenden and Steve Conrad.",
     "showDate": null,
     "releaseDate": "2018-12-20T11:00:00+00:00",
+    "duration": "02:11:24",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4268871207.mp3"
   },
@@ -4991,6 +5323,7 @@
     "description": "Dan and the gang kick off 2019 with everyone\u0027s expanded feelings on airlines, Dan\u0027s engagement, charitable giving and Paul Rudd.\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Kevin Day and Jesse Camp.",
     "showDate": null,
     "releaseDate": "2019-01-10T11:00:00+00:00",
+    "duration": "01:58:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5970573662.mp3?updated=1596508377"
   },
@@ -5006,6 +5339,7 @@
     "description": "Dan listened to last week\u0027s show while sober and with some comments and clarifications, along with the return of Jesse Camp.\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Jesse Camp.",
     "showDate": null,
     "releaseDate": "2019-01-17T11:00:00+00:00",
+    "duration": "02:09:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6567122292.mp3"
   },
@@ -5021,6 +5355,7 @@
     "description": "Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer.\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Open Mike Eagle.",
     "showDate": null,
     "releaseDate": "2019-01-24T11:00:00+00:00",
+    "duration": "02:00:37",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3247911544.mp3?updated=1596509712"
   },
@@ -5036,6 +5371,7 @@
     "description": "Dan\u0027s future mother-in-law tells an absolute shocker of a story about a scarf. Spencer is gone, Dan fails a polygraph regarding his potential role in the murder.\nFeaturing Dan Harmon, Jeff Bryan Davis, Rob Schrab, Randee Heller, Bob Garrett and Cody Heller.",
     "showDate": null,
     "releaseDate": "2019-01-31T11:00:00+00:00",
+    "duration": "02:13:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4698842029.mp3?updated=1596510740"
   },
@@ -5051,6 +5387,7 @@
     "description": "Rob Schrab fills in for Spencer with special guest Ron Funches, and a one man show about plumbing.\nFeaturing Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ron Funches.",
     "showDate": null,
     "releaseDate": "2019-02-07T10:37:00+00:00",
+    "duration": "01:49:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8908499812.mp3?updated=1596562717"
   },
@@ -5066,6 +5403,7 @@
     "description": "Comedian Mohanad Elshieky shares recent events in his life, while Dan shares relatable tales of house shopping. Brandon Johnson is back, filling in for Spencer.\nFeaturing Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Mohanad Elshieky.",
     "showDate": null,
     "releaseDate": "2019-02-14T11:00:00+00:00",
+    "duration": "01:57:38",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5039539011.mp3?updated=1596564385"
   },
@@ -5081,6 +5419,7 @@
     "description": "Brandon Johnson is the guest Comptroller, Rob Schrab is at Spencer\u0027s desk, and our guest is Brian Wysol, creator of the Adult Swim series Hot Streets. Dan punishes Justin Roiland for missing the show.\nFeaturing Dan Harmon, Brandon Johnson, Rob Schrab and Brian Wysol.",
     "showDate": null,
     "releaseDate": "2019-02-21T11:30:00+00:00",
+    "duration": "01:58:00",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3365002042.mp3"
   },
@@ -5096,6 +5435,7 @@
     "description": "Adam Conover, from Adam Ruins Everything and CollegeHumor, ruins herpes, hymens and Harmontown. Brandon Johnson is our guest comptroller, and Schrab is back with another new chair.\nFeaturing Dan Harmon, Brandon Johnson, Rob Schrab and Adam Conover.",
     "showDate": null,
     "releaseDate": "2019-02-28T11:00:00+00:00",
+    "duration": "01:53:44",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7557659041.mp3?updated=1596565741"
   },
@@ -5111,6 +5451,7 @@
     "description": "Dan problematizes things that don\u0027t need to be problematized, listens to audio porn and gets to the bottom of The Flash with Brandon and Schrab.\nFeaturing Dan Harmon, Brandon Johnson and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2019-03-07T11:00:00+00:00",
+    "duration": "01:57:35",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6235756669.mp3?updated=1596567827"
   },
@@ -5126,6 +5467,7 @@
     "description": "Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down?\nFeaturing Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2019-03-14T10:00:00+00:00",
+    "duration": "02:10:14",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1364711663.mp3?updated=1596658041"
   },
@@ -5141,6 +5483,7 @@
     "description": "The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brandon Johnson.",
     "showDate": null,
     "releaseDate": "2019-03-21T10:00:00+00:00",
+    "duration": "02:09:28",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9382632600.mp3?updated=1596657418"
   },
@@ -5156,6 +5499,7 @@
     "description": "Suruthi and Hannah from the RedHanded podcast are this week\u0027s guests. They share their true crime expertise, including some crime role playing!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Suruthi Bala and Hannah Maguire.",
     "showDate": null,
     "releaseDate": "2019-03-28T10:00:00+00:00",
+    "duration": "01:55:49",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5484798949.mp3?updated=1596656922"
   },
@@ -5171,6 +5515,7 @@
     "description": "Jeff Davis\u0027s joke corner! A walrus walks into a whorehouse\u2026 Also, the return of roleplaying with guest Steve Levy!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.",
     "showDate": null,
     "releaseDate": "2019-04-04T10:00:00+00:00",
+    "duration": "02:16:13",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5727215879.mp3?updated=1596656734"
   },
@@ -5186,6 +5531,7 @@
     "description": "The squad delves deep into the pros \u0026 cons of wolf piss. Schrab schrabs Dan into a crater, while Brandon holds the ship together upon re-entry.\nFeaturing Dan Harmon, Brandon Johnson and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2019-04-11T10:00:00+00:00",
+    "duration": "02:02:54",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6249527848.mp3?updated=1596655383"
   },
@@ -5201,6 +5547,7 @@
     "description": "Despite walking on stage sick as a dog, audience adoration miraculously heals Dan in real time. Francophile Jeff can\u0027t help but dissolve into a sentimental jelly thinking about Notre-dame, and Spencer continues to amaze with hitherto unprecedented levels of enthusiasm.\u00A0\nFeaturing Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2019-04-18T10:00:00+00:00",
+    "duration": "01:59:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7955316629.mp3?updated=1596653142"
   },
@@ -5216,6 +5563,7 @@
     "description": "Dan dives deep into balls. Before the show Dan gets a little too high, which is perfect for our guest Gabriel Sunday, creator and star of the new cannabis inspired TV series Dope State. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Gabriel Sunday.",
     "showDate": null,
     "releaseDate": "2019-04-25T10:00:00+00:00",
+    "duration": "02:11:44",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2893857432.mp3?updated=1596573286"
   },
@@ -5231,6 +5579,7 @@
     "description": "Dan talks to Jesse Margolis, founder of Overheard LA about what else: Mike Crivello\u0027s Camera World; It\u0027s a wonderful world of cameras! We attempt to get into the heads of internet trolls, also featuring a bonus White Walker locker room pep talk. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Jesse Margolis.",
     "showDate": null,
     "releaseDate": "2019-05-02T10:00:00+00:00",
+    "duration": "02:03:40",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8529322335.mp3?updated=1596571920"
   },
@@ -5246,6 +5595,7 @@
     "description": "Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Sean Clements and Hayes Davenport.",
     "showDate": null,
     "releaseDate": "2019-05-09T10:00:00+00:00",
+    "duration": "02:12:21",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5096949699.mp3?updated=1596570684"
   },
@@ -5261,6 +5611,7 @@
     "description": "Ryan Kraus from \u201CCold Case Murder Mysteries\u201D deconstructs true crime and horror and what it means to be the perfect crime, and how one day we\u0027re all going to be robots. Also, Spencer\u0027s balls are too big. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Ryan Kraus.",
     "showDate": null,
     "releaseDate": "2019-05-23T10:00:00+00:00",
+    "duration": "02:04:44",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6011347392.mp3?updated=1596570113"
   },
@@ -5276,6 +5627,7 @@
     "description": "This week\u0027s a whopper, with conversation topics ranging from Spencer\u0027s hip surgery, Dan\u0027s much anticipated Game of Thrones take, and another underscoring of how unprepared our (Dan\u0027s) parents were for the advent of the internet. All that and THE RETURN OF D\u0026D. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy",
     "showDate": null,
     "releaseDate": "2019-05-30T10:00:00+00:00",
+    "duration": "02:00:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9970239376.mp3?updated=1596567775"
   },
@@ -5291,6 +5643,7 @@
     "description": "This Harmontown has everything: A baby kicker, a handshake before sex, Squeezy Steve Levy, and one hundred pounds of beef jerky. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.",
     "showDate": null,
     "releaseDate": "2019-06-06T10:00:00+00:00",
+    "duration": "02:04:00",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7247245993.mp3?updated=1596677055"
   },
@@ -5306,6 +5659,7 @@
     "description": "Harmontown welcomes its most charming guest to date: Yeardley Smith to the show. The star of Maximum Overdrive, Hermans\u0027 Head, and nothing else, is revealed to be a font of charisma, wisdom, and behind-the-scenes stories that enrapture the mayor himself. Also, we\u0027ve got TWO COMPTROLLERS. That\u0027s right, Jeff and Brandon: Pandamonium at the Podium\u2026.",
     "showDate": null,
     "releaseDate": "2019-06-20T10:00:00+00:00",
+    "duration": "02:04:42",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8035609369.mp3?updated=1596672176"
   },
@@ -5321,6 +5675,7 @@
     "description": "Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer\u0027s bees and pirate eye patches are on the agenda tonight! Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Ryan Kraus.",
     "showDate": null,
     "releaseDate": "2019-06-27T10:00:00+00:00",
+    "duration": "02:06:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4645360136.mp3"
   },
@@ -5336,6 +5691,7 @@
     "description": "Rob Corddry is back! Dan tells us how to break into his house, Rob talks about his time at The Daily Show, and mountain lions do what they do. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Corddry.",
     "showDate": null,
     "releaseDate": "2019-07-04T10:00:00+00:00",
+    "duration": "02:02:37",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8196637454.mp3"
   },
@@ -5351,6 +5707,7 @@
     "description": "Schrab is comptrolling to prepare for his upcoming role as moderator of the Comic-Con Rick \u0026 Morty Panel. But Jeff\u0027s still here, and without a podium, not-quite fitting into the seats on the stage. Listen now and gain the inside track on such topics as Jaws 4, Bees, and people who shower excessively: probably\u2026",
     "showDate": null,
     "releaseDate": "2019-07-11T10:00:00+00:00",
+    "duration": "02:01:22",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3629706360.mp3"
   },
@@ -5366,6 +5723,7 @@
     "description": "We finally get to the bottom of the story about Spencer\u0027s bees, why The Golden Girls owned mink, what a Jeff Golem would look like, Rob Schrab, and bagels. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Jeff Bryan Davis.",
     "showDate": null,
     "releaseDate": "2019-07-18T10:00:00+00:00",
+    "duration": "02:05:28",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1737266482.mp3"
   },
@@ -5381,6 +5739,7 @@
     "description": "Duncan Trussell is back! sporting an increasingly majestic beard. The show dives deep into America\u0027s hot button topics like prolapses, space travel and DNA filled balloons.\u00A0\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Duncan Trussell.",
     "showDate": null,
     "releaseDate": "2019-07-25T10:00:00+00:00",
+    "duration": "02:05:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8654146349.mp3"
   },
@@ -5396,6 +5755,7 @@
     "description": "We Need A Pool Dietician For The Internet, and the milkman is an albino. With special guests Brandon Johnson and Steve Levy! Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Brandon Johnson and Steve Levy.\nThis week\u0027s episode is sponsored by MeUndies! Visit www.MeUndies.com and get 15% off your first pair plus free shipping with code HARMONTOWN",
     "showDate": null,
     "releaseDate": "2019-08-01T10:00:00+00:00",
+    "duration": "01:55:07",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9877914292.mp3?updated=1596586024"
   },
@@ -5411,6 +5771,7 @@
     "description": "Harmontown finally gets down to business in a Jeff-less Episode. Brandon Johnson comptrols as we do the important, and timely, work of tearing down Billy Joel. Plus a dive into Dan\u0027s deep past unearths a hyper-detailed account of open mics as they existed in a pre-karaoke America...",
     "showDate": null,
     "releaseDate": "2019-08-08T10:00:00+00:00",
+    "duration": "02:03:54",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1003592093.mp3"
   },
@@ -5426,6 +5787,7 @@
     "description": "Harmontown is honored to welcome Conflict Journalist Robert Evans to the show. With topics ranging from Syria to 8chan, Robert has done all the homework, and takes us through, with stunning detail, the conflicts that will define the era we live in.\u00A0\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Robert Evans.",
     "showDate": null,
     "releaseDate": "2019-08-15T10:00:00+00:00",
+    "duration": "02:09:44",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9433274980.mp3?updated=1596576719"
   },
@@ -5441,6 +5803,7 @@
     "description": "Author of the new book It Came from Something Awful, Dale Beran teaches us the history 4chan and 8chan. How did simple websites transform into centers of white nationalism, violence and tools of politics?\u00A0\nFeaturing Dan Harmon, Brandon Johnson and Dale Beran.",
     "showDate": null,
     "releaseDate": "2019-08-22T10:00:00+00:00",
+    "duration": "01:59:53",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3768422803.mp3?updated=1596576016"
   },
@@ -5456,6 +5819,7 @@
     "description": "Host of the podcast How Did This Get Played?, Heather Anne Campbell joins Rick and Morty writer Nick Rutherford.\u00A0\nStarring Dan Harmon, Spencer Crittenden, Brandon Johnson, Heather Anne Campbell and Nick Rutherford.",
     "showDate": null,
     "releaseDate": "2019-08-29T10:00:00+00:00",
+    "duration": "02:09:05",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1906132134.mp3?updated=1596574224"
   },
@@ -5471,6 +5835,7 @@
     "description": "Heather Anne Campbell is back! Dan demonstrates dog barks, shares some goat facts, interrupts Schrab, and sadly announces the end of the podcast.\u00A0\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Heather Anne Campbell.",
     "showDate": null,
     "releaseDate": "2019-09-12T10:00:00+00:00",
+    "duration": "01:29:15",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3547974571.mp3?updated=1596572357"
   },
@@ -5486,6 +5851,7 @@
     "description": "Dan makes a sweater out of cum, and debates with Jeff the pros of being a stander wiper. Dave Foley joins in with tales from The Kids in the Hall and NewsRadio. Who wants a pocket shaman now? Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Dave Foley.",
     "showDate": null,
     "releaseDate": "2019-09-19T10:00:00+00:00",
+    "duration": "01:55:32",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2083068173.mp3?updated=1596571350"
   },
@@ -5501,6 +5867,7 @@
     "description": "Dan shares his feelings about the loss of a friend and coworker, then brings on Ed Neumeier \u2013 writer of genre defining movies like RoboCop and Starship Troopers to dive deep into their history and trivia. Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ed Neumeier.",
     "showDate": null,
     "releaseDate": "2019-09-26T10:00:00+00:00",
+    "duration": "02:03:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8562369244.mp3?updated=1596570498"
   },
@@ -5516,6 +5883,7 @@
     "description": "Mitch Hurwitz is back! Mitch and Dan talk Arrested Development, Golden Girls, upcoming projects and the future of network TV. Singer/songwriter Robbie Fulks joins in with some tales told via country music. Featuring Dan Harmon, Jeff Bryan Davis, Mitch Hurwitz, Robbie Fulks and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2019-10-03T10:00:00+00:00",
+    "duration": "01:55:18",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4296678179.mp3?updated=1596574908"
   },
@@ -5531,6 +5899,7 @@
     "description": "Guest comptroller Brandon Johnson, and the \u201CStuff They Don\u0027t Want You to Know\u201D podcast guys (Matt Frederick, Ben Bowlin and Noel Brown) talk podcasts, Harmonspiracies, and Schrab\u0027s \u201CCreepshow\u201D episode. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Schrab, Matt Frederick, Ben Bowlin and Noel Brown.",
     "showDate": null,
     "releaseDate": "2019-10-10T10:00:00+00:00",
+    "duration": "01:57:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9902733683.mp3?updated=1570723578"
   },
@@ -5546,6 +5915,7 @@
     "description": "Actor/Comedian Flula Borg astounds Jeff with his sports knowledge and 1980\u0027s American pop culture references, teaches us his favorite German words, and helps Dan become the best hype man he can be.\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Flula Borg.",
     "showDate": null,
     "releaseDate": "2019-10-17T10:00:00+00:00",
+    "duration": "02:01:53",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3280237383.mp3?updated=1596574812"
   },
@@ -5561,6 +5931,7 @@
     "description": "Classic Harmontown is back! The return of role playing with Steve Levy, the iHarmon and all the potatoes you could ever want. Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.",
     "showDate": null,
     "releaseDate": "2019-10-24T10:00:00+00:00",
+    "duration": "01:48:47",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2565186341.mp3?updated=1596573390"
   },
@@ -5576,6 +5947,7 @@
     "description": "Our march into oblivion continues! No guests! No role playing! Nothing to lose! It\u0027s worth mentioning Spencer is feeling pretty sassy this episode and it shows.\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2019-10-31T10:00:00+00:00",
+    "duration": "01:58:03",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7209937866.mp3?updated=1596573050"
   },
@@ -5591,6 +5963,7 @@
     "description": "Dan gets stuck in traffic, but the episode is redeemed by meeting a multi-talented audience member UMNIA and her singer/doctor mom! Improv, jazz and rap meet on this week\u0027s Harmontown!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.",
     "showDate": null,
     "releaseDate": "2019-11-07T11:00:00+00:00",
+    "duration": "01:50:36",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6562101165.mp3?updated=1596572154"
   },
@@ -5606,6 +5979,7 @@
     "description": "Brandon Johnson is comptrolling, Nick Rutherford is and isn\u0027t our guest. Dan talks a bit about Community. ED-209 makes a cameo appearance. There\u0027s a lot to unpack in this episode.\n\nFeaturing Dan Harmon, Brandon Johnson, Spencer Crittenden and Nick Rutherford.",
     "showDate": null,
     "releaseDate": "2019-11-14T11:00:00+00:00",
+    "duration": "01:57:02",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9185924826.mp3?updated=1596570469"
   },
@@ -5621,6 +5995,7 @@
     "description": "We\u0027re counting down the last few episodes of Harmontown, and to celebrate we\u0027re counting down the top ten funniest things. Nick Rutherford is back, it\u0027s Church\u0027s birthday, and Schrab sees how far he can push the show off the rails. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Nick Rutherford and Church",
     "showDate": null,
     "releaseDate": "2019-11-21T11:00:00+00:00",
+    "duration": "01:50:50",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1162720767.mp3?updated=1596569882"
   },
@@ -5636,6 +6011,7 @@
     "description": "NeuroTribes author Steve Silberman and his husband Keith Karraker talk with us about Community and Harmontown\u0027s wide ranging fan base. Jeff and Dan share experiences with audience members from around the globe who made the trek to our penultimate episode. We\u0027ve also got bowties, fish testicles, and even Bigger Dick Energy.\nFeaturing: Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Steve Silberman and Keith Karraker.",
     "showDate": null,
     "releaseDate": "2019-11-28T11:00:00+00:00",
+    "duration": "02:12:33",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4966237251.mp3?updated=1596569303"
   },
@@ -5651,6 +6027,7 @@
     "description": "Harmontown\u0027s final curtain call.\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Brandon Johnson, Rob Schrab, Open Mike Eagle, Steve Levy and Nick Rutherford.\nDrive fast and take chances!",
     "showDate": null,
     "releaseDate": "2019-12-05T11:00:00+00:00",
+    "duration": "02:14:29",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8165669126.mp3?updated=1596568719"
   },
@@ -5666,6 +6043,7 @@
     "description": "Bonus Episode! All the ad songs. Happy Holidays from Harmontown.\nFeaturing Jeff B Davis, Spencer Crittenden, Dan Harmon, Church, and music by unsung hero Brendan Lynch-Salamon.",
     "showDate": null,
     "releaseDate": "2019-12-25T11:00:00+00:00",
+    "duration": "00:45:41",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8409497200.mp3?updated=1613577170"
   },
@@ -5681,6 +6059,7 @@
     "description": "Jeff and Spencer are Harmontown\u0027s hype men for our upcoming reunion special, including a retelling of an old classic Harmontown tune about a chicken noodle can. Check out\u00A0harmontown.com\u00A0to buy tickets to our live streaming episode on February 21st, 2021!",
     "showDate": null,
     "releaseDate": "2021-02-17T08:00:00+00:00",
+    "duration": "00:07:53",
     "hasExplicitLanguage": false,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5330815661.mp3"
   },
@@ -5696,6 +6075,7 @@
     "description": "The gang gets back together one more time to catch up on everything since the show\u0027s finale. Special guests: Rob Schrab, Kumail Nanjiani and Emily V. Gordon!",
     "showDate": null,
     "releaseDate": "2021-03-18T07:00:00+00:00",
+    "duration": "02:06:21",
     "hasExplicitLanguage": true,
     "soundfile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1441745471.mp3"
   }

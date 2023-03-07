@@ -1,24 +1,28 @@
 ---
-number:               1
-title:                "Achieve Weightlessness (6.16.12)"
+sequenceNumber:       1
+episodeNumber:        
+title:                "Lost Episode #1"
 image:                episode-placeholder.jpg
 description: >
-  It's a special night at Harmontown when Mayor Harmon decides the goal is to "achieve weightlessness" and establish Harmontown's real purpose. One hour, thirty tangents, two emails from Harmon's big brother and that goal remains unachieved, but a legen...
+  On May 23, 2011, Meltdown hosted HarmonTown an event that was part comedy stand-up, part pre-beta podcast, and part first initiative on establishing a community on the Moon that starred head of state Dan Harmon creator of Community and also featuring Jeff Bryan Davis as City Comptroller (Harmon's right hand man), Rob Schrab as the Tweetmaster of Classic Tweets (for when Harmon starts to lose the audience), Mike Rock as the purveyor of sexual moments (to add some saucy flavor to the event), and Christen the JPL/NASA scientist who focuses on ionic space propulsion (adding a level of legitimacy and science to the night). The event featured hilarious anecdotes from Harmon's storied life, classic tweets, and singing and dancing. Here's some highlights from the first meeting!I Will Be Your Watermelon
 showDate:             ""
-publishDate:          "2012-07-04 08:20:00Z"
-duration:             "01:12:13"
-episodeType:          full
-hasExplicitLanguage:  False
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6968392779.mp3?updated=1554335997
+publishDate:          ""
+duration:             "00:15:54"
+isLostEpisode:        true
+isTrailer:            false
+hasExplicitLanguage:  false
+soundFile:            
 
 location:             
 comptroller:          
 guests:               []
 audienceGuests:       []
 
+# Generated.  Do not change:
 layout:               episode
 hasPrevious:          False
 hasNext:              True
+podcastDynamiteId:    1
 ---
 
 {% include podcastBlurb.md %}
