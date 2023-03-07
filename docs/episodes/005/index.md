@@ -1,7 +1,7 @@
 ---
 number:               5
-title:                Confessions Of An Alcoholic Mars Rover (8.7.12)
-image:                https://megaphone.imgix.net/podcasts/27c714c0-ddfb-11e8-9896-8386577c82f7/image/image.jpg?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+title:                "Confessions Of An Alcoholic Mars Rover (8.7.12)"
+image:                episode-placeholder.jpg
 description: >
   Jeff blows the whistle on NASA's secret agenda and Dan blows surprise guest Chris Hardwick!
 showDate:             ""
@@ -14,8 +14,11 @@ soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8937
 location:             
 comptroller:          
 guests:               []
+audienceGuests:       []
 
 layout:               episode
+hasPrevious:          True
+hasNext:              False
 ---
 
 {% include podcastBlurb.md %}

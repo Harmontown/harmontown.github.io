@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<div class="episode-navigation">
+  {% if page.hasPrevious %}
+  <div id="previous">
+    <a href="/episodes/{{ page.number | minus: 1 | prepend: '00' | slice: -3, 3 }}">← Previous</a>
+  </div>
+  {% endif %}
+  {% if page.hasNext %}
+  <div id="next">
+    <a href="/episodes/{{ page.number | plus: 1 | prepend: '00' | slice: -3, 3 }}">Next →</a>
+  </div>
+  {% endif %}
+</div>
+
 <h1>{{ page.title }}</h1>
 
 <div class="info-box">
@@ -15,7 +28,7 @@ layout: default
 
       <tr>
         <td colspan="2" class="episode-image">
-          <image src="{{ page.image }}" />
+          <image src="/assets/images/{{ page.image }}" />
         </td>
       </tr>
       <tr>
@@ -66,7 +79,7 @@ layout: default
             <tbody>
               <tr>
                 <th>Episode no.</th>
-                <td>{{ page.number | prepend: '00' | slice: 0, 3 }}</td>
+                <td>{{ page.number }}</td>
               </tr>
               <tr>
                 <th>Run time</th>
@@ -79,10 +92,6 @@ layout: default
               <tr>
                 <th>Published On</th>
                 <td>{{ page.publishDate | date: "%B %d, %Y" }}</td>
-              </tr>
-              <tr>
-                <th>Sound File</th>
-                <td><a href="{{ page.soundFile }}">link</a></td>
               </tr>
             </tbody>
           </table>
@@ -105,12 +114,16 @@ layout: default
                     target="_blank">harmon.city</a>
                 </td>
               </tr>
-              <tr>
+              <!-- <tr>
                 <th>Minutes</th>
                 <td>
-                  <a href="https://harmon.city/{{ page.publishDate | date: '%Y'}}/{{ page.publishDate | date: '%m'}}/{{ page.publishDate | date: '%d'}}/episode-{{ page.number }}"
+                  <a href="https://podcastdynamite.com/#/p/Harmontown/e/{{ page.number }}"
                     target="_blank">podcastdynamite.com</a>
                 </td>
+              </tr> -->
+              <tr>
+                <th>Sound File</th>
+                <td><a href="{{ page.soundFile }}">link</a></td>
               </tr>
             </tbody>
           </table>

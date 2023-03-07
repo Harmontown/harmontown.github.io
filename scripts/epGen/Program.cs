@@ -1,10 +1,11 @@
 ﻿using System.Xml.Linq;
 
-const string TidiedRss = "../../data/rss-tidied.xml";
+const string TidiedRssInput = "../../data/rss-tidied.xml";
+const string chronologyInput = "../../data/chronology.json";
 
 void GenerateEpisodeStubs()
 {
-  var input = File.ReadAllText(TidiedRss);
+  var input = File.ReadAllText(TidiedRssInput);
 
   var doc = XDocument.Parse(input);
 
@@ -22,13 +23,18 @@ void GenerateEpisodeStubs()
           item.Element("description")!.Value,
           item.Element("episodeType")!.Value,
           item.Element("explicit")?.Value == "yes",
-          item.Element("image") != null ? new Uri(item.Element("image")?.Attribute("href")?.Value ?? "") : null,
+          // item.Element("image") != null ? new Uri(item.Element("image")?.Attribute("href")?.Value ?? "") : null,
+          "episode-placeholder.jpg",
           new Uri(item.Element("url")!.Value));
         return ep;
       })
       .ToList();
 
-  int count = 0;
+  // debugging...
+  episodes = episodes.Take(5).ToList();
+
+  var first = episodes.First();
+  var last = episodes.Last();
   foreach (var ep in episodes)
   {
     var epDir = $"../../docs/episodes/{ep.Number:D3}";
@@ -37,7 +43,7 @@ void GenerateEpisodeStubs()
 $$"""
 ---
 number:               {{ep.Number}}
-title:                {{ep.Title}}
+title:                "{{ep.Title}}"
 image:                {{ep.Image}}
 description: >
   {{ep.Description.Replace("\n", "\n  ")}}
@@ -54,6 +60,8 @@ guests:               []
 audienceGuests:       []
 
 layout:               episode
+hasPrevious:          {{ep != first}}
+hasNext:              {{ep != last}}
 ---
 
 {% include podcastBlurb.md %}
@@ -75,12 +83,6 @@ layout:               episode
 {% endcomment %}
 
 """);
-
-    count++;
-    if (count > 10)
-    {
-      break;
-    }
   }
 }
 
@@ -94,5 +96,5 @@ record EpisodeHeader(
   string Description,
   string Type,
   bool HasExplicitLanguage,
-  Uri? Image,
+  string? Image,
   Uri SoundFile);

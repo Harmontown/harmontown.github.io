@@ -1,0 +1,9 @@
+$primary: #48babb;
+$paper-white: #fbfbfb;
+
+$section-header: lighten(
+  complement(
+    $color: $primary,
+  ),
+  40
+);

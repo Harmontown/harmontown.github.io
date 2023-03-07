@@ -1,7 +1,7 @@
 ---
 number:               4
-title:                The Technology Of N-Words (7.31.12)
-image:                https://megaphone.imgix.net/podcasts/280e6eb0-ddfb-11e8-9896-bb654bb417ff/image/image.jpg?ixlib=rails-4.2.0&max-w=3000&max-h=3000&fit=crop&auto=format,compress
+title:                "The Technology Of N-Words (7.31.12)"
+image:                episode-placeholder.jpg
 description: >
   A discussion of something the Scottish call a "Wizard Sleeve" is ever-so-briefly interrupted by racism, robots, and a visit from something Erin McGathy calls a "game corner."
 showDate:             ""
@@ -14,8 +14,11 @@ soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2303
 location:             
 comptroller:          
 guests:               []
+audienceGuests:       []
 
 layout:               episode
+hasPrevious:          True
+hasNext:              True
 ---
 
 {% include podcastBlurb.md %}

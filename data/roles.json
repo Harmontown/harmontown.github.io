@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Host"
+  },
+  {
+    "id": 2,
+    "name": "Guest"
+  },
+  {
+    "id": 3,
+    "name": "Comptroller"
+  },
+  {
+    "id": 5,
+    "name": "Audience Member"
+  }
+]

@@ -1,0 +1,98 @@
+@import "colors";
+
+.episode-navigation {
+  margin: 0 -13px;
+  margin-top: -12px;
+  width: calc(100% + 26px);
+  display: flex;
+
+  div {
+    flex: 1;
+
+    &#next {
+      text-align: right;
+    }
+  }
+}
+
+.info-box {
+  $width: 267px;
+  background-color: $paper-white;
+  float: right;
+  // margin-top: -2em;
+  margin-left: 12px;
+  margin-right: ($width / -1.25);
+  max-width: $width;
+  border: 1px solid gray;
+  padding: 6px;
+
+  .episode-image {
+    text-align: center;
+    img {
+      max-width: 80%;
+    }
+  }
+
+  th {
+    text-align: right;
+    vertical-align: baseline;
+  }
+
+  table {
+    margin: 0;
+  }
+
+  th,
+  td {
+    padding: 0;
+    border: unset;
+    width: 50%;
+  }
+
+  tr.section-header,
+  tr.box-header {
+    th {
+      padding: 0;
+    }
+    div {
+      margin-top: 6px;
+      text-align: center;
+      background-color: $section-header;
+    }
+    .material-icons {
+      font-size: 14px;
+      vertical-align: middle;
+      margin-bottom: 3px;
+    }
+  }
+
+  tr.box-header {
+    font-size: 105%;
+    div {
+      margin: unset;
+      margin-bottom: 6px;
+    }
+  }
+
+  th,
+  th + td {
+    padding: 0 12px;
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style-image: unset;
+    list-style-type: square;
+  }
+}
+
+@media print, screen and (max-width: 1060px) {
+  section {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .info-box {
+    margin: unset;
+  }
+}

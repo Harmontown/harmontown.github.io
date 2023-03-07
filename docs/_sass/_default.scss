@@ -1,0 +1,76 @@
+@import "colors";
+
+header {
+  h1 {
+    overflow: unset;
+    font-family: "Antonio", sans-serif;
+    text-shadow: unset;
+    margin-bottom: -6px;
+
+    div {
+      display: inline-block;
+      font-size: 55%;
+    }
+    
+    div:not(.wiki-title) {
+      margin: 0 -40px;
+    }
+    div.wiki-title {
+      transform: scaleX(0.75);
+      font-size: 150%;
+      $Xoffset: 4px;
+      $Yoffset: 2.75px;
+      $spread: 0px;
+      $color: rgba(black, 0.75);
+      letter-spacing: -0.8px;
+
+      $embiggen: 0.85px;
+      $embiggenColor: rgb(243, 243, 243);
+
+      // -webkit-text-stroke:  1.5px $color;
+      text-shadow: (-$embiggen) (-$embiggen) $spread $embiggenColor, ($embiggen) (-$embiggen) $spread $embiggenColor,
+        ($embiggen) ($embiggen) $spread $embiggenColor, (-$embiggen) ($embiggen) $spread $embiggenColor,
+        0 (-$embiggen) $spread $embiggenColor, 0 ($embiggen) $spread $embiggenColor,
+        (-$Xoffset) (-$Yoffset) $spread $color, ($Xoffset) (-$Yoffset) $spread $color,
+        ($Xoffset) ($Yoffset) $spread $color, (-$Xoffset) ($Yoffset) $spread $color, 0 (-$Yoffset) $spread $color,
+        0 ($Yoffset) $spread $color;
+    }
+  }
+  p {
+    font-weight: bold;
+  }
+}
+
+nav {
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100% - 220px - 110px);
+  padding-right: 18px;
+
+  .tag-h1.tag-h1 {
+    font-size: 150%;
+    margin-top: 12px;
+    margin-right: -12px;
+    border-right: 6px solid rgba($primary, 0.25);
+    padding-right: 6px;
+
+    &:hover {
+      background-color: rgba($primary, 0.25);
+    }
+
+    &.active {
+      border-right: 6px solid rgba($primary, 0.75);
+    }
+
+    a {
+      display: block;
+    }
+  }
+  // .tag-h2 {
+  //   margin-top: 6px;
+  //   font-size: 125%;
+  //   a {
+  //     font-weight: bold;
+  //   }
+  // }
+}
