@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h1>Complete List of Episodes</h1>
+<table class="episode-list">
+  <tr>
+    <th>Title</th>
+    <th>Venue</th>
+    <th>Show Date</th>
+    <th>Release Date</th>
+  </tr>
+  {% for ep in site.episodes %}
+  <tr>
+    <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>
+    <td>{{ ep.venue }}</td>
+    <td>{{ ep.showDate | date: "%Y-%m-%d" }}</td>
+    <td>{{ ep.releaseDate | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>

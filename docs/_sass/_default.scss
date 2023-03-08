@@ -1,5 +1,13 @@
 @import "colors";
 
+html {
+  overflow-y: scroll;
+  body {
+    background-attachment: fixed;
+    // overflow-y:
+  }
+}
+
 header {
   h1 {
     overflow: unset;
@@ -11,7 +19,7 @@ header {
       display: inline-block;
       font-size: 55%;
     }
-    
+
     div:not(.wiki-title) {
       margin: 0 -20px;
     }
@@ -38,6 +46,24 @@ header {
   }
   p {
     font-weight: bold;
+  }
+}
+
+#banner {
+  .button-container {
+    // outline: 1px solid red;
+    padding-right: 5px;
+    .button {
+      &.github-edit {
+        float: right;
+        img {
+          float: right;
+          height: 18px;
+          margin: -3px 0;
+          margin-left: 9px;
+        }
+      }
+    }
   }
 }
 
@@ -73,4 +99,76 @@ nav {
   //     font-weight: bold;
   //   }
   // }
+}
+
+table {
+  &.episode-list {
+    th,
+    td {
+      vertical-align: baseline;
+    }
+  }
+  &.grouped-by {
+    th:last-child {
+      width: 100px;
+    }
+    th {
+      white-space: nowrap;
+    }
+  }
+}
+
+.wiki-link {
+  font-weight: bold;
+}
+
+/// Dynamic layout sizes:
+$extra-width: 400px;
+$wrapper-width: 650px;
+$banner-margin-right: -382px;
+$section-width: 590px;
+$nav-margin-left: -580px;
+$footer-margin-left: -530px;
+
+#banner {
+  margin-right: calc(#{$banner-margin-right} - (#{$extra-width} / 2));
+  .wrapper {
+    margin-right: 44px;
+  }
+}
+.wrapper {
+  width: calc(#{$wrapper-width} + #{$extra-width});
+}
+nav {
+  margin-left: calc(#{$nav-margin-left} - (#{$extra-width} / 2));
+}
+footer {
+  margin-left: calc(#{$footer-margin-left} - (#{$extra-width} / 2));
+}
+section {
+  width: calc(#{$section-width} + #{$extra-width});
+}
+
+@media print, screen and (max-width: 1060px) {
+  #banner .wrapper {
+    margin-right: 0px;
+  }
+}
+
+@media print, screen and (max-width: 1500px) {
+  .wrapper {
+    width: $wrapper-width;
+  }
+  #banner {
+    margin-right: $banner-margin-right;
+  }
+  section {
+    width: $section-width;
+  }
+  nav {
+    margin-left: $nav-margin-left;
+  }
+  footer {
+    margin-left: $footer-margin-left;
+  }
 }

@@ -3,6 +3,7 @@ using System.Linq;
 using System.Web;
 
 const string ChronologyInput = "../../data/chronology.json";
+const string OutDir = "../../docs/_episodes/";
 
 void GenerateEpisodeStubs()
 {
@@ -51,17 +52,18 @@ void GenerateEpisodeStubs()
   }
 
   // debugging...
-  episodes = episodes.Skip(0).Take(60).ToList();
+  episodes = episodes.Skip(60).Take(60).ToList();
 
   var first = episodes.First();
   var last = episodes.Last();
 
   // string FormatList(string[] list) => string.Join(", ", list.Select(item => "'" + HttpUtility.HtmlEncode(item) + "'"));
   string FormatList(string[] list) => string.Join(", ", list.Select(item => $"\"{HttpUtility.HtmlEncode(item)}\""));
+  string FormatBool(bool value) => value.ToString().ToLower();
 
   foreach (var ep in episodes)
   {
-    var epDir = $"../../docs/episodes/{ep.SequenceNumber:D3}";
+    var epDir = $"{OutDir}{ep.SequenceNumber:D3}";
     Directory.CreateDirectory(epDir);
     File.WriteAllText($"{epDir}/index.md",
   $$"""
@@ -75,13 +77,15 @@ description: >
 showDate:             "{{ep.ShowDate?.ToString("u") ?? "TBC"}}"
 releaseDate:          "{{ep.ReleaseDate:u}}"
 duration:             "{{ep.Duration:c}}"
-isLostEpisode:        {{ep.IsLostEpisode.ToString().ToLower()}}
-isTrailer:            {{ep.IsTrailer.ToString().ToLower()}}
-hasExplicitLanguage:  {{ep.HasExplicitLanguage.ToString().ToLower()}}
+isLostEpisode:        {{FormatBool(ep.IsLostEpisode)}}
+isTrailer:            {{FormatBool(ep.IsTrailer)}}
+hasExplicitLanguage:  {{FormatBool(ep.HasExplicitLanguage)}}
 soundFile:            {{ep.SoundFile}}
 
 venue:                "{{ep.Venue}}"
 comptroller:          "{{ep.Comptroller}}"
+gameMaster:           "{{ep.GameMaster}}"
+hasDnD                {{FormatBool(ep.HasDnD)}}
 guests:               [{{FormatList(ep.Guests)}}]
 audienceGuests:       [{{FormatList(ep.AudienceGuests)}}]
 

@@ -124,6 +124,8 @@ void DeriveChronology()
       title = title,
       venue = venue,
       comptroller = comptroller,
+      gameMaster = (string?)null,
+      hasDandD = (bool?)null,
       guests = guests,
       audienceGuests = audienceGuests,
       image = "episode-placeholder.jpg",

@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<h1>Episodes</h1>
+
+<h2>Complete List</h2>
+<p>See <a href="complete-list.html" class="wiki-link">Complete List of Episodes</a>.</p>
+
+<h2>By Comptroller</h2>
+<!-- {% assign byComptroller = site.episodes | group_by: "comptroller" | sort: "items['size']" %} -->
+{% assign byComptroller = site.episodes | group_by: "comptroller" %}
+<table class="episode-list grouped-by">
+  <tr>
+    <th>Comptroller</th>
+    <th>Episode Count</th>
+  </tr>
+  {% for group in byComptroller %}
+  <tr>
+    <td>{{ group.name | default: "TBC" }}</td>
+    <td>{{ group.items.size }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2>By Venue</h2>
+{% assign byVenue = site.episodes | group_by: "venue" %}
+<table class="episode-list grouped-by">
+  <tr>
+    <th>Venue</th>
+    <th>Episode Count</th>
+  </tr>
+  {% for group in byVenue %}
+  <tr>
+    <td>{{ group.name | default: "TBC" }}</td>
+    <td>{{ group.items.size }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2>By Person</h2>
+TODO
+
+<h2>With DnD</h2>
+TODO
