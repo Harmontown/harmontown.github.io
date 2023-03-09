@@ -255,8 +255,10 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-remote-theme
+  jekyll-seo-tag
+  jekyll-sitemap
   tzinfo-data
   webrick
 
 BUNDLED WITH
-   2.4.6
+   2.3.25

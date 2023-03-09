@@ -12,3 +12,11 @@ show_downloads: false
 collections:
   episodes:
     output: true
+
+categories: ['test', 'stuff']
+
+strict_front_matter: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+{% assign comptrollers = site.episodes | map: "comptroller" | uniq %}
+{% assign gameMasters = site.episodes | map: "gameMaster" | uniq  %}
+{% assign guests = site.episodes | map: "guests" | uniq  %}
+{% assign audienceGuests = site.episodes | map: "audienceGuests" | uniq  %}
+
+{% assign people = comptrollers | concat: gameMasters | concat: guests | concat: audienceGuests | uniq  %}
+
+{% assign personEpisodeCounts = "" | split: "," %}
+{% for person in people %}
+  {% assign episodeCount = 0  %}
+  {% for ep in site.episodes %}
+    {% if ep.comptroller == person or ep.gameMaster == person or ep.guests contains person or ep.audienceGuests contains person %}
+      {% assign episodeCount = episodeCount | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  
+  {% assign entry = "" | split: "," %}
+  {% assign entry = entry | push: person %}
+  {% assign entry = entry | push: episodeCount %}
+  {% assign personEpisodeCounts = personEpisodeCounts | push: entry %}
+{% endfor %}
 
 <h1>Episodes</h1>
 
@@ -39,7 +60,22 @@ layout: default
 </table>
 
 <h2>By Person</h2>
+
+<table class="episode-list grouped-by">
+  <tr>
+    <th>Person</th>
+    <th>Episode Count</th>
+  </tr>
+  {% for entry in personEpisodeCounts %}
+  <tr>
+    <td>{{ entry[0] | default: "TBC" }}</td>
+    <td>{{ entry[1] }}</td>
+  </tr>
+  
+  {% endfor %}
+</table>
+
+<h2>By D&amp;D</h2>
 TODO
 
-<h2>With DnD</h2>
-TODO
+{% assign meh = empty %}

@@ -1,0 +1,12 @@
+FROM jekyll/jekyll:4
+
+# COPY /docs/Gemfile /
+
+EXPOSE 4000 35729
+
+COPY ./entrypoint.jekyll.sh /entrypoint.jekyll.sh
+RUN chmod +x /entrypoint.jekyll.sh
+
+
+# CMD jekyll serve -H 0.0.0.0 --verbose --trace
+ENTRYPOINT [ "/entrypoint.jekyll.sh" ]

@@ -99,7 +99,8 @@ void DeriveChronology()
     var rssItem = xDoc == null ? null : new RssItem(xDoc!, episodeNumber);
 
     var title = rssItem?.Title ?? pdItem?.Title ?? "";
-    var comptroller = pdItem?.Comptroller ?? "";
+    var comptroller = pdItem?.Comptroller;
+    comptroller = string.IsNullOrWhiteSpace(comptroller) ? null : comptroller;
     var guests = (pdItem?.Guests ?? new string[0]).ToList();
     var audienceGuests = (pdItem?.AudienceGuests ?? new string[0]).ToList();
     var showDate = pdItem?.ShowDate;
@@ -150,7 +151,7 @@ void DeriveChronology()
 
 void WrangleMoreValues(
   int sequenceNumber,
-  string comptroller,
+  string? comptroller,
   List<string> guests,
   List<string> audienceGuests,
   ref string title,
@@ -199,6 +200,7 @@ void WrangleMoreValues(
       title = title.Substring(0, title.Length - match.Captures[0].Value.Length).Trim();
       var titleGuests =
          match.Groups[1].Value
+          .Replace("with", "")
           .Split(",")
           .Select(item => item.Trim())
           .ToList();

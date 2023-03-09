@@ -18,6 +18,15 @@ void GenerateEpisodeStubs()
         ? null
         : item.GetProperty("pdId").GetInt32();
 
+    bool? GetBool(JsonElement el, string key) 
+      => (el.GetProperty(key).ValueKind != JsonValueKind.True && el.GetProperty(key).ValueKind != JsonValueKind.False)
+        ? null
+        : el.GetProperty(key).GetBoolean();
+    // string? GetString(JsonElement el, string key) 
+    //   => el.GetProperty(key).ValueKind == JsonValueKind.Null
+    //     ? null
+    //     : el.GetProperty(key).GetString();
+
     var ep = new EpisodeHeader(
       SequenceNumber: item.GetProperty("sequenceNumber").GetInt32(),
       EpisodeNumber: item.GetProperty("episodeNumber").ValueKind == JsonValueKind.Null
@@ -36,30 +45,31 @@ void GenerateEpisodeStubs()
         : null,
       Description: item.GetProperty("description").GetString()!,
       Comptroller: item.GetProperty("comptroller").GetString()!,
+      GameMaster: item.GetProperty("gameMaster").GetString()!,
+      HasDnD: GetBool(item, "hasDandD"),
       Guests: item.GetProperty("guests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
       AudienceGuests: item.GetProperty("audienceGuests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
       IsLostEpisode: item.GetProperty("isLostEpisode").GetBoolean(),
-          IsTrailer: item.GetProperty("isTrailer").GetBoolean(),
-          item.GetProperty("hasExplicitLanguage").GetBoolean(),
-          "episode-placeholder.jpg",
-          item.GetProperty("soundfile").ValueKind == JsonValueKind.Null
-            ? null
-            : item.GetProperty("soundfile").GetString(),
-          pdId
-        );
+      IsTrailer: item.GetProperty("isTrailer").GetBoolean(),
+      HasExplicitLanguage: item.GetProperty("hasExplicitLanguage").GetBoolean(),
+      Image: "episode-placeholder.jpg",
+      SoundFile: item.GetProperty("soundfile").GetString(),
+      PodcastDynamiteId: pdId
+    );
 
     episodes.Add(ep);
   }
 
   // debugging...
-  episodes = episodes.Skip(60).Take(60).ToList();
+  // episodes = episodes.Take(120).ToList();
 
   var first = episodes.First();
   var last = episodes.Last();
 
   // string FormatList(string[] list) => string.Join(", ", list.Select(item => "'" + HttpUtility.HtmlEncode(item) + "'"));
-  string FormatList(string[] list) => string.Join(", ", list.Select(item => $"\"{HttpUtility.HtmlEncode(item)}\""));
-  string FormatBool(bool value) => value.ToString().ToLower();
+  string FormatList(string[] list) => string.Join(", ", list.Select(value => FormatString(value)));
+  string FormatBool(bool? value) => value?.ToString().ToLower() ?? "";
+  string? FormatString(string? value) => value == null ? null : $"\"{HttpUtility.HtmlEncode(value)}\"";
 
   foreach (var ep in episodes)
   {
@@ -70,7 +80,7 @@ void GenerateEpisodeStubs()
 ---
 sequenceNumber:       {{ep.SequenceNumber}}
 episodeNumber:        {{ep.EpisodeNumber}}
-title:                "{{ep.Title}}"
+title:                {{FormatString(ep.Title)}}
 image:                {{ep.Image}}
 description: >
   {{ep.Description.Replace("\n", "\n  ")}}
@@ -82,10 +92,10 @@ isTrailer:            {{FormatBool(ep.IsTrailer)}}
 hasExplicitLanguage:  {{FormatBool(ep.HasExplicitLanguage)}}
 soundFile:            {{ep.SoundFile}}
 
-venue:                "{{ep.Venue}}"
-comptroller:          "{{ep.Comptroller}}"
-gameMaster:           "{{ep.GameMaster}}"
-hasDnD                {{FormatBool(ep.HasDnD)}}
+venue:                {{FormatString(ep.Venue)}}
+comptroller:          {{FormatString(ep.Comptroller)}}
+gameMaster:           {{FormatString(ep.GameMaster)}}
+hasDnD:               {{FormatBool(ep.HasDnD)}}
 guests:               [{{FormatList(ep.Guests)}}]
 audienceGuests:       [{{FormatList(ep.AudienceGuests)}}]
 
@@ -131,6 +141,8 @@ record EpisodeHeader(
     TimeSpan? Duration,
     string Description,
     string Comptroller,
+    string? GameMaster,
+    bool? HasDnD,
     string[] Guests,
     string[] AudienceGuests,
     bool IsLostEpisode,

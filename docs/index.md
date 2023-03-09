@@ -5,9 +5,14 @@ title: "Harmontown Podcast Wiki"
 # Welcome
 TODO: Intro blurb.
 
-## About
-<!-- # Bits -->
+## Progress
+hi
+<p>page.progress: {{ page.progress }}</p>
+<p>site.data.progress.episodeCount: {{ site.data.progress.episodeCount }}</p>
+{% include progress.md %}
 
+## About
+TODO: Mentioned sources for aggregated data
 
 ## Contributing
 
