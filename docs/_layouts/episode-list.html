@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>{{page.titlePrefix}} {{page.of}}</h1>
+{{ page.description }}
+<table class="episode-list">
+  <tr>
+    <th>Title</th>
+    <th>Venue</th>
+    <th>Show Date</th>
+    <th>Release Date</th>
+  </tr>
+  
+  {% for seqNum in page.sequenceNumbers %}
+  {% assign i = seqNum | minus: 1 %}
+  {% assign ep = site.episodes[i] %}
+  <tr>
+    <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>
+    <td>{{ ep.venue }}</td>
+    <td>{{ ep.showDate | date: "%Y-%m-%d" }}</td>
+    <td>{{ ep.releaseDate | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>

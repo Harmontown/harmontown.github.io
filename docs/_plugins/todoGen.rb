@@ -1,12 +1,11 @@
 module Harmontown
   class ToDoGenerator < Jekyll::Generator
     def generate(site)
-      Jekyll.logger.info "ToDoGenerator:", "================ Start ================"
 
       indexPage = site.pages.find { |page| page.name == 'index.md' }
       indexPage.data['progress'] = Progress.new(site)
 
-      Jekyll.logger.info "ToDoGenerator:", "================= End ================="
+      Jekyll.logger.info "ToDoGenerator:", "Done."
     end
   end
 

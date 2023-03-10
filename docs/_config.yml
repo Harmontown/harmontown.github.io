@@ -12,8 +12,8 @@ show_downloads: false
 collections:
   episodes:
     output: true
-
-categories: ['test', 'stuff']
+  episode-lists:
+    output: true
 
 strict_front_matter: true
 

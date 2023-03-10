@@ -13,10 +13,11 @@ layout: default
     <th>Comptroller</th>
     <th>Episode Count</th>
   </tr>
-  {% for item in page.byComptroller %}
+  {% assign byComptroller = site.pages | where_exp: "p", "p.groupingField == 'comptroller'" %}
+  {% for page in byComptroller %}
   <tr>
-    <td>{{ item.by | default: "TBC" }}</td>
-    <td>{{ item.count }}</td>
+    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
   {% endfor %}
 </table>
@@ -28,10 +29,11 @@ layout: default
     <th>Venue</th>
     <th>Episode Count</th>
   </tr>
-  {% for item in page.byVenue %}
+  {% assign byVenue = site.pages | where_exp: "p", "p.groupingField == 'venue'" %}
+  {% for page in byVenue %}
   <tr>
-    <td>{{ item.by | default: "TBC" }}</td>
-    <td>{{ item.count }}</td>
+    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
   {% endfor %}
 </table>
@@ -43,10 +45,11 @@ layout: default
     <th>Person</th>
     <th>Episode Count</th>
   </tr>
-  {% for item in page.byPerson %}
+  {% assign byPerson = site.pages | where_exp: "p", "p.groupingField == 'person'" %}
+  {% for page in byPerson %}
   <tr>
-    <td>{{ item.by | default: "TBC" }}</td>
-    <td>{{ item.count }}</td>
+    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
   {% endfor %}
 </table>
@@ -55,13 +58,22 @@ layout: default
 <h2>By "Has D&amp;D"</h2>
 <table class="episode-breakdown">
   <tr>
-    <th>Yes</th>
-    <th>No</th>
-    <th>TBC</th>
+    {% for entry in page.byDnD %}
+    <td>
+      {% case entry.by %}
+      {% when true %}
+      Yes
+      {% when false %}
+      NO
+      {% when nil %}
+      TBC
+      {% endcase %}
+    </td>
+    {% endfor %}
   </tr>
   <tr>
-    <td>{{ site.episodes | where_exp: "item", "item.hasDnD == true" | size }}</td>
-    <td>{{ site.episodes | where_exp: "item", "item.hasDnD == false" | size }}</td>
-    <td>{{ site.episodes | where_exp: "item", "item.hasDnD == nil" | size }}</td>
+    {% for entry in page.byDnD %}
+    <td>{{ entry.items | size }}</td>
+    {% endfor %}
   </tr>
 </table>
