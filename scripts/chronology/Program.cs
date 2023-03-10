@@ -104,6 +104,7 @@ void DeriveChronology()
     var guests = (pdItem?.Guests ?? new string[0]).ToList();
     var audienceGuests = (pdItem?.AudienceGuests ?? new string[0]).ToList();
     var showDate = pdItem?.ShowDate;
+    bool? hasDnD = null;
 
     WrangleMoreValues(
       sequenceNumber,
@@ -112,6 +113,7 @@ void DeriveChronology()
       audienceGuests,
       ref title,
       ref showDate,
+      ref hasDnD,
       out var venue);
 
     var entry = new
@@ -126,7 +128,7 @@ void DeriveChronology()
       venue = venue,
       comptroller = comptroller,
       gameMaster = (string?)null,
-      hasDandD = (bool?)null,
+      hasDnD = hasDnD,
       guests = guests,
       audienceGuests = audienceGuests,
       image = "episode-placeholder.jpg",
@@ -156,10 +158,21 @@ void WrangleMoreValues(
   List<string> audienceGuests,
   ref string title,
   ref DateTimeOffset? showDate,
-  out string venue
+  ref bool? hasDnD,
+  out string? venue
   )
 {
   /// Last minute data wrangling:
+  // infer hasDnD
+  {
+    hasDnD = sequenceNumber switch
+    {
+      <= 15 => false,
+      21 => true,
+      _ => null,
+    };
+  }
+
   // infer showDate (not sure this is used)
   {
     var showDateFromTitleRegex = new Regex("\\((\\d{1,2}\\.\\d{1,2}\\.\\d{2,4})\\)$");
@@ -187,7 +200,7 @@ void WrangleMoreValues(
       >= 38 and < 56 => $"TBC, {title.Split(":")[1].Trim()}",
       56 => "Egyptian Theatre, Los Angeles, CA",
       >= 57 and <= 78 => "NerdMelt",
-      _ => "TBC"
+      _ => null
     };
   }
 

@@ -44,7 +44,7 @@ layout: default
       </tr>
       <tr>
         <th>Show Date</th>
-        <td>{{ page.showDate | date: "%B %d, %Y" }}</td>
+        <td>{{ page.showDate | date: "%B %d, %Y" | default: "TBC" }}</td>
       </tr>
       <tr>
         <th>Venue</th>

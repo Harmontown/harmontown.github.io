@@ -1,15 +1,13 @@
 ---
 title: "Harmontown Podcast Wiki"
+layout: default
 ---
 
 # Welcome
 TODO: Intro blurb.
 
 ## Progress
-hi
-<p>page.progress: {{ page.progress }}</p>
-<p>site.data.progress.episodeCount: {{ site.data.progress.episodeCount }}</p>
-{% include progress.md %}
+{% include progress.html %}
 
 ## About
 TODO: Mentioned sources for aggregated data

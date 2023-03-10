@@ -107,6 +107,9 @@ table {
     td {
       vertical-align: baseline;
     }
+    th {
+      white-space: nowrap;
+    }
   }
   &.grouped-by {
     th:last-child {
@@ -120,6 +123,13 @@ table {
 
 .wiki-link {
   font-weight: bold;
+}
+
+.field {
+  font-family: monospace;
+  background: rgba(lightgray, 0.75);
+  border: 1px solid rgba(gray, 0.5);
+  padding: 0 6px;
 }
 
 /// Dynamic layout sizes:

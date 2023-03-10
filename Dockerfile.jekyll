@@ -1,6 +1,7 @@
-FROM jekyll/jekyll:4
+# FROM jekyll/jekyll:minimal
+# RUN apk add --no-cache build-base gcc cmake
 
-# COPY /docs/Gemfile /
+FROM jekyll/jekyll:4
 
 EXPOSE 4000 35729
 

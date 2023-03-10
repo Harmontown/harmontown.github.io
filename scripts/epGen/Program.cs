@@ -46,7 +46,7 @@ void GenerateEpisodeStubs()
       Description: item.GetProperty("description").GetString()!,
       Comptroller: item.GetProperty("comptroller").GetString()!,
       GameMaster: item.GetProperty("gameMaster").GetString()!,
-      HasDnD: GetBool(item, "hasDandD"),
+      HasDnD: GetBool(item, "hasDnD"),
       Guests: item.GetProperty("guests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
       AudienceGuests: item.GetProperty("audienceGuests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
       IsLostEpisode: item.GetProperty("isLostEpisode").GetBoolean(),
@@ -61,13 +61,19 @@ void GenerateEpisodeStubs()
   }
 
   // debugging...
-  // episodes = episodes.Take(120).ToList();
+  episodes = episodes.Skip(0).Take(100).ToList();
 
   var first = episodes.First();
   var last = episodes.Last();
 
-  // string FormatList(string[] list) => string.Join(", ", list.Select(item => "'" + HttpUtility.HtmlEncode(item) + "'"));
-  string FormatList(string[] list) => string.Join(", ", list.Select(value => FormatString(value)));
+  string FormatList(string[] list)
+  {
+    if (list.Length == 0)
+    {
+      return string.Empty;
+    }
+    return $"\n- {string.Join("\n- ", list.Select(value => FormatString(value)))}";
+  }
   string FormatBool(bool? value) => value?.ToString().ToLower() ?? "";
   string? FormatString(string? value) => value == null ? null : $"\"{HttpUtility.HtmlEncode(value)}\"";
 
@@ -84,9 +90,9 @@ title:                {{FormatString(ep.Title)}}
 image:                {{ep.Image}}
 description: >
   {{ep.Description.Replace("\n", "\n  ")}}
-showDate:             "{{ep.ShowDate?.ToString("u") ?? "TBC"}}"
-releaseDate:          "{{ep.ReleaseDate:u}}"
-duration:             "{{ep.Duration:c}}"
+showDate:             {{FormatString(ep.ShowDate?.ToString("u"))}}
+releaseDate:          {{FormatString(ep.ReleaseDate?.ToString("u"))}}
+duration:             {{FormatString(ep.Duration?.ToString("c"))}}
 isLostEpisode:        {{FormatBool(ep.IsLostEpisode)}}
 isTrailer:            {{FormatBool(ep.IsTrailer)}}
 hasExplicitLanguage:  {{FormatBool(ep.HasExplicitLanguage)}}
@@ -96,8 +102,15 @@ venue:                {{FormatString(ep.Venue)}}
 comptroller:          {{FormatString(ep.Comptroller)}}
 gameMaster:           {{FormatString(ep.GameMaster)}}
 hasDnD:               {{FormatBool(ep.HasDnD)}}
-guests:               [{{FormatList(ep.Guests)}}]
-audienceGuests:       [{{FormatList(ep.AudienceGuests)}}]
+
+## Example on how to add guests
+#guests:
+#- "Guy Pancake"
+#- "Lady Omelette"
+#- "Kid Hashbrown"
+
+guests:{{FormatList(ep.Guests)}}
+audienceGuests:{{FormatList(ep.AudienceGuests)}}
 
 # Generated.  Do not change:
 layout:               episode

@@ -257,7 +257,6 @@ DEPENDENCIES
   jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
-  tzinfo-data
   webrick
 
 BUNDLED WITH
