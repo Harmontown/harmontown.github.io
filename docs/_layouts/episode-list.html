@@ -4,22 +4,26 @@ layout: default
 
 <h1>{{page.title}}</h1>
 {{ page.description }}
-<table class="episode-list">
+<table class="episode-list row-highlight">
   <tr>
+    <th>#</th>
+    <th>Ep #</th>
     <th>Title</th>
-    <th>Venue</th>
-    <th>Show Date</th>
-    <th>Release Date</th>
+    <th class="mobile-hidden">Venue</th>
+    <th class="mobile-hidden">Show Date</th>
+    <th class="mobile-hidden">Release Date</th>
   </tr>
   
   {% for seqNum in page.sequenceNumbers %}
   {% assign i = seqNum | minus: 1 %}
   {% assign ep = site.episodes[i] %}
   <tr>
+    <td>{{ ep.sequenceNumber }}</a></td>
+    <td>{{ ep.episodeNumber | default: 'N/A' }}</a></td>
     <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>
-    <td>{{ ep.venue | default: 'TBC' }}</td>
-    <td>{{ ep.showDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>
-    <td>{{ ep.releaseDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>
+    <td class="mobile-hidden">{{ ep.venue | default: 'TBC' }}</td>
+    <td class="mobile-hidden">{{ ep.showDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>
+    <td class="mobile-hidden">{{ ep.releaseDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>
   </tr>
   {% endfor %}
 </table>

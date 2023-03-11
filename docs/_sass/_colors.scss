@@ -7,5 +7,11 @@ $section-header: lighten(
   ),
   40
 );
+$table-header: lighten(
+  complement(
+    $color: $primary,
+  ),
+  43
+);
 
 $box-border-color: gray;

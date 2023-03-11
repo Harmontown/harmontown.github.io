@@ -102,6 +102,11 @@ nav {
 }
 
 table {
+  &.row-highlight {
+    tr:hover {
+      background-color: rgba($primary, 0.1);
+    }
+  }
   &.episode-list {
     th,
     td {
@@ -119,6 +124,16 @@ table {
       white-space: nowrap;
     }
   }
+  &.episode-breakdown,
+  &.episode-progress,
+  &.episode-list {
+    tr:first-child {
+      background-color: $table-header;
+      th {
+        outline: 1px solid $paper-white;
+      }
+    }
+  }
 }
 
 .wiki-link {
@@ -130,55 +145,4 @@ table {
   background: rgba(lightgray, 0.75);
   border: 1px solid rgba(gray, 0.5);
   padding: 0 6px;
-}
-
-/// Dynamic layout sizes:
-$extra-width: 400px;
-$wrapper-width: 650px;
-$banner-margin-right: -382px;
-$section-width: 590px;
-$nav-margin-left: -580px;
-$footer-margin-left: -530px;
-
-#banner {
-  margin-right: calc(#{$banner-margin-right} - (#{$extra-width} / 2));
-  .wrapper {
-    margin-right: 44px;
-  }
-}
-.wrapper {
-  width: calc(#{$wrapper-width} + #{$extra-width});
-}
-nav {
-  margin-left: calc(#{$nav-margin-left} - (#{$extra-width} / 2));
-}
-footer {
-  margin-left: calc(#{$footer-margin-left} - (#{$extra-width} / 2));
-}
-section {
-  width: calc(#{$section-width} + #{$extra-width});
-}
-
-@media print, screen and (max-width: 1060px) {
-  #banner .wrapper {
-    margin-right: 0px;
-  }
-}
-
-@media print, screen and (max-width: 1500px) {
-  .wrapper {
-    width: $wrapper-width;
-  }
-  #banner {
-    margin-right: $banner-margin-right;
-  }
-  section {
-    width: $section-width;
-  }
-  nav {
-    margin-left: $nav-margin-left;
-  }
-  footer {
-    margin-left: $footer-margin-left;
-  }
 }
