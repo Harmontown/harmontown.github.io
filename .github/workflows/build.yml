@@ -23,6 +23,7 @@ jobs:
         uses: isbang/compose-action@v1.4.1
         with:
           compose-file: "docker-compose.yml"
+          up-flags: --abort-on-container-exit
 
       - name: List Files
         id: list-files
