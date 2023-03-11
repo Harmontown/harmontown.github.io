@@ -995,21 +995,23 @@ nav {
     nav .tag-h1.tag-h1 a {
       display: block; }
 
-table.row-highlight tr:hover {
-  background-color: rgba(72, 186, 187, 0.1); }
-table.episode-list th,
-table.episode-list td {
-  vertical-align: baseline; }
-table.episode-list th {
-  white-space: nowrap; }
-table.grouped-by th:last-child {
-  width: 100px; }
-table.grouped-by th {
-  white-space: nowrap; }
-table.episode-breakdown tr:first-child, table.episode-progress tr:first-child, table.episode-list tr:first-child {
-  background-color: #f6e8e8; }
-  table.episode-breakdown tr:first-child th, table.episode-progress tr:first-child th, table.episode-list tr:first-child th {
-    outline: 1px solid #fbfbfb; }
+table {
+  overflow: auto; }
+  table.row-highlight :not(thead) tr:hover {
+    background-color: rgba(72, 186, 187, 0.1); }
+  table.episode-list th,
+  table.episode-list td {
+    vertical-align: baseline; }
+  table.episode-list th {
+    white-space: nowrap; }
+  table.grouped-by th:last-child {
+    width: 100px; }
+  table.grouped-by th {
+    white-space: nowrap; }
+  table.episode-breakdown thead tr, table.episode-progress thead tr, table.episode-list thead tr {
+    background-color: #f6e8e8; }
+    table.episode-breakdown thead tr th, table.episode-progress thead tr th, table.episode-list thead tr th {
+      outline: 1px solid #fbfbfb; }
 
 .wiki-link {
   font-weight: bold; }
@@ -1143,6 +1145,9 @@ table.episode-breakdown tr:first-child, table.episode-progress tr:first-child, t
   .episode-progress .completion-rate.cr100 {
     background-color: limegreen; }
 
+header {
+  width: auto; }
+
 #banner {
   margin-right: calc(-382px - (400px / 2)); }
   #banner .wrapper {
@@ -1180,13 +1185,26 @@ section {
     margin-left: -530px; } }
 @media print, screen and (max-width: 620px) {
   section {
-    width: auto; } }
-@media print, screen and (max-width: 480px) {
+    width: auto;
+    margin: 0; }
+
   html,
   body {
     overflow-x: hidden;
     min-width: 310px; }
 
+  header {
+    position: relative;
+    min-height: unset;
+    padding: 0; }
+
+  #banner {
+    display: block;
+    position: relative;
+    margin: unset;
+    top: unset;
+    bottom: unset; } }
+@media print, screen and (max-width: 480px) {
   header h1,
   section h1,
   footer h1 {
@@ -1201,11 +1219,6 @@ section {
 
   .mobile-hidden {
     display: none; }
-
-  #banner {
-    display: block;
-    position: unset;
-    margin: unset; }
 
   footer {
     margin-left: unset; } }
