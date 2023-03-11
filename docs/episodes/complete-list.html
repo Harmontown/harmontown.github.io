@@ -12,9 +12,9 @@ layout: default
   {% for ep in site.episodes %}
   <tr>
     <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>
-    <td>{{ ep.venue }}</td>
-    <td>{{ ep.showDate | date: "%Y-%m-%d" }}</td>
-    <td>{{ ep.releaseDate | date: "%Y-%m-%d" }}</td>
+    <td>{{ ep.venue | default: 'TBC' }}</td>
+    <td>{{ ep.showDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>
+    <td>{{ ep.releaseDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>
   </tr>
   {% endfor %}
 </table>

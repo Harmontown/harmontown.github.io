@@ -56,24 +56,16 @@ layout: default
 
 
 <h2>By "Has D&amp;D"</h2>
-<table class="episode-breakdown">
+<table class="episode-list grouped-by episode-breakdown">
   <tr>
-    {% for entry in page.byDnD %}
-    <td>
-      {% case entry.by %}
-      {% when true %}
-      Yes
-      {% when false %}
-      NO
-      {% when nil %}
-      TBC
-      {% endcase %}
-    </td>
-    {% endfor %}
+    <th>Has?</th>
+    <th>Episode Count</th>
   </tr>
+  {% assign byDnD = site.pages | where_exp: "p", "p.groupingField == 'hasDnD'" %}
+  {% for page in byDnD %}
   <tr>
-    {% for entry in page.byDnD %}
-    <td>{{ entry.items | size }}</td>
-    {% endfor %}
+    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
+  {% endfor %}
 </table>

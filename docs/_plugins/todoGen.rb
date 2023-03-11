@@ -2,8 +2,21 @@ module Harmontown
   class ToDoGenerator < Jekyll::Generator
     def generate(site)
 
+      progress =  Progress.new(site)
+
+      site.pages.concat(
+        progress.missingValues.map { |missing| 
+          EpisodeListPage.new(
+            site, 
+            'missing',
+            missing.field,
+            missing.field, 
+            "Episodes Missing ",
+            missing.sequenceNumbers) }
+      )
+
       indexPage = site.pages.find { |page| page.name == 'index.md' }
-      indexPage.data['progress'] = Progress.new(site)
+      indexPage.data['progress'] = progress
 
       Jekyll.logger.info "ToDoGenerator:", "Done."
     end
@@ -19,24 +32,36 @@ module Harmontown
     end
 
     def missingValues
+      def getSequenceNumbers(field)
+        @episodes.select { |ep| ep[field] == nil }.map { |ep| ep['sequenceNumber']}
+      end
+
       [
-        MissingValue.new('Date of live performance.', 'showDate', @episodes.select { |ep| ep['showDate'] == nil }.length),
-        MissingValue.new('Location of live performance.', 'venue', @episodes.select { |ep| ep['venue'] == nil }.length),
-        MissingValue.new('Episode description.', 'description', @episodes.select { |ep| ep['description'].strip.end_with? '...' }.length),
-        MissingValue.new('Comptroller', 'comptroller', @episodes.select { |ep| ep['comptroller'] == nil }.length),
-        MissingValue.new('Game Master', 'gameMaster', @episodes.select { |ep| ep['gameMaster'] == nil }.length),
-        MissingValue.new('Whether episode has D&amp;D, Pathfinder, Shadowrun, or any other roleplaying session', 'hasDnD', @episodes.select { |ep| ep['hasDnD'] == nil }.length),
-        MissingValue.new('List of guests.', 'guests', @episodes.select { |ep| ep['guests'] == nil }.length),
-        MissingValue.new('List of audience members who participated.', 'audienceGuests', @episodes.select { |ep| ep['audienceGuests'] == nil }.length),
+        MissingValue.new('Date of live performance.', 'showDate',
+          getSequenceNumbers('showDate')),
+        MissingValue.new('Location of live performance.', 'venue', 
+          getSequenceNumbers('venue')),
+        MissingValue.new('Episode description.', 'description', 
+          @episodes.select { |ep| ep['description'].strip.end_with? '...' }.map { |ep| ep['sequenceNumber']}),
+        MissingValue.new('Comptroller', 'comptroller',
+          getSequenceNumbers('comptroller')),
+        MissingValue.new('Game Master', 'gameMaster',
+          getSequenceNumbers('gameMaster')),
+        MissingValue.new('Whether episode has D&amp;D, Pathfinder, Shadowrun, or any other roleplaying session', 'hasDnD',
+          getSequenceNumbers('hasDnD')),
+        MissingValue.new('List of guests.', 'guests', 
+          getSequenceNumbers('guests')),
+        MissingValue.new('List of audience members who participated.', 'audienceGuests', 
+          getSequenceNumbers('audienceGuests')),
       ]
     end
   end
 
   class MissingValue < Liquid::Drop
-    def initialize(name, field, count)
+    def initialize(name, field, sequenceNumbers)
       @name = name
       @field = field
-      @count = count
+      @sequenceNumbers = sequenceNumbers
     end
 
     def name
@@ -47,8 +72,12 @@ module Harmontown
       @field
     end
 
+    def sequenceNumbers
+      @sequenceNumbers
+    end
+
     def count
-      @count
+      @sequenceNumbers.length
     end
   end
 end

@@ -4,21 +4,24 @@ module Harmontown
 
       episodes = site.collections['episodes'].docs
       def toGrouping (k, v)
-        Grouping.new(k || 'TBC', v.map { |g| g['sequenceNumber'] })
+        Grouping.new(k, v.map { |g| g['sequenceNumber'] })
       end
       def relevance (i)
         [-i.items.length, i.by]
       end
+      def formatYesNoTbc (value)
+        value == nil ? 'TBC' : value ? 'Yes' : 'No'
+      end
 
       byComptroller =
         episodes.group_by { |ep| ep['comptroller'] }
-          .map { |k,v| toGrouping(k,v) }
+          .map { |k,v| toGrouping(k || 'TBC',v) }
           .sort_by { |i| relevance(i) }
 
 
       byVenue =
         episodes.group_by { |ep| ep['venue'] }
-          .map { |k,v| toGrouping(k,v) }
+          .map { |k,v| toGrouping(k || 'TBC',v) }
           .sort_by { |i| relevance(i) }
 
 
@@ -28,7 +31,7 @@ module Harmontown
       audienceGuests = episodes.flat_map { |ep| ep['audienceGuests']}.uniq
       people = comptrollers.chain(gameMasters).chain(guests).chain(audienceGuests).uniq
       
-      byPerson = people.map { |person| toGrouping(person, episodes.select { |ep| 
+      byPerson = people.map { |person| toGrouping(person || 'TBC', episodes.select { |ep| 
         ep['comptroller'] == person || 
         ep['gameMaster'] == person ||
         (ep['guests'] != nil && ep['guests'].include?(person)) ||
@@ -53,7 +56,7 @@ module Harmontown
             "Episodes with Comptroller ", grouping.items) }
       )
       site.pages.concat(
-        byComptroller.map { |grouping| 
+        byVenue.map { |grouping| 
           EpisodeListPage.new(
             site, 
             "at-venue",
@@ -62,7 +65,7 @@ module Harmontown
             "Episodes at Venue ", grouping.items) }
       )
       site.pages.concat(
-        byComptroller.map { |grouping| 
+        byPerson.map { |grouping| 
           EpisodeListPage.new(
             site, 
             "with",
@@ -70,18 +73,26 @@ module Harmontown
             grouping.by, 
             "Episodes with ", grouping.items) }
       )
+      site.pages.concat(
+        byDnD.map { |grouping| 
+          EpisodeListPage.new(
+            site, 
+            "with-dnd",
+            'hasDnD',
+            formatYesNoTbc(grouping.by),
+            "Episodes with D&D: ", grouping.items) }
+      )
 
-
-      targetPage = site.pages.find { |page| page.path == 'episodes/index.html' }
+      # targetPage = site.pages.find { |page| page.path == 'episodes/index.html' }
       # targetPage.data['byComptroller'] = byComptroller
       # targetPage.data['byVenue'] = byVenue
       # targetPage.data['byPerson'] = byPerson
-      targetPage.data['byDnD'] = byDnD
+      # targetPage.data['byDnD'] = byDnD
 
       Jekyll.logger.info "EpisodeListGenerator:", "Done."
     end
   end
-
+  
   class Grouping < Liquid::Drop
     def initialize(by, items)
       @by = by
@@ -94,38 +105,6 @@ module Harmontown
 
     def items
       @items
-    end
-  end
-
-  class EpisodeListPage < Jekyll::Page
-    def initialize(site, subDir, groupingField, of, titlePrefix, sequenceNumbers)
-      @site = site             # the current site instance.
-      @base = site.source      # path to the source directory.
-      @dir  = 'episodes/' + subDir + '/' + Jekyll::Utils.slugify(of)
-
-      # All pages have the same filename, so define attributes straight away.
-      @basename = 'index'      # filename without the extension.
-      @ext      = '.html'      # the extension.
-      @name     =  @basename + @ext
-
-      @data = {
-        'sequenceNumbers' => sequenceNumbers,
-        'layout' => 'episode-list',
-        'titlePrefix' => titlePrefix,
-        'groupingField' => groupingField,
-        'of' => of,
-        'sitemap' => true
-      }
-    end
-
-    # Placeholders that are used in constructing page URL.
-    def url_placeholders
-      {
-        :path       => @dir,
-        :category   => @dir,
-        :basename   => basename,
-        :output_ext => output_ext,
-      }
     end
   end
 end

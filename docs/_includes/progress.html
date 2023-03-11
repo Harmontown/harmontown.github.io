@@ -25,11 +25,12 @@
   </tr>
   {% for item in progress.missingValues %}
   <tr>
-    {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by:
-    progress.episodeCount %}
+    {% assign listPage = site.pages | where: "groupingField", item.field | where: "of", item.field | first %}
+
+    {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by: progress.episodeCount %}
     <td>{{ item.name }}</td>
     <td><span class="field">{{ item.field }}</span></td>
-    <td><a href="">affected episodes</a></td>
+    <td><a href="{{listPage.url}}">affected episodes</a></td>
     <td>{{ item.count }}</td>
     <td>
       <div>{{ completionRate }} %</div>
@@ -38,3 +39,10 @@
   </tr>
   {% endfor %}
 </table>
+
+<ul>
+  {% assign relevant = site.pages | where: "groupingField", "showDate" | where: "of", "missing" %}
+  {% for page in relevant %}
+  <li>{{page.groupingField}} {{page.of}}</li>
+  {% endfor %}
+</ul>

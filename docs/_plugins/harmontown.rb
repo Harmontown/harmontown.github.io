@@ -1,19 +1,4 @@
 module Harmontown
-  class Grouping < Liquid::Drop
-    def initialize(by, items)
-      @by = by
-      @items = items
-    end
-
-    def by
-      @by
-    end
-
-    def items
-      @items
-    end
-  end
-
   class EpisodeListPage < Jekyll::Page
     def initialize(site, subDir, groupingField, of, titlePrefix, sequenceNumbers)
       @site = site             # the current site instance.
