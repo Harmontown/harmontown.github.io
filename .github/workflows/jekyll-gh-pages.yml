@@ -1,50 +1,74 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Build and deploy jekyll site
 
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow one concurrent deployment
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
+    branches:
+      - master
+      # - source
+      # It is highly recommended that you only run this action on push to a 
+        # specific branch, eg. master or source (if on *.github.io repo)
+    
 jobs:
-  # Build job
-  build:
-    runs-on: ubuntu-latest
+  jekyll:
+    runs-on: ubuntu-16.04 # can change this to ubuntu-latest if you prefer
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: /docs/
-          destination: /docs/_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: 📂 setup
+        uses: actions/checkout@v2
+        # include the lines below if you are using jekyll-last-modified-at
+        # or if you would otherwise need to fetch the full commit history
+        # however this may be very slow for large repositories!
+        # with:
+          # fetch-depth: '0'
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6 # can change this to 2.7 or whatever version you prefer
+
+      - name: 🔨 install dependencies & build site
+        uses: limjh16/jekyll-action-ts@v2
+        with:
+          enable_cache: true
+          ### Enables caching. Similar to https://github.com/actions/cache.
+          #
+          # format_output: true
+          ### Uses prettier https://prettier.io to format jekyll output HTML.
+          #
+          # prettier_opts: '{ "useTabs": true }'
+          ### Sets prettier options (in JSON) to format output HTML. For example, output tabs over spaces.
+          ### Possible options are outlined in https://prettier.io/docs/en/options.html
+          #
+          # prettier_ignore: 'about/*'
+          ### Ignore paths for prettier to not format those html files.
+          ### Useful if the file is exceptionally large, so formatting it takes a while.
+          ### Also useful if HTML compression is enabled for that file / formatting messes it up.
+          #
+          # jekyll_src: sample_site
+          ### If the jekyll website source is not in root, specify the directory. (in this case, sample_site)
+          ### By default, this is not required as the action searches for a _config.yml automatically.
+          #
+          # gem_src: sample_site
+          ### By default, this is not required as the action searches for a _config.yml automatically.
+          ### However, if there are multiple Gemfiles, the action may not be able to determine which to use.
+          ### In that case, specify the directory. (in this case, sample_site)
+          ###
+          ### If jekyll_src is set, the action would automatically choose the Gemfile in jekyll_src.
+          ### In that case this input may not be needed as well.
+          #
+          # key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          # restore-keys: ${{ runner.os }}-gems-
+          ### In cases where you want to specify the cache key, enable the above 2 inputs
+          ### Follows the format here https://github.com/actions/cache
+          #
+          # custom_opts: '--drafts --lsi'
+          ### If you need to specify any Jekyll build options, enable the above input
+          ### Flags accepted can be found here https://jekyllrb.com/docs/configuration/options/#build-command-options
+
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          # if the repo you are deploying to is <username>.github.io, uncomment the line below.
+          # if you are including the line below, make sure your source files are NOT in the master branch:
+          # publish_branch: master
