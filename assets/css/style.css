@@ -995,6 +995,8 @@ nav {
     nav .tag-h1.tag-h1 a {
       display: block; }
 
+table.row-highlight tr:hover {
+  background-color: rgba(72, 186, 187, 0.1); }
 table.episode-list th,
 table.episode-list td {
   vertical-align: baseline; }
@@ -1004,6 +1006,10 @@ table.grouped-by th:last-child {
   width: 100px; }
 table.grouped-by th {
   white-space: nowrap; }
+table.episode-breakdown tr:first-child, table.episode-progress tr:first-child, table.episode-list tr:first-child {
+  background-color: #f6e8e8; }
+  table.episode-breakdown tr:first-child th, table.episode-progress tr:first-child th, table.episode-list tr:first-child th {
+    outline: 1px solid #fbfbfb; }
 
 .wiki-link {
   font-weight: bold; }
@@ -1014,41 +1020,6 @@ table.grouped-by th {
   border: 1px solid rgba(128, 128, 128, 0.5);
   padding: 0 6px; }
 
-#banner {
-  margin-right: calc(-382px - (400px / 2)); }
-  #banner .wrapper {
-    margin-right: 44px; }
-
-.wrapper {
-  width: calc(650px + 400px); }
-
-nav {
-  margin-left: calc(-580px - (400px / 2)); }
-
-footer {
-  margin-left: calc(-530px - (400px / 2)); }
-
-section {
-  width: calc(590px + 400px); }
-
-@media print, screen and (max-width: 1060px) {
-  #banner .wrapper {
-    margin-right: 0px; } }
-@media print, screen and (max-width: 1500px) {
-  .wrapper {
-    width: 650px; }
-
-  #banner {
-    margin-right: -382px; }
-
-  section {
-    width: 590px; }
-
-  nav {
-    margin-left: -580px; }
-
-  footer {
-    margin-left: -530px; } }
 .banner-box {
   border: 3px double gray;
   margin: 24px 12px;
@@ -1171,3 +1142,63 @@ section {
     background-color: #5bd728; }
   .episode-progress .completion-rate.cr100 {
     background-color: limegreen; }
+
+#banner {
+  margin-right: calc(-382px - (400px / 2)); }
+  #banner .wrapper {
+    margin-right: 44px; }
+
+.wrapper {
+  width: calc(650px + 400px); }
+
+nav {
+  margin-left: calc(-580px - (400px / 2)); }
+
+footer {
+  margin-left: calc(-530px - (400px / 2)); }
+
+section {
+  width: calc(590px + 400px); }
+
+@media print, screen and (max-width: 1060px) {
+  #banner .wrapper {
+    margin-right: 0px; } }
+@media print, screen and (max-width: 1500px) {
+  .wrapper {
+    width: 650px; }
+
+  #banner {
+    margin-right: -382px; }
+
+  section {
+    width: 590px; }
+
+  nav {
+    margin-left: -580px; }
+
+  footer {
+    margin-left: -530px; } }
+@media print, screen and (max-width: 480px) {
+  header h1, section h1, footer h1 {
+    white-space: unset;
+    overflow: unset;
+    text-overflow: unset; }
+
+  .info-box {
+    float: unset;
+    max-width: unset;
+    margin-bottom: 24px; }
+
+  .mobile-hidden {
+    display: none; }
+
+  #banner {
+    display: block;
+    position: unset;
+    margin: unset; }
+
+  section {
+    width: auto; }
+
+  footer {
+    margin-left: unset; } }
