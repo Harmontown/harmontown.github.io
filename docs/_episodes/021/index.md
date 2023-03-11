@@ -15,7 +15,7 @@ soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3426
 
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               true
 
 ## Example on how to add guests
