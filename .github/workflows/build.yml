@@ -19,7 +19,7 @@ jobs:
       - name: 🔨 build
         uses: isbang/compose-action@v1.4.1
         with:
-          compose-file: "../docker-compose.yml"
+          compose-file: "docker-compose.yml"
           # services: |
           #   jekyll
 
