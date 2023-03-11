@@ -19,14 +19,14 @@ jobs:
       - name: 📂 checkout
         uses: actions/checkout@v3
 
+      - name: 🧞 grant necessary filesystem access
+        run: chmod 0777 ./docs
+
       - name: 🔨 build
         uses: isbang/compose-action@v1.4.1
         with:
           compose-file: "docker-compose.yml"
           up-flags: --abort-on-container-exit
-
-      - name: 🧞 grant necessary filesystem access
-        run: chmod 0777 ./docs
 
       - name: 🐞 debug - list files
         id: list-files
