@@ -1,0 +1,28 @@
+name: Build and deploy jekyll site
+
+on:
+  push:
+    branches:
+      - main
+      # - source
+      # It is highly recommended that you only run this action on push to a 
+        # specific branch, eg. master or source (if on *.github.io repo)
+    
+jobs:
+  jekyll-build:
+    steps:
+      - name: 📂 checkout
+        uses: actions/checkout@v3
+
+      - name: 🔨 build
+        uses: isbang/compose-action@v1.4.1
+          with:
+            compose-file: "../docker-compose.yml"
+            # services: |
+            #   jekyll
+
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/_site
