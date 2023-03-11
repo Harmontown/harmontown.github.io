@@ -25,7 +25,10 @@ jobs:
           compose-file: "docker-compose.yml"
           up-flags: --abort-on-container-exit
 
-      - name: List Files
+      - name: 🧞 grant necessary filesystem access
+        run: chmod 0777 ./docs
+
+      - name: 🐞 debug - list files
         id: list-files
         uses: mirko-felice/list-files-action@v3.0.1
         with:
