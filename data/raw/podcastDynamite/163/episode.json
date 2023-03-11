@@ -1,0 +1,20 @@
+{
+  "id": 163,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "148 - Easy, Sisyphus",
+  "description": "The great Andy Kindler finally visits Harmontown!!! Watch the video at harmontown.com/live and become a member!",
+  "runtime": 7339,
+  "releaseDate": 1432713180.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=8148",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9127618283.mp3?updated=1561766139",
+  "lastEpisodeId": 162,
+  "nextEpisodeId": 164,
+  "lastTitle": "147 - High Concept Humiliation",
+  "nextTitle": "149 - LIVE from Everything Is Festival 2015"
+}

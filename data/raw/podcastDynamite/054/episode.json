@@ -1,0 +1,20 @@
+{
+  "id": 54,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "41 - Harmoncountry: Portland, OR",
+  "description": "Mayoral Master Harmon strides boldly across the return threshold and declares Spencer God. Then he raps and dicks around with people in the audience. It doesn\u0027t sound like much on paper but it\u0027s a pretty great episode.",
+  "runtime": 6117,
+  "releaseDate": 1359752100.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2077",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8634366520.mp3?updated=1554491051",
+  "lastEpisodeId": 53,
+  "nextEpisodeId": 55,
+  "lastTitle": "40 - Harmoncountry: Salt Lake City, UT",
+  "nextTitle": "42 - Harmoncountry: San Francisco, CA"
+}

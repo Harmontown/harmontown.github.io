@@ -1,0 +1,20 @@
+{
+  "id": 117,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "102 - Sleepy Canyoneer",
+  "description": "Tony Danza can read Dan\u0027s tweets; everyone shares crying stories and there is a sleepy canyoneer in the crowd.",
+  "runtime": 7250,
+  "releaseDate": 1401702840.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6385",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4107649191.mp3?updated=1556325286",
+  "lastEpisodeId": 116,
+  "nextEpisodeId": 118,
+  "lastTitle": "101 - Paloma",
+  "nextTitle": "103 - Tony Shalhoub Award"
+}

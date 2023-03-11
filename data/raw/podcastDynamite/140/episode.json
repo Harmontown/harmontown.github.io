@@ -1,0 +1,20 @@
+{
+  "id": 140,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "125 - Lets Teach Duncan Trussell How To Be Mean feat. Joel McHale",
+  "description": "After 4 days of straight podcasting, the gang returns to LA with comptroller Duncan Trussell and a special drop in from Community\u0027s Joel McHale.",
+  "runtime": 6937,
+  "releaseDate": 1415052960.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=7051",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6087651486.mp3?updated=1561589561",
+  "lastEpisodeId": 139,
+  "nextEpisodeId": 141,
+  "lastTitle": "124 - LIVE in Houston, TX with comptroller Erin McGathy!",
+  "nextTitle": "126 - LIVE from Chicago with comptroller Dino Stamatopolous!"
+}

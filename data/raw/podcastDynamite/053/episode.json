@@ -1,0 +1,20 @@
+{
+  "id": 53,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "40 - Harmoncountry: Salt Lake City, UT",
+  "description": "Harmontown is reborn in a strange land of complex liquor laws, polarized religion and Kevin Nealon photos. Plus: Sports Corner, Fart Corner, odor dating and weird rants!",
+  "runtime": 6873,
+  "releaseDate": 1359598740.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2072",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7901438098.mp3?updated=1554490795",
+  "lastEpisodeId": 52,
+  "nextEpisodeId": 54,
+  "lastTitle": "39 - Harmoncountry: Denver, CO",
+  "nextTitle": "41 - Harmoncountry: Portland, OR"
+}

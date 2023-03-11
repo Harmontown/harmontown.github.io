@@ -1,0 +1,20 @@
+{
+  "id": 39,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "26 - Harmoncountry: Atlanta, GA",
+  "description": "Mayor Harmon regales the \u0022Paris of Georgia\u0022 with historic knowledge, general trivia and mad rapping science. Topics include his armpits and race.",
+  "runtime": 4695,
+  "releaseDate": 1358193060.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2016",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6937998010.mp3?updated=1554326906",
+  "lastEpisodeId": 38,
+  "nextEpisodeId": 40,
+  "lastTitle": "25 - Harmoncountry: Austin, TX",
+  "nextTitle": "27 - Harmoncountry: Nashville, TN"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 72,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "58 - I\u0027m Like Very Science",
+  "description": "Mayor Harmon explains why an episode was lost; soon to be uncontextually quoted frivolity ensues. Jeff reveals he\u0027s psychic; Kumail\u0027s resultant bewilderment preempts D\u0026D.",
+  "runtime": 6587,
+  "releaseDate": 1370720700.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2451",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1983763317.mp3?updated=1554505590",
+  "lastEpisodeId": 71,
+  "nextEpisodeId": 73,
+  "lastTitle": "57 - Blood on the Corn",
+  "nextTitle": "59 - Writing Tips From A Jerk"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 131,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "116 - LIVE From The XOXO Festival 2014 in Portland",
+  "description": "Technology! Industry! Vodka! Harmontown live in Portland from the XOXO Festival with Spencer as your humble comptroller!",
+  "runtime": 7098,
+  "releaseDate": 1410766800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6792",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9718803846.mp3",
+  "lastEpisodeId": 130,
+  "nextEpisodeId": 132,
+  "lastTitle": "115 - Oh, the Blimpery!",
+  "nextTitle": "117 - Debbie Request Permission To Do Dallas"
+}

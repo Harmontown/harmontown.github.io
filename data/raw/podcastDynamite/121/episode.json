@@ -1,0 +1,20 @@
+{
+  "id": 121,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "106 - Pakisnap!",
+  "description": "Dan Harmon, Jeff Davis, Greg Proops, Kumail Nanjiani, Erin McGathy and Spencer Crittenden perform for another sold out HARMONTOWN and FINALLY, necrophillia is discussed at great length.",
+  "runtime": 7303,
+  "releaseDate": 1404763680.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6528",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1542016211.mp3?updated=1556324815",
+  "lastEpisodeId": 120,
+  "nextEpisodeId": 122,
+  "lastTitle": "105 - Game Recognize Game",
+  "nextTitle": "107 - Clever Girl"
+}

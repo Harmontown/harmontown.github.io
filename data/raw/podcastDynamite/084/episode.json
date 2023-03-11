@@ -1,0 +1,20 @@
+{
+  "id": 84,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "70 - Gone Fishin\u0027",
+  "description": "Mayor Harmon, now equipped with his trusty new invention, is joined by Johnny Pemberton to break down prank phone calls. Afterwards a visit from \u0022The Tumor Lady\u0022 and then later on, the topic of fishing for compliments becomes a major issue for everyone...",
+  "runtime": 7805,
+  "releaseDate": 1378166640.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5121",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4912930871.mp3?updated=1560294782",
+  "lastEpisodeId": 83,
+  "nextEpisodeId": 85,
+  "lastTitle": "69 - Cobra Customer Service",
+  "nextTitle": "71 - Push The Button, Pull The Chain"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 102,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "88 - My Whole Life Is A Smile",
+  "description": "Harmontown commemorates Phillip Seymour Hoffman, discusses happiness, takes a Sports Corner break and in Pathfinder, Laan-Ev introduces the gang to his friends.",
+  "runtime": 7442,
+  "releaseDate": 1391463660.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5749",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8311092189.mp3?updated=1555717180",
+  "lastEpisodeId": 101,
+  "nextEpisodeId": 103,
+  "lastTitle": "87 - Kiss Doesn\u0027t Get The Joke",
+  "nextTitle": "89 - Live At Cobb\u0027s in San Francisco with Joel Hodgson"
+}

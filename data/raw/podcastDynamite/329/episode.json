@@ -1,0 +1,20 @@
+{
+  "id": 329,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "312 - Live from the New York Comedy Festival 2018",
+  "description": "Harmontown is live from the New York Comedy Festival!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.",
+  "runtime": 5403,
+  "releaseDate": 1543489200.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "0caece34-e0cc-11e8-9878-d7adb2174ae3",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2995642060.mp3",
+  "lastEpisodeId": 328,
+  "nextEpisodeId": 330,
+  "lastTitle": "311 - Twenty Sides of Booty",
+  "nextTitle": "313 - Ducks Don\u2019t Be Gay"
+}

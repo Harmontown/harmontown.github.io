@@ -1,0 +1,20 @@
+{
+  "id": 165,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "150 - Where My Technochromes At?",
+  "description": "Dan can see more colors than the average person and doesn\u0027t care because colors are dumb. Curtis Armstrong comptrolls. Watch the live video at harmontown.com/live!",
+  "runtime": 7184,
+  "releaseDate": 1433892600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=8211",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9218698326.mp3?updated=1561593717",
+  "lastEpisodeId": 164,
+  "nextEpisodeId": 166,
+  "lastTitle": "149 - LIVE from Everything Is Festival 2015",
+  "nextTitle": "151 - Row, Row, Row Your Boat"
+}

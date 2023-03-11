@@ -1,0 +1,20 @@
+{
+  "id": 66,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "53 - National Tragedy Special (Kumail Nanjiani)",
+  "description": "Mayor Harmon finds out about terrorism after everyone else. Plus: cake making, tentanus, Kumail, and making love to spiders!",
+  "runtime": 7165,
+  "releaseDate": 1366106880.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2245",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8733810661.mp3?updated=1554500952",
+  "lastEpisodeId": 65,
+  "nextEpisodeId": 67,
+  "lastTitle": "52 - By the Power of Bored Audience Skull! (Kumail Nanjiani)",
+  "nextTitle": "54 - Go, Marbles, Go! (Duncan Trussell, Greg Proops)"
+}

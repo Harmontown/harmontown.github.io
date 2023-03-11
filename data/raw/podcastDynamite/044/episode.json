@@ -1,0 +1,20 @@
+{
+  "id": 44,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "31 - Harmoncountry: Providence, RI",
+  "description": "Mayor Harmon used the country\u0027s smallest state to tackle the country\u0027s biggest issues - suicide and race - before remembering someone double booked the room so he has to leave.",
+  "runtime": 4735,
+  "releaseDate": 1358688420.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2034",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4515436291.mp3?updated=1554330909",
+  "lastEpisodeId": 43,
+  "nextEpisodeId": 45,
+  "lastTitle": "30 - Harmoncountry: Sommerville, MA",
+  "nextTitle": "32 - Harmoncountry: Arlington, VA"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 337,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "320 - This Much Funches",
+  "description": "Rob Schrab fills in for Spencer with special guest Ron Funches, and a one man show about plumbing.\nFeaturing Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ron Funches.",
+  "runtime": 6791,
+  "releaseDate": 1549535820.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "0cd28a36-e0cc-11e8-9878-a3a5f89d374c",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8908499812.mp3",
+  "lastEpisodeId": 336,
+  "nextEpisodeId": 338,
+  "lastTitle": "319 - Goodbye Sam ",
+  "nextTitle": "321 - Rise the Boats"
+}

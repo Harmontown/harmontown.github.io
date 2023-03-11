@@ -1,0 +1,20 @@
+{
+  "id": 240,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "223 - Charles Manson Shark Tank",
+  "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Ptolemy Slocum.",
+  "runtime": 3215,
+  "releaseDate": 1481141280.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/H1MwVJLhAyfxas0_7umCsQ3Ue9ORqCEZk3QgWVOrQbs",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7831819096.mp3",
+  "lastEpisodeId": 239,
+  "nextEpisodeId": 241,
+  "lastTitle": "222 - Anne Frank Kicked A Cat Once",
+  "nextTitle": "224 - Harmontownunder: Brisbane, Australia"
+}

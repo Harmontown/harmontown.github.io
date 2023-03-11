@@ -1,0 +1,20 @@
+{
+  "id": 249,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "232 - You\u0027re An Ant To My Cum",
+  "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Richie Keen, Dino Stamatopoulos, Scott Adsit, Britta Phillips, Rob Schrab and Steve Levy.",
+  "runtime": 6996,
+  "releaseDate": 1487152800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/Ih82HzeqmVS_WxErk2Of6JU2Ti69pCpaTRs8SPBPCyA",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5112786742.mp3",
+  "lastEpisodeId": 248,
+  "nextEpisodeId": 250,
+  "lastTitle": "231 - Pacman Versus Garfield",
+  "nextTitle": "233 - The Only Enemy is Stopping"
+}

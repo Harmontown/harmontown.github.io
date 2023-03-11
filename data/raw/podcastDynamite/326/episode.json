@@ -1,0 +1,20 @@
+{
+  "id": 326,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "309 - Firehouse Ghost",
+  "description": "Dan and Spencer welcome our latest sponsor \u201CMeOnesie\u201D to the show, and our favorite socialist Josh Androsky pops in to explain Measure B. Antonio Banderas also premiers his latest musical, and is not to be missed.",
+  "runtime": 6899,
+  "releaseDate": 1541674800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "0ca39a28-e0cc-11e8-9878-472b0fe0ef84",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6611330489.mp3",
+  "lastEpisodeId": 325,
+  "nextEpisodeId": 327,
+  "lastTitle": "308 - Soft on Hitler, Hard on Dicks",
+  "nextTitle": "310 - Asexual Cowboy"
+}

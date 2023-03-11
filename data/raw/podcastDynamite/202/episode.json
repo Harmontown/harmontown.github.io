@@ -1,0 +1,20 @@
+{
+  "id": 202,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "186 - Auld Lang Schrab",
+  "description": "Harmon loses an Oscar, Phil and Mike of HBO\u0027s Animals, Abed Geith returns and Schrab is extra disruptive on HARMONTOWN! Watch the video at harmontown.com/live",
+  "runtime": 6987,
+  "releaseDate": 1456898400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/fO_p8YqE-0hmMbwWF9EYZeLSX5GuWj4RKee2LSs3HbM",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1911269215.mp3?updated=1560537769",
+  "lastEpisodeId": 201,
+  "nextEpisodeId": 203,
+  "lastTitle": "185 - LIVE in Chicago 2016 at Park West!",
+  "nextTitle": "187 - The Four Points Of The Triangle"
+}

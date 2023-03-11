@@ -1,0 +1,20 @@
+{
+  "id": 328,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "311 - Twenty Sides of Booty",
+  "description": "Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character.\nFeaturing Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.",
+  "runtime": 7560,
+  "releaseDate": 1542884400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "0cab6140-e0cc-11e8-9878-3f0504042082",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3167373224.mp3?updated=1543276947",
+  "lastEpisodeId": 327,
+  "nextEpisodeId": 329,
+  "lastTitle": "310 - Asexual Cowboy",
+  "nextTitle": "312 - Live from the New York Comedy Festival 2018"
+}

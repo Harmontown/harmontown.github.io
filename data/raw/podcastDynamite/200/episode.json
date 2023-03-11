@@ -1,0 +1,20 @@
+{
+  "id": 200,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "184 - Strain Has A New First Name",
+  "description": "Harmontown meets Zoe Lister Jones then turns into an hour of improv and complete chaos! You really should watch the video at harmontown.com/live. Become a member!",
+  "runtime": 7120,
+  "releaseDate": 1455084000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/UukhgiK4NlvXfkJggwfIqDVOyag6XDUp3z3sOZtl6bI",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8725070688.mp3?updated=1560541329",
+  "lastEpisodeId": 199,
+  "nextEpisodeId": 201,
+  "lastTitle": "183 - Disproportionate",
+  "nextTitle": "185 - LIVE in Chicago 2016 at Park West!"
+}

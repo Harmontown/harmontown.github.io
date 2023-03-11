@@ -1,0 +1,20 @@
+{
+  "id": 251,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "234 - The Patron Saint of Acid Wash",
+  "description": "Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jason Sklar, Randy Sklar and Brandon Johnson.",
+  "runtime": 6205,
+  "releaseDate": 1488388560.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/tYs76_qGMIjfMRzFhffdXbRD8HyJNavyUtCeEwUwet8",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7386526526.mp3",
+  "lastEpisodeId": 250,
+  "nextEpisodeId": 252,
+  "lastTitle": "233 - The Only Enemy is Stopping",
+  "nextTitle": "235 - LIVE from the Cherokee Casino in West Siloam Springs, OK"
+}

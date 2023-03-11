@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "Lost Episode #9 (Live at San Francisco Sketchfest 2012)",
+  "description": "Live at San Francisco Sketchfest 2012",
+  "runtime": 0,
+  "releaseDate": null,
+  "showDate": 1327813200.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "",
+  "audio": null,
+  "lastEpisodeId": 8,
+  "nextEpisodeId": 10,
+  "lastTitle": "Lost Episode #8",
+  "nextTitle": "Lost Episode #10"
+}

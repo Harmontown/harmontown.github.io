@@ -1,0 +1,20 @@
+{
+  "id": 310,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "293 - LIVE from The Cradle of Aviation Museum in Long Island, NY",
+  "description": "Live from The Cradle of Aviation Museum in Long Island, NY. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.",
+  "runtime": 7450,
+  "releaseDate": 1530784800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "tag:audioboom.com,2018-07-05:/posts/6919894",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6980282854.mp3",
+  "lastEpisodeId": 309,
+  "nextEpisodeId": 311,
+  "lastTitle": "292 - LIVE from The Wilbur in Boston 2018",
+  "nextTitle": "294 - A Gold Medallion"
+}

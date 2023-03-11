@@ -1,0 +1,20 @@
+{
+  "id": 199,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "183 - Disproportionate",
+  "description": "Our friend Colin joins us to fill us in what it\u0027s like to be a little person. Brought to you by Balls, it\u0027s whats for dinner. Watch the video at harmontown.com/live! Become a member!",
+  "runtime": 6713,
+  "releaseDate": 1454479200.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/wqXrGYP9r3sUWBts6SWgKYlOpQHoDUPjYl0jaz4T6wk",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3971065366.mp3?updated=1560546850",
+  "lastEpisodeId": 198,
+  "nextEpisodeId": 200,
+  "lastTitle": "182 - Sociopolitical Anal Beads",
+  "nextTitle": "184 - Strain Has A New First Name"
+}

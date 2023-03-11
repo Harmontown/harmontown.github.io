@@ -1,0 +1,20 @@
+{
+  "id": 43,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "30 - Harmoncountry: Sommerville, MA",
+  "description": "Mayor Harmon and Comptroller Davis begin the show like any other - discussing the city\u0027s auto theft statistics. What comes next is 80\u002B minutes of insanity, featuring Adam Goldberg\u0027s brothers, Erin and Dan\u0027s sex life and much, much, sooooo much more.",
+  "runtime": 7095,
+  "releaseDate": 1358586240.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2029",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2988867057.mp3?updated=1554329484",
+  "lastEpisodeId": 42,
+  "nextEpisodeId": 44,
+  "lastTitle": "29 - Harmoncountry: Brooklyn, NY",
+  "nextTitle": "31 - Harmoncountry: Providence, RI"
+}

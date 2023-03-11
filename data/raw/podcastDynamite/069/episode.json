@@ -1,0 +1,20 @@
+{
+  "id": 69,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "55 - Shahruz the Web Guru",
+  "description": "After a well meaning stranger poisons the audience with beef fungus, Chinese Ironman, Eddie Murphy, John Landis and Yakov Smirnoff are discussed. In D\u0026D, everyone dies.",
+  "runtime": 6495,
+  "releaseDate": 1368168900.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2302",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7654524907.mp3?updated=1554503294",
+  "lastEpisodeId": 68,
+  "nextEpisodeId": 70,
+  "lastTitle": "Lost Episode #14",
+  "nextTitle": "56 - Language is Thought and Spiders are Black People"
+}

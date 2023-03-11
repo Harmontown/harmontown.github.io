@@ -1,0 +1,20 @@
+{
+  "id": 38,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "25 - Harmoncountry: Austin, TX",
+  "description": "What else would Mayor Harmon discuss in Austin other than Politics, Mexican food, Hey Yah by Outkast and pooping? In D\u0026D: a friend\u0027s dark secret is revealed.",
+  "runtime": 5305,
+  "releaseDate": 1358067180.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2013",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6409005607.mp3?updated=1554325891",
+  "lastEpisodeId": 37,
+  "nextEpisodeId": 39,
+  "lastTitle": "24 - Harmoncountry: Phoenix, Arizona",
+  "nextTitle": "26 - Harmoncountry: Atlanta, GA"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 242,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "225 - Harmontownunder: Melbourne, Australia",
+  "description": "The Australian adventures of Harmontown continue with a sold out show in Melbourne, Australia! Watch the video at harmontown.com/live.",
+  "runtime": 7143,
+  "releaseDate": 1482955680.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/r1HwfPZaNJ3c16W0_B-3uReEYrWX8gtJwpaHFw-jwaM",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1334561981.mp3",
+  "lastEpisodeId": 241,
+  "nextEpisodeId": 243,
+  "lastTitle": "224 - Harmontownunder: Brisbane, Australia",
+  "nextTitle": "226 - Harmontownunder: Sydney Opera House Night 1"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 241,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "224 - Harmontownunder: Brisbane, Australia",
+  "description": "Harmontown journeys to Australia! First stop, Brisbane.",
+  "runtime": 6891,
+  "releaseDate": 1482335940.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/vZkRbnPHIK9lQEAyWaGMODtSg5cM3ByoxUQy8h_72ns",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1350613279.mp3",
+  "lastEpisodeId": 240,
+  "nextEpisodeId": 242,
+  "lastTitle": "223 - Charles Manson Shark Tank",
+  "nextTitle": "225 - Harmontownunder: Melbourne, Australia"
+}

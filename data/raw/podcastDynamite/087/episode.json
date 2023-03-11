@@ -1,0 +1,20 @@
+{
+  "id": 87,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "73 - From Kennedy\u0027s Assassination, To The Beatles",
+  "description": "Don Cheatle\u0027s speech at the Emmys leaves Mayor Harmon pondering. Also, spider monsters, the Beef Fungus Bill game and co-creator of Channel 101 Rob Schrab sits in on D\u0026D!",
+  "runtime": 6553,
+  "releaseDate": 1380011040.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5209",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1376751870.mp3?updated=1555607120",
+  "lastEpisodeId": 86,
+  "nextEpisodeId": 88,
+  "lastTitle": "72 - Jib Jab Squeeb Squab",
+  "nextTitle": "74 - Morality"
+}

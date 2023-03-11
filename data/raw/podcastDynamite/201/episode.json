@@ -1,0 +1,20 @@
+{
+  "id": 201,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "185 - LIVE in Chicago 2016 at Park West!",
+  "description": "A game changing sold out show in Chicago\u0027s beautiful Park West theatre! Music by Babes. Watch the video at harmontown.com/live, become a member!",
+  "runtime": 6783,
+  "releaseDate": 1456282200.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/_2kYorpR6fPBg7F86alFoVPVVWzqHaYsNa_G_P4JeKo",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8739285076.mp3?updated=1560539727",
+  "lastEpisodeId": 200,
+  "nextEpisodeId": 202,
+  "lastTitle": "184 - Strain Has A New First Name",
+  "nextTitle": "186 - Auld Lang Schrab"
+}

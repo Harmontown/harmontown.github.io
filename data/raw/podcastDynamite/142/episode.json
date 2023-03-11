@@ -1,0 +1,20 @@
+{
+  "id": 142,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "127 - Ant Ball",
+  "description": "Comproller Dave Horwitz makes his first appearance. A Russian travels the world to ask Dan one question, and Spencer devises a way to get off of an island if stranded.",
+  "runtime": 5487,
+  "releaseDate": 1415745960.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=7093",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6471051966.mp3",
+  "lastEpisodeId": 141,
+  "nextEpisodeId": 143,
+  "lastTitle": "126 - LIVE from Chicago with comptroller Dino Stamatopolous!",
+  "nextTitle": "128 - That\u0027s my wife\u0027s pie, you bitch!"
+}

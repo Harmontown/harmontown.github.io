@@ -1,0 +1,20 @@
+{
+  "id": 350,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "333 - The Scootie Cutie",
+  "description": "Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Sean Clements and Hayes Davenport.",
+  "runtime": 7908,
+  "releaseDate": 1557396000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "0ce77860-e0cc-11e8-9878-cba641490a77",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5096949699.mp3",
+  "lastEpisodeId": 349,
+  "nextEpisodeId": 351,
+  "lastTitle": "332 - No Recompense! ",
+  "nextTitle": "334 - The MacArthur Park Handjobber "
+}

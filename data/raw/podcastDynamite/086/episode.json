@@ -1,0 +1,20 @@
+{
+  "id": 86,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "72 - Jib Jab Squeeb Squab",
+  "description": "Rejoice! Kumail is back and joins Dan and Jeff on stage along with comedians John Roy, James Adomian and the entire front row.",
+  "runtime": 7159,
+  "releaseDate": 1379358480.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5178",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8798524951.mp3?updated=1555610163",
+  "lastEpisodeId": 85,
+  "nextEpisodeId": 87,
+  "lastTitle": "71 - Push The Button, Pull The Chain",
+  "nextTitle": "73 - From Kennedy\u0027s Assassination, To The Beatles"
+}

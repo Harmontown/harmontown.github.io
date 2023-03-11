@@ -1,0 +1,11 @@
+$primary: #48babb;
+$paper-white: #fbfbfb;
+
+$section-header: lighten(
+  complement(
+    $color: $primary,
+  ),
+  40
+);
+
+$box-border-color: gray;

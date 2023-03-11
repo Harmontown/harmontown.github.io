@@ -1,0 +1,20 @@
+{
+  "id": 59,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "46 - Neigh Means Yay",
+  "description": "\u0027Rick and Morty\u0027 writer Ryan Ridley drops by, \u0027Real Abed\u0027 Gheith pitches his insane restuarant and Kumail Nanjiani reveals secrets to brown acting. In D\u0026D: the party climbs into a hole.",
+  "runtime": 6856,
+  "releaseDate": 1362103380.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2128",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8748679485.mp3?updated=1554493705",
+  "lastEpisodeId": 58,
+  "nextEpisodeId": 60,
+  "lastTitle": "45 - Dan Took a Shower (Kumail Nanjiani, Bobcat Goldthwait)",
+  "nextTitle": "47 - Procrasturbation"
+}

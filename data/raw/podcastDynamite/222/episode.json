@@ -1,0 +1,20 @@
+{
+  "id": 222,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "206 - Celebrity Highlander",
+  "description": "Of Search Party and Arrested Development Alia Shawkat stops by self-imposed sleepy Harmontown with a historical 30 minute MeUndies commercial. Visit MeUndies.com/feral. Become a member at harmontown.com/live",
+  "runtime": 7727,
+  "releaseDate": 1469852280.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/LwaI_cV9fXtZJMZ8nuCwni4_IORIa4WLGmWrbllOUsM",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9731376278.mp3?updated=1559933574",
+  "lastEpisodeId": 221,
+  "nextEpisodeId": 223,
+  "lastTitle": "205 - LIVE in San Diego 2016 (During A Comic Book Convention)",
+  "nextTitle": "207 - LIVE from Just for Laughs Montreal 2016"
+}

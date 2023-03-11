@@ -1,0 +1,20 @@
+{
+  "id": 208,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "192 - Give Black People A Chance To Hear Crickets",
+  "description": "Aisha Tyler visits Harmontown along with Hour Of Goon\u0027s Jeordie White and Fred Sablan for some complete insanity. Watch the video at harmontown.com/live",
+  "runtime": 7512,
+  "releaseDate": 1460523600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/ISyns7_sE3cFqYuoHYNqfRdDs3vU96uIHYVGoeLDKwo",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4323981266.mp3?updated=1560376264",
+  "lastEpisodeId": 207,
+  "nextEpisodeId": 209,
+  "lastTitle": "191 - Monochromophiliacs",
+  "nextTitle": "193 - Ghost Dinosaurs"
+}

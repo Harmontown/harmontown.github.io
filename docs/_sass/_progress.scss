@@ -1,0 +1,61 @@
+.episode-breakdown
+{
+  td,th {
+    font-size: 150%;
+    text-align: center;
+  }
+  th {
+    font-size: 125%;
+    width: 33%;
+  }
+}
+
+.episode-progress {
+  th {
+    white-space: nowrap;
+  }
+  td {
+    position: relative;
+  }
+  .completion-rate {
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 32px;
+    position: absolute;
+
+    &.cr0 {
+      background-color: red;
+    }
+    &.cr10 {
+      background-color: mix(red, yellow, 80%);
+    }
+    &.cr20 {
+      background-color: mix(red, yellow, 60%);
+    }
+    &.cr30 {
+      background-color: mix(red, yellow, 40%);
+    }
+    &.cr40 {
+      background-color: mix(red, yellow, 20%);
+    }
+    &.cr50 {
+      background-color: yellow;
+    }
+    &.cr60 {
+      background-color: mix(yellow, limegreen, 80%);
+    }
+    &.cr70 {
+      background-color: mix(yellow, limegreen, 60%);
+    }
+    &.cr80 {
+      background-color: mix(yellow, limegreen, 40%);
+    }
+    &.cr90 {
+      background-color: mix(yellow, limegreen, 20%);
+    }
+    &.cr100 {
+      background-color: limegreen;
+    }
+  }
+}

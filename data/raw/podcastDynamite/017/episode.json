@@ -1,0 +1,20 @@
+{
+  "id": 17,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "4 - The Technology Of N-Words (7.31.12)",
+  "description": "A discussion of something the Scottish call a \u0022Wizard Sleeve\u0022 is ever-so-briefly interrupted by racism, robots, and a visit from something Erin McGathy calls a \u0022game corner.\u0022",
+  "runtime": 4507,
+  "releaseDate": 1344047340.000000000,
+  "showDate": 1343707200.000000000,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=179",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2303221881.mp3?updated=1555699705",
+  "lastEpisodeId": 16,
+  "nextEpisodeId": 18,
+  "lastTitle": "3 - If They Have Cubs, We\u0027re Already Dead (7.23.12)",
+  "nextTitle": "5 - Confessions Of An Alcoholic Mars Rover (8.7.12)"
+}

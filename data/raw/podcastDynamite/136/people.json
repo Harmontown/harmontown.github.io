@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "roleId": 1,
+    "firstName": "Dan",
+    "middleName": "",
+    "lastName": "Harmon",
+    "name": "Host",
+    "personId": 1
+  },
+  {
+    "id": 0,
+    "roleId": 3,
+    "firstName": "Gilbert",
+    "middleName": null,
+    "lastName": "Gottfried",
+    "name": "Comptroller",
+    "personId": 172
+  }
+]

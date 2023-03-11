@@ -1,0 +1,167 @@
+---
+layout: default
+---
+
+<div class="episode-navigation">
+  {% if page.hasPrevious %}
+  <div id="previous">
+    <a href="/episodes/{{ page.sequenceNumber | minus: 1 | prepend: '00' | slice: -3, 3 }}">← Previous</a>
+  </div>
+  {% endif %}
+  {% if page.hasNext %}
+  <div id="next">
+    <a href="/episodes/{{ page.sequenceNumber | plus: 1 | prepend: '00' | slice: -3, 3 }}">Next →</a>
+  </div>
+  {% endif %}
+</div>
+
+<div class="lost-episode banner-box{% if page.isLostEpisode == false %} hidden{% endif%}">
+  <div class="material-icons">warning_amber</div>
+  <div class="message">
+    This is a lost episode. We have little to no information about it. Please consider adding any information you have.
+  </div>
+</div>
+
+<div class="trailer banner-box{% if page.isTrailer == false %} hidden{% endif%}">
+  FYI this is a trailer. TODO: Make this pretty.
+</div>
+
+<h1>{{ page.title }}</h1>
+
+<div class="info-box">
+  <table>
+    <tbody>
+      <tr class="box-header">
+        <th colspan="2">
+          <div>{{ page.title }}</div>
+        </th>
+      </tr>
+
+      <tr>
+        <td colspan="2" class="episode-image">
+          <image src="/assets/images/{{ page.image }}" />
+        </td>
+      </tr>
+      <tr>
+        <th>Show Date</th>
+        <td>{{ page.showDate | date: "%B %d, %Y" | default: "TBC" }}</td>
+      </tr>
+      <tr>
+        <th>Venue</th>
+        <td>{{ page.venue | default: "TBC" }}</td>
+      </tr>
+
+      <tr class="section-header">
+        <th colspan="2">
+          <div>People</div>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <table>
+            <tbody>
+              <tr>
+                <th>Comptroller</th>
+                <td>{{ page.comptroller }}</td>
+              </tr>
+              {% if page.guests.size > 0 %}
+              <tr>
+                <th>Guests</th>
+                <td>
+                  <ul class="guest-list">
+                    {% for guest in page.guests %}
+                    <li>{{ guest }}</li>
+                    {% endfor %}
+                  </ul>
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.audienceGuests.size > 0 %}
+              <tr>
+                <th>Audience</th>
+                <td>
+                  <ul class="guest-list">
+                    {% for guest in page.audienceGuests %}
+                    <li>{{ guest }}</li>
+                    {% endfor %}
+                  </ul>
+                </td>
+              </tr>
+              {% endif %}
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+      {% if page.isLostEpisode == false %}
+      <tr class="section-header">
+        <th colspan="2">
+          <div>Podcast</div>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <table>
+            <tbody>
+              <tr>
+                <th>Episode #</th>
+                <td>{{ page.episodeNumber | default: 'NA'}}</td>
+              </tr>
+              <tr>
+                <th>Run Time</th>
+                <td>{{ page.duration | default: 'NA' }}</td>
+              </tr>
+              <tr>
+                <th>Released</th>
+                <td>{{ page.releaseDate | date: "%B %d, %Y" | default: 'NA' }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      {% endif %}
+
+      <tr class="section-header">
+        <th colspan="2">
+          <div>External <span class="material-icons">open_in_new</span></div>
+        </th>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <table>
+            <tbody>
+              {% if page.episodeNumber != null %}
+              <tr>
+                <th>Transcription</th>
+                <td>
+                  <a href="https://harmon.city/{{ page.releaseDate | date: '%Y'}}/{{ page.publishDate | date: '%m'}}/{{ page.publishDate | date: '%d'}}/episode-{{ page.episodeNumber }}"
+                    target="_blank">harmon.city</a>
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.podcastDynamiteId != null %}
+              <tr>
+                <th>Minutes</th>
+                <td>
+                  <a href="https://podcastdynamite.com/#/p/Harmontown/e/{{ page.podcastDynamiteId }}/{{ page.episodeNumber }}{% if page.isLostEpisode %}lost-episode{% endif %}"
+                    target="_blank">podcastdynamite.com</a>
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.soundFile != null %}
+              <tr>
+                <th>Sound File</th>
+                <td><a href="{{ page.soundFile }}">link</a></td>
+              </tr>
+              {% endif %}
+            </tbody>
+          </table>
+        </td>
+      </tr>
+
+    </tbody>
+
+  </table>
+</div>
+
+{{ content }}

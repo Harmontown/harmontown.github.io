@@ -1,0 +1,20 @@
+{
+  "id": 209,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "193 - Ghost Dinosaurs",
+  "description": "Deadbeat\u0027s Tyler Labine plus the return of Kumail Nanjiani with Rob Schrab, Spencer and Jeff all on stage at once! Watch the video at harmontown.com/live! Music by Jeordie White",
+  "runtime": 7265,
+  "releaseDate": 1461128400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/BVIF-fkILHzEiJDOP-P8dSFu4GRyQ1GcyDqq7hW8CKk",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2609226706.mp3?updated=1560374483",
+  "lastEpisodeId": 208,
+  "nextEpisodeId": 210,
+  "lastTitle": "192 - Give Black People A Chance To Hear Crickets",
+  "nextTitle": "194 - Talk, Talk, Talk, Wounded"
+}

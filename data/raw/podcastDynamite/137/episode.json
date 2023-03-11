@@ -1,0 +1,20 @@
+{
+  "id": 137,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "122 - LIVE from The Roxie in San Francisco feat. Steve Agee",
+  "description": "Harmontown begins an epic 4 days of non-stop podcasting starting in San Francisco with none other then comptroller Steve Agee!",
+  "runtime": 6932,
+  "releaseDate": 1414447740.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=7017",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9019948493.mp3?updated=1561582627",
+  "lastEpisodeId": 136,
+  "nextEpisodeId": 138,
+  "lastTitle": "121 - LIVE from 92y in NYC feat. Gilbert Gottfried",
+  "nextTitle": "123 - LIVE from Austin, TX with LEVAR BURTON"
+}

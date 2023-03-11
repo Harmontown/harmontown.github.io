@@ -1,0 +1,20 @@
+{
+  "id": 272,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "255 - The Ian Bowers Birthday Special",
+  "description": "Graham Linehan returns to Harmontown! Dan discovers what an \u201Comega virgin\u201D is by a dramatic reading of an incident involving creepy soup. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Graham Linehan and Steve Levy.",
+  "runtime": 7400,
+  "releaseDate": 1503482400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/ujPCsht7nmlGBsigj0N046qUZOKkZYs85gMiUoej_Nw",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5773768330.mp3",
+  "lastEpisodeId": 271,
+  "nextEpisodeId": 273,
+  "lastTitle": "254 - Down with Sighty",
+  "nextTitle": "256 - Dan Harmon\u2019s Top Five Shoe Jokes"
+}

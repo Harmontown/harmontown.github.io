@@ -1,0 +1,20 @@
+{
+  "id": 323,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "306 - Cholo to Cholo: Crackers Try",
+  "description": "Omar Camacho from the hit YouTube series \u201CCholos Try\u201D teaches Dan, Spencer and Brandon what it means to be a Cholo. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and Omar Camacho.",
+  "runtime": 7749,
+  "releaseDate": 1539252000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "59046a8b-bbf4-4088-af81-a976007cc1f8",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4556556911.mp3",
+  "lastEpisodeId": 322,
+  "nextEpisodeId": 324,
+  "lastTitle": "305 - Smiles Wider Than Their Faces",
+  "nextTitle": "307 - French Spencer"
+}

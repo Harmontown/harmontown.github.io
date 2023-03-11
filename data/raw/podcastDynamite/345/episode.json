@@ -1,0 +1,20 @@
+{
+  "id": 345,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "328 - Jeff\u2019s Joke Corner ",
+  "description": "Jeff Davis\u2019s joke corner! A walrus walks into a whorehouse\u2026 Also, the return of roleplaying with guest Steve Levy!\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.",
+  "runtime": 8424,
+  "releaseDate": 1554372000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "ec742772-36de-11e9-be71-27a478f2c634",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5727215879.mp3",
+  "lastEpisodeId": 344,
+  "nextEpisodeId": 346,
+  "lastTitle": "327 - A Cardigan with Stab Holes",
+  "nextTitle": "329 - Wolf Urine"
+}

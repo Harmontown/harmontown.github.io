@@ -1,0 +1,20 @@
+{
+  "id": 55,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "42 - Harmoncountry: San Francisco, CA",
+  "description": "The tour ends at the golden gate, where freedom to live is achieved by getting drunk, talking nonsense, meeting strangers and, well, you know the forumla.",
+  "runtime": 5054,
+  "releaseDate": 1359860160.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2078",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2125874763.mp3?updated=1554321831",
+  "lastEpisodeId": 54,
+  "nextEpisodeId": 56,
+  "lastTitle": "41 - Harmoncountry: Portland, OR",
+  "nextTitle": "43 - Harmoncountry: Los Angeles (Bobcat Goldthwait, Marc Maron, Duncan Trussell)"
+}

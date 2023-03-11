@@ -1,0 +1,20 @@
+{
+  "id": 158,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "143 - Retardinol",
+  "description": "Rick and Morty\u0027s Justin Roiland makes a revelation to Curtis Armstrong. Harmon longs for the cold war and its Shadow Run, not Shadow Picnic! Brought to you by Doritos and Honda! Watch the video at harmontown.com/live",
+  "runtime": 5712,
+  "releaseDate": 1429064160.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=7812",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2125009876.mp3?updated=1562016530",
+  "lastEpisodeId": 157,
+  "nextEpisodeId": 159,
+  "lastTitle": "142 - Kiss On Your Balls",
+  "nextTitle": "144 - Operation Metalbeast"
+}

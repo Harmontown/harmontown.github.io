@@ -1,0 +1,20 @@
+{
+  "id": 122,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "107 - Clever Girl",
+  "description": "Mayor Harmon perfects the apology, Erin McGathy runs an epic Game Corner and in D\u0026D the gang encounter a black dragon.",
+  "runtime": 7591,
+  "releaseDate": 1405370160.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6556",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5867394719.mp3?updated=1556323470",
+  "lastEpisodeId": 121,
+  "nextEpisodeId": 123,
+  "lastTitle": "106 - Pakisnap!",
+  "nextTitle": "108 - I Make A 5 Stars"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 78,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "64 - I Would Be Mega Black (James Urbaniak)",
+  "description": "Mayor Harmon strives to understand whether or not he\u0027s a 9/11 conspiracy theorist with special guest James Urbaniak. Also: race and stuff.",
+  "runtime": 7411,
+  "releaseDate": 1373883480.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=4725",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5285436060.mp3?updated=1555529507",
+  "lastEpisodeId": 77,
+  "nextEpisodeId": 79,
+  "lastTitle": "63 - Everyone in the World is Stupid",
+  "nextTitle": "65 - Tim Tums Are Where Cake and Vodka Go"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 46,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "33 - Harmoncountry: Pittsburgh, PA",
+  "description": "The Harmontown tour \u0022meets its goddess\u0022 in a featureless black box theatre, where Dan cries, arouses himself, tells a joke and gets in a fight with Erin. Unedited episode.",
+  "runtime": 7367,
+  "releaseDate": 1358824800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2041",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1438167606.mp3?updated=1554331466",
+  "lastEpisodeId": 45,
+  "nextEpisodeId": 47,
+  "lastTitle": "32 - Harmoncountry: Arlington, VA",
+  "nextTitle": "34 - Harmoncountry: Bloomington, IN"
+}

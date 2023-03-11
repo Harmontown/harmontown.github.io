@@ -1,0 +1,20 @@
+{
+  "id": 34,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "21 - Adventurtunity Mobisode!",
+  "description": "Mayor Harmon does his Bane impression and practices getting booed in various cities for the upcoming tour. In D\u0026D: the heroes finally encounter Sharpie\u0027s dad.",
+  "runtime": 6015,
+  "releaseDate": 1357452600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=982",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5087783962.mp3?updated=1554322375",
+  "lastEpisodeId": 33,
+  "nextEpisodeId": 35,
+  "lastTitle": "20 - Flesh Knife",
+  "nextTitle": "22 - Nanu Nanu, I\u0027m Racist"
+}

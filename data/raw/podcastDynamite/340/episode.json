@@ -1,0 +1,20 @@
+{
+  "id": 340,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "323 - Adam Ruins Harmontown",
+  "description": "Adam Conover, from Adam Ruins Everything and CollegeHumor, ruins herpes, hymens and Harmontown. Brandon Johnson is our guest comptroller, and Schrab is back with another new chair.\nFeaturing Dan Harmon, Brandon Johnson, Rob Schrab and Adam Conover.",
+  "runtime": 7267,
+  "releaseDate": 1551351600.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "0cdd0efc-e0cc-11e8-9878-0389d9ab5420",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7557659041.mp3",
+  "lastEpisodeId": 339,
+  "nextEpisodeId": 341,
+  "lastTitle": "322 - WOKE AF HASHTAG",
+  "nextTitle": "324 - Aunt Tipathy"
+}

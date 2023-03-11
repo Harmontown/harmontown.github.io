@@ -1,0 +1,20 @@
+{
+  "id": 45,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "32 - Harmoncountry: Arlington, VA",
+  "description": "The mayor and comptroller spend their night in the X Files capitol investigating ghosts, aliens, incest and 9-11 before playing D\u0026D with all black people.",
+  "runtime": 6510,
+  "releaseDate": 1358819580.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=2040",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5735310974.mp3?updated=1554331024",
+  "lastEpisodeId": 44,
+  "nextEpisodeId": 46,
+  "lastTitle": "31 - Harmoncountry: Providence, RI",
+  "nextTitle": "33 - Harmoncountry: Pittsburgh, PA"
+}

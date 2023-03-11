@@ -1,0 +1,20 @@
+{
+  "id": 118,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "103 - Tony Shalhoub Award",
+  "description": "Happy Birthday to all the Fathers out there, Kumail is comptrolling, Erin runs her best game yet and D\u0026D is sizzling. Come get your Harmontown!",
+  "runtime": 7939,
+  "releaseDate": 1402950420.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6455",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868103730.mp3?updated=1556231323",
+  "lastEpisodeId": 117,
+  "nextEpisodeId": 119,
+  "lastTitle": "102 - Sleepy Canyoneer",
+  "nextTitle": "104 - Death To Superman"
+}

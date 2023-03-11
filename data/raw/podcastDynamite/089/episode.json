@@ -1,0 +1,20 @@
+{
+  "id": 89,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "75 - Selling Like Hot Snakes",
+  "description": "Mayor Harmon is joined once again by guest Rob Schrab and Erin McGathy plays the role of Comptroller. Spontaneous combustion, peeing your pants and letters from reddit await you in this weeks Harmontown!",
+  "runtime": 6096,
+  "releaseDate": 1381190880.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5258",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6599196205.mp3?updated=1560295520",
+  "lastEpisodeId": 88,
+  "nextEpisodeId": 90,
+  "lastTitle": "74 - Morality",
+  "nextTitle": "76 - Hug Me, Hug Me, Hug Me"
+}

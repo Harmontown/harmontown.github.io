@@ -1,0 +1,20 @@
+{
+  "id": 319,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "302 - You Can Freeze Me For Seven Dollars",
+  "description": "Dan is baffled by an Emmy seat filler, Schrab has a new favorite TV show, and what happened to Wicker Man? Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.",
+  "runtime": 7189,
+  "releaseDate": 1536832800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "ff26858f-c1d9-40ab-9632-a95a003b5cff",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3432050954.mp3",
+  "lastEpisodeId": 318,
+  "nextEpisodeId": 320,
+  "lastTitle": "301 - SuperNova",
+  "nextTitle": "303 - Frog Complex"
+}

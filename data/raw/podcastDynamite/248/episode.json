@@ -1,0 +1,20 @@
+{
+  "id": 248,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "231 - Pacman Versus Garfield",
+  "description": "Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab and Cassandra Church. Watch the video at harmontown.com/live. Become a member, help support the show!",
+  "runtime": 7273,
+  "releaseDate": 1486541700.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/PzvZHB-VV-gg-rrPMXoX0Z61KJJYs_9WGXJpSvdQBDQ",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2483494367.mp3",
+  "lastEpisodeId": 247,
+  "nextEpisodeId": 249,
+  "lastTitle": "230 - LIVE From SF Sketchfest 2017",
+  "nextTitle": "232 - You\u0027re An Ant To My Cum"
+}

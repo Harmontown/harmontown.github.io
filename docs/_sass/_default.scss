@@ -1,0 +1,184 @@
+@import "colors";
+
+html {
+  overflow-y: scroll;
+  body {
+    background-attachment: fixed;
+    // overflow-y:
+  }
+}
+
+header {
+  h1 {
+    overflow: unset;
+    font-family: "Antonio", sans-serif;
+    text-shadow: unset;
+    margin-bottom: -6px;
+
+    div {
+      display: inline-block;
+      font-size: 55%;
+    }
+
+    div:not(.wiki-title) {
+      margin: 0 -20px;
+    }
+    div.wiki-title {
+      transform: scaleX(0.75);
+      font-size: 150%;
+      $Xoffset: 4px;
+      $Yoffset: 2.75px;
+      $spread: 0px;
+      $color: rgba(black, 0.75);
+      letter-spacing: -0.8px;
+
+      $embiggen: 0.85px;
+      $embiggenColor: rgb(243, 243, 243);
+
+      // -webkit-text-stroke:  1.5px $color;
+      text-shadow: (-$embiggen) (-$embiggen) $spread $embiggenColor, ($embiggen) (-$embiggen) $spread $embiggenColor,
+        ($embiggen) ($embiggen) $spread $embiggenColor, (-$embiggen) ($embiggen) $spread $embiggenColor,
+        0 (-$embiggen) $spread $embiggenColor, 0 ($embiggen) $spread $embiggenColor,
+        (-$Xoffset) (-$Yoffset) $spread $color, ($Xoffset) (-$Yoffset) $spread $color,
+        ($Xoffset) ($Yoffset) $spread $color, (-$Xoffset) ($Yoffset) $spread $color, 0 (-$Yoffset) $spread $color,
+        0 ($Yoffset) $spread $color;
+    }
+  }
+  p {
+    font-weight: bold;
+  }
+}
+
+#banner {
+  .button-container {
+    // outline: 1px solid red;
+    padding-right: 5px;
+    .button {
+      &.github-edit {
+        float: right;
+        img {
+          float: right;
+          height: 18px;
+          margin: -3px 0;
+          margin-left: 9px;
+        }
+      }
+    }
+  }
+}
+
+nav {
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: calc(100% - 220px - 110px);
+  padding-right: 18px;
+
+  .tag-h1.tag-h1 {
+    font-size: 150%;
+    margin-top: 12px;
+    margin-right: -12px;
+    border-right: 6px solid rgba($primary, 0.25);
+    padding-right: 6px;
+
+    &:hover {
+      background-color: rgba($primary, 0.25);
+    }
+
+    &.active {
+      border-right: 6px solid rgba($primary, 0.75);
+    }
+
+    a {
+      display: block;
+    }
+  }
+  // .tag-h2 {
+  //   margin-top: 6px;
+  //   font-size: 125%;
+  //   a {
+  //     font-weight: bold;
+  //   }
+  // }
+}
+
+table {
+  &.episode-list {
+    th,
+    td {
+      vertical-align: baseline;
+    }
+    th {
+      white-space: nowrap;
+    }
+  }
+  &.grouped-by {
+    th:last-child {
+      width: 100px;
+    }
+    th {
+      white-space: nowrap;
+    }
+  }
+}
+
+.wiki-link {
+  font-weight: bold;
+}
+
+.field {
+  font-family: monospace;
+  background: rgba(lightgray, 0.75);
+  border: 1px solid rgba(gray, 0.5);
+  padding: 0 6px;
+}
+
+/// Dynamic layout sizes:
+$extra-width: 400px;
+$wrapper-width: 650px;
+$banner-margin-right: -382px;
+$section-width: 590px;
+$nav-margin-left: -580px;
+$footer-margin-left: -530px;
+
+#banner {
+  margin-right: calc(#{$banner-margin-right} - (#{$extra-width} / 2));
+  .wrapper {
+    margin-right: 44px;
+  }
+}
+.wrapper {
+  width: calc(#{$wrapper-width} + #{$extra-width});
+}
+nav {
+  margin-left: calc(#{$nav-margin-left} - (#{$extra-width} / 2));
+}
+footer {
+  margin-left: calc(#{$footer-margin-left} - (#{$extra-width} / 2));
+}
+section {
+  width: calc(#{$section-width} + #{$extra-width});
+}
+
+@media print, screen and (max-width: 1060px) {
+  #banner .wrapper {
+    margin-right: 0px;
+  }
+}
+
+@media print, screen and (max-width: 1500px) {
+  .wrapper {
+    width: $wrapper-width;
+  }
+  #banner {
+    margin-right: $banner-margin-right;
+  }
+  section {
+    width: $section-width;
+  }
+  nav {
+    margin-left: $nav-margin-left;
+  }
+  footer {
+    margin-left: $footer-margin-left;
+  }
+}

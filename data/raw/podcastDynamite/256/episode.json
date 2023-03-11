@@ -1,0 +1,20 @@
+{
+  "id": 256,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "239 - LIVE from the Chicago Improv Festival 2017",
+  "description": "Harmontown joins the Chicago Improv Festival with guest Comptroller Brandon Johnson. Improv legends Jimmy Carrane and Scott Adsit help Dan demonstrate the difference between improv and written comedy, while Brandon and Dan discover the seven types of p...",
+  "runtime": 6341,
+  "releaseDate": 1491370620.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/rxGyq63-eG7Q8VlA9kD474PAocNXe39lHrBa4F9quXo",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2468356696.mp3",
+  "lastEpisodeId": 255,
+  "nextEpisodeId": 257,
+  "lastTitle": "238 - My name is Johnny Varvatos",
+  "nextTitle": "240 - Blackest Friend in the World"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 331,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "314 - You\u2019re the Good Kind of Fat",
+  "description": "Comedian and fellow podcaster Pete Holmes joins Dan, Jeff and Spencer to answer: What Hurts Pete Holmes?\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Pete Holmes.",
+  "runtime": 7654,
+  "releaseDate": 1544698800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "0cb2cd90-e0cc-11e8-9878-3b0b577b780a",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8064478533.mp3",
+  "lastEpisodeId": 330,
+  "nextEpisodeId": 332,
+  "lastTitle": "313 - Ducks Don\u2019t Be Gay",
+  "nextTitle": "315 - Rocket My Face Into Another Guy\u2019s Face"
+}

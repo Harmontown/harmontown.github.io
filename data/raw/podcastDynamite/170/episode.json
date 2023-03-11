@@ -1,0 +1,20 @@
+{
+  "id": 170,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "155 - LIVE from The Tin Roof in San Diego 2015",
+  "description": "Hot off of ComicCon, Harmontown summons harmenians to San Diego\u0027s Tin Roof for a night of drinking, rapping, dinosaurs, bananas and more. Watch the video at harmontown.com/live and become a member!",
+  "runtime": 7679,
+  "releaseDate": 1436945400.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=8651",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1744918897.mp3?updated=1561580218",
+  "lastEpisodeId": 169,
+  "nextEpisodeId": 171,
+  "lastTitle": "154 - Taye Brigston, the Littlest Show Promoter",
+  "nextTitle": "156 - Poop Is Temporary, Money Is Forever"
+}

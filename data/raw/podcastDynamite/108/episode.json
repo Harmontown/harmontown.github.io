@@ -1,0 +1,20 @@
+{
+  "id": 108,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "94 - Live From SXSW \u002714 \u002B Movie Q\u0026A",
+  "description": "From Austin, TX, Harmontown is live from the Liberty Tavern and SXSW. Bonus audio from the Q \u0026 A following the premiere of the \u0022Harmontown\u0022 documentary.",
+  "runtime": 8727,
+  "releaseDate": 1394490360.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6067",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7536468874.mp3?updated=1556133049",
+  "lastEpisodeId": 107,
+  "nextEpisodeId": 109,
+  "lastTitle": "93 - McConaissance",
+  "nextTitle": "95 - Bill Martigans"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 259,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "242 - The Final Meltdown",
+  "description": "The end of an era when Harmontown performs its last show on the stages of Nerdmelt in the back of Meltdown comics with the help of Mitch Hurwitz.",
+  "runtime": 7227,
+  "releaseDate": 1493193780.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/ys_WG2iGuoH4IjjXr_Bl9lnDSfHuIXIPAO0d1PktaR0",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7562208359.mp3",
+  "lastEpisodeId": 258,
+  "nextEpisodeId": 260,
+  "lastTitle": "241 - Kumanji",
+  "nextTitle": "243 - Adult Onset Pyromania"
+}

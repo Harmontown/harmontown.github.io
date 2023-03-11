@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  jekyll:
+    container_name: devEnv
+    image: harmontown-wiki-localdev
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./docs:/srv/jekyll:Z
+    ports:
+      - '4000:4000'
+      - '35729:35729'

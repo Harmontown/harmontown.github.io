@@ -1,0 +1,20 @@
+{
+  "id": 115,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "100 - Boner-Hurt Kansas",
+  "description": "It is the Centepisodial Spectacular of Harmontown! Adam Goldberg runs a quiz against a super fan and your Mayor to see who knows more about Harmontown.",
+  "runtime": 7331,
+  "releaseDate": 1400531760.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=6348",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3107672992.mp3?updated=1556230490",
+  "lastEpisodeId": 114,
+  "nextEpisodeId": 116,
+  "lastTitle": "99 - Homo Doolittle (Live from Bridgetown 2014!)",
+  "nextTitle": "101 - Paloma"
+}

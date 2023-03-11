@@ -1,0 +1,20 @@
+{
+  "id": 207,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "191 - Monochromophiliacs",
+  "description": "It\u0027s a whodunit with Paul F. Tompkins on Harmontown!",
+  "runtime": 7121,
+  "releaseDate": 1459918800.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "gid://art19-episode-locator/V0/8sjCRa6s7SRAq9Sr-yIRuJS2LCXQoD8B0vo8KU6FBk0",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5103402031.mp3?updated=1560377359",
+  "lastEpisodeId": 206,
+  "nextEpisodeId": 208,
+  "lastTitle": "190 - Pineapple",
+  "nextTitle": "192 - Give Black People A Chance To Hear Crickets"
+}

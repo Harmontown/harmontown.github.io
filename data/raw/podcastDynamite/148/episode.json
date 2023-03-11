@@ -1,0 +1,20 @@
+{
+  "id": 148,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "133 - DeMorge Do You Know Jamal?",
+  "description": "It\u0027s sports corner for all you Superbowl heads, audience member Jamal sheds some light on race and ShadowRun is in full effect.",
+  "runtime": 7660,
+  "releaseDate": 1423079580.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=7494",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6058998457.mp3",
+  "lastEpisodeId": 147,
+  "nextEpisodeId": 149,
+  "lastTitle": "132 - You Make My Shadow Run with David Cross!",
+  "nextTitle": "134 - Dogs, Cats and Danny DeVito"
+}

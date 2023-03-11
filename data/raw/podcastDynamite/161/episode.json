@@ -1,0 +1,20 @@
+{
+  "id": 161,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "146 - Definitely Squatchy, Bro (LIVE from Bridgetown 2015!)",
+  "description": "Harmontown goes back to Portland for Bridgetown 2015 and it gets squatchy, bro!",
+  "runtime": 7402,
+  "releaseDate": 1431478920.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=8080",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3913962223.mp3?updated=1562006125",
+  "lastEpisodeId": 160,
+  "nextEpisodeId": 162,
+  "lastTitle": "145 - Swastika Made Of Dicks",
+  "nextTitle": "147 - High Concept Humiliation"
+}

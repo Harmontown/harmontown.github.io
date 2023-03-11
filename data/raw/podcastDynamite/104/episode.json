@@ -1,0 +1,20 @@
+{
+  "id": 104,
+  "podcastId": 1,
+  "podcastTitle": "Harmontown",
+  "title": "90 - CyberChrist and Stubnortz",
+  "description": "Mayor Harmon has some qualms with Uber, we check in with Adam Goldberg and SuperEgo\u0027s Matt Gourley settles a dispute during D\u0026D.",
+  "runtime": 6897,
+  "releaseDate": 1392018000.000000000,
+  "showDate": null,
+  "firstName": null,
+  "middleName": null,
+  "lastName": null,
+  "personId": 0,
+  "guid": "http://www.castmate.fm/play.mp3?u=harmontownpodcast\u0026i=5782",
+  "audio": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028819427.mp3?updated=1555717845",
+  "lastEpisodeId": 103,
+  "nextEpisodeId": 105,
+  "lastTitle": "89 - Live At Cobb\u0027s in San Francisco with Joel Hodgson",
+  "nextTitle": "91 - Net Neutrality/Butt Fun"
+}

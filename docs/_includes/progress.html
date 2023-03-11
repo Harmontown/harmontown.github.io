@@ -1,0 +1,48 @@
+{% assign progress = page.progress %}
+<table class="episode-breakdown">
+  <tr>
+    <th>Podcast Episodes</th>
+    <th>Lost Episodes</th>
+    <!-- <th>Trailer Episodes</th> -->
+    <th>Total</th>
+  </tr>
+  <tr>
+    <td>{{ site.episodes | where_exp: "ep", "ep.episodeNumber != nil" | size }}</td>
+    <td>{{ site.episodes | where: "isLostEpisode", true | size }}</td>
+    <!-- <td>{{ site.episodes | where: "isTrailer", true | size }}</td> -->
+    <td>{{ site.episodes.size }}</td>
+  </tr>
+</table>
+
+### Episode Metadata
+<table class="episode-progress">
+  <tr>
+    <th>Value</th>
+    <th>Field</th>
+    <th>List</th>
+    <th>Missing</th>
+    <th>% Complete</th>
+  </tr>
+  {% for item in progress.missingValues %}
+  <tr>
+    {% assign listPage = site.pages | where: "field", item.field | where: "type", "missing" | first %}
+
+    {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by: progress.episodeCount %}
+    <td>{{ item.name }}</td>
+    <td><span class="field">{{ item.field }}</span></td>
+    <td><a href="{{listPage.url}}">affected episodes</a></td>
+    <td>{{ item.count }}</td>
+    <td>
+      <div>{{ completionRate }} %</div>
+      <div class="completion-rate cr{{ completionRate | divided_by: 10 | times: 10 }}"></div>
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
+<ul>
+  {% assign relevant = site.pages | where: "groupingField", "showDate" | where: "of", "missing" %}
+  {% for page in relevant %}
+  <li>{{page.groupingField}} {{page.of}}</li>
+  {% endfor %}
+</ul>
