@@ -20,8 +20,9 @@ jobs:
         uses: isbang/compose-action@v1.4.1
         with:
           compose-file: "docker-compose.yml"
-          # services: |
-          #   jekyll
+          up-flats: '--attach jekyll'
+          services: |
+            jekyll
 
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v3
