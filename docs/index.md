@@ -13,11 +13,14 @@ TODO: Intro blurb.
 TODO: Mentioned sources for aggregated data
 
 ## Contributing
-
-TODO: tighten up
-
-Contributions are not currently accepted.  This is because I intend on bootstrapping this wiki by generating the majority of the pages from public data sources.
-
-In order to avoid annoying merge conflicts, I will only begin accepting user contributions once the initial content generation phase is finished.
-
-I will provide more details on how you can contribute at a later date.  Stay tuned!
+TODO:
+* Describe what needs to be sourced
+  * missing fields in Front Matter of episode pages,
+    * Suggest focusing on the least complete fields (see [[Episode Metadata]] above)
+  * Any other relevant episode information
+* Explain why this is not a regular wiki
+  * Eliminate hosting fees
+  * Avoid ads
+  * Have full control over the data
+  * Make data open-source
+* Link to guide on using GitHub to edit an episode page.

@@ -25,7 +25,7 @@
   </tr>
   {% for item in progress.missingValues %}
   <tr>
-    {% assign listPage = site.pages | where: "groupingField", item.field | where: "of", item.field | first %}
+    {% assign listPage = site.pages | where: "field", item.field | where: "type", "missing" | first %}
 
     {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by: progress.episodeCount %}
     <td>{{ item.name }}</td>

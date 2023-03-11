@@ -1,10 +1,4 @@
-FROM ruby:3-alpine
-
-RUN apk add --no-cache build-base gcc bash cmake git
-
-COPY /docs/Gemfile /
-
-RUN bundle install
+FROM jekyll/jekyll:4
 
 EXPOSE 4000 35729
 

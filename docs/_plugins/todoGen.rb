@@ -7,12 +7,13 @@ module Harmontown
       site.pages.concat(
         progress.missingValues.map { |missing| 
           EpisodeListPage.new(
-            site, 
-            'missing',
-            missing.field,
-            missing.field, 
-            "Episodes Missing ",
-            missing.sequenceNumbers) }
+            site: site, 
+            subDir: 'missing',
+            field: missing.field,
+            key: nil, 
+            title: "Episodes Missing " + missing.field,
+            sequenceNumbers: missing.sequenceNumbers,
+            type: 'missing') }
       )
 
       indexPage = site.pages.find { |page| page.name == 'index.md' }

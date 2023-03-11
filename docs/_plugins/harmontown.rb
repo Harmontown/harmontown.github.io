@@ -1,9 +1,9 @@
 module Harmontown
   class EpisodeListPage < Jekyll::Page
-    def initialize(site, subDir, groupingField, of, titlePrefix, sequenceNumbers)
+    def initialize(site:, subDir:, field:, key:, title:, sequenceNumbers:, type: "group")
       @site = site             # the current site instance.
       @base = site.source      # path to the source directory.
-      @dir  = 'episodes/' + subDir + '/' + Jekyll::Utils.slugify(of)
+      @dir  = 'episodes/' + subDir + '/' + Jekyll::Utils.slugify(type == "group" ? key : field)
 
       # All pages have the same filename, so define attributes straight away.
       @basename = 'index'      # filename without the extension.
@@ -13,9 +13,10 @@ module Harmontown
       @data = {
         'sequenceNumbers' => sequenceNumbers,
         'layout' => 'episode-list',
-        'titlePrefix' => titlePrefix,
-        'groupingField' => groupingField,
-        'of' => of,
+        'title' => title,
+        'field' => field,
+        'key' => key,
+        'type' => type,
         'sitemap' => true
       }
     end

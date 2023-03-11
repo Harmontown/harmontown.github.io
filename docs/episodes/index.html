@@ -13,10 +13,10 @@ layout: default
     <th>Comptroller</th>
     <th>Episode Count</th>
   </tr>
-  {% assign byComptroller = site.pages | where_exp: "p", "p.groupingField == 'comptroller'" %}
+  {% assign byComptroller = site.pages | where: 'type', 'group' | where: 'field', 'comptroller' %}
   {% for page in byComptroller %}
   <tr>
-    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td><a href="{{page.url}}">{{ page.key | default: "TBC" }}</a></td>
     <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
   {% endfor %}
@@ -29,10 +29,10 @@ layout: default
     <th>Venue</th>
     <th>Episode Count</th>
   </tr>
-  {% assign byVenue = site.pages | where_exp: "p", "p.groupingField == 'venue'" %}
+  {% assign byVenue = site.pages | where: 'type', 'group' | where: 'field', 'venue' %}
   {% for page in byVenue %}
   <tr>
-    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td><a href="{{page.url}}">{{ page.key | default: "TBC" }}</a></td>
     <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
   {% endfor %}
@@ -45,10 +45,10 @@ layout: default
     <th>Person</th>
     <th>Episode Count</th>
   </tr>
-  {% assign byPerson = site.pages | where_exp: "p", "p.groupingField == 'person'" %}
+  {% assign byPerson = site.pages | where: 'type', 'group' | where: 'field', 'person' %}
   {% for page in byPerson %}
   <tr>
-    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td><a href="{{page.url}}">{{ page.key | default: "TBC" }}</a></td>
     <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
   {% endfor %}
@@ -61,10 +61,10 @@ layout: default
     <th>Has?</th>
     <th>Episode Count</th>
   </tr>
-  {% assign byDnD = site.pages | where_exp: "p", "p.groupingField == 'hasDnD'" %}
+  {% assign byDnD = site.pages | where: 'type', 'group' | where: 'field', 'hasDnD' %}
   {% for page in byDnD %}
   <tr>
-    <td><a href="{{page.url}}">{{ page.of | default: "TBC" }}</a></td>
+    <td><a href="{{page.url}}">{{ page.key | default: "TBC" }}</a></td>
     <td>{{ page.sequenceNumbers  | size }}</td>
   </tr>
   {% endfor %}

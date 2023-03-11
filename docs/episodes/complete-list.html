@@ -4,6 +4,8 @@ layout: default
 <h1>Complete List of Episodes</h1>
 <table class="episode-list">
   <tr>
+    <th>#</th>
+    <th>Ep #</th>
     <th>Title</th>
     <th>Venue</th>
     <th>Show Date</th>
@@ -11,6 +13,8 @@ layout: default
   </tr>
   {% for ep in site.episodes %}
   <tr>
+    <td>{{ ep.sequenceNumber }}</a></td>
+    <td>{{ ep.episodeNumber }}</a></td>
     <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>
     <td>{{ ep.venue | default: 'TBC' }}</td>
     <td>{{ ep.showDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>

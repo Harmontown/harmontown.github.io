@@ -49,38 +49,42 @@ module Harmontown
       site.pages.concat(
         byComptroller.map { |grouping| 
           EpisodeListPage.new(
-            site, 
-            "with-comptroller",
-            'comptroller',
-            grouping.by, 
-            "Episodes with Comptroller ", grouping.items) }
+            site: site, 
+            subDir: "with-comptroller",
+            field: 'comptroller',
+            key: grouping.by, 
+            title: "Episodes with Comptroller " + grouping.by,
+            sequenceNumbers: grouping.items) }
       )
       site.pages.concat(
         byVenue.map { |grouping| 
           EpisodeListPage.new(
-            site, 
-            "at-venue",
-            'venue',
-            grouping.by, 
-            "Episodes at Venue ", grouping.items) }
+            site: site, 
+            subDir: "at-venue",
+            field: 'venue',
+            key: grouping.by, 
+            title: "Episodes at Venue " + grouping.by,
+            sequenceNumbers: grouping.items) }
       )
       site.pages.concat(
         byPerson.map { |grouping| 
           EpisodeListPage.new(
-            site, 
-            "with",
-            'person',
-            grouping.by, 
-            "Episodes with ", grouping.items) }
+            site: site, 
+            subDir: "with",
+            field: 'person',
+            key: grouping.by, 
+            title: "Episodes with " + grouping.by, 
+            sequenceNumbers: grouping.items) }
       )
       site.pages.concat(
         byDnD.map { |grouping| 
           EpisodeListPage.new(
-            site, 
-            "with-dnd",
-            'hasDnD',
-            formatYesNoTbc(grouping.by),
-            "Episodes with D&D: ", grouping.items) }
+            site: site, 
+            subDir: "with-dnd",
+            field: 'hasDnD',
+            key: formatYesNoTbc(grouping.by),
+            title: "Episodes with D&D: " + formatYesNoTbc(grouping.by),
+            sequenceNumbers: grouping.items) }
       )
 
       # targetPage = site.pages.find { |page| page.path == 'episodes/index.html' }
