@@ -1178,8 +1178,18 @@ section {
 
   footer {
     margin-left: -530px; } }
-@media print, screen and (max-width: 540px) {
-  header h1, section h1, footer h1 {
+@media print, screen and (max-width: 620px) {
+  section {
+    width: auto; } }
+@media print, screen and (max-width: 480px) {
+  html,
+  body {
+    overflow-x: hidden;
+    min-width: 310px; }
+
+  header h1,
+  section h1,
+  footer h1 {
     white-space: unset;
     overflow: unset;
     text-overflow: unset; }
@@ -1196,9 +1206,6 @@ section {
     display: block;
     position: unset;
     margin: unset; }
-
-  section {
-    width: auto; }
 
   footer {
     margin-left: unset; } }
