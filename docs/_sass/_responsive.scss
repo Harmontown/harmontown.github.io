@@ -5,6 +5,10 @@ $section-width: 590px;
 $nav-margin-left: -580px;
 $footer-margin-left: -530px;
 
+header {
+  width: auto;
+}
+
 #banner {
   margin-right: calc(#{$banner-margin-right} - (#{$extra-width} / 2));
   .wrapper {
@@ -51,16 +55,31 @@ section {
 @media print, screen and (max-width: 620px) {
   section {
     width: auto;
+    margin: 0;
   }
-}
 
-@media print, screen and (max-width: 480px) {
   html,
   body {
     overflow-x: hidden;
     min-width: 310px;
   }
 
+  header {
+    position: relative;
+    min-height: unset;
+    padding: 0;
+  }
+
+  #banner {
+    display: block;
+    position: relative;
+    margin: unset;
+    top: unset;
+    bottom: unset;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
   header h1,
   section h1,
   footer h1 {
@@ -77,12 +96,6 @@ section {
 
   .mobile-hidden {
     display: none;
-  }
-
-  #banner {
-    display: block;
-    position: unset;
-    margin: unset;
   }
 
   footer {

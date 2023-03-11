@@ -5,15 +5,17 @@ layout: default
 <h1>{{page.title}}</h1>
 {{ page.description }}
 <table class="episode-list row-highlight">
-  <tr>
-    <th>#</th>
-    <th>Ep #</th>
-    <th>Title</th>
-    <th class="mobile-hidden">Venue</th>
-    <th class="mobile-hidden">Show Date</th>
-    <th class="mobile-hidden">Release Date</th>
-  </tr>
-  
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Ep #</th>
+      <th>Title</th>
+      <th class="mobile-hidden">Venue</th>
+      <th class="mobile-hidden">Show Date</th>
+      <th class="mobile-hidden">Release Date</th>
+    </tr>
+  </thead>
+
   {% for seqNum in page.sequenceNumbers %}
   {% assign i = seqNum | minus: 1 %}
   {% assign ep = site.episodes[i] %}

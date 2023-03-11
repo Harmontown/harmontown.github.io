@@ -103,7 +103,7 @@ nav {
 
 table {
   &.row-highlight {
-    tr:hover {
+    :not(thead) tr:hover {
       background-color: rgba($primary, 0.1);
     }
   }
@@ -124,13 +124,16 @@ table {
       white-space: nowrap;
     }
   }
+  overflow: auto;
   &.episode-breakdown,
   &.episode-progress,
   &.episode-list {
-    tr:first-child {
-      background-color: $table-header;
-      th {
-        outline: 1px solid $paper-white;
+    thead {
+      tr {
+        background-color: $table-header;
+        th {
+          outline: 1px solid $paper-white;
+        }
       }
     }
   }

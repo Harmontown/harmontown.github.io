@@ -1,11 +1,13 @@
 {% assign progress = page.progress %}
 <table class="episode-breakdown">
-  <tr>
-    <th>Podcast Episodes</th>
-    <th>Lost Episodes</th>
-    <!-- <th>Trailer Episodes</th> -->
-    <th>Total</th>
-  </tr>
+  <thead>
+    <tr>
+      <th>Podcast Episodes</th>
+      <th>Lost Episodes</th>
+      <!-- <th>Trailer Episodes</th> -->
+      <th>Total</th>
+    </tr>
+  </thead>
   <tr>
     <td>{{ site.episodes | where_exp: "ep", "ep.episodeNumber != nil" | size }}</td>
     <td>{{ site.episodes | where: "isLostEpisode", true | size }}</td>
@@ -16,17 +18,20 @@
 
 ### Episode Metadata
 <table class="episode-progress row-highlight">
-  <tr>
-    <th>Value</th>
-    <th class="mobile-hidden">Field</th>
-    <th>Missing</th>
-    <th>% Complete</th>
-  </tr>
+  <thead>
+    <tr>
+      <th>Value</th>
+      <th class="mobile-hidden">Field</th>
+      <th>Missing</th>
+      <th>% Complete</th>
+    </tr>
+  </thead>
   {% for item in progress.missingValues %}
   <tr>
     {% assign listPage = site.pages | where: "field", item.field | where: "type", "missing" | first %}
 
-    {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by: progress.episodeCount %}
+    {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by:
+    progress.episodeCount %}
     <td><a href="{{listPage.url}}">{{ item.name }}</a></td>
     <td class="mobile-hidden"><span class="field">{{ item.field }}</span></td>
     <td>{{ item.count }}</td>

@@ -3,14 +3,16 @@ layout: default
 ---
 <h1>Complete List of Episodes</h1>
 <table class="episode-list row-highlight">
-  <tr>
-    <th>#</th>
-    <th>Ep #</th>
-    <th>Title</th>
-    <th class="mobile-hidden">Venue</th>
-    <th class="mobile-hidden">Show Date</th>
-    <th class="mobile-hidden">Release Date</th>
-  </tr>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Ep #</th>
+      <th>Title</th>
+      <th class="mobile-hidden">Venue</th>
+      <th class="mobile-hidden">Show Date</th>
+      <th class="mobile-hidden">Release Date</th>
+    </tr>
+  </thead>
   {% for ep in site.episodes %}
   <tr>
     <td>{{ ep.sequenceNumber }}</a></td>
