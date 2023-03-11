@@ -25,7 +25,6 @@ hasDnD:               true
 #- "Kid Hashbrown"
 
 guests:
-- "Spencer Crittenden"
 audienceGuests:
 - "Nti Aning"
 - "Jennifer"

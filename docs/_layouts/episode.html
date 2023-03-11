@@ -64,6 +64,12 @@ layout: default
                 <th>Comptroller</th>
                 <td>{{ page.comptroller }}</td>
               </tr>
+              {% if page.gameMaster != nil %}
+              <tr>
+                <th title="Game Master">GM</th>
+                <td>{{ page.gameMaster }}</td>
+              </tr>
+              {% endif %}
               {% if page.guests.size > 0 %}
               <tr>
                 <th>Guests</th>
