@@ -5,7 +5,7 @@ services:
     container_name: buildEnv
     image: jekyll/jekyll:4
     volumes:
-      - ./docs:/srv/jekyll:Z
+      - ./docs:/srv/jekyll:rw
     entrypoint:
       - jekyll
       - build
