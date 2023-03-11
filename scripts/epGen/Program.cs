@@ -22,10 +22,6 @@ void GenerateEpisodeStubs()
       => (el.GetProperty(key).ValueKind != JsonValueKind.True && el.GetProperty(key).ValueKind != JsonValueKind.False)
         ? null
         : el.GetProperty(key).GetBoolean();
-    // string? GetString(JsonElement el, string key) 
-    //   => el.GetProperty(key).ValueKind == JsonValueKind.Null
-    //     ? null
-    //     : el.GetProperty(key).GetString();
 
     var ep = new EpisodeHeader(
       SequenceNumber: item.GetProperty("sequenceNumber").GetInt32(),
@@ -89,7 +85,7 @@ episodeNumber:        {{ep.EpisodeNumber}}
 title:                {{FormatString(ep.Title)}}
 image:                {{ep.Image}}
 description: >
-  {{ep.Description.Replace("\n", "\n  ")}}
+  {{ep.Description.Replace("\r", "").Replace("\n", "\r\n  ")}}
 showDate:             {{FormatString(ep.ShowDate?.ToString("u"))}}
 releaseDate:          {{FormatString(ep.ReleaseDate?.ToString("u"))}}
 duration:             {{FormatString(ep.Duration?.ToString("c"))}}
@@ -118,24 +114,6 @@ hasPrevious:          {{ep != first}}
 hasNext:              {{ep != last}}
 podcastDynamiteId:    {{ep.PodcastDynamiteId}}
 ---
-
-{% include podcastBlurb.md %}
-
-{% comment %}
-{% include people.md %}
-{% endcomment %}
-
-{% comment %}
-{% include segments.md %}
-{% endcomment %}
-
-{% comment %}
-{% include bits.md %}
-{% endcomment %}
-
-{% comment %}
-{% include characters.md %}
-{% endcomment %}
 
 """);
   }

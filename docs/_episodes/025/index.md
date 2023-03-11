@@ -37,21 +37,3 @@ hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    25
 ---
-
-{% include podcastBlurb.md %}
-
-{% comment %}
-{% include people.md %}
-{% endcomment %}
-
-{% comment %}
-{% include segments.md %}
-{% endcomment %}
-
-{% comment %}
-{% include bits.md %}
-{% endcomment %}
-
-{% comment %}
-{% include characters.md %}
-{% endcomment %}
