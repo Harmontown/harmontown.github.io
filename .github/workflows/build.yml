@@ -24,6 +24,15 @@ jobs:
         with:
           compose-file: "docker-compose.yml"
 
+      - name: List Files
+        id: list-files
+        uses: mirko-felice/list-files-action@v3.0.1
+        with:
+          repo: ${{ github.repository }}
+          ref: ${{ github.ref }}
+          path: "."
+          ext: ".html"
+
       - name: 🚀 deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
