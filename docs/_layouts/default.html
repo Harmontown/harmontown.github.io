@@ -35,14 +35,15 @@
         <a href="/" class="button">Home</a>
         <a href="/episodes/" class="button">Episodes</a>
 
-        <a href="{{ site.github.repository_url }}" class="button github-edit" target="_blank" title="View On GitHub">
+        {% unless page.isGenerated %}
+        {% assign github_url = "https://www.github.com/" | append: site.repository | append: "/edit/main/docs/" | append: page.relative_url %}
+        <a href="{{ github_url }}" class="button github-edit" target="_blank" title="Edit On GitHub">
           Edit on GitHub
           <img src="/assets/images/octocat-logo.svg" />
         </a>
+        {% endunless %}
       </div>
     </div>
-
-    <!-- <a href="{{ site.github.repository_url }}" class="button fork" target="_blank"><strong>View On GitHub</strong></a> -->
 
     {% if site.show_downloads %}
     <div class="downloads">

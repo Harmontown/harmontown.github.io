@@ -19,7 +19,7 @@ module Harmontown
       indexPage = site.pages.find { |page| page.name == 'index.md' }
       indexPage.data['progress'] = progress
 
-      Jekyll.logger.info "ToDoGenerator:", "Done."
+      Jekyll.logger.info "ToDoGen:", "Done."
     end
   end
 
@@ -54,6 +54,8 @@ module Harmontown
           getSequenceNumbers('guests')),
         MissingValue.new('List of audience members who participated.', 'audienceGuests', 
           getSequenceNumbers('audienceGuests')),
+        MissingValue.new('Custom episode image.', 'image', 
+          @episodes.select { |ep| ep['image'] == 'episode-placeholder.jpg' }.map { |ep| ep['sequenceNumber']}),
       ]
     end
   end

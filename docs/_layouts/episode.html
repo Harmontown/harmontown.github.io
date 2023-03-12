@@ -1,5 +1,6 @@
 ---
 layout: default
+
 ---
 
 <div class="episode-navigation">
@@ -27,7 +28,12 @@ layout: default
 </div>
 
 <h1>{{ page.title }}</h1>
-
+<ul>
+<li>{{ page.url }}</li>
+<li>{{ page.dir }}</li>
+<li>{{ page.name }}</li>
+<li>{{ page.relative_path }}</li>
+</ul>
 <div class="info-box">
   <table>
     <tbody>

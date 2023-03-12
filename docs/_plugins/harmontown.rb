@@ -17,7 +17,8 @@ module Harmontown
         'field' => field,
         'key' => key,
         'type' => type,
-        'sitemap' => true
+        'sitemap' => true,
+        'isGenerated' => true
       }
     end
 

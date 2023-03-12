@@ -93,7 +93,7 @@ module Harmontown
       # targetPage.data['byPerson'] = byPerson
       # targetPage.data['byDnD'] = byDnD
 
-      Jekyll.logger.info "EpisodeListGenerator:", "Done."
+      Jekyll.logger.info "EpisodeListGen:", "Done."
     end
   end
   
