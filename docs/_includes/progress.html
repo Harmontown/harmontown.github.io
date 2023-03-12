@@ -30,8 +30,9 @@
   <tr>
     {% assign listPage = site.pages | where: "field", item.field | where: "type", "missing" | first %}
 
-    {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by:
-    progress.episodeCount %}
+    {% assign divisor = progress.episodeCount %}
+    {% if divisor == 0%}{% assign divisor = 1 %}{% endif %}
+    {% assign completionRate = progress.episodeCount | minus: item.count | times: 100 | divided_by: divisor %}
     <td><a href="{{listPage.url}}">{{ item.name }}</a></td>
     <td class="mobile-hidden"><span class="field">{{ item.field }}</span></td>
     <td>{{ item.count }}</td>

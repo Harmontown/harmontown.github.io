@@ -71,34 +71,49 @@ nav {
   overflow-y: auto;
   overflow-x: hidden;
   height: calc(100% - 220px - 110px);
-  padding-right: 18px;
+  // outline: 2px dashed red;
+  padding-right: 14px;
+  width: 200px;
+  
+  right: 0;
 
-  .tag-h1.tag-h1 {
-    font-size: 150%;
-    margin-top: 12px;
-    margin-right: -12px;
-    border-right: 6px solid rgba($primary, 0.25);
-    padding-right: 6px;
+  ul {
+    text-align: right;
+    width: 100%;
+    padding-left: 0;
 
-    &:hover {
-      background-color: rgba($primary, 0.25);
-    }
+    li {
+      margin-right: -12px;
+      margin-bottom: 3px;
+      border-right: 6px solid rgba($primary, 0.25);
+      padding-right: 6px;
 
-    &.active {
-      border-right: 6px solid rgba($primary, 0.75);
-    }
+      &.tag-h1 a {
+        font-size: 130%;
+      }
 
-    a {
-      display: block;
+      &.tag-h2 a {
+        font-size: 130%;
+        // font-weight: 600;
+      }
+
+      &.tag-h3 a {
+        font-size: 95%;
+      }
+
+      &:hover {
+        background-color: rgba($primary, 0.25);
+      }
+
+      &.active {
+        border-color: rgba($primary, 0.75);
+      }
+
+      a {
+        display: block;
+      }
     }
   }
-  // .tag-h2 {
-  //   margin-top: 6px;
-  //   font-size: 125%;
-  //   a {
-  //     font-weight: bold;
-  //   }
-  // }
 }
 
 table {
@@ -148,4 +163,7 @@ table {
   background: rgba(lightgray, 0.75);
   border: 1px solid rgba(gray, 0.5);
   padding: 0 6px;
+  border-radius: 4px;
+  box-shadow: inset 2px black;
+  box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.125) inset;
 }
