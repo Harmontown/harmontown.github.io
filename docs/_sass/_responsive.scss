@@ -28,12 +28,6 @@ section {
   width: calc(#{$section-width} + #{$extra-width});
 }
 
-@media print, screen and (max-width: 1060px) {
-  #banner .wrapper {
-    margin-right: 0px;
-  }
-}
-
 @media print, screen and (max-width: 1500px) {
   .wrapper {
     width: $wrapper-width;
@@ -52,9 +46,20 @@ section {
   }
 }
 
-@media print, screen and (max-width: 620px) {
+@media print, screen and (max-width: 1060px) {
+  #banner .wrapper {
+    margin-right: 0px;
+  }
+
+  footer {
+    margin-left: unset;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
   section {
     width: auto;
+    max-width: unset;
     margin: 0;
   }
 
@@ -96,9 +101,5 @@ section {
 
   .mobile-hidden {
     display: none;
-  }
-
-  footer {
-    margin-left: unset;
   }
 }
