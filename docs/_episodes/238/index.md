@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       238
 episodeNumber:        221
 title:                "It Happened In Silverlake"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       238
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    238
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

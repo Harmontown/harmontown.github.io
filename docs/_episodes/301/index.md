@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       301
 episodeNumber:        284
 title:                "They&#39;re Coming to Get You Barbara"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       301
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    301
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

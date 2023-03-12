@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       319
 episodeNumber:        302
 title:                "You Can Freeze Me For Seven Dollars"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       319
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    319
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

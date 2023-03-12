@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       284
 episodeNumber:        267
 title:                "We Killed Charles Manson"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       284
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    284
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

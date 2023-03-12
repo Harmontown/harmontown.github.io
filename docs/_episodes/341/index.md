@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       341
 episodeNumber:        324
 title:                "Aunt Tipathy"
 image:                episode-placeholder.jpg
@@ -19,7 +18,7 @@ comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       341
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    341
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

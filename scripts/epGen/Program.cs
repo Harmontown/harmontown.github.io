@@ -80,7 +80,6 @@ void GenerateEpisodeStubs()
     File.WriteAllText($"{epDir}/index.md",
   $$"""
 ---
-sequenceNumber:       {{ep.SequenceNumber}}
 episodeNumber:        {{ep.EpisodeNumber}}
 title:                {{FormatString(ep.Title)}}
 image:                {{ep.Image}}
@@ -99,7 +98,7 @@ comptroller:          {{FormatString(ep.Comptroller)}}
 gameMaster:           {{FormatString(ep.GameMaster)}}
 hasDnD:               {{FormatBool(ep.HasDnD)}}
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -110,10 +109,15 @@ audienceGuests:{{FormatList(ep.AudienceGuests)}}
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       {{ep.SequenceNumber}}
 hasPrevious:          {{ep != first}}
 hasNext:              {{ep != last}}
 podcastDynamiteId:    {{ep.PodcastDynamiteId}}
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+
 
 """);
   }

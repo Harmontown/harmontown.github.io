@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       35
 episodeNumber:        22
 title:                "Nanu Nanu, I&#39;m Racist"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -37,7 +36,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       35
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    35
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

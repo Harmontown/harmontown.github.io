@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       141
 episodeNumber:        126
 title:                "LIVE from Chicago with comptroller Dino Stamatopolous!"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Dino Stamatopolous"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       141
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    141
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

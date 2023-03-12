@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       65
 episodeNumber:        52
 title:                "By the Power of Bored Audience Skull!"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       65
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    65
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       152
 episodeNumber:        137
 title:                "Jesus Christ This Business Is Risky"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       152
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    152
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

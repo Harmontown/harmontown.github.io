@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       96
 episodeNumber:        82
 title:                "Jim Belushi&#39;s Basement"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       96
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    96
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

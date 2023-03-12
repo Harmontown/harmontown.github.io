@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       333
 episodeNumber:        316
 title:                "Amy Grant Made My Puberty and My Atheism Happen"
 image:                episode-placeholder.jpg
@@ -19,7 +18,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       333
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    333
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

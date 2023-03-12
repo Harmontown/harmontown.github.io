@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       188
 episodeNumber:        172
 title:                "LIVE at The Gramercy, NY Comedy Festival 2015: Night 1"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       188
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    188
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

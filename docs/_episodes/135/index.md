@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       135
 episodeNumber:        120
 title:                "LIVE in Toronto feat. Bobcat Goldthwait!"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Bobcat Goldthwait"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       135
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    135
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

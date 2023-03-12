@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       357
 episodeNumber:        340
 title:                "It&#39;s Not Called Show-Friends"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Rob Schrab"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       357
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    357
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

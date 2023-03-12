@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       15
 episodeNumber:        2
 title:                "The Inception Of Girlfriends"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Erin McGathy"
 gameMaster:           
 hasDnD:               false
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       15
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    15
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

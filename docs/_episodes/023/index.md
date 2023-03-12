@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       23
 episodeNumber:        10
 title:                "A Tuppence or a Shilling for Your Wainscotting"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Erin McGathy"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -32,7 +31,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       23
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    23
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

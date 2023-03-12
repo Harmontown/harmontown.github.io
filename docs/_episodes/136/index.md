@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       136
 episodeNumber:        121
 title:                "LIVE from 92y in NYC feat. Gilbert Gottfried"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Gilbert Gottfried"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       136
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    136
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

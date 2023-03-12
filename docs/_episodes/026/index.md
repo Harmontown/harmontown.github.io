@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       26
 episodeNumber:        13
 title:                "Back To The Future Part Kush"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -33,7 +32,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       26
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    26
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

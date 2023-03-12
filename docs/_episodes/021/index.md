@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       21
 episodeNumber:        8
 title:                "Cleft In Twain!"
 image:                episode-placeholder.jpg
@@ -15,16 +14,17 @@ soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3426
 
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
+gameMaster:           
 hasDnD:               true
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
 #- "Kid Hashbrown"
 
 guests:
+- "Spencer Crittenden"
 audienceGuests:
 - "Nti Aning"
 - "Jennifer"
@@ -36,7 +36,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       21
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    21
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

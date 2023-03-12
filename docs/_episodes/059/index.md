@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       59
 episodeNumber:        46
 title:                "Neigh Means Yay"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -32,7 +31,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       59
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    59
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

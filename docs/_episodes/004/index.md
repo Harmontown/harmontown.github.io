@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       4
 episodeNumber:        
 title:                "Lost Episode #4"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               false
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       4
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    4
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

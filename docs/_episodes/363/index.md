@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       363
 episodeNumber:        346
 title:                "Every Day is a New Hate"
 image:                episode-placeholder.jpg
@@ -19,7 +18,7 @@ comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       363
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    363
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       32
 episodeNumber:        19
 title:                "Everyone&#39;s a Rapper!"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -33,7 +32,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       32
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    32
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

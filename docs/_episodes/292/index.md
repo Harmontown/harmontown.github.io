@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       292
 episodeNumber:        275
 title:                "We Could Disappear Up Each Other&#39;s Asses"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       292
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    292
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

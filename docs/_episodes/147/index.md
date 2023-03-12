@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       147
 episodeNumber:        132
 title:                "You Make My Shadow Run with David Cross!"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Kumail Nanjiani"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       147
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    147
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

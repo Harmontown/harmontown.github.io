@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       371
 episodeNumber:        354
 title:                "Mobile Pork Unit"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       371
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    371
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

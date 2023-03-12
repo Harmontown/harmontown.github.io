@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       138
 episodeNumber:        123
 title:                "LIVE from Austin, TX with LEVAR BURTON"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "LeVar Burton"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       138
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    138
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

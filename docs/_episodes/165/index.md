@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       165
 episodeNumber:        150
 title:                "Where My Technochromes At?"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Curtis Armstrong"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       165
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    165
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

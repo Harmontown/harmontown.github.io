@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       9
 episodeNumber:        
 title:                "Lost Episode #9 (Live at San Francisco Sketchfest 2012)"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               false
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       9
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    9
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       342
 episodeNumber:        325
 title:                "Get Off My Lawn, Words"
 image:                episode-placeholder.jpg
@@ -19,7 +18,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       342
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    342
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

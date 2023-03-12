@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       118
 episodeNumber:        103
 title:                "Tony Shalhoub Award"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Kumail Nanjiani"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       118
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    118
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

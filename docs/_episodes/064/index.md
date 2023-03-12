@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       64
 episodeNumber:        51
 title:                "Bikers Without Bikes"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Bobcat Goldthwait"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -30,7 +29,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       64
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    64
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

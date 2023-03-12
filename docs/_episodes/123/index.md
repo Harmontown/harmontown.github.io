@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       123
 episodeNumber:        108
 title:                "I Make A 5 Stars"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Duncan Trussell"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       123
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    123
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

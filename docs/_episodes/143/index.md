@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       143
 episodeNumber:        128
 title:                "That&#39;s my wife&#39;s pie, you bitch!"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Kumail Nanjiani"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       143
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    143
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+

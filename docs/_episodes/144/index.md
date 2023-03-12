@@ -1,5 +1,4 @@
 ---
-sequenceNumber:       144
 episodeNumber:        129
 title:                "Best Of A Bad Lot"
 image:                episode-placeholder.jpg
@@ -18,7 +17,7 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-## Example on how to add guests
+## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
 #- "Lady Omelette"
@@ -29,7 +28,12 @@ audienceGuests:
 
 # Generated.  Do not change:
 layout:               episode
+sequenceNumber:       144
 hasPrevious:          True
 hasNext:              True
 podcastDynamiteId:    144
 ---
+
+<!-- The episode description will be rendered here -->
+<!-- Add your content below here -->
+
