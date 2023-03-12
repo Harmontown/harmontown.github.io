@@ -946,9 +946,9 @@ footer {
 
 html {
   overflow-y: scroll; }
-  html body {
+  html body, html header {
     background-attachment: fixed;
-    background-position: center center; }
+    background-position: 50% 0%; }
 
 header h1 {
   overflow: unset;
@@ -1201,7 +1201,7 @@ section {
 
   footer {
     margin-left: unset; } }
-@media print, screen and (max-width: 735px) {
+@media print, screen and (max-width: 800px) {
   section {
     width: auto;
     max-width: unset;
