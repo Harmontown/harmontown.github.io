@@ -947,7 +947,8 @@ footer {
 html {
   overflow-y: scroll; }
   html body {
-    background-attachment: fixed; }
+    background-attachment: fixed;
+    background-position: center center; }
 
 header h1 {
   overflow: unset;
@@ -1200,7 +1201,7 @@ section {
 
   footer {
     margin-left: unset; } }
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 735px) {
   section {
     width: auto;
     max-width: unset;
@@ -1215,6 +1216,8 @@ section {
     position: relative;
     min-height: unset;
     padding: 0; }
+    header h1 {
+      font-size: 32px; }
 
   #banner {
     display: block;
