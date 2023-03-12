@@ -1179,9 +1179,6 @@ footer {
 section {
   width: calc(590px + 400px); }
 
-@media print, screen and (max-width: 1060px) {
-  #banner .wrapper {
-    margin-right: 0px; } }
 @media print, screen and (max-width: 1500px) {
   .wrapper {
     width: 650px; }
@@ -1197,9 +1194,16 @@ section {
 
   footer {
     margin-left: -530px; } }
-@media print, screen and (max-width: 620px) {
+@media print, screen and (max-width: 1060px) {
+  #banner .wrapper {
+    margin-right: 0px; }
+
+  footer {
+    margin-left: unset; } }
+@media print, screen and (max-width: 720px) {
   section {
     width: auto;
+    max-width: unset;
     margin: 0; }
 
   html,
@@ -1232,7 +1236,4 @@ section {
     margin-bottom: 24px; }
 
   .mobile-hidden {
-    display: none; }
-
-  footer {
-    margin-left: unset; } }
+    display: none; } }
