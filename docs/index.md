@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Welcome to the Wiki
-This is an online encyclopedia for the Harmontown podcast.  Anyone is free to edit.
+This is an online encyclopedia for the Harmontown podcast that anyone is free to edit.
 
 ## Progress
 {% include progress.html %}
