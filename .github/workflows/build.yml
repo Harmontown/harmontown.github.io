@@ -27,7 +27,7 @@ jobs:
           echo -e "\n" >> ./docs/_config.yml
           echo -e "commit: $(echo ${{ github.sha }} | cut -c1-7)" >> ./docs/_config.yml
           echo -e "\n" >> ./docs/_config.yml
-          echo -e "lastUpdated: ${{ github.event.repository.updated_at }}" >> ./docs/_config.yml
+          echo -e "lastUpdated: '${{ github.event.repository.updated_at }}'" >> ./docs/_config.yml
 
       - name: 🔨 build
         uses: isbang/compose-action@v1.4.1

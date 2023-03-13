@@ -62,8 +62,8 @@
         </p>
         {% if site.commit %}
         <p>
-          Last updated on: {{ site.lastUpdated}}<br />
-          commit: {{ site.commit}}
+          Updated on: {{ site.lastUpdated | slice: 0, 19 }}<br />
+          commit: {{ site.commit }}
         </p>
         {% endif %}
       </small>
