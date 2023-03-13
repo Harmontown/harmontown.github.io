@@ -22,20 +22,12 @@ jobs:
       - name: 🧞 grant necessary filesystem access
         run: chmod 0777 ./docs
 
-      - name: 🔍 find commit details
-        id: vars
-        shell: bash
-        run: |
-          echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-          echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
-
       - name: 🦶 populate footer data
         run: |
-          echo -e "\n" > ./docs/_config.yml
-          echo -e "commit: $(echo ${{ github.sha }} | cut -c1-7)" > ./docs/_config.yml
-          echo -e "\n" > ./docs/_config.yml
-          echo -e "lastUpdated: ${{ github.event.repository.updated_at }}" > ./docs/_config.yml
-          echo cat ./docs/_config.yml
+          echo -e "\n" >> ./docs/_config.yml
+          echo -e "commit: $(echo ${{ github.sha }} | cut -c1-7)" >> ./docs/_config.yml
+          echo -e "\n" >> ./docs/_config.yml
+          echo -e "lastUpdated: ${{ github.event.repository.updated_at }}" >> ./docs/_config.yml
 
       - name: 🔨 build
         uses: isbang/compose-action@v1.4.1
