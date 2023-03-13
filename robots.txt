@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://harmontown.github.io/sitemap.xml
