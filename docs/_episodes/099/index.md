@@ -1,7 +1,7 @@
 ---
 episodeNumber:        85
 title:                "Gender Neutrality"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   A mysterious package sparks a conversation about gender roles in our society; and upon colonizing the moon, is it even possible to raise children gender neutral? Later, Jeff shares kind of a f****d up story.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:57:28"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9620222690.mp3?updated=1555716356
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9620222690.mp3?updated=1555716356"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-85"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/99/85"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYtSHUk7Pf0TuBUMc4nZkE7"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       99
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    99
 ---
 
 <!-- The episode description will be rendered here -->

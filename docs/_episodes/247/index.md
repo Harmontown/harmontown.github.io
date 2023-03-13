@@ -1,7 +1,7 @@
 ---
 episodeNumber:        230
 title:                "LIVE From SF Sketchfest 2017"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Fascism comes to America and Harmontown susses it out with the city of San Francisco. Watch the video at harmontown.com! Become a member. Original music made for Harmontown by Titanic Sinclair.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:56:36"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7033395606.mp3?updated=1596827132
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7033395606.mp3?updated=1596827132"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-230"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/247/230"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       247
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    247
 ---
 
 <!-- The episode description will be rendered here -->

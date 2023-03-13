@@ -1,7 +1,7 @@
 ---
 episodeNumber:        220
 title:                "Night 2 At The 2016 New York City Comedy Festival!"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   For the first time EVER it's Spencer and Dan. Two stools, one show runner, one game master. Watch both nights at harmontown.com/live, become a member!
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:46:30"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3937338382.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3937338382.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-220"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/237/220"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       237
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    237
 ---
 
 <!-- The episode description will be rendered here -->

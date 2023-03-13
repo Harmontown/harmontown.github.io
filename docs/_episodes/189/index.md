@@ -1,7 +1,7 @@
 ---
 episodeNumber:        173
 title:                "LIVE at The Gramercy, NY Comedy Festival 2015: Night 2"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Scott Adsit and Dino Stamatopoulos join Harmontown Night 2 at the Gramcery. Watch the INSANE footage at harmontown.com/live
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:15:57"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3793708845.mp3?updated=1561141113
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3793708845.mp3?updated=1561141113"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-173"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/189/173"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZTRROmMclWyGHYUGYw1jHj"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       189
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    189
 ---
 
 <!-- The episode description will be rendered here -->

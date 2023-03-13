@@ -1,7 +1,7 @@
 ---
 episodeNumber:        284
 title:                "They&#39;re Coming to Get You Barbara"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Duncan Trussell is this weeks guest comptroller, who brings a sense of spirituality that could only be countered by Rob Schrab's chair noises. Featuring Dan Harmon, Duncan Trussell and Rob Schrab.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:01:11"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5654595688.mp3?updated=1596664632
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5654595688.mp3?updated=1596664632"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-284"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/301/284"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       301
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    301
 ---
 
 <!-- The episode description will be rendered here -->

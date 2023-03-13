@@ -1,7 +1,7 @@
 ---
 episodeNumber:        266
 title:                "No Lime"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Spencer shares his adventures in jogging, needles and cupping. The Ron Jeremy banana mystery continues to perplex Jeff. Dan records an introduction video for Rob Schrab and spends a little extra time making sure it's perfect.  Featuring Dan Harmon, Jef...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:09:54"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8300498738.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8300498738.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-266"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/283/266"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       283
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    283
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        325
 title:                "Get Off My Lawn, Words"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down?
   Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Rob Schrab.
@@ -11,12 +11,19 @@ duration:             "02:10:14"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1364711663.mp3?updated=1596658041
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1364711663.mp3?updated=1596658041"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-325"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/342/325"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -32,7 +39,6 @@ layout:               episode
 sequenceNumber:       342
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    342
 ---
 
 <!-- The episode description will be rendered here -->

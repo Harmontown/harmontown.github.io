@@ -1,7 +1,7 @@
 ---
 episodeNumber:        252
 title:                "Epeephany"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, and Steve Levy.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:08:32"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6825371497.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6825371497.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-252"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/269/252"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       269
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    269
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        282
 title:                "The Christmas with No Underwear"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   The show breaks new ground with a cold open ad, Dan introduces the show's latest lovable sponsored character M.C. Gun Control, we explore Dan's therapy revelations and Jeff hatches a cunning plan turning himself into a tree. Featuring Dan Harmon, Jeff ...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:06:46"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3969094748.mp3?updated=1630440104
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3969094748.mp3?updated=1630440104"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-282"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/299/282"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       299
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    299
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        233
 title:                "The Only Enemy is Stopping"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Open Mike Eagle.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:02:23"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7187157677.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7187157677.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-233"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/250/233"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       250
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    250
 ---
 
 <!-- The episode description will be rendered here -->

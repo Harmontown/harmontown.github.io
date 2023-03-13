@@ -1,7 +1,7 @@
 ---
 episodeNumber:        363
 title:                "Nanjianimax"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   The gang gets back together one more time to catch up on everything since the show's finale. Special guests: Rob Schrab, Kumail Nanjiani and Emily V. Gordon!
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:06:21"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  true
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1441745471.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1441745471.mp3"
 
 venue:                
 comptroller:          
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-363"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/363"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       380
 hasPrevious:          True
 hasNext:              False
-podcastDynamiteId:    
 ---
 
 <!-- The episode description will be rendered here -->

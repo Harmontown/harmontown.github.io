@@ -50,7 +50,10 @@ void GenerateEpisodeStubs()
       HasExplicitLanguage: item.GetProperty("hasExplicitLanguage").GetBoolean(),
       Image: "episode-placeholder.jpg",
       SoundFile: item.GetProperty("soundfile").GetString(),
-      PodcastDynamiteId: pdId
+      HarmonCityUrl: item.GetProperty("harmonCityUrl").GetString(),
+      PodcastDynamiteUrl: item.GetProperty("podcastDynamiteUrl").GetString(),
+      HasMinutes: GetBool(item, "hasMinutes"),
+      HallOfRecordsUrl: item.GetProperty("hallOfRecordsUrl").GetString()
     );
 
     episodes.Add(ep);
@@ -82,7 +85,7 @@ void GenerateEpisodeStubs()
 ---
 episodeNumber:        {{ep.EpisodeNumber}}
 title:                {{FormatString(ep.Title)}}
-image:                {{ep.Image}}
+image:                {{FormatString(ep.Image)}}
 description: >
   {{ep.Description.Replace("\r", "").Replace("\n", "\r\n  ")}}
 showDate:             {{FormatString(ep.ShowDate?.ToString("u"))}}
@@ -91,12 +94,19 @@ duration:             {{FormatString(ep.Duration?.ToString("c"))}}
 isLostEpisode:        {{FormatBool(ep.IsLostEpisode)}}
 isTrailer:            {{FormatBool(ep.IsTrailer)}}
 hasExplicitLanguage:  {{FormatBool(ep.HasExplicitLanguage)}}
-soundFile:            {{ep.SoundFile}}
+soundFile:            {{FormatString(ep.SoundFile)}}
 
 venue:                {{FormatString(ep.Venue)}}
 comptroller:          {{FormatString(ep.Comptroller)}}
 gameMaster:           {{FormatString(ep.GameMaster)}}
 hasDnD:               {{FormatBool(ep.HasDnD)}}
+
+external:
+  harmonCity:         {{FormatString(ep.HarmonCityUrl)}}
+  podcastDynamite:
+    hasMinutes:        {{ep.HasMinutes}}
+    url:              {{FormatString(ep.PodcastDynamiteUrl)}}
+  hallOfRecords:      {{FormatString(ep.HallOfRecordsUrl)}}
 
 ## Example of how to add guests: ##
 #guests:
@@ -112,7 +122,6 @@ layout:               episode
 sequenceNumber:       {{ep.SequenceNumber}}
 hasPrevious:          {{ep != first}}
 hasNext:              {{ep != last}}
-podcastDynamiteId:    {{ep.PodcastDynamiteId}}
 ---
 
 <!-- The episode description will be rendered here -->
@@ -145,4 +154,8 @@ record EpisodeHeader(
     bool HasExplicitLanguage,
     string? Image,
     string? SoundFile,
-    int? PodcastDynamiteId);
+    string? HarmonCityUrl,
+    string? PodcastDynamiteUrl,
+    bool? HasMinutes,
+    string? HallOfRecordsUrl
+    );

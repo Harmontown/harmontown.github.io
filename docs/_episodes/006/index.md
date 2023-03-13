@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #6"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Guest Donald Glover
 showDate:             "2011-10-17 04:00:00Z"
@@ -17,6 +17,13 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               false
 
+external:
+  harmonCity:         
+  podcastDynamite:
+    hasMinutes:        False
+    url:              
+  hallOfRecords:      
+
 ## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       6
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    6
 ---
 
 <!-- The episode description will be rendered here -->

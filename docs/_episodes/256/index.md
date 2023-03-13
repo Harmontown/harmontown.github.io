@@ -1,7 +1,7 @@
 ---
 episodeNumber:        239
 title:                "LIVE from the Chicago Improv Festival 2017"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Harmontown joins the Chicago Improv Festival with guest Comptroller Brandon Johnson. Improv legends Jimmy Carrane and Scott Adsit help Dan demonstrate the difference between improv and written comedy, while Brandon and Dan discover the seven types of p...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:49:56"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2468356696.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2468356696.mp3"
 
 venue:                
 comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-239"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/256/239"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       256
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    256
 ---
 
 <!-- The episode description will be rendered here -->

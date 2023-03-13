@@ -1,7 +1,7 @@
 ---
 episodeNumber:        301
 title:                "SuperNova"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   We're all mad about scooters, Dan gives an audience member a backpack and makes a new friend, then Spencer debuts his new role playing grading system. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:02:27"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2850970357.mp3?updated=1596748135
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2850970357.mp3?updated=1596748135"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-301"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/318/301"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       318
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    318
 ---
 
 <!-- The episode description will be rendered here -->

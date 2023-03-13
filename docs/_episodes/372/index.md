@@ -1,7 +1,7 @@
 ---
 episodeNumber:        355
 title:                "Hershey&#39;s Rorschach"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Our march into oblivion continues! No guests! No role playing! Nothing to lose! It's worth mentioning Spencer is feeling pretty sassy this episode and it shows.
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.
@@ -11,12 +11,19 @@ duration:             "01:58:03"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7209937866.mp3?updated=1596573050
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7209937866.mp3?updated=1596573050"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-355"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/372/355"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -32,7 +39,6 @@ layout:               episode
 sequenceNumber:       372
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    372
 ---
 
 <!-- The episode description will be rendered here -->

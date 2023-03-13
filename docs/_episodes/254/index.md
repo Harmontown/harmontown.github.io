@@ -1,7 +1,7 @@
 ---
 episodeNumber:        237
 title:                "Less Than White"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Tim Talbott.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:54:35"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2046806980.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2046806980.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-237"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/254/237"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       254
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    254
 ---
 
 <!-- The episode description will be rendered here -->

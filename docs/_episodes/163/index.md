@@ -1,7 +1,7 @@
 ---
 episodeNumber:        148
 title:                "Easy, Sisyphus"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   The great Andy Kindler finally visits Harmontown!!! Watch the video at harmontown.com/live and become a member!
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:05:34"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9127618283.mp3?updated=1561766439
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9127618283.mp3?updated=1561766439"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-148"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/163/148"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObpASCG-DSZGnLmir2wsFDJ"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       163
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    163
 ---
 
 <!-- The episode description will be rendered here -->

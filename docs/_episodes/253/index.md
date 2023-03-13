@@ -1,7 +1,7 @@
 ---
 episodeNumber:        236
 title:                "LIVE from Esther&#39;s Follies at SXSW&#39;17 in Austin, TX"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Guest Doug Benson and audience members discuss movies, Dan & Spencer do some feminist role playing, and Dan gets complimented on his beer choice.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:16:22"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3174263783.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3174263783.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-236"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/253/236"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       253
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    253
 ---
 
 <!-- The episode description will be rendered here -->

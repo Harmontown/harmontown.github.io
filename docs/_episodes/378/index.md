@@ -1,7 +1,7 @@
 ---
 episodeNumber:        361
 title:                "Ad Nauseam"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Bonus Episode! All the ad songs. Happy Holidays from Harmontown.
   Featuring Jeff B Davis, Spencer Crittenden, Dan Harmon, Church, and music by unsung hero Brendan Lynch-Salamon.
@@ -11,12 +11,19 @@ duration:             "00:45:41"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8409497200.mp3?updated=1613577170
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8409497200.mp3?updated=1613577170"
 
 venue:                
 comptroller:          
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-361"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/361"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -32,7 +39,6 @@ layout:               episode
 sequenceNumber:       378
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    
 ---
 
 <!-- The episode description will be rendered here -->

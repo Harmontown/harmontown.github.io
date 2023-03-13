@@ -1,7 +1,7 @@
 ---
 episodeNumber:        21
 title:                "Adventurtunity Mobisode!"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Mayor Harmon does his Bane impression and practices getting booed in various cities for the upcoming tour. In D&D: the heroes finally encounter Sharpie's dad.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:41:00"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5087783962.mp3?updated=1554322675
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5087783962.mp3?updated=1554322675"
 
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-21"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/34/21"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOak4AFuR43XEEZbahmhmAnu"
 
 ## Example of how to add guests: ##
 #guests:
@@ -35,7 +42,6 @@ layout:               episode
 sequenceNumber:       34
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    34
 ---
 
 <!-- The episode description will be rendered here -->

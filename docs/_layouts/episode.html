@@ -9,6 +9,7 @@ layout: default
     <a href="/episodes/{{ page.sequenceNumber | minus: 1 | prepend: '00' | slice: -3, 3 }}">← Previous</a>
   </div>
   {% endif %}
+  <div id="spacer"></div>
   {% if page.hasNext %}
   <div id="next">
     <a href="/episodes/{{ page.sequenceNumber | plus: 1 | prepend: '00' | slice: -3, 3 }}">Next →</a>
@@ -137,28 +138,34 @@ layout: default
         <td colspan="2">
           <table>
             <tbody>
-              {% if page.episodeNumber != null %}
               <tr>
                 <th>Transcription</th>
                 <td>
-                  <a href="https://harmon.city/{{ page.releaseDate | date: '%Y'}}/{{ page.publishDate | date: '%m'}}/{{ page.publishDate | date: '%d'}}/episode-{{ page.episodeNumber }}"
+                  <a href="{{ page.external.harmonCity}}"
                     target="_blank">harmon.city</a>
                 </td>
               </tr>
-              {% endif %}
-              {% if page.podcastDynamiteId != null %}
+              {% if page.external.podcastDynamite.hasMinutes %}
               <tr>
                 <th>Minutes</th>
                 <td>
-                  <a href="https://podcastdynamite.com/#/p/Harmontown/e/{{ page.podcastDynamiteId }}/{{ page.episodeNumber }}{% if page.isLostEpisode %}lost-episode{% endif %}"
+                  <a href="{{ page.external.podcastDynamite.url }}"
                     target="_blank">podcastdynamite.com</a>
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.external.hallOfRecords != null %}
+              <tr>
+                <th>YouTube</th>
+                <td>
+                  <a href="{{ page.external.hallOfRecords }}" target="_blank">Hall of Records</a>
                 </td>
               </tr>
               {% endif %}
               {% if page.soundFile != null %}
               <tr>
                 <th>Sound File</th>
-                <td><a href="{{ page.soundFile }}">link</a></td>
+                <td><a href="{{ page.soundFile }}">podcast link</a></td>
               </tr>
               {% endif %}
             </tbody>

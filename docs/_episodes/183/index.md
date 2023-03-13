@@ -1,7 +1,7 @@
 ---
 episodeNumber:        167
 title:                "Confirmed By A Well Respected Arborist"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Dan and Erin get a divorce, The Bootsins return and are torn up about a dying eucalyptus tree, Curtis Armstrong comptrolls, Colin Hanks guests... buckle up. watch the video on harmontown.com/live
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:11:57"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7661325042.mp3?updated=1561155997
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7661325042.mp3?updated=1561155997"
 
 venue:                
 comptroller:          "Curtis Armstrong"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-167"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/183/167"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaH6Co3ixFc900a8dktMdla"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       183
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    183
 ---
 
 <!-- The episode description will be rendered here -->

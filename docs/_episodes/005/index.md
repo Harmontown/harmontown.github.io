@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #5"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
 showDate:             "2011-09-26 04:00:00Z"
@@ -17,6 +17,13 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               false
 
+external:
+  harmonCity:         
+  podcastDynamite:
+    hasMinutes:        False
+    url:              
+  hallOfRecords:      
+
 ## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       5
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    5
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        56
 title:                "Language is Thought and Spiders are Black People"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   An all around provocapalooza surrounding language, race, religion, science, bugs, moms and fake dinosaurs. In D&D, the characters awake in Ye Olde Arena Milieu.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:54:24"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1414022938.mp3?updated=1554503431
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1414022938.mp3?updated=1554503431"
 
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-56"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/70/56"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZMIpuEV_KZ2FTNfHO5rL3F"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       70
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    70
 ---
 
 <!-- The episode description will be rendered here -->

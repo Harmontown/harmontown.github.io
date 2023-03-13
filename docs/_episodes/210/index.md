@@ -1,7 +1,7 @@
 ---
 episodeNumber:        194
 title:                "Talk, Talk, Talk, Wounded"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Gigantic sweetheart and actor Derek Mears visits Harmontown, Dan doesn't trust when Rob says "I love you", music by Jeordie White. Watch the video at harmontown.com! Only $5 a month, we are independently owned, you can watch live, stream or download an...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:03:14"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3551674438.mp3?updated=1560211176
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3551674438.mp3?updated=1560211176"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-194"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/210/194"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZwYlOdi332mkfS1XJvSRkJ"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       210
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    210
 ---
 
 <!-- The episode description will be rendered here -->

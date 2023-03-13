@@ -1,7 +1,7 @@
 ---
 episodeNumber:        289
 title:                "Huh Huh Huh Huh Huh Huh"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Our first show at the beautiful Dynasty Typewriter theater kicks off with an audience for the first time in months. Brandon Johnson haunts the theater, Rob Schrab makes himself mini comptroller with a mini podium, M.C. Gun Control returns, and Spencer ...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:00:51"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7579118444.mp3?updated=1596867207
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7579118444.mp3?updated=1596867207"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-289"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/306/289"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       306
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    306
 ---
 
 <!-- The episode description will be rendered here -->

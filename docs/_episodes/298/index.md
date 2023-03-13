@@ -1,7 +1,7 @@
 ---
 episodeNumber:        281
 title:                "If I Need a Gas Mask, I&#39;d Rather Be Dead"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   This week's guest is Kara Brown, staff writer for the Black-ish spinoff, Grown-ish. Dan shares how a social media interaction with a fan lead to questions about Rick and Morty's future. Schrab tells tales of his small hometown, and Spencer tries to get...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:58:18"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6760230398.mp3?updated=1596761450
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6760230398.mp3?updated=1596761450"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-281"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/298/281"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       298
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    298
 ---
 
 <!-- The episode description will be rendered here -->

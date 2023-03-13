@@ -14,7 +14,7 @@
   }
 
   .message {
-    flex : 1;
+    flex: 1;
   }
 }
 
@@ -24,9 +24,21 @@
 
 .episode-navigation {
   margin: 0 -8px;
-  margin-top: -16px;
+  margin-top: -6px;
+  margin-bottom: 16px;
   width: calc(100% + 16px);
   display: flex;
+
+  a {
+    display: block;
+    font-size: 150%;
+    font-weight: bold;
+    margin: 2px;
+    padding: 2px;
+    &:hover {
+      background-color: rgba($primary, 0.1);
+    }
+  }
 
   div {
     flex: 1;
@@ -107,7 +119,7 @@
     list-style-image: unset;
     list-style-type: square;
 
-    &>li:only-child {
+    & > li:only-child {
       list-style-type: none;
     }
   }

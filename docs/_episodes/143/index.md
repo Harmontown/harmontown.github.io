@@ -1,7 +1,7 @@
 ---
 episodeNumber:        128
 title:                "That&#39;s my wife&#39;s pie, you bitch!"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Schrab secretly schrab's the gang, Cameron Esposito and Rhea Butcher of the Put Your Hands Together podcast stop by and talk movies, Kumail returns, Dan and Erin got married, and in D&D they encounter some sleeping bears.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:07:15"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1261445002.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1261445002.mp3"
 
 venue:                
 comptroller:          "Kumail Nanjiani"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-128"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/143/128"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYuNTVwQ1ytYqsWEL4iusNj"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       143
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    143
 ---
 
 <!-- The episode description will be rendered here -->

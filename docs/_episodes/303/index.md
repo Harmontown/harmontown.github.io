@@ -1,7 +1,7 @@
 ---
 episodeNumber:        286
 title:                "All the Shingle Ladies"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Dan reacts to being diagnosed with Shingles by bringing a bed on stage and eating eggs. Fellow podcasters Keith Malley and Chemda Khalili join Jeff and Schrab in Dan's bed to discuss infectious diseases. 
   
@@ -12,12 +12,19 @@ duration:             "01:59:15"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4379813941.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4379813941.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-286"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/303/286"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -33,7 +40,6 @@ layout:               episode
 sequenceNumber:       303
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    303
 ---
 
 <!-- The episode description will be rendered here -->

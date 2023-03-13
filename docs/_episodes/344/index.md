@@ -1,7 +1,7 @@
 ---
 episodeNumber:        327
 title:                "A Cardigan with Stab Holes"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Suruthi and Hannah from the RedHanded podcast are this week's guests. They share their true crime expertise, including some crime role playing!
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Suruthi Bala and Hannah Maguire.
@@ -11,12 +11,19 @@ duration:             "01:55:49"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5484798949.mp3?updated=1596656922
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5484798949.mp3?updated=1596656922"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-327"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/344/327"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -32,7 +39,6 @@ layout:               episode
 sequenceNumber:       344
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    344
 ---
 
 <!-- The episode description will be rendered here -->

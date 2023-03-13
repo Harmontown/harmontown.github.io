@@ -1,7 +1,7 @@
 ---
 episodeNumber:        140
 title:                "Hobos Don&#39;t Talk Back To Nobody"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Hear ye, hear ye, Harmontown is now in session. There's some talkin', there's some rappin', there's some shadow runnin'. Watch the video at Harmontown.com!
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:57:38"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9194196176.mp3?updated=1562021477
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9194196176.mp3?updated=1562021477"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-140"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/155/140"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaSuDfDjQpnJrrTD4jh7ZSR"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       155
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    155
 ---
 
 <!-- The episode description will be rendered here -->

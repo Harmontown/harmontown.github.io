@@ -1,7 +1,7 @@
 ---
 episodeNumber:        232
 title:                "You&#39;re An Ant To My Cum"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Richie Keen, Dino Stamatopoulos, Scott Adsit, Britta Phillips, Rob Schrab and Steve Levy.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:00:52"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5112786742.mp3?updated=1596825121
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5112786742.mp3?updated=1596825121"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-232"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/249/232"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       249
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    249
 ---
 
 <!-- The episode description will be rendered here -->

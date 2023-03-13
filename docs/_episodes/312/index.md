@@ -1,7 +1,7 @@
 ---
 episodeNumber:        295
 title:                "Dadfished"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   “Great Minds with Dan Harmon” director Heath Cullens tells the tale of how he accidentally convinced Dan that he's Dan's father. Brandon Johnson is our comptroller and Steve Levy joins for a return to role playing. Featuring Dan Harmon, Brandon Johnso...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:55:31"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  true
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868028924.mp3?updated=1596851865
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868028924.mp3?updated=1596851865"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-295"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/312/295"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       312
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    312
 ---
 
 <!-- The episode description will be rendered here -->

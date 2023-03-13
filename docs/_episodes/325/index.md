@@ -1,7 +1,7 @@
 ---
 episodeNumber:        308
 title:                "Soft on Hitler, Hard on Dicks"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Actor/Comedian Brett Gelman and Dan talk about constipation, Dan's new abs, Buck Rogers, and Hitler. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brett Gelman.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:02:25"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3463313160.mp3?updated=1596579103
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3463313160.mp3?updated=1596579103"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-308"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/325/308"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       325
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    325
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        45
 title:                "Dan Took a Shower"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   A discussion of hygiene heats up with Kumail Nanjiani, then boils over when Bobcat Goldthwait drops by. In D&D, zombies attack while Quark engages in advanced animal husbandry. This fabulous episode is unedited so we will just warn you of a small gli...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:51:58"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4031683895.mp3?updated=1554491720
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4031683895.mp3?updated=1554491720"
 
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-45"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/58/45"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOacFU_j251WjfRuPtpwAKbV"
 
 ## Example of how to add guests: ##
 #guests:
@@ -33,7 +40,6 @@ layout:               episode
 sequenceNumber:       58
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    58
 ---
 
 <!-- The episode description will be rendered here -->

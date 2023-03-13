@@ -1,7 +1,7 @@
 ---
 episodeNumber:        251
 title:                "Brothers Killing Brothers for Some Dank Memes"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Dan dives into his writing process, we go deep into the meme wars, before wrapping the show up with some role playing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:08:04"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5055069311.mp3?updated=1596764386
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5055069311.mp3?updated=1596764386"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-251"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/268/251"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       268
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    268
 ---
 
 <!-- The episode description will be rendered here -->

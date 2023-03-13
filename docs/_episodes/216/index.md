@@ -1,7 +1,7 @@
 ---
 episodeNumber:        200
 title:                "Simulation"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever. Watch the video for free at harmontown.com/live! Thank you for all your support. This episode is ...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:13:36"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6676936577.mp3?updated=1560195531
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6676936577.mp3?updated=1560195531"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-200"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/216/200"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYt7LhndjmITqJKpHNpXu0a"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       216
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    216
 ---
 
 <!-- The episode description will be rendered here -->

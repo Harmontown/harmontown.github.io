@@ -7,6 +7,7 @@ const string PDInput = "../../data/raw/podcastDynamite/";
 const string RssInput = "../../data/rss-tidied.xml";
 const string PeopleInput = "../../data/people.json";
 const string RolesInput = "../../data/roles.json";
+const string HallOfRecordsInput = "../../data/hall-of-records.json";
 
 const string Output = "../../data/chronology.json";
 const int PDLast = 377;
@@ -26,6 +27,10 @@ void DeriveChronology()
     JsonSerializer.Deserialize<IdNamePair[]>(File.ReadAllText(RolesInput))!
       .ToDictionary(item => item.id, item => item.name);
 
+  var hallOfRecordsUrlByEpisodeNumber =
+    JsonSerializer.Deserialize<Entry[]>(File.ReadAllText(HallOfRecordsInput))!
+      .ToDictionary(item => item.episodeNumber, item => item.url);
+
   var entries = new List<object>();
 
   int pdId = 0;
@@ -43,10 +48,13 @@ void DeriveChronology()
   {
     sequenceNumber++;
 
+    bool hasMinutes = false;
+
     PDItem? pdItem = null;
     if (!isPDOver)
     {
       pdId++;
+      hasMinutes = (new FileInfo($"{PDInput}{pdId:D3}/minutes.json")).Length > 4;
       var episode = JsonDocument.Parse(File.ReadAllText($"{PDInput}{pdId:D3}/episode.json"));
       var episodePeopleIdsByRoleId =
         JsonDocument.Parse(File.ReadAllText($"{PDInput}{pdId:D3}/people.json"))
@@ -98,6 +106,7 @@ void DeriveChronology()
 
     var rssItem = xDoc == null ? null : new RssItem(xDoc!, episodeNumber);
 
+    var epNum = (pdItem?.IsLostEpisode ?? false) ? (int?)null : episodeNumber;
     var title = rssItem?.Title ?? pdItem?.Title ?? "";
     var comptroller = pdItem?.Comptroller;
     comptroller = string.IsNullOrWhiteSpace(comptroller) ? null : comptroller;
@@ -105,6 +114,7 @@ void DeriveChronology()
     var audienceGuests = (pdItem?.AudienceGuests ?? new string[0]).ToList();
     var showDate = pdItem?.ShowDate;
     bool? hasDnD = null;
+    var isLostEpisode = pdItem?.IsLostEpisode ?? false;
 
     WrangleMoreValues(
       sequenceNumber,
@@ -121,8 +131,8 @@ void DeriveChronology()
       sequenceNumber = sequenceNumber,
       pdId = isPDOver ? (int?)null : pdId,
       rssIndex = rssItem == null ? (int?)null : rssIndex,
-      episodeNumber = (pdItem?.IsLostEpisode ?? false) ? (int?)null : episodeNumber,
-      isLostEpisode = pdItem?.IsLostEpisode ?? false,
+      episodeNumber = epNum,
+      isLostEpisode = isLostEpisode,
       isTrailer = rssItem?.IsTrailer ?? false,
       title = title,
       venue = venue,
@@ -138,6 +148,10 @@ void DeriveChronology()
       duration = rssItem?.Duration ?? pdItem?.Duration,
       hasExplicitLanguage = rssItem?.HasExplicitLanguage ?? false,
       soundfile = rssItem?.SoundFile,
+      harmonCityUrl = GetHarmonCityUrl(epNum),
+      podcastDynamiteUrl = GetPodcastDynamiteUrl(pdId, epNum, isLostEpisode),
+      hasMinutes = hasMinutes,
+      hallOfRecordsUrl = hallOfRecordsUrlByEpisodeNumber.TryGetValue(epNum ?? -1, out var hallOfRecordsUrl) ? hallOfRecordsUrl : null,
     };
 
     entries.Add(entry);
@@ -232,6 +246,12 @@ void WrangleMoreValues(
 
 DeriveChronology();
 
+string? GetHarmonCityUrl(int? episodeNumber)
+  => !episodeNumber.HasValue ? null : $"https://harmon.city/episode-{ episodeNumber }";
+string? GetPodcastDynamiteUrl(int? id, int? episodeNumber, bool isLostEpisode) 
+  => !(id.HasValue && episodeNumber.HasValue) ? null : $"https://podcastdynamite.com/#/p/Harmontown/e/{ id }/{ episodeNumber }{ (isLostEpisode ? "lost-episode" : "")}";
+
+
 record PDItem
 {
   public PDItem(JsonElement docRoot, string comptroller, string[] guests, string[] audienceGuests)
@@ -317,3 +337,5 @@ record RssItem
 }
 
 record IdNamePair(int id, string name);
+
+record Entry(int episodeNumber, string url);

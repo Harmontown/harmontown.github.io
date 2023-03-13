@@ -1,7 +1,7 @@
 ---
 episodeNumber:        83
 title:                "DICKS AND BALLS AND BEER"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   It's the last Harmontown of 2013, get ready for some Christmas magic. Anatoly gets on stage nearly nude, Duncan Trussell talks Christmas as a mushroom cult, Adam Goldberg nearly murders everyone, Jeff Davis hates Paul McCartney and Rob Schrab jumps in ...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:56:40"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3632226250.mp3?updated=1555715785
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3632226250.mp3?updated=1555715785"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-83"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/97/83"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObKJdCiHHSabO6dQmxFIJ-o"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       97
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    97
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        278
 title:                "I Will Put Your Kids on Blast"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   The Walking Dead creator, Robert Kirkman, joins Rob Schrab on stage to talk comics, writing and more. Dan tries putting things on blast, to varying success. Jeff plays a listener submitted remix of Schrab's dog's freakout. Featuring Dan Harmon, Jeff Br...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:10:44"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9261979258.mp3?updated=1596782420
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9261979258.mp3?updated=1596782420"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-278"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/295/278"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       295
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    295
 ---
 
 <!-- The episode description will be rendered here -->

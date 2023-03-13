@@ -1,7 +1,7 @@
 ---
 episodeNumber:        157
 title:                "LIVE From UCB East in New York"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Dan's in New York for a project and Harmontown does a small intimate show at Upright Citizens Brigade Theater East. Daily Show writer Rory Albanese swings by, Absinth is drank. Drunk? Dranken? Whatever! Watch the video at Harmontown.com/live and become...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:03:27"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2828358188.mp3?updated=1561418820
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2828358188.mp3?updated=1561418820"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-157"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/172/157"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaZlOQ7Um1_p4Egsgc9LmII"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       172
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    172
 ---
 
 <!-- The episode description will be rendered here -->

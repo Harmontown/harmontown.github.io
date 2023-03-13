@@ -1,7 +1,7 @@
 ---
 episodeNumber:        293
 title:                "LIVE from The Cradle of Aviation Museum in Long Island, NY"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Live from The Cradle of Aviation Museum in Long Island, NY. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:06:54"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  true
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6980282854.mp3?updated=1596856688
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6980282854.mp3?updated=1596856688"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-293"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/310/293"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       310
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    310
 ---
 
 <!-- The episode description will be rendered here -->

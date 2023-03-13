@@ -1,7 +1,7 @@
 ---
 episodeNumber:        76
 title:                "Hug Me, Hug Me, Hug Me"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   The room is packed with Communicon fans and two of them are asked by Mayor Harmon to come on stage and discuss a recent internet exchange about why they feel Dan should "stop talking." A lengthy game of D&D then ensues.
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:49:42"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8107073170.mp3?updated=1555623040
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8107073170.mp3?updated=1555623040"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-76"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/90/76"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObX6_sNKGu6UJ42Fq-WtyOv"
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       90
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    90
 ---
 
 <!-- The episode description will be rendered here -->

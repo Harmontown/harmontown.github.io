@@ -1,7 +1,7 @@
 ---
 episodeNumber:        44
 title:                "Dudes and Goo"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   After a few false starts, it turns out Mayor Harmon may be suffering from a show-threatening case of homecoming confidence, but when special guests D.C Pierson and Kumail Nanjiani join, the meeting erupts into an awesome discussion of drugs, religion,...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "01:49:26"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4652021328.mp3?updated=1554491927
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4652021328.mp3?updated=1554491927"
 
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-44"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/57/44"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYQbTvybdwP5un2_xq0JaoZ"
 
 ## Example of how to add guests: ##
 #guests:
@@ -33,7 +40,6 @@ layout:               episode
 sequenceNumber:       57
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    57
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        22
 title:                "Nanu Nanu, I&#39;m Racist"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   An impromptu Fellowship of the Nerds is assembled to explain how to break The Hobbit into three movies. Jury duty stories! Adam Goldberg's roommate!
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:03:05"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6502803547.mp3?updated=1554324167
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6502803547.mp3?updated=1554324167"
 
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-22"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/35/22"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObTuam0Ycko9ZqzdTMpVmqH"
 
 ## Example of how to add guests: ##
 #guests:
@@ -39,7 +46,6 @@ layout:               episode
 sequenceNumber:       35
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    35
 ---
 
 <!-- The episode description will be rendered here -->

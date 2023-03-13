@@ -1,7 +1,7 @@
 ---
 episodeNumber:        357
 title:                "What&#39;s Up My Twitta?"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Brandon Johnson is comptrolling, Nick Rutherford is and isn't our guest. Dan talks a bit about Community. ED-209 makes a cameo appearance. There's a lot to unpack in this episode.
   
@@ -12,12 +12,19 @@ duration:             "01:57:02"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9185924826.mp3?updated=1596570469
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9185924826.mp3?updated=1596570469"
 
 venue:                
 comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-357"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/374/357"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -33,7 +40,6 @@ layout:               episode
 sequenceNumber:       374
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    374
 ---
 
 <!-- The episode description will be rendered here -->

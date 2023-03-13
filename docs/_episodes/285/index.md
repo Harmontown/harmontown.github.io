@@ -1,7 +1,7 @@
 ---
 episodeNumber:        268
 title:                "Socialists Dress Like Spencer"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Josh Androsky educates us about the Democratic Socialists of America, Schrab enjoys an office chair, Church sings and shares her political side, and Jeff claims an exception to the “smelt it, dealt it” rule. We all learn how to dance like Spencer. Feat...
 showDate:             
@@ -10,12 +10,19 @@ duration:             "02:14:44"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  false
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1954462337.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1954462337.mp3"
 
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-268"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/285/268"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       285
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    285
 ---
 
 <!-- The episode description will be rendered here -->

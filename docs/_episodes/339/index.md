@@ -1,7 +1,7 @@
 ---
 episodeNumber:        322
 title:                "WOKE AF HASHTAG"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Brandon Johnson is the guest Comptroller, Rob Schrab is at Spencer's desk, and our guest is Brian Wysol, creator of the Adult Swim series Hot Streets. Dan punishes Justin Roiland for missing the show.
   Featuring Dan Harmon, Brandon Johnson, Rob Schrab and Brian Wysol.
@@ -11,12 +11,19 @@ duration:             "01:58:00"
 isLostEpisode:        false
 isTrailer:            false
 hasExplicitLanguage:  true
-soundFile:            https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3365002042.mp3
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3365002042.mp3"
 
 venue:                
 comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
+
+external:
+  harmonCity:         "https://harmon.city/episode-322"
+  podcastDynamite:
+    hasMinutes:        False
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/339/322"
+  hallOfRecords:      
 
 ## Example of how to add guests: ##
 #guests:
@@ -32,7 +39,6 @@ layout:               episode
 sequenceNumber:       339
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    339
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #7"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   
 showDate:             "2011-11-21 05:00:00Z"
@@ -17,6 +17,13 @@ comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               false
 
+external:
+  harmonCity:         
+  podcastDynamite:
+    hasMinutes:        False
+    url:              
+  hallOfRecords:      
+
 ## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       7
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    7
 ---
 
 <!-- The episode description will be rendered here -->

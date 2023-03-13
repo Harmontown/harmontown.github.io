@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #16"
-image:                episode-placeholder.jpg
+image:                "episode-placeholder.jpg"
 description: >
   Lost Episode #16
 showDate:             
@@ -17,6 +17,13 @@ comptroller:
 gameMaster:           
 hasDnD:               
 
+external:
+  harmonCity:         
+  podcastDynamite:
+    hasMinutes:        False
+    url:              
+  hallOfRecords:      
+
 ## Example of how to add guests: ##
 #guests:
 #- "Guy Pancake"
@@ -31,7 +38,6 @@ layout:               episode
 sequenceNumber:       224
 hasPrevious:          True
 hasNext:              True
-podcastDynamiteId:    224
 ---
 
 <!-- The episode description will be rendered here -->
