@@ -36,8 +36,9 @@
         <a href="/episodes/" class="button">Episodes</a>
 
         {% unless page.isGenerated %}
-        {% assign relative_url = page.collection_item_url | append:  page.dir | append: page.name %}
-        {% assign github_url = "https://www.github.com/" | append: site.repository | append: "/edit/main/docs" | append: relative_url %}
+        {% assign relative_url = page.collection_item_url | append: page.dir | append: page.name %}
+        {% assign github_url = "https://www.github.com/" | append: site.repository | append: "/edit/main/docs" | append:
+        relative_url %}
         <a href="{{ github_url }}" class="button github-edit" target="_blank" title="Edit On GitHub">
           Edit on GitHub
           <img src="/assets/images/octocat-logo.svg" />
@@ -55,11 +56,17 @@
       {{ content }}
     </section>
     <footer>
-      <!-- {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %} -->
-      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small>
-      </p>
+      <small>
+        <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p><small>Hosted on GitHub Pages <br />Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small>
+        </p>
+        {% if site.commit %}
+        <p>
+          Last updated on: {{ site.lastUpdated}}<br />
+          commit: {{ site.commit}}
+        </p>
+        {% endif %}
+      </small>
     </footer>
   </div>
 </body>

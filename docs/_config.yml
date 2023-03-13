@@ -8,7 +8,6 @@ incremental: true
 
 title: Harmontown Podcast Wiki
 description: from Anastasia to Zardoz
-
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 
@@ -19,3 +18,10 @@ collections:
     output: true
 
 strict_front_matter: true
+
+github:
+  ownwer_url: https://github.com/stubn0rtz
+  owner_name: Stubn0rts
+
+# commit: adsfadsfasdf
+# lastUpdated: 123495873245
