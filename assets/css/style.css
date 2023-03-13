@@ -1055,9 +1055,18 @@ table {
 
 .episode-navigation {
   margin: 0 -8px;
-  margin-top: -16px;
+  margin-top: -6px;
+  margin-bottom: 16px;
   width: calc(100% + 16px);
   display: flex; }
+  .episode-navigation a {
+    display: block;
+    font-size: 150%;
+    font-weight: bold;
+    margin: 2px;
+    padding: 2px; }
+    .episode-navigation a:hover {
+      background-color: rgba(72, 186, 187, 0.1); }
   .episode-navigation div {
     flex: 1; }
     .episode-navigation div#next {
