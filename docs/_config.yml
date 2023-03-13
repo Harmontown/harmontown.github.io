@@ -20,7 +20,7 @@ collections:
 strict_front_matter: true
 
 github:
-  ownwer_url: https://github.com/stubn0rtz
+  owner_url: https://github.com/stubn0rtz
   owner_name: Stubn0rts
 
 # commit: adsfadsfasdf
