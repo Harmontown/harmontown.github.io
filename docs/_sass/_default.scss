@@ -11,6 +11,8 @@ html {
 
 header {
   h1 {
+    display: flex;
+    align-items: baseline;
     overflow: unset;
     font-family: "Antonio", sans-serif;
     text-shadow: unset;
@@ -20,11 +22,20 @@ header {
       display: inline-block;
       font-size: 55%;
     }
-
+    
     div:not(.wiki-title) {
       margin: 0 -20px;
+      flex: 99;
+
+      &:first-of-type {
+        text-align: right;
+      }
+      &:last-of-type {
+        text-align: left;
+      }
     }
     div.wiki-title {
+      flex: 1;
       transform: scaleX(0.75);
       font-size: 150%;
       $Xoffset: 4px;
@@ -115,6 +126,10 @@ nav {
       }
     }
   }
+}
+
+section {
+  display: flow-root;
 }
 
 table {

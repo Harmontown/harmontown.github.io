@@ -141,16 +141,14 @@ layout: default
               <tr>
                 <th>Transcription</th>
                 <td>
-                  <a href="{{ page.external.harmonCity}}"
-                    target="_blank">harmon.city</a>
+                  <a href="{{ page.external.harmonCity}}" target="_blank">harmon.city</a>
                 </td>
               </tr>
               {% if page.external.podcastDynamite.hasMinutes %}
               <tr>
                 <th>Minutes</th>
                 <td>
-                  <a href="{{ page.external.podcastDynamite.url }}"
-                    target="_blank">podcastdynamite.com</a>
+                  <a href="{{ page.external.podcastDynamite.url }}" target="_blank">podcastdynamite.com</a>
                 </td>
               </tr>
               {% endif %}
@@ -178,6 +176,8 @@ layout: default
   </table>
 </div>
 
-{{ page.description }}
+<div class="episode-content">
+  {{ page.description }}
 
-{{ content }}
+  {{ content }}
+</div>
