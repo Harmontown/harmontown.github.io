@@ -951,6 +951,8 @@ html {
     background-position: 50% 0%; }
 
 header h1 {
+  display: flex;
+  align-items: baseline;
   overflow: unset;
   font-family: "Antonio", sans-serif;
   text-shadow: unset;
@@ -959,8 +961,14 @@ header h1 {
     display: inline-block;
     font-size: 55%; }
   header h1 div:not(.wiki-title) {
-    margin: 0 -20px; }
+    margin: 0 -20px;
+    flex: 99; }
+    header h1 div:not(.wiki-title):first-of-type {
+      text-align: right; }
+    header h1 div:not(.wiki-title):last-of-type {
+      text-align: left; }
   header h1 div.wiki-title {
+    flex: 1;
     transform: scaleX(0.75);
     font-size: 150%;
     letter-spacing: -0.8px;
@@ -1006,6 +1014,9 @@ nav {
         border-color: rgba(72, 186, 187, 0.75); }
       nav ul li a {
         display: block; }
+
+section {
+  display: flow-root; }
 
 table {
   overflow: auto; }
@@ -1122,13 +1133,6 @@ table {
     .info-box ul.guest-list > li:only-child {
       list-style-type: none; }
 
-@media print, screen and (max-width: 1060px) {
-  section {
-    padding-left: 15px;
-    padding-right: 15px; }
-
-  .info-box {
-    margin: unset; } }
 .episode-breakdown td, .episode-breakdown th {
   font-size: 150%;
   text-align: center; }
@@ -1209,7 +1213,14 @@ section {
     margin-right: 0px; }
 
   footer {
-    margin-left: unset; } }
+    margin-left: unset; }
+
+  section {
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .info-box {
+    margin: unset; } }
 @media print, screen and (max-width: 800px) {
   section {
     width: auto;
@@ -1234,6 +1245,9 @@ section {
     margin: unset;
     top: unset;
     bottom: unset; } }
+@media print, screen and (max-width: 720px) {
+  header {
+    height: 57px; } }
 @media print, screen and (max-width: 480px) {
   header h1,
   section h1,
@@ -1248,4 +1262,7 @@ section {
     margin-bottom: 24px; }
 
   .mobile-hidden {
+    display: none; } }
+@media print, screen and (max-width: 390px) {
+  header h1 div:not(.wiki-title) {
     display: none; } }
