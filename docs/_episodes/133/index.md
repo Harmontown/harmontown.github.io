@@ -43,3 +43,4 @@ hasNext:              True
 <!-- The episode description will be rendered here -->
 <!-- Add your content below here -->
 
+{% include episodeGallery.md %}

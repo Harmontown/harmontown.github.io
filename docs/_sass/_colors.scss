@@ -1,17 +1,10 @@
-$primary: #48babb;
+$theme-primary: #48babb;
+$theme-secondary: complement($color: $theme-primary);
+
 $paper-white: #fbfbfb;
 
-$section-header: lighten(
-  complement(
-    $color: $primary,
-  ),
-  40
-);
-$table-header: lighten(
-  complement(
-    $color: $primary,
-  ),
-  43
-);
+$section-header-color: lighten($theme-secondary, 40);
+$table-header-color: lighten($theme-secondary, 43);
 
-$box-border-color: gray;
+$box-border-color: lighten(gray, 25);
+$card-background-color: lighten(gray, 44);

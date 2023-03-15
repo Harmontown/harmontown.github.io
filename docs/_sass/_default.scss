@@ -9,6 +9,10 @@ html {
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin: 10px 0;
+}
+
 header {
   h1 {
     display: flex;
@@ -97,8 +101,12 @@ nav {
     li {
       margin-right: -12px;
       margin-bottom: 3px;
-      border-right: 6px solid rgba($primary, 0.25);
+      border-right: 6px solid rgba($theme-primary, 0.25);
       padding-right: 6px;
+
+      &.tag-h1, &.tag-h2, &.tag-h3, &.tag-h4, &.tag-h5, &.tag-h6 {
+        line-height: 18px;
+      }
 
       &.tag-h1 a {
         font-size: 130%;
@@ -114,11 +122,11 @@ nav {
       }
 
       &:hover {
-        background-color: rgba($primary, 0.25);
+        background-color: rgba($theme-primary, 0.25);
       }
 
       &.active {
-        border-color: rgba($primary, 0.75);
+        border-color: rgba($theme-primary, 0.75);
       }
 
       a {
@@ -135,7 +143,7 @@ section {
 table {
   &.row-highlight {
     :not(thead) tr:hover {
-      background-color: rgba($primary, 0.1);
+      background-color: rgba($theme-primary, 0.1);
     }
   }
   &.episode-list {
@@ -161,7 +169,7 @@ table {
   &.episode-list {
     thead {
       tr {
-        background-color: $table-header;
+        background-color: $table-header-color;
         th {
           outline: 1px solid $paper-white;
         }

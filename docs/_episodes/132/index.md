@@ -1,7 +1,7 @@
 ---
 episodeNumber:        117
 title:                "Debbie Request Permission To Do Dallas"
-image:                "episode-placeholder.jpg"
+image:                "episodes/132/17.png"
 description: >
   Harmontown tests its live streaming capabilities, Alex Rubens comptrolls and instead of D&D the group goes on a sci-fi side quest.
 showDate:             
@@ -43,3 +43,4 @@ hasNext:              True
 <!-- The episode description will be rendered here -->
 <!-- Add your content below here -->
 
+{% include episodeGallery.md %}

@@ -121,7 +121,7 @@ section {
   }
 }
 
-@media print, screen and (max-width: 390px) {
+@media print, screen and (max-width: 380px) {
   header h1 div:not(.wiki-title) {
     display: none;
   }

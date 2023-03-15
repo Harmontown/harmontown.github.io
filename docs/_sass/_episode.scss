@@ -36,7 +36,7 @@
     margin: 2px;
     padding: 2px;
     &:hover {
-      background-color: rgba($primary, 0.1);
+      background-color: rgba($theme-primary, 0.1);
     }
   }
 
@@ -91,7 +91,7 @@
     div {
       margin-top: 6px;
       text-align: center;
-      background-color: $section-header;
+      background-color: $section-header-color;
     }
     .material-icons {
       font-size: 14px;
@@ -121,6 +121,26 @@
 
     & > li:only-child {
       list-style-type: none;
+    }
+  }
+}
+
+.gallery-section {
+  clear: both;
+}
+.episode-gallery {
+  overflow-x: scroll;
+  white-space: nowrap;
+  
+  div {
+    display: inline-block;
+
+    img {
+      max-height: 180px;
+      padding: 16px;
+      margin: 0 6px;
+      border: 1px solid  $box-border-color;
+      background-color: $card-background-color;
     }
   }
 }
