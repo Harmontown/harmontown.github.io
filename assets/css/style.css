@@ -1092,7 +1092,6 @@ table {
   background-color: #fbfbfb;
   float: right;
   margin-left: 12px;
-  margin-right: -213.6px;
   max-width: 267px;
   border: 1px solid silver;
   padding: 6px; }
@@ -1101,6 +1100,7 @@ table {
     .info-box .episode-image img {
       max-width: 80%; }
   .info-box th {
+    text-align: right;
     width: 80px;
     vertical-align: baseline; }
   .info-box table {
