@@ -176,8 +176,10 @@ layout: default
   </table>
 </div>
 
-<div class="episode-content">
-  {{ page.description }}
+{% include episodeDescription.md %}
 
-  {{ content }}
+<div class="episode-content">
+{{ content }}
 </div>
+
+{% include episodeGallery.md %}
