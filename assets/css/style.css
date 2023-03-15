@@ -950,6 +950,9 @@ html {
     background-attachment: fixed;
     background-position: 50% 0%; }
 
+h1, h2, h3, h4, h5, h6 {
+  margin: 10px 0; }
+
 header h1 {
   display: flex;
   align-items: baseline;
@@ -1002,6 +1005,8 @@ nav {
       margin-bottom: 3px;
       border-right: 6px solid rgba(72, 186, 187, 0.25);
       padding-right: 6px; }
+      nav ul li.tag-h1, nav ul li.tag-h2, nav ul li.tag-h3, nav ul li.tag-h4, nav ul li.tag-h5, nav ul li.tag-h6 {
+        line-height: 18px; }
       nav ul li.tag-h1 a {
         font-size: 130%; }
       nav ul li.tag-h2 a {
@@ -1049,7 +1054,7 @@ table {
   box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.125) inset; }
 
 .banner-box {
-  border: 3px double gray;
+  border: 3px double silver;
   margin: 24px 12px;
   padding: 6px;
   display: flex; }
@@ -1089,7 +1094,7 @@ table {
   margin-left: 12px;
   margin-right: -213.6px;
   max-width: 267px;
-  border: 1px solid gray;
+  border: 1px solid silver;
   padding: 6px; }
   .info-box .episode-image {
     text-align: center; }
@@ -1132,6 +1137,21 @@ table {
     list-style-type: square; }
     .info-box ul.guest-list > li:only-child {
       list-style-type: none; }
+
+.gallery-section {
+  clear: both; }
+
+.episode-gallery {
+  overflow-x: scroll;
+  white-space: nowrap; }
+  .episode-gallery div {
+    display: inline-block; }
+    .episode-gallery div img {
+      max-height: 180px;
+      padding: 16px;
+      margin: 0 6px;
+      border: 1px solid silver;
+      background-color: #f0f0f0; }
 
 .episode-breakdown td, .episode-breakdown th {
   font-size: 150%;
@@ -1263,6 +1283,6 @@ section {
 
   .mobile-hidden {
     display: none; } }
-@media print, screen and (max-width: 390px) {
+@media print, screen and (max-width: 380px) {
   header h1 div:not(.wiki-title) {
     display: none; } }
