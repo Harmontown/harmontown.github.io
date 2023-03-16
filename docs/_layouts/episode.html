@@ -41,7 +41,9 @@ layout: default
 
       <tr>
         <td colspan="2" class="episode-image">
-          <image src="/assets/images/{{ page.image }}" />
+          <a href="/assets/images/{{ page.image }}" target="_blank">
+            <img src="/assets/images/{{ page.image }}" />
+          </a>
         </td>
       </tr>
       <tr>
@@ -179,7 +181,7 @@ layout: default
 {% include episodeDescription.md %}
 
 <div class="episode-content">
-{{ content }}
+  {{ content }}
 </div>
 
 {% include episodeGallery.md %}
