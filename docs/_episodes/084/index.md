@@ -3,7 +3,7 @@ episodeNumber:        70
 title:                "Gone Fishin&#39;"
 image:                "episode-placeholder.jpg"
 description: >
-  Mayor Harmon, now equipped with his trusty new invention, is joined by Johnny Pemberton to break down prank phone calls. Afterwards a visit from "The Tumor Lady" and then later on, the topic of fishing for compliments becomes a major issue for everyone...
+  Mayor Harmon, now equipped with his trusty new invention, is joined by Johnny Pemberton to break down prank phone calls. Afterwards a visit from "The Tumor Lady" and then later on, the topic of fishing for compliments becomes a major issue for everyone on stage. Mostly Erin, who challenges Spencer in this nearly lost episode.
 showDate:             
 releaseDate:          "2013-09-03 00:04:00Z"
 duration:             "02:16:05"

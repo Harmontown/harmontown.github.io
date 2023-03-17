@@ -3,7 +3,7 @@ episodeNumber:        245
 title:                "Explain Your World View"
 image:                "episode-placeholder.jpg"
 description: >
-  Mystery Science Theater's Joel Hodgson stops by, everyone's world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, J...
+  Mystery Science Theater's Joel Hodgson stops by, everyone's world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Joel Hodgson, Robert Evans and Magenta Vaughn.
 showDate:             
 releaseDate:          "2017-05-24 06:43:00Z"
 duration:             "02:03:56"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA703
 
 venue:                
 comptroller:          "Brandon Johnson"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,8 +48,9 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Joel Hodgson"
+- "Robert Evans"
+- "Magenta Vaughn"
 
 audienceGuests:
 #- "Example guest 1"

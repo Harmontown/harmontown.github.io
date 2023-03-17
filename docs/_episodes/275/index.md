@@ -3,7 +3,7 @@ episodeNumber:        258
 title:                "Retired Ninja Quarterly"
 image:                "episode-placeholder.jpg"
 description: >
-  Rapper B. Squid and Dan sing about a thousand winters, we question “What if a guy had long arms?” and “Who really stole Steve Levy's roommate's car?” before realizing we're entering Harmageddon. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, B. ...
+  Rapper B. Squid and Dan sing about a thousand winters, we question "What if a guy had long arms?" and "Who really stole Steve Levy's roommate's car?" before realizing we're entering Harmageddon.
 showDate:             
 releaseDate:          "2017-09-13 10:00:00Z"
 duration:             "02:06:40"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA201
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,7 +48,7 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
+- "B. Squid"
 #- "Example guest 2"
 
 audienceGuests:

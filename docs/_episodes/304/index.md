@@ -3,7 +3,7 @@ episodeNumber:        287
 title:                "That Brain, She Die"
 image:                "episode-placeholder.jpg"
 description: >
-  Dan's still in bed recovering from shingles, but Schrab wants to know why Dan won't go to a movie with him. Rob Schrab almost lists his top four Infinity Wars spoilers, Spencer shares history of the incel movement, and Dan explains why his brain is gen...
+  Dan's still in bed recovering from shingles, but Schrab wants to know why Dan won't go to a movie with him. Rob Schrab almost lists his top four Infinity Wars spoilers, Spencer shares history of the incel movement, and Dan explains why his brain is gendered like a battleship. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.
 showDate:             
 releaseDate:          "2018-05-09 10:00:00Z"
 duration:             "02:06:31"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA243
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,8 +48,8 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Brandon Johnson"
+- "Rob Schrab"
 
 audienceGuests:
 #- "Example guest 1"

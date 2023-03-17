@@ -3,7 +3,7 @@ episodeNumber:        239
 title:                "LIVE from the Chicago Improv Festival 2017"
 image:                "episode-placeholder.jpg"
 description: >
-  Harmontown joins the Chicago Improv Festival with guest Comptroller Brandon Johnson. Improv legends Jimmy Carrane and Scott Adsit help Dan demonstrate the difference between improv and written comedy, while Brandon and Dan discover the seven types of p...
+  Harmontown joins the Chicago Improv Festival with guest Comptroller Brandon Johnson. Improv legends Jimmy Carrane and Scott Adsit help Dan demonstrate the difference between improv and written comedy, while Brandon and Dan discover the seven types of pee.
 showDate:             
 releaseDate:          "2017-04-05 05:37:00Z"
 duration:             "01:49:56"
@@ -48,8 +48,8 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Jimmy Carrane"
+- "Scott Adsit"
 
 audienceGuests:
 #- "Example guest 1"

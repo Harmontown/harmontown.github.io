@@ -3,9 +3,7 @@ episodeNumber:        286
 title:                "All the Shingle Ladies"
 image:                "episode-placeholder.jpg"
 description: >
-  Dan reacts to being diagnosed with Shingles by bringing a bed on stage and eating eggs. Fellow podcasters Keith Malley and Chemda Khalili join Jeff and Schrab in Dan's bed to discuss infectious diseases. 
-  
-  Featuring Dan Harmon, Jeff Bryan Davis, Spence...
+  Dan reacts to being diagnosed with Shingles by bringing a bed on stage and eating eggs. Fellow podcasters Keith Malley and Chemda Khalili join Jeff and Schrab in Dan's bed to discuss infectious diseases. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Keith Malley, Chemda Khalili and Rob Schrab.
 showDate:             
 releaseDate:          "2018-05-02 10:00:00Z"
 duration:             "01:59:15"
@@ -16,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA437
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -50,8 +48,9 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Keith Malley"
+- "Chemda Khalili"
+- "Rob Schrab"
 
 audienceGuests:
 #- "Example guest 1"

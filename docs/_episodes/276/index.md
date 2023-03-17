@@ -3,7 +3,7 @@ episodeNumber:        259
 title:                "Pajampion"
 image:                "episode-placeholder.jpg"
 description: >
-  Rob Schrab returns as our comptroller with Eddie Pepitone dropping in to discuss comedy. Rob and Dan weigh in on biometrics, then the role playing gang shouts their way through an adventure. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Eddie P...
+  Rob Schrab returns as our comptroller with Eddie Pepitone dropping in to discuss comedy. Rob and Dan weigh in on biometrics, then the role playing gang shouts their way through an adventure.
 showDate:             
 releaseDate:          "2017-09-20 10:00:00Z"
 duration:             "02:05:30"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA506
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,8 +48,8 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Rob Schrab"
+- "Eddie Pepitone"
 
 audienceGuests:
 #- "Example guest 1"

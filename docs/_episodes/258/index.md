@@ -3,7 +3,7 @@ episodeNumber:        241
 title:                "Kumanji"
 image:                "episode-placeholder.jpg"
 description: >
-  Kumail and Emily return to discuss Harmontown leaving NerdMelt, Spencer & Schrab provide color commentary while Brandon Johnson and Doug Benson get to meet Dan's newest rap character, Peanut Jones. Featuring Dan Harmon, Jeff B. Davis, Spencer Crittende...
+  Kumail and Emily return to discuss Harmontown leaving NerdMelt, Spencer & Schrab provide color commentary while Brandon Johnson and Doug Benson get to meet Dan's newest rap character, Peanut Jones. Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden, Rob Schrab, Kumail Nanjiani, Emily V. Gordon, Brandon Johnson and Doug Benson.
 showDate:             
 releaseDate:          "2017-04-19 05:09:00Z"
 duration:             "01:57:39"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA514
 
 venue:                
 comptroller:          "Brandon Johnson"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,8 +48,11 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Doug Benson"
+- "Kumail Nanjiani"
+- "Emily V. Gordon"
+- "Rob Schrab"
+- "Jeff B. Davis"
 
 audienceGuests:
 #- "Example guest 1"

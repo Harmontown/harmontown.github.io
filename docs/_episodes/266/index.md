@@ -3,7 +3,7 @@ episodeNumber:        249
 title:                "Harmontown From ID10T Fest"
 image:                "episode-placeholder.jpg"
 description: >
-  Harmontown goes to Chris Hardwick's ID10T Festival. Dan raps about Kubrick, takes questions from the audience, does some push ups and even dance battles with a cosplayer! Our role playing game continues, with Steve getting a feel for Diarrhea Junior. F...
+  Harmontown goes to Chris Hardwick's ID10T Festival. Dan raps about Kubrick, takes questions from the audience, does some push ups and even dance battles with a cosplayer! Our role playing game continues, with Steve getting a feel for Diarrhea Junior. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
 showDate:             
 releaseDate:          "2017-06-28 15:17:00Z"
 duration:             "01:25:05"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA111
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,7 +48,7 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
+- "Steve Levy"
 #- "Example guest 2"
 
 audienceGuests:

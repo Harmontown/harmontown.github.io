@@ -3,7 +3,7 @@ episodeNumber:        17
 title:                "Grumblesnakes!"
 image:                "episode-placeholder.jpg"
 description: >
-  It's election night fever when Dan and Jeff realize that the episode will air long after the election. Clearly a devout Democrat, Dan complains about his hired help before bringing up a real live woman to referee history's least informed Harry Potter ...
+  It's election night fever when Dan and Jeff realize that the episode will air long after the election. Clearly a devout Democrat, Dan complains about his hired help before bringing up a real live woman to referee history's least informed Harry Potter trivia competition. Plus: transitional D&D! Freestyle rapping! Not knowing how to end the show!
 showDate:             
 releaseDate:          "2012-11-17 02:29:00Z"
 duration:             "01:30:23"

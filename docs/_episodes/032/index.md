@@ -3,7 +3,7 @@ episodeNumber:        19
 title:                "Everyone&#39;s a Rapper!"
 image:                "episode-placeholder.jpg"
 description: >
-  Mayor Harmon comes up spittin' decidedly unmad fire. We meet a mysterious lady in the audience that can only say "no." No D&D this week but Spencer rules the day just the same. Adam Goldberg takes a swipe at having a segment. Dan raps EVEN MORE. N...
+  Mayor Harmon comes up spittin' decidedly unmad fire. We meet a mysterious lady in the audience that can only say "no." No D&D this week but Spencer rules the day just the same. Adam Goldberg takes a swipe at having a segment. Dan raps EVEN MORE. New Harmenian "Misha" takes the stage and does some standup. Dan and Jeff rap battle!
 showDate:             
 releaseDate:          "2012-12-05 12:43:00Z"
 duration:             "01:22:32"

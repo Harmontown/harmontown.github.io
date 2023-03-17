@@ -3,7 +3,7 @@ episodeNumber:        268
 title:                "Socialists Dress Like Spencer"
 image:                "episode-placeholder.jpg"
 description: >
-  Josh Androsky educates us about the Democratic Socialists of America, Schrab enjoys an office chair, Church sings and shares her political side, and Jeff claims an exception to the “smelt it, dealt it” rule. We all learn how to dance like Spencer. Feat...
+  Josh Androsky educates us about the Democratic Socialists of America, Schrab enjoys an office chair, Church sings and shares her political side, and Jeff claims an exception to the "smelt it, dealt it" rule. We all learn how to dance like Spencer. Feat...
 showDate:             
 releaseDate:          "2017-11-29 10:30:00Z"
 duration:             "02:14:44"

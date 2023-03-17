@@ -3,7 +3,7 @@ episodeNumber:        79
 title:                "Dangle, Dipping and Heel Popping"
 image:                "episode-placeholder.jpg"
 description: >
-  After some women demonstrate foot fetish techniques that audibly won't make any sense to you, dear listener, the enigmatic Brody Stevens joins Harmontown for the first time. Later, Mayor Harmon is inducted into a prestigious alliance and Kumail returns...
+  After some women demonstrate foot fetish techniques that audibly won't make any sense to you, dear listener, the enigmatic Brody Stevens joins Harmontown for the first time. Later, Mayor Harmon is inducted into a prestigious alliance and Kumail returns to D&D after a month long hiatus. It's a beautiful sprawling Harmontown, come on down.
 showDate:             
 releaseDate:          "2013-11-11 07:50:00Z"
 duration:             "02:07:28"

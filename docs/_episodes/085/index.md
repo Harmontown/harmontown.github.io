@@ -3,7 +3,7 @@ episodeNumber:        71
 title:                "Push The Button, Pull The Chain"
 image:                "episode-placeholder.jpg"
 description: >
-  The Mayor uses his iHarmon to knock down an entire show agenda that includes topics like Premium Gas and what Harmontown should do this year for Halloween when Comptroller Jeff Davis says no to his idea for 15 minutes straight. Later, Erin doesn't unde...
+  The Mayor uses his iHarmon to knock down an entire show agenda that includes topics like Premium Gas and what Harmontown should do this year for Halloween when Comptroller Jeff Davis says no to his idea for 15 minutes straight. Later, Erin doesn't understand Grand Theft Auto V and an attractive man in a wheel chair joins the stage for a game of Pathfinder!
 showDate:             
 releaseDate:          "2013-09-09 19:12:00Z"
 duration:             "02:02:13"

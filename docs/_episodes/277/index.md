@@ -3,7 +3,7 @@ episodeNumber:        260
 title:                "Oym"
 image:                "episode-placeholder.jpg"
 description: >
-  Duncan Trussell wants us all to try Nitrous Oxide and start a cult, Dan is unapologetic about last week's show, and everyone shares their favorite stories about Steve Levy's anatomy. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Duncan Tr...
+  Duncan Trussell wants us all to try Nitrous Oxide and start a cult, Dan is unapologetic about last week's show, and everyone shares their favorite stories about Steve Levy's anatomy.
 showDate:             
 releaseDate:          "2017-09-27 10:00:00Z"
 duration:             "01:55:50"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA264
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,7 +48,7 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
+- "Duncan Trussell"
 #- "Example guest 2"
 
 audienceGuests:

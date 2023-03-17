@@ -3,6 +3,7 @@ using System.Linq;
 using System.Xml.Linq;
 using System.Text.RegularExpressions;
 
+const string HarmoncityInput = "../../data/raw/harmoncity.json";
 const string PDInput = "../../data/raw/podcastDynamite/";
 const string RssInput = "../../data/rss-tidied.xml";
 const string PeopleInput = "../../data/people.json";
@@ -17,6 +18,8 @@ const int ComprollerRoleId = 3;
 const int GuestRoleId = 2;
 const int AudienceGuestRoleId = 5;
 DateTimeOffset MeltDownStart = new DateTimeOffset(2012, 1, 1, 0, 0, 0, TimeSpan.Zero);
+
+var harmoncityDescriptions = JsonSerializer.Deserialize<Dictionary<int, string>>(File.ReadAllText(HarmoncityInput));
 
 void DeriveChronology()
 {
@@ -115,16 +118,21 @@ void DeriveChronology()
     var showDate = pdItem?.ShowDate;
     bool? hasDnD = null;
     var isLostEpisode = pdItem?.IsLostEpisode ?? false;
+    var description = rssItem?.Description ?? pdItem?.Description ?? "";
 
     WrangleMoreValues(
       sequenceNumber,
+      isLostEpisode ? null : episodeNumber,
       comptroller,
       guests,
       audienceGuests,
       ref title,
+      ref description,
       ref showDate,
       ref hasDnD,
       out var venue);
+
+      description = description.Replace('’', '\'').Replace('“', '"').Replace('”', '"');
 
     var entry = new
     {
@@ -142,7 +150,7 @@ void DeriveChronology()
       guests = guests,
       audienceGuests = audienceGuests,
       image = "episode-placeholder.jpg",
-      description = rssItem?.Description ?? pdItem?.Description ?? "",
+      description = description,
       showDate = showDate,
       releaseDate = rssItem?.ReleaseDate ?? pdItem?.ReleaseDate,
       duration = rssItem?.Duration ?? pdItem?.Duration,
@@ -167,10 +175,12 @@ void DeriveChronology()
 
 void WrangleMoreValues(
   int sequenceNumber,
+  int? episodeNumber,
   string? comptroller,
   List<string> guests,
   List<string> audienceGuests,
   ref string title,
+  ref string description,
   ref DateTimeOffset? showDate,
   ref bool? hasDnD,
   out string? venue
@@ -242,14 +252,20 @@ void WrangleMoreValues(
       guests.AddRange(titleGuests);
     }
   }
+
+  // fallback to harmon.city when descriptions are truncated
+  if(harmoncityDescriptions!.TryGetValue(episodeNumber ?? -1, out var desc) && !desc.EndsWith("…"))
+  {
+    description = desc.Replace("…", "...").Replace("#038;", "");
+  }
 }
 
 DeriveChronology();
 
 string? GetHarmonCityUrl(int? episodeNumber)
-  => !episodeNumber.HasValue ? null : $"https://harmon.city/episode-{ episodeNumber }";
-string? GetPodcastDynamiteUrl(int? id, int? episodeNumber, bool isLostEpisode) 
-  => !(id.HasValue && episodeNumber.HasValue) ? null : $"https://podcastdynamite.com/#/p/Harmontown/e/{ id }/{ episodeNumber }{ (isLostEpisode ? "lost-episode" : "")}";
+  => !episodeNumber.HasValue ? null : $"https://harmon.city/episode-{episodeNumber}";
+string? GetPodcastDynamiteUrl(int? id, int? episodeNumber, bool isLostEpisode)
+  => !(id.HasValue && episodeNumber.HasValue) ? null : $"https://podcastdynamite.com/#/p/Harmontown/e/{id}/{episodeNumber}{(isLostEpisode ? "lost-episode" : "")}";
 
 
 record PDItem
