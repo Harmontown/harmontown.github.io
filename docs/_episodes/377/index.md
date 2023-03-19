@@ -6,7 +6,7 @@ description: >
   Harmontown's final curtain call.
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Brandon Johnson, Rob Schrab, Open Mike Eagle, Steve Levy and Nick Rutherford.
   Drive fast and take chances!
-showDate:             
+showDate:             "2019-12-02"
 releaseDate:          "2019-12-05 11:00:00Z"
 duration:             "02:14:29"
 isLostEpisode:        false
@@ -16,7 +16,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA816
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -50,8 +50,12 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Brandon Johnson"
+- "Rob Schrab"
+- "Open Mike Eagle"
+- "Steve Levy"
+- "Nick Rutherford"
+
 
 audienceGuests:
 #- "Example guest 1"

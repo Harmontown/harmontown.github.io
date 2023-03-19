@@ -3,7 +3,7 @@ episodeNumber:
 title:                "Lost Episode #16"
 image:                "episode-placeholder.jpg"
 description: >
-  Lost Episode #16
+  Harmontown at Outside Lands
 showDate:             
 releaseDate:          
 duration:             

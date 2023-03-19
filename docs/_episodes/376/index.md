@@ -5,7 +5,7 @@ image:                "episode-placeholder.jpg"
 description: >
   NeuroTribes author Steve Silberman and his husband Keith Karraker talk with us about Community and Harmontown's wide ranging fan base. Jeff and Dan share experiences with audience members from around the globe who made the trek to our penultimate episode. We've also got bowties, fish testicles, and even Bigger Dick Energy.
   Featuring: Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Steve Silberman and Keith Karraker.
-showDate:             
+showDate:             "2019-11-25"
 releaseDate:          "2019-11-28 11:00:00Z"
 duration:             "02:12:33"
 isLostEpisode:        false
@@ -15,7 +15,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA496
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -49,8 +49,9 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Steve Silberman"
+- "Keith Karraker"
+- "Rob Schrab"
 
 audienceGuests:
 #- "Example guest 1"
