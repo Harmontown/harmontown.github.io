@@ -1,6 +1,9 @@
 ﻿using System.Text.Json;
 using System.Linq;
 using System.Web;
+using System.IO;
+using System.Collections.Generic;
+using System;
 
 const string ChronologyInput = "../../data/chronology.json";
 const string OutDir = "../../docs/_episodes/";
@@ -32,8 +35,7 @@ void GenerateEpisodeStubs()
     var epDir = $"{OutDir}{ep.SequenceNumber:D3}";
     Directory.CreateDirectory(epDir);
 
-    File.WriteAllText($"{epDir}/index.md",
-  $$$"""
+    var frontMatter = $$$"""
 ---
 episodeNumber:        {{{ep.EpisodeNumber}}}
 title:                {{{FormatString(ep.Title)}}}
@@ -103,7 +105,9 @@ sequenceNumber:       {{{ep.SequenceNumber}}}
 hasPrevious:          {{{ep != first}}}
 hasNext:              {{{ep != last}}}
 ---
+""";
 
+    var bodyTemplate = """
 <!-- The episode description will be rendered here -->
 {{ page.description }}
 
@@ -117,7 +121,24 @@ hasNext:              {{{ep != last}}}
 <!-- Add your content ABOVE here -->
 
 <!-- The episode gallery will be rendered here -->
-""");
+""";
+
+    var filename = $"{epDir}/index.md";
+
+    var originalContents = File.ReadAllLines(filename);
+
+    var originalBody =
+      string.Join(
+        "\r\n",
+        originalContents
+          .Skip(1)
+          .SkipWhile(line => line.TrimEnd() != "---")
+          .Skip(1)
+      ).Trim();
+
+    var body = string.IsNullOrWhiteSpace(originalBody) ? bodyTemplate : originalBody;
+
+    File.WriteAllText(filename, frontMatter + "\r\n\r\n" + body);
   }
 }
 
