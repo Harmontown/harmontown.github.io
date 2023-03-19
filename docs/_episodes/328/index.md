@@ -3,7 +3,7 @@ episodeNumber:        311
 title:                "Twenty Sides of Booty"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character. Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
+  Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character.
 showDate:             
 releaseDate:          "2018-11-22 11:00:00Z"
 duration:             "02:05:08"
@@ -14,8 +14,8 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA316
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
+gameMaster:           "Dan Harmon"
+hasDnD:               true
 
 external:
   harmonCity:         "https://harmon.city/episode-311"
@@ -48,7 +48,7 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
+- "Spencer Crittenden"
 #- "Example guest 2"
 
 audienceGuests:

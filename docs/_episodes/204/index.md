@@ -3,7 +3,9 @@ episodeNumber:        188
 title:                "Donna Schrab Gets Things Done"
 image:                "episode-placeholder.jpg"
 description: |-
-  Rob Corddry visits Harmontown for the first time and is a die-hard fan, everyone falls in love with him. Later we meet Rob Schrab's parents! Watch the video at harmontown.com. Become a member! Outro music: "Lonely Forever" by Babes
+  Rob Corddry visits Harmontown for the first time and is a die-hard fan, everyone falls in love with him. Later we meet Rob Schrab's parents!
+
+  Outro music: "Lonely Forever" by Babes
 showDate:             
 releaseDate:          "2016-03-16 05:00:00Z"
 duration:             "02:07:03"

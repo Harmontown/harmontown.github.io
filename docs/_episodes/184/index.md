@@ -3,7 +3,7 @@ episodeNumber:        168
 title:                "Live From The SeeSo Launch at the New York Television Festival 2015"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmontown invades The New York Television festival for the launch of SeeSo, a new comedy streaming service and the home of our upcoming show Harmonquest!
+  Harmontown invades The New York Television festival for the launch of Seeso, a new comedy streaming service and the home of our upcoming show Harmonquest!
 showDate:             
 releaseDate:          "2015-10-21 23:58:00Z"
 duration:             "01:01:04"

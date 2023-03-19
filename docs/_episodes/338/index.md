@@ -3,7 +3,9 @@ episodeNumber:        321
 title:                "Rise the Boats"
 image:                "episode-placeholder.jpg"
 description: |-
-  Comedian Mohanad Elshieky shares recent events in his life, while Dan shares relatable tales of house shopping. Brandon Johnson is back, filling in for Spencer. Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Mohanad Elshieky.
+  Comedian Mohanad Elshieky shares recent events in his life, while Dan shares relatable tales of house shopping. Brandon Johnson is back, filling in for Spencer.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Mohanad Elshieky.
 showDate:             
 releaseDate:          "2019-02-14 11:00:00Z"
 duration:             "01:57:38"

@@ -3,7 +3,9 @@ episodeNumber:        296
 title:                "You Can Live Forever Here at Bevmo"
 image:                "episode-placeholder.jpg"
 description: |-
-  Jeff returns briefly to flex his vocal chords after surgery. Legendary SNL alum Laraine Newman shares Groundlings and Coneheads behind the scenes stories. Steve Levy explains a new dating app. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jeff Bryan Davis and Laraine Newman.
+  Jeff returns briefly to flex his vocal chords after surgery. Legendary SNL alum Laraine Newman shares Groundlings and Coneheads behind the scenes stories. Steve Levy explains a new dating app.
+
+  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jeff Bryan Davis and Laraine Newman.
 showDate:             
 releaseDate:          "2018-07-26 10:00:00Z"
 duration:             "01:46:16"

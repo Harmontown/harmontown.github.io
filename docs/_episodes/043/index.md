@@ -3,7 +3,7 @@ episodeNumber:        30
 title:                "Harmoncountry: Sommerville, MA"
 image:                "episode-placeholder.jpg"
 description: |-
-  Mayor Harmon and Comptroller Davis begin the show like any other - discussing the city's auto theft statistics. What comes next is 80+ minutes of insanity, featuring Adam Goldberg's brothers, Erin and Dan's sex life and much, much, sooooo much more.
+  Mayor Harmon and Comptroller Davis begin the show like any other – discussing the city's auto theft statistics. What comes next is 80+ minutes of insanity, featuring Adam Goldberg's brothers, Erin and Dan's sex life and much, much, sooooo much more.
 showDate:             
 releaseDate:          "2013-01-19 09:04:00Z"
 duration:             "01:58:45"

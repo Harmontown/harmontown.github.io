@@ -3,7 +3,7 @@ episodeNumber:        284
 title:                "They&#39;re Coming to Get You Barbara"
 image:                "episode-placeholder.jpg"
 description: |-
-  Duncan Trussell is this weeks guest comptroller, who brings a sense of spirituality that could only be countered by Rob Schrab's chair noises. Featuring Dan Harmon, Duncan Trussell and Rob Schrab.
+  Duncan Trussell is this weeks guest comptroller, who brings a sense of spirituality that could only be countered by Rob Schrab's chair noises.
 showDate:             
 releaseDate:          "2018-04-18 10:00:00Z"
 duration:             "02:01:11"
@@ -48,8 +48,8 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Duncan Trussell"
+- "Rob Schrab"
 
 audienceGuests:
 #- "Example guest 1"

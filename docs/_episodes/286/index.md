@@ -3,7 +3,9 @@ episodeNumber:        269
 title:                "Dan Rates Every Animal"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan, Jeff and Spencer dig deep into genitals of unusual size, bats, giraffes, dolphins and Paul Newman. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Steve Levy.
+  Dan, Jeff and Spencer dig deep into genitals of unusual size, bats, giraffes, dolphins and Paul Newman.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Steve Levy.
 showDate:             
 releaseDate:          "2017-12-07 00:11:00Z"
 duration:             "02:16:35"

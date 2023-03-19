@@ -3,7 +3,7 @@ episodeNumber:        211
 title:                "JonBen&#233;t Gacy"
 image:                "episode-placeholder.jpg"
 description: |-
-  My Favorite Murder meets Harmontown. Watch the video at harmontown.com/live! Become a member!
+  My Favorite Murder meets Harmontown.
 showDate:             
 releaseDate:          "2016-08-31 09:57:00Z"
 duration:             "02:02:00"

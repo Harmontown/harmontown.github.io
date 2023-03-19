@@ -3,7 +3,7 @@ episodeNumber:        213
 title:                "ED-209"
 image:                "episode-placeholder.jpg"
 description: |-
-  SCHRAB IS HERE. And the best improvised scene ever ensues. Watch the video at harmontown.com/live. Become a member! Watch the live stream and gain access to all our shows anytime anywhere.
+  SCHRAB IS HERE. And the best improvised scene ever ensues.
 showDate:             
 releaseDate:          "2016-09-21 23:45:00Z"
 duration:             "02:01:33"

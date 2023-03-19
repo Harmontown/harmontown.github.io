@@ -3,7 +3,7 @@ episodeNumber:        187
 title:                "The Four Points Of The Triangle"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan is stoned...Schrab too, the creator of The Stanley Parable randomly joins the stage and Spencer steals the show with some improv. Watch the video at harmontown.com/live!
+  Dan is stoned...Schrab too, the creator of The Stanley Parable randomly joins the stage and Spencer steals the show with some improv.
 showDate:             
 releaseDate:          "2016-03-09 04:39:00Z"
 duration:             "02:03:13"

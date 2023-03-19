@@ -3,7 +3,7 @@ episodeNumber:        200
 title:                "Simulation"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever. Watch the video for free at harmontown.com/live! Thank you for all your support. This episode is ...
+  Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever.
 showDate:             
 releaseDate:          "2016-06-08 05:00:00Z"
 duration:             "02:13:36"

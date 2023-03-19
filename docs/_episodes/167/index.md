@@ -3,7 +3,7 @@ episodeNumber:        152
 title:                "White Guilt Kerosene On The White Guilt Bonfire"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan, Jeff and Spencer start out the show, World Cup sports corner and lots of privilege and guilt. Watch the video at Harmontown.com/live!
+  Dan, Jeff and Spencer start out the show, World Cup sports corner and lots of privilege and guilt.
 showDate:             
 releaseDate:          "2015-06-24 01:29:00Z"
 duration:             "02:05:52"

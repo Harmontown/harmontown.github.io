@@ -3,7 +3,7 @@ episodeNumber:        126
 title:                "LIVE from Chicago with comptroller Dino Stamatopolous!"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmontown is live from Chicago, with Dino, Spencer, a guy with gout , a racism specialist and a live organist! Watch a full HD video of this episode at harmontown.com/live!
+  Harmontown is live from Chicago, with Dino, Spencer, a guy with gout , a racism specialist and a live organist!
 showDate:             
 releaseDate:          "2014-11-06 05:08:00Z"
 duration:             "01:31:04"

@@ -3,7 +3,9 @@ episodeNumber:        338
 title:                "This Trident Has Four Dents"
 image:                "episode-placeholder.jpg"
 description: |-
-  Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer's bees and pirate eye patches are on the agenda tonight! Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Ryan Kraus.
+  Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer's bees and pirate eye patches are on the agenda tonight!
+
+  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Ryan Kraus.
 showDate:             
 releaseDate:          "2019-06-27 10:00:00Z"
 duration:             "02:06:47"

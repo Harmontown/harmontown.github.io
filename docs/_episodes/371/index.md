@@ -3,7 +3,7 @@ episodeNumber:        354
 title:                "Mobile Pork Unit"
 image:                "episode-placeholder.jpg"
 description: |-
-  Classic Harmontown is back! The return of role playing with Steve Levy, the iHarmon and all the potatoes you could ever want. Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
+  Classic Harmontown is back! The return of role playing with Steve Levy, the iHarmon and all the potatoes you could ever want.
 showDate:             
 releaseDate:          "2019-10-24 10:00:00Z"
 duration:             "01:48:47"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA256
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,7 +48,7 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
+- "Steve Levy"
 #- "Example guest 2"
 
 audienceGuests:

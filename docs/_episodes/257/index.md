@@ -3,7 +3,9 @@ episodeNumber:        240
 title:                "Blackest Friend in the World"
 image:                "episode-placeholder.jpg"
 description: |-
-  Creator of the documentary "Accidental Courtesy: Daryl Davis, Race & America" Matt Ornstein drops by to discuss his new film with guests Brandon Johnson and Steve Agee. Steve Levy does a quick Jew and A. Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden, Matt Ornstein, Brandon Johnson, Steve Agee, and Steve Levy.
+  Creator of the documentary "Accidental Courtesy: Daryl Davis, Race & America" Matt Ornstein drops by to discuss his new film with guests Brandon Johnson and Steve Agee. Steve Levy does a quick Jew and A.
+
+  Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden, Matt Ornstein, Brandon Johnson, Steve Agee, and Steve Levy.
 showDate:             
 releaseDate:          "2017-04-12 13:51:00Z"
 duration:             "02:05:01"

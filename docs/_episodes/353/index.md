@@ -3,7 +3,9 @@ episodeNumber:        336
 title:                "Mon the Perim"
 image:                "episode-placeholder.jpg"
 description: |-
-  This Harmontown has everything: A baby kicker, a handshake before sex, Squeezy Steve Levy, and one hundred pounds of beef jerky. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
+  This Harmontown has everything: A baby kicker, a handshake before sex, Squeezy Steve Levy, and one hundred pounds of beef jerky.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
 showDate:             
 releaseDate:          "2019-06-06 10:00:00Z"
 duration:             "02:04:00"

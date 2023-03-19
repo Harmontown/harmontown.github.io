@@ -3,7 +3,7 @@ episodeNumber:        141
 title:                "The Jews Abide"
 image:                "episode-placeholder.jpg"
 description: |-
-  Its HarmonBlock 2015, some of us really had ADD and we adhere to the wisdom of Sam Elliot on HARMONTOWN! Become a member! Get the video at harmontown.com
+  It's HarmonBlock 2015, some of us really had ADD and we adhere to the wisdom of Sam Elliot on HARMONTOWN!
 showDate:             
 releaseDate:          "2015-04-01 05:17:00Z"
 duration:             "01:59:53"

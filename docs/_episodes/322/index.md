@@ -3,7 +3,9 @@ episodeNumber:        305
 title:                "Smiles Wider Than Their Faces"
 image:                "episode-placeholder.jpg"
 description: |-
-  Podcaster David Cummings, from The NoSleep Podcast, joins guest comptroller Brandon Johnson for a spooky evening of horror stories, cuckoo clocks and wholesome Canadian terror. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and David Cummings.
+  Podcaster David Cummings, from The NoSleep Podcast, joins guest comptroller Brandon Johnson for a spooky evening of horror stories, cuckoo clocks and wholesome Canadian terror.
+
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and David Cummings.
 showDate:             
 releaseDate:          "2018-10-04 10:00:00Z"
 duration:             "01:56:23"

@@ -3,7 +3,7 @@ episodeNumber:        161
 title:                "Pink Mist"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmon experiences true virtual reality and makes soup, Paul Scheer and Rob Huebel join us for the first time, chimpanzees are monsters and ideal ways to die. Watch the video in HD at harmontown.com/live!
+  Harmon experiences true virtual reality and makes soup, Paul Scheer and Rob Huebel join us for the first time, chimpanzees are monsters and ideal ways to die.
 showDate:             
 releaseDate:          "2015-09-02 17:31:00Z"
 duration:             "01:59:18"

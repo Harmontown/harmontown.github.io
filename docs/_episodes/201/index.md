@@ -3,7 +3,7 @@ episodeNumber:        185
 title:                "LIVE in Chicago 2016 at Park West!"
 image:                "episode-placeholder.jpg"
 description: |-
-  A game changing sold out show in Chicago's beautiful Park West theatre! Music by Babes. Watch the video at harmontown.com/live, become a member!
+  A game changing sold out show in Chicago's beautiful Park West theatre! Music by Babes.
 showDate:             
 releaseDate:          "2016-02-24 02:50:00Z"
 duration:             "01:56:18"

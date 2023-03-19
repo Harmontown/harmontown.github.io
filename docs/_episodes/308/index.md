@@ -3,7 +3,7 @@ episodeNumber:        291
 title:                "Grimlock Love Slimewave Pornography"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan's back in the Rick & Morty writer's room, James Adomian and Rob Schrab face off with cartoon voices doing unspeakable things, Spencer says Binkis a lot. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, James Adomian, Rob Schrab and Stev...
+  Dan's back in the Rick & Morty writer's room, James Adomian and Rob Schrab face off with cartoon voices doing unspeakable things, Spencer says Binkis a lot.
 showDate:             
 releaseDate:          "2018-06-21 10:00:00Z"
 duration:             "01:49:01"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA761
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,8 +48,9 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "James Adomian"
+- "Rob Schrab"
+- "Steve Levy"
 
 audienceGuests:
 #- "Example guest 1"

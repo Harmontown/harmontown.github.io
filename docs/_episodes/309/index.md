@@ -3,7 +3,9 @@ episodeNumber:        292
 title:                "LIVE from The Wilbur in Boston 2018"
 image:                "episode-placeholder.jpg"
 description: |-
-  Live from the Wilbur in Boston, MA. Special guest Aaron Mahnke from the Lore podcast. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Aaron Mahnke and Steve Levy.
+  Live from the Wilbur in Boston, MA. Special guest Aaron Mahnke from the Lore podcast.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Aaron Mahnke and Steve Levy.
 showDate:             
 releaseDate:          "2018-06-28 10:00:00Z"
 duration:             "02:21:26"

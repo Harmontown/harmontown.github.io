@@ -3,7 +3,7 @@ episodeNumber:        343
 title:                "Poolitics"
 image:                "episode-placeholder.jpg"
 description: |-
-  We Need A Pool Dietician For The Internet, and the milkman is an albino. With special guests Brandon Johnson and Steve Levy! Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Brandon Johnson and Steve Levy. This week's episode is sponsored by MeUndies! Visit www.MeUndies.com and get 15% off your first pair plus free shipping with code HARMONTOWN
+  We Need A Pool Dietician For The Internet, and the milkman is an albino. With special guests Brandon Johnson and Steve Levy!
 showDate:             
 releaseDate:          "2019-08-01 10:00:00Z"
 duration:             "01:55:07"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA987
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,8 +48,8 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Brandon Johnson"
+- "Steve Levy"
 
 audienceGuests:
 #- "Example guest 1"

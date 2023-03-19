@@ -3,7 +3,9 @@ episodeNumber:        256
 title:                "Dan Harmon&#39;s Top Five Shoe Jokes"
 image:                "episode-placeholder.jpg"
 description: |-
-  Rob Schrab is back! Dan sports a new look, tells his top 5 shoe jokes, then takes the role playing team on a wild adventure. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Rob Schrab.
+  Rob Schrab is back! Dan sports a new look, tells his top 5 shoe jokes, then takes the role playing team on a wild adventure.
+
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Rob Schrab.
 showDate:             
 releaseDate:          "2017-08-30 10:00:00Z"
 duration:             "02:04:13"

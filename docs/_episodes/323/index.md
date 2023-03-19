@@ -3,7 +3,9 @@ episodeNumber:        306
 title:                "Cholo to Cholo: Crackers Try"
 image:                "episode-placeholder.jpg"
 description: |-
-  Omar Camacho from the hit YouTube series "Cholos Try" teaches Dan, Spencer and Brandon what it means to be a Cholo. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and Omar Camacho.
+  Omar Camacho from the hit YouTube series "Cholos Try" teaches Dan, Spencer and Brandon what it means to be a Cholo.
+
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and Omar Camacho.
 showDate:             
 releaseDate:          "2018-10-11 10:00:00Z"
 duration:             "02:05:47"

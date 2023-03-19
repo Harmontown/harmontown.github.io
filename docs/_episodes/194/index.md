@@ -3,7 +3,7 @@ episodeNumber:        178
 title:                "Press F To Control Fred"
 image:                "episode-placeholder.jpg"
 description: |-
-  Its the last Harmontown of 2015. Plenty of Schrabbing, mannequin leg fetishes, cartoon pornography and we meet Fred, a video game instruction manual artist. Thanks for listening everyone! We will see you in 2016! watch the video at harmontown.com/live
+  Its the last Harmontown of 2015. Plenty of Schrabbing, mannequin leg fetishes, cartoon pornography and we meet Fred, a video game instruction manual artist. Thanks for listening everyone! We will see you in 2016!
 showDate:             
 releaseDate:          "2015-12-23 07:42:00Z"
 duration:             "01:59:05"

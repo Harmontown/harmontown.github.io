@@ -3,7 +3,9 @@ episodeNumber:        257
 title:                "I Change the World&#39;s Oil"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan gets Christian dating tips from a ride-sharing driver and explores what various Scottish dogs might sound like. The gang's role playing characters level up and face a new foe! Featuring Dan Harmon, Jeff Davis and Spencer Crittenden.
+  Dan gets Christian dating tips from a ride-sharing driver and explores what various Scottish dogs might sound like. The gang's role playing characters level up and face a new foe!
+
+  Featuring Dan Harmon, Jeff Davis and Spencer Crittenden.
 showDate:             
 releaseDate:          "2017-09-06 10:00:00Z"
 duration:             "02:05:40"

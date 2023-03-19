@@ -3,7 +3,7 @@ episodeNumber:        31
 title:                "Harmoncountry: Providence, RI"
 image:                "episode-placeholder.jpg"
 description: |-
-  Mayor Harmon used the country's smallest state to tackle the country's biggest issues - suicide and race - before remembering someone double booked the room so he has to leave.
+  Mayor Harmon used the country's smallest state to tackle the country's biggest issues – suicide and race – before remembering someone double booked the room so he has to leave.
 showDate:             
 releaseDate:          "2013-01-20 13:27:00Z"
 duration:             "01:19:40"

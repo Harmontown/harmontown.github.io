@@ -3,7 +3,7 @@ episodeNumber:        344
 title:                "God Bless, But God Damn"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmontown finally gets down to business in a Jeff-less Episode. Brandon Johnson comptrols as we do the important, and timely, work of tearing down Billy Joel. Plus a dive into Dan's deep past unearths a hyper-detailed account of open mics as they existed in a pre-karaoke America...
+  Harmontown finally gets down to business in a Jeff-less Episode. Brandon Johnson comptrols as we do the important, and timely, work of tearing down Billy Joel. Plus a dive into Dan's deep past unearths a hyper-detailed account of open mics as they existed in a pre-karaoke America, and a frankly shocking experience with a...
 showDate:             
 releaseDate:          "2019-08-08 10:00:00Z"
 duration:             "02:03:54"

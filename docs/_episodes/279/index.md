@@ -3,7 +3,9 @@ episodeNumber:        262
 title:                "Porcelain Birds"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan and Rob talk about sexual harassment in the entertainment industry and the ramifications of a Rick & Morty porn parody being produced. Spencer reveals why people really buy iPads. Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Steve Levy.
+  Dan and Rob talk about sexual harassment in the entertainment industry and the ramifications of a Rick & Morty porn parody being produced. Spencer reveals why people really buy iPads.
+
+  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Steve Levy.
 showDate:             
 releaseDate:          "2017-10-18 10:00:00Z"
 duration:             "02:07:35"

@@ -3,7 +3,9 @@ episodeNumber:        301
 title:                "SuperNova"
 image:                "episode-placeholder.jpg"
 description: |-
-  We're all mad about scooters, Dan gives an audience member a backpack and makes a new friend, then Spencer debuts his new role playing grading system. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
+  We're all mad about scooters, Dan gives an audience member a backpack and makes a new friend, then Spencer debuts his new role playing grading system.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
 showDate:             
 releaseDate:          "2018-08-30 10:00:00Z"
 duration:             "02:02:27"

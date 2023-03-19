@@ -3,7 +3,9 @@ episodeNumber:        332
 title:                "No Recompense!"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan talks to Jesse Margolis, founder of Overheard LA about what else: Mike Crivello's Camera World; It's a wonderful world of cameras! We attempt to get into the heads of internet trolls, also featuring a bonus White Walker locker room pep talk. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Jesse Margolis.
+  Dan talks to Jesse Margolis, founder of Overheard LA about what else: Mike Crivello's Camera World; It's a wonderful world of cameras! We attempt to get into the heads of internet trolls, also featuring a bonus White Walker locker room pep talk.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Jesse Margolis.
 showDate:             
 releaseDate:          "2019-05-02 10:00:00Z"
 duration:             "02:03:40"

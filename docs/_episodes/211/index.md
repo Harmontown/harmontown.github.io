@@ -3,7 +3,7 @@ episodeNumber:        195
 title:                "What Did You Do To Norman Lear?"
 image:                "episode-placeholder.jpg"
 description: |-
-  The most legendary television writer and producer in all of history Norman Lear joins Harmontown, you'll never look at birthday candles the same way again. Watch the video at harmontown.com/live! $5 a month gets you access to the live stream, instant downloads and to our video archive.
+  The most legendary television writer and producer in all of history Norman Lear joins Harmontown, you'll never look at birthday candles the same way again.
 showDate:             
 releaseDate:          "2016-05-04 17:33:00Z"
 duration:             "02:09:35"

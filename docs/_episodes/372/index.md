@@ -3,7 +3,9 @@ episodeNumber:        355
 title:                "Hershey&#39;s Rorschach"
 image:                "episode-placeholder.jpg"
 description: |-
-  Our march into oblivion continues! No guests! No role playing! Nothing to lose! It's worth mentioning Spencer is feeling pretty sassy this episode and it shows. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.
+  Our march into oblivion continues! No guests! No role playing! Nothing to lose! It's worth mentioning Spencer is feeling pretty sassy this episode and it shows.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.
 showDate:             
 releaseDate:          "2019-10-31 10:00:00Z"
 duration:             "01:58:03"

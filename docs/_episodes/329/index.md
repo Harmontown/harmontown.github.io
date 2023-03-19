@@ -3,7 +3,9 @@ episodeNumber:        312
 title:                "Live from the New York Comedy Festival 2018"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmontown is live from the New York Comedy Festival! Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
+  Harmontown is live from the New York Comedy Festival!
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
 showDate:             
 releaseDate:          "2018-11-29 11:00:00Z"
 duration:             "01:30:41"

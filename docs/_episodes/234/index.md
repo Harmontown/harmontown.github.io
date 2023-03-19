@@ -3,7 +3,7 @@ episodeNumber:        217
 title:                "I Wanna Shave With Me"
 image:                "episode-placeholder.jpg"
 description: |-
-  Andy Dick and Dino Stamatopoulos return for some music, slide whistle and some feels. Your Mayor uses the pressure valve on his brain and lets off some steam. Watch the video at harmontown.com/live! Become a member for $5/mo to watch the show stream live, an archive of downloads and support a small business!
+  Andy Dick and Dino Stamatopoulos return for some music, slide whistle and some feels. Your Mayor uses the pressure valve on his brain and lets off some steam.
 showDate:             
 releaseDate:          "2016-10-20 05:04:00Z"
 duration:             "02:03:00"

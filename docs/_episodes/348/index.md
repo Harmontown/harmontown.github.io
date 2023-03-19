@@ -3,7 +3,9 @@ episodeNumber:        331
 title:                "High as Bat Pussy"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan dives deep into balls. Before the show Dan gets a little too high, which is perfect for our guest Gabriel Sunday, creator and star of the new cannabis inspired TV series Dope State. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Gabriel Sunday.
+  Dan dives deep into balls. Before the show Dan gets a little too high, which is perfect for our guest Gabriel Sunday, creator and star of the new cannabis inspired TV series Dope State.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Gabriel Sunday.
 showDate:             
 releaseDate:          "2019-04-25 10:00:00Z"
 duration:             "02:11:44"

@@ -3,7 +3,7 @@ episodeNumber:        212
 title:                "The Medicine Of Attention"
 image:                "episode-placeholder.jpg"
 description: |-
-  Skull Juice's Dino Stamatopoulos and Andy Dick and the creators of "Stranger Things" The Duffer Brothers all in one episode. Watch the video at harmontown.com/live
+  Skull Juice's Dino Stamatopoulos and Andy Dick and the creators of "Stranger Things" The Duffer Brothers all in one episode.
 showDate:             
 releaseDate:          "2016-09-14 22:54:00Z"
 duration:             "02:01:04"

@@ -3,7 +3,9 @@ episodeNumber:        251
 title:                "Brothers Killing Brothers for Some Dank Memes"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan dives into his writing process, we go deep into the meme wars, before wrapping the show up with some role playing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
+  Dan dives into his writing process, we go deep into the meme wars, before wrapping the show up with some role playing.
+
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
 showDate:             
 releaseDate:          "2017-07-12 10:00:00Z"
 duration:             "02:08:04"

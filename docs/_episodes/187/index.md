@@ -3,7 +3,7 @@ episodeNumber:        171
 title:                "I Gymnastics Over To Her"
 image:                "episode-placeholder.jpg"
 description: |-
-  Guest comptroller Ryan Ridley and guest Aubrey Plaza forge their way through the pseudo socio-political intestinal tract of Harmontown! Watch the video at harmontown.com/live
+  Guest comptroller Ryan Ridley and guest Aubrey Plaza forge their way through the pseudo socio-political intestinal tract of Harmontown!
 showDate:             
 releaseDate:          "2015-11-11 01:11:00Z"
 duration:             "02:18:10"

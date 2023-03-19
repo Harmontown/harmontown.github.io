@@ -3,7 +3,7 @@ episodeNumber:        215
 title:                "Amazing Blades"
 image:                "episode-placeholder.jpg"
 description: |-
-  Rapper Logic joins Harmontown and we continue our legacy of the greatest advertising money can buy. Watch the live and on demand at harmontown.com/live!
+  Rapper Logic joins Harmontown and we continue our legacy of the greatest advertising money can buy.
 showDate:             
 releaseDate:          "2016-10-05 10:23:00Z"
 duration:             "02:01:01"

@@ -1,5 +1,5 @@
 ---
-episodeNumber:        98
+episodeNumber:        
 title:                "HARMONTOWN NIGHTS PREVIEW"
 image:                "episode-placeholder.jpg"
 description: |-
@@ -18,11 +18,11 @@ gameMaster:
 hasDnD:               
 
 external:
-  harmonCity:         "https://harmon.city/episode-98"
+  harmonCity:         
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/112/98"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYX08380Y9gQFcIPt2G_sAO"
+    url:              
+  hallOfRecords:      
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!

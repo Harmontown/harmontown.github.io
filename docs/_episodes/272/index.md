@@ -3,7 +3,9 @@ episodeNumber:        255
 title:                "The Ian Bowers Birthday Special"
 image:                "episode-placeholder.jpg"
 description: |-
-  Graham Linehan returns to Harmontown! Dan discovers what an "omega virgin" is by a dramatic reading of an incident involving creepy soup. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Graham Linehan and Steve Levy.
+  Graham Linehan returns to Harmontown! Dan discovers what an "omega virgin" is by a dramatic reading of an incident involving creepy soup.
+
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Graham Linehan and Steve Levy.
 showDate:             
 releaseDate:          "2017-08-23 10:00:00Z"
 duration:             "02:02:48"

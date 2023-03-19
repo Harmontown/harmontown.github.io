@@ -3,7 +3,7 @@ episodeNumber:        329
 title:                "Wolf Urine"
 image:                "episode-placeholder.jpg"
 description: |-
-  The squad delves deep into the pros & cons of wolf piss. Schrab schrabs Dan into a crater, while Brandon holds the ship together upon re-entry. Featuring Dan Harmon, Brandon Johnson and Spencer Crittenden.
+  The squad delves deep into the pros & cons of wolf piss. Schrab schrabs Dan into a crater, while Brandon holds the ship together upon re-entry.
 showDate:             
 releaseDate:          "2019-04-11 10:00:00Z"
 duration:             "02:02:54"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA624
 
 venue:                
 comptroller:          "Brandon Johnson"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:

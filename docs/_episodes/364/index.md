@@ -3,7 +3,7 @@ episodeNumber:        347
 title:                "The Breasts Feel Fine, Wherever They Are"
 image:                "episode-placeholder.jpg"
 description: |-
-  Host of the podcast How Did This Get Played?, Heather Anne Campbell joins Rick and Morty writer Nick Rutherford.  Starring Dan Harmon, Spencer Crittenden, Brandon Johnson, Heather Anne Campbell and Nick Rutherford.
+  Host of the podcast "How Did This Get Played?", Heather Anne Campbell joins "Rick and Morty" writer Nick Rutherford to discuss their shared experiences writing for, regrettable video games, cancer, and their personal experiences with religion.
 showDate:             
 releaseDate:          "2019-08-29 10:00:00Z"
 duration:             "02:09:05"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA190
 
 venue:                
 comptroller:          "Brandon Johnson"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,8 +48,8 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Heather Anne Campbell"
+- "Nick Rutherford"
 
 audienceGuests:
 #- "Example guest 1"

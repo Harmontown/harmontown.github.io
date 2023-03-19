@@ -3,7 +3,7 @@ episodeNumber:        140
 title:                "Hobos Don&#39;t Talk Back To Nobody"
 image:                "episode-placeholder.jpg"
 description: |-
-  Hear ye, hear ye, Harmontown is now in session. There's some talkin', there's some rappin', there's some shadow runnin'. Watch the video at Harmontown.com!
+  Hear ye, hear ye, Harmontown is now in session. There's some talkin', there's some rappin', there's some shadow runnin'.
 showDate:             
 releaseDate:          "2015-03-25 02:10:00Z"
 duration:             "01:57:38"

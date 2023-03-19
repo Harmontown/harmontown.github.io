@@ -3,7 +3,9 @@ episodeNumber:        297
 title:                "You Got That Baby To Tell The Truth"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan, Jeff, Spencer, Brandon, Schrab and Steve all try to get to the bottom of some deep Harmontown mysteries. Is Spencer's desk backwards? What does Steve Levy do with silly putty? Can Schrab reboot Sanford and Son? Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis, Rob Schrab and Steve Levy.
+  Dan, Jeff, Spencer, Brandon, Schrab and Steve all try to get to the bottom of some deep Harmontown mysteries. Is Spencer's desk backwards? What does Steve Levy do with silly putty? Can Schrab reboot Sanford and Son?
+
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis, Rob Schrab and Steve Levy.
 showDate:             
 releaseDate:          "2018-08-02 10:00:00Z"
 duration:             "01:54:07"

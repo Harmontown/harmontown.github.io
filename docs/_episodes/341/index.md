@@ -3,7 +3,9 @@ episodeNumber:        324
 title:                "Aunt Tipathy"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan problematizes things that don't need to be problematized, listens to audio porn and gets to the bottom of The Flash with Brandon and Schrab. Featuring Dan Harmon, Brandon Johnson and Rob Schrab.
+  Dan problematizes things that don't need to be problematized, listens to audio porn and gets to the bottom of The Flash with Brandon and Schrab.
+
+  Featuring Dan Harmon, Brandon Johnson and Rob Schrab.
 showDate:             
 releaseDate:          "2019-03-07 11:00:00Z"
 duration:             "01:57:35"

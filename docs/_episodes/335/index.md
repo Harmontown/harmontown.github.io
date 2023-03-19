@@ -3,7 +3,9 @@ episodeNumber:        318
 title:                "MC Non-Binary Chicken"
 image:                "episode-placeholder.jpg"
 description: |-
-  Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Open Mike Eagle.
+  Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Open Mike Eagle.
 showDate:             
 releaseDate:          "2019-01-24 11:00:00Z"
 duration:             "02:00:37"

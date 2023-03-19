@@ -3,7 +3,9 @@ episodeNumber:        314
 title:                "You&#39;re the Good Kind of Fat"
 image:                "episode-placeholder.jpg"
 description: |-
-  Comedian and fellow podcaster Pete Holmes joins Dan, Jeff and Spencer to answer: What Hurts Pete Holmes? Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Pete Holmes.
+  Comedian and fellow podcaster Pete Holmes joins Dan, Jeff and Spencer to answer: What Hurts Pete Holmes?
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Pete Holmes.
 showDate:             
 releaseDate:          "2018-12-13 11:00:00Z"
 duration:             "02:11:49"

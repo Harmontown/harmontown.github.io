@@ -3,7 +3,9 @@ episodeNumber:        243
 title:                "Adult Onset Pyromania"
 image:                "episode-placeholder.jpg"
 description: |-
-  Our first show after moving to the Starburns Castle with Brandon Johnson as the guest comptroller! Dan finds a giant surprise gift on stage then shows off his latest Minecraft creations then we hear the history of America as a rap. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.
+  Our first show after moving to the Starburns Castle with Brandon Johnson as the guest comptroller! Dan finds a giant surprise gift on stage then shows off his latest Minecraft creations then we hear the history of America as a rap.
+
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.
 showDate:             
 releaseDate:          "2017-05-03 13:52:00Z"
 duration:             "01:59:08"

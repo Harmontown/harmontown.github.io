@@ -3,7 +3,7 @@ episodeNumber:        160
 title:                "AWWW"
 image:                "episode-placeholder.jpg"
 description: |-
-  As we learned last week, the movie Boat Trip is insane, and a surprise drop in from Horatio Sanz discusses just how strange working on it really was. Later, the audiences awwws. Watch the video at harmontown.com/live!
+  As we learned last week, the movie Boat Trip is insane, and a surprise drop in from Horatio Sanz discusses just how strange working on it really was. Later, the audiences awwws.
 showDate:             
 releaseDate:          "2015-08-25 22:34:00Z"
 duration:             "02:10:03"

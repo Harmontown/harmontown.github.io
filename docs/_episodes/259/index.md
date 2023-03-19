@@ -3,7 +3,7 @@ episodeNumber:        242
 title:                "The Final Meltdown"
 image:                "episode-placeholder.jpg"
 description: |-
-  The end of an era when Harmontown performs its last show on the stages of Nerdmelt in the back of Meltdown comics with the help of Mitch Hurwitz.
+  The gang gives NerdMelt an emotional sendoff at our final show before moving to the Starburns Castle. Mitch Hurwitz, Rob Schrab, Ryan Ridley, Brandon Johnson, Dave Klein, Adam Goldberg and Dustin Marshall return to reminisce, role play and learn the secret life of executive assistants.
 showDate:             
 releaseDate:          "2017-04-26 08:03:00Z"
 duration:             "02:02:24"

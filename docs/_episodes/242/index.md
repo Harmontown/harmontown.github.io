@@ -3,7 +3,7 @@ episodeNumber:        225
 title:                "Harmontownunder: Melbourne, Australia"
 image:                "episode-placeholder.jpg"
 description: |-
-  The Australian adventures of Harmontown continue with a sold out show in Melbourne, Australia! Watch the video at harmontown.com/live.
+  The Australian adventures of Harmontown continue with a sold out show in Melbourne, Australia!
 showDate:             
 releaseDate:          "2016-12-28 20:08:00Z"
 duration:             "02:03:18"

@@ -3,7 +3,9 @@ episodeNumber:        294
 title:                "A Gold Medallion"
 image:                "episode-placeholder.jpg"
 description: |-
-  Andy Kindler and Brandon Johnson join us to discuss their feelings on Kombucha and social media. Dan explores a career as a cover song musician. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Andy Kindler.
+  Andy Kindler and Brandon Johnson join us to discuss their feelings on Kombucha and social media. Dan explores a career as a cover song musician.
+
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Andy Kindler.
 showDate:             
 releaseDate:          "2018-07-12 10:00:00Z"
 duration:             "02:01:28"

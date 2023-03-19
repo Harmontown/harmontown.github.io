@@ -3,7 +3,7 @@ episodeNumber:        271
 title:                "Orphan Don&#39;t Even Have No Internet"
 image:                "episode-placeholder.jpg"
 description: |-
-  It's Christmas, and this show has something for everyone! Our traditional holiday events include: The return of DeMorge Brown, Dan and Brandon discussing net neutrality, Josh Androsky stopping in again to play some games, and Spencer studying for his h...
+  It's Christmas, and this show has something for everyone! Our traditional holiday events include: The return of DeMorge Brown, Dan and Brandon discussing net neutrality, Josh Androsky stopping in again to play some games, and Spencer studying for his ham radio exam.
 showDate:             
 releaseDate:          "2017-12-20 11:00:00Z"
 duration:             "02:13:06"

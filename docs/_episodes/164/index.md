@@ -3,7 +3,7 @@ episodeNumber:        149
 title:                "LIVE from Everything Is Festival 2015"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmontown is back in Portland for Everything Is Terrible! Penis size is questioned and two well dressed audio members take the brunt of it, Dan is accused of sh*tting his pants and ends up revealing his balls. Watch the video at Harmontown.com/live!
+  Harmontown is back in Portland for Everything Is Terrible! Penis size is questioned and two well dressed audio members take the brunt of it, Dan is accused of sh*tting his pants and ends up revealing his balls.
 showDate:             
 releaseDate:          "2015-06-02 23:29:00Z"
 duration:             "01:28:17"

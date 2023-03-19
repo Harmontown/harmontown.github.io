@@ -3,7 +3,9 @@ episodeNumber:        264
 title:                "Cheese Stain"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan and Jeff solve the Ron Jeremy banana mystery, even stranger things happen with Dan's girlfriend, and the gang jumps back in to roleplaying. Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Steve Levy.
+  Dan and Jeff solve the Ron Jeremy banana mystery, even stranger things happen with Dan's girlfriend, and the gang jumps back in to roleplaying.
+
+  Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Steve Levy.
 showDate:             
 releaseDate:          "2017-11-01 17:24:00Z"
 duration:             "02:07:26"

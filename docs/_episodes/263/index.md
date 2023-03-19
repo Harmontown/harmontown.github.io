@@ -3,7 +3,9 @@ episodeNumber:        246
 title:                "Your Description of a Birthday Would Make Vonnegut Kill Himself"
 image:                "episode-placeholder.jpg"
 description: |-
-  We learn some shocking truths about Spencer while Steve Levy fills in for him, Fred Stoller delves deep into the writing process of Seinfeld, Dan suspects our guest comptroller (Brandon Johnson) is a time traveler. Featuring Dan Harmon, Brandon Johnson, Steve Levy and Fred Stoller.
+  We learn some shocking truths about Spencer while Steve Levy fills in for him, Fred Stoller delves deep into the writing process of Seinfeld, Dan suspects our guest comptroller (Brandon Johnson) is a time traveler.
+
+  Featuring Dan Harmon, Brandon Johnson, Steve Levy and Fred Stoller.
 showDate:             
 releaseDate:          "2017-05-31 05:47:00Z"
 duration:             "02:11:00"

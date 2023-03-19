@@ -3,7 +3,8 @@ episodeNumber:        335
 title:                "What If Dan Had Four Ears?"
 image:                "episode-placeholder.jpg"
 description: |-
-  This week's a whopper, with conversation topics ranging from Spencer's hip surgery, Dan's much anticipated Game of Thrones take, and another underscoring of how unprepared our (Dan's) parents were for the advent of the internet. All that and THE RETURN OF D&D. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy
+  This week's a whopper, with conversation topics ranging from Spencer's hip surgery, Dan's much anticipated Game of Thrones take, and another underscoring of how unprepared our (Dan's) parents were for the advent of the internet. All that and THE RETURN OF D&D.
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
 showDate:             
 releaseDate:          "2019-05-30 10:00:00Z"
 duration:             "02:00:15"

@@ -3,7 +3,9 @@ episodeNumber:        358
 title:                "Top 10 Funniest Things"
 image:                "episode-placeholder.jpg"
 description: |-
-  We're counting down the last few episodes of Harmontown, and to celebrate we're counting down the top ten funniest things. Nick Rutherford is back, it's Church's birthday, and Schrab sees how far he can push the show off the rails. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Nick Rutherford and Church
+  We're counting down the last few episodes of Harmontown, and to celebrate we're counting down the top ten funniest things. Nick Rutherford is back, it's Church's birthday, and Schrab sees how far he can push the show off the rails.
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Nick Rutherford and Church.
 showDate:             
 releaseDate:          "2019-11-21 11:00:00Z"
 duration:             "01:50:50"

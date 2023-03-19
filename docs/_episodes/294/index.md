@@ -3,7 +3,7 @@ episodeNumber:        277
 title:                "Cheapy Peepy II: I Love You Cheapy Peepy"
 image:                "episode-placeholder.jpg"
 description: |-
-  Dan has some strong opinions on being chased by bees and what goes on in the mind of dogs. Jeff tells his career defining joke. Schrab isn't happy with the title of last week's show, but joins Dan and Steve in another intimate moment on the stage floor...
+  Dan has some strong opinions on being chased by bees and what goes on in the mind of dogs. Jeff tells his career defining joke. Schrab isn't happy with the title of last week's show, but joins Dan and Steve in another intimate moment on the stage floor.
 showDate:             
 releaseDate:          "2018-02-14 11:00:00Z"
 duration:             "02:02:48"

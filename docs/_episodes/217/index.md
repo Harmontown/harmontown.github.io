@@ -3,7 +3,7 @@ episodeNumber:        201
 title:                "Black Woman Against Over Here"
 image:                "episode-placeholder.jpg"
 description: |-
-  Spencer comptrolls, Dino stops by and it's hot as absolute Hell. Watch the video at harmontown.com/live! Become a member and help grow the show! This episode is brought to you by Fullscreen–-get your free one-month trial at fullscreen.com/harmontown!
+  Spencer comptrolls, Dino stops by and it's hot as absolute Hell.
 showDate:             
 releaseDate:          "2016-06-22 05:00:00Z"
 duration:             "02:02:22"

@@ -3,7 +3,7 @@ episodeNumber:        276
 title:                "Cheapy Peepy"
 image:                "episode-placeholder.jpg"
 description: |-
-  Steve Levy and Rob Schrab share an intimate physical moment, Dan shows off his Dave Matthews impression, and we discuss the hot button political issue on everyone's mind: Spiro Agnew. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schr...
+  Steve Levy and Rob Schrab share an intimate physical moment, Dan shows off his Dave Matthews impression, and we discuss the hot button political issue on everyone's mind: Spiro Agnew.
 showDate:             
 releaseDate:          "2018-02-07 11:00:00Z"
 duration:             "02:03:23"
@@ -14,7 +14,7 @@ soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA410
 
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 external:
@@ -48,7 +48,7 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
+- "Rob Schrab"
 #- "Example guest 2"
 
 audienceGuests:

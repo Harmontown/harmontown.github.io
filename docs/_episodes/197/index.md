@@ -3,7 +3,7 @@ episodeNumber:        181
 title:                "LIVE From Magic City Comic Con"
 image:                "episode-placeholder.jpg"
 description: |-
-  The now infamous episode of Harmontown from Miami with guest comptroller Dino Stamatopoulos takes a turn when some uncool violence goes down. Watch the video at harmontown.com/live
+  The now infamous episode of Harmontown from Miami with guest comptroller Dino Stamatopoulos takes a turn when some uncool violence goes down.
 showDate:             
 releaseDate:          "2016-01-26 02:17:00Z"
 duration:             "01:58:58"

@@ -3,7 +3,9 @@ episodeNumber:        303
 title:                "Frog Complex"
 image:                "episode-placeholder.jpg"
 description: |-
-  Is it morally right to eat Gillian Anderson's sandwiches? Why are Ron Perlman's hands so soft? What's really going on with Predator? Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
+  Is it morally right to eat Gillian Anderson's sandwiches? Why are Ron Perlman's hands so soft? What's really going on with Predator?
+
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
 showDate:             
 releaseDate:          "2018-09-20 10:00:00Z"
 duration:             "02:15:35"

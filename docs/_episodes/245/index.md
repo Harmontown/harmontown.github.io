@@ -3,7 +3,7 @@ episodeNumber:        228
 title:                "I F_cking Love White Sh_t"
 image:                "episode-placeholder.jpg"
 description: |-
-  Harmontown is back in the states for the first show of 2017! Watch the video at harmontown.com/live!
+  Harmontown is back in the states for the first show of 2017!
 showDate:             
 releaseDate:          "2017-01-12 09:30:00Z"
 duration:             "02:02:39"
