@@ -2,7 +2,7 @@
 episodeNumber:        46
 title:                "Neigh Means Yay"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   'Rick and Morty' writer Ryan Ridley drops by, 'Real Abed' Gheith pitches his insane restuarant and Kumail Nanjiani reveals secrets to brown acting. In D&D: the party climbs into a hole.
 showDate:             
 releaseDate:          "2013-03-01 02:03:00Z"
@@ -70,6 +70,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

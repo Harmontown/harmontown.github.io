@@ -2,9 +2,8 @@
 episodeNumber:        328
 title:                "Jeff&#39;s Joke Corner"
 image:                "episode-placeholder.jpg"
-description: >
-  Jeff Davis's joke corner! A walrus walks into a whorehouse… Also, the return of roleplaying with guest Steve Levy!
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
+description: |-
+  Jeff Davis's joke corner! A walrus walks into a whorehouse… Also, the return of roleplaying with guest Steve Levy! Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
 showDate:             
 releaseDate:          "2019-04-04 10:00:00Z"
 duration:             "02:16:13"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

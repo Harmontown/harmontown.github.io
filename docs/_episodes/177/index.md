@@ -2,7 +2,7 @@
 episodeNumber:        162
 title:                "Sperm Count"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Kumail returns! The Lil' Cuties drop by, Harmon questions his sperm count and MORE!
 showDate:             
 releaseDate:          "2015-09-09 07:09:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

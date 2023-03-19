@@ -2,7 +2,7 @@
 episodeNumber:        99
 title:                "Live From Bridgetown 2014!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Live from The Bridgetown Festival in Portland, Oregon; Harmontown is now in session!
 showDate:             
 releaseDate:          "2014-05-11 19:27:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

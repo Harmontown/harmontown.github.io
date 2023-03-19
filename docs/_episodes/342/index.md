@@ -2,9 +2,8 @@
 episodeNumber:        325
 title:                "Get Off My Lawn, Words"
 image:                "episode-placeholder.jpg"
-description: >
-  Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down?
-  Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Rob Schrab.
+description: |-
+  Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down? Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Rob Schrab.
 showDate:             
 releaseDate:          "2019-03-14 10:00:00Z"
 duration:             "02:10:14"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        258
 title:                "Retired Ninja Quarterly"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Rapper B. Squid and Dan sing about a thousand winters, we question "What if a guy had long arms?" and "Who really stole Steve Levy's roommate's car?" before realizing we're entering Harmageddon.
 showDate:             
 releaseDate:          "2017-09-13 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

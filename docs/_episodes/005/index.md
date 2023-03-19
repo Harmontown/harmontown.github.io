@@ -2,8 +2,8 @@
 episodeNumber:        
 title:                "Lost Episode #5"
 image:                "episode-placeholder.jpg"
-description: >
-  Clip from the fifth episode of Harmontown: https://www.youtube.com/watch?v=iVz67bJujU0
+description: |-
+  [Clip from the fifth episode of Harmontown](https://www.youtube.com/watch?v=iVz67bJujU0).
 showDate:             "2011-09-26 04:00:00Z"
 releaseDate:          
 duration:             
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

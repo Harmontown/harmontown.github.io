@@ -2,7 +2,7 @@
 episodeNumber:        133
 title:                "DeMorge Do You Know Jamal?"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It's sports corner for all you Superbowl heads, audience member Jamal sheds some light on race and ShadowRun is in full effect.
 showDate:             
 releaseDate:          "2015-02-04 19:53:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

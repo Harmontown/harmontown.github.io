@@ -2,7 +2,7 @@
 episodeNumber:        9
 title:                "Examine Before You Fight"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   A discussion of the clarinet and nine eleven is briefly interrupted by an amazing D&D adventure before proceeding into an indictment of the Hugo Awards and concluding with a demonstration of how hard it is to conclude.
 showDate:             "2012-09-04 04:00:00Z"
 releaseDate:          "2012-09-14 03:04:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "Spencer Crittenden"
+#- "Example guest 2"
 
 audienceGuests:
 - "Greg"
@@ -72,6 +73,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

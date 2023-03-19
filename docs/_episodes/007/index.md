@@ -2,8 +2,8 @@
 episodeNumber:        
 title:                "Lost Episode #7"
 image:                "episode-placeholder.jpg"
-description: >
-  
+description: |-
+  Lost episode from before the show was a podcast.
 showDate:             "2011-11-21 05:00:00Z"
 releaseDate:          
 duration:             
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

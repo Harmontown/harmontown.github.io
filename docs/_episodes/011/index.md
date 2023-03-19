@@ -2,7 +2,7 @@
 episodeNumber:        
 title:                "Lost Episode #11"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Probably the infamous Chevy Chase voicemail episode.
 showDate:             "2012-03-26 04:00:00Z"
 releaseDate:          
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        253
 title:                "No Church People Got No Hortches"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Comedian Jamali Maddix comes by to discuss his project exploring extremism. While role playing, Steve Levy discovers the most beautiful horses he's ever seen. Dan closes the show with a rap about West Virginia. Featuring Dan Harmon, Jeff Davis, Spencer...
 showDate:             
 releaseDate:          "2017-08-09 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

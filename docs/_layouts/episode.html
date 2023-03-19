@@ -140,12 +140,14 @@ layout: default
         <td colspan="2">
           <table>
             <tbody>
+              {% if page.external.harmonCity %}
               <tr>
                 <th>Transcription</th>
                 <td>
-                  <a href="{{ page.external.harmonCity}}" target="_blank">harmon.city</a>
+                  <a href="{{ page.external.harmonCity }}" target="_blank">harmon.city</a>
                 </td>
               </tr>
+              {% endif %}
               {% if page.external.podcastDynamite.hasMinutes %}
               <tr>
                 <th>Minutes</th>
@@ -154,7 +156,7 @@ layout: default
                 </td>
               </tr>
               {% endif %}
-              {% if page.external.hallOfRecords != null %}
+              {% if page.external.hallOfRecords %}
               <tr>
                 <th>YouTube</th>
                 <td>
@@ -177,8 +179,6 @@ layout: default
 
   </table>
 </div>
-
-{% include episodeDescription.md %}
 
 <div class="episode-content">
   {{ content }}

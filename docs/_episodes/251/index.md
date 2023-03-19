@@ -2,7 +2,7 @@
 episodeNumber:        234
 title:                "The Patron Saint of Acid Wash"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jason Sklar, Randy Sklar and Brandon Johnson.
 showDate:             
 releaseDate:          "2017-03-01 17:16:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

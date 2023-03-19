@@ -2,7 +2,7 @@
 episodeNumber:        222
 title:                "Anne Frank Kicked A Cat Once"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   "Erin McGathy makes a triumphant return to Harmontown as the role of Spencer and brings the sounded of 20 sided die back to Harmontown! Watch the video at harmontown.com/live Bonus track: an all new song originally made for Harmontown by Colleen Green!"
 showDate:             
 releaseDate:          "2016-11-24 03:01:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

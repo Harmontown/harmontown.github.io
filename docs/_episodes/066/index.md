@@ -2,7 +2,7 @@
 episodeNumber:        53
 title:                "National Tragedy Special"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon finds out about terrorism after everyone else. Plus: cake making, tentanus, Kumail, and making love to spiders!
 showDate:             
 releaseDate:          "2013-04-16 10:08:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "Kumail Nanjiani"
+#- "Example guest 2"
 
 audienceGuests:
 #- "Example guest 1"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

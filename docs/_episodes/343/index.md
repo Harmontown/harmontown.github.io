@@ -2,9 +2,8 @@
 episodeNumber:        326
 title:                "Bootie Etiquette"
 image:                "episode-placeholder.jpg"
-description: >
-  The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert!
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brandon Johnson.
+description: |-
+  The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert! Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brandon Johnson.
 showDate:             
 releaseDate:          "2019-03-21 10:00:00Z"
 duration:             "02:09:28"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

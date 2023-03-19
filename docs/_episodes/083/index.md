@@ -2,7 +2,7 @@
 episodeNumber:        69
 title:                "Cobra Customer Service"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon issues an edict to wait staff, proclaims his eternal love for Erin and signs off on gay weddings.
 showDate:             
 releaseDate:          "2013-08-26 08:10:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

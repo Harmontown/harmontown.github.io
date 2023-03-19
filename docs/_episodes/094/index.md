@@ -2,7 +2,7 @@
 episodeNumber:        80
 title:                "Harmontown At Largo"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   In conjunction with Adult Swim and Starburns Industries, HARMONTOWN Live at Largo Coronet Theatre! Featuring Justin Roiland, John Oliver and Sarah Chalke! (Presented in 128kbps Stereo)
 showDate:             
 releaseDate:          "2013-11-18 10:20:00Z"
@@ -70,6 +70,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

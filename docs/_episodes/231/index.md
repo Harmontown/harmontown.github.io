@@ -2,7 +2,7 @@
 episodeNumber:        214
 title:                "Live At JFL Toronto 2016"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown comes to Toronto along with Emily Gordon and Kumail Nanjiani to perform some weird improv in front of a lot of people. Watch the video at harmontown.com/live!
 showDate:             
 releaseDate:          "2016-09-30 05:04:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

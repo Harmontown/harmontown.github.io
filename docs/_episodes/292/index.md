@@ -2,7 +2,7 @@
 episodeNumber:        275
 title:                "We Could Disappear Up Each Other&#39;s Asses"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest Comptroller Brandon Johnson and Spencer question Dan's retirement requirements. Singer-songwriter John Mayer comes on to really get inside Dan's wonderland of a mind. Dan and John debate the pros and cons of Googling yourself. The show wraps up b...
 showDate:             
 releaseDate:          "2018-01-31 11:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

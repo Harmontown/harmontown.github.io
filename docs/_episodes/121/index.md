@@ -2,7 +2,7 @@
 episodeNumber:        106
 title:                "Pakisnap!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan Harmon, Jeff Davis, Greg Proops, Kumail Nanjiani, Erin McGathy and Spencer Crittenden perform for another sold out HARMONTOWN and FINALLY, necrophillia is discussed at great length.
 showDate:             
 releaseDate:          "2014-07-07 20:08:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

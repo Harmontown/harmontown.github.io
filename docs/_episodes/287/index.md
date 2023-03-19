@@ -2,7 +2,7 @@
 episodeNumber:        270
 title:                "The Boy Who Ate The Most Spaghetti"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest Comptroller Brandon Johnson and Josh Androsky return to discuss the current state of higher education with Ben Nelson from the Minerva Project. Everyone plays Balderdash while Andy Dick entertains everyone with... Featuring Dan Harmon, Brandon Jo...
 showDate:             
 releaseDate:          "2017-12-13 11:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

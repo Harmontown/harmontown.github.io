@@ -2,7 +2,7 @@
 episodeNumber:        33
 title:                "Harmoncountry: Pittsburgh, PA"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The Harmontown tour "meets its goddess" in a featureless black box theatre, where Dan cries, arouses himself, tells a joke and gets in a fight with Erin. Unedited episode.
 showDate:             
 releaseDate:          "2013-01-22 03:20:00Z"
@@ -73,6 +73,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

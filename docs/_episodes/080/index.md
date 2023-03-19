@@ -2,7 +2,7 @@
 episodeNumber:        66
 title:                "Frequently I Am A Woman In My Dreams"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon has got nothing. This prompts Kumail and Erin to join the stage for some dream interpretation and penis trauma. In D&D, Sharpie dies.
 showDate:             
 releaseDate:          "2013-08-05 09:56:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

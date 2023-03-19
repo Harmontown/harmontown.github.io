@@ -2,7 +2,7 @@
 episodeNumber:        139
 title:                "LIVE at SXSW 2015"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown LIVE from SXSW at the Yahoo! Community premiere party feat. Chris McKenna and a very loud bar!
 showDate:             
 releaseDate:          "2015-03-17 22:22:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

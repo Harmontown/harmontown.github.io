@@ -2,7 +2,7 @@
 episodeNumber:        298
 title:                "Homeless Sapiens"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan explains dog intelligence and Canadian creepypasta, while Schrab and Jeff demonstrate the perfect stage walk-on. Spencer tries MeUndies for the first time, and Dan plays himself. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis and Rob Schrab.
 showDate:             
 releaseDate:          "2018-08-09 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

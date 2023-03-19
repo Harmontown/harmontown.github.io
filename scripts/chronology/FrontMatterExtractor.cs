@@ -1,5 +1,6 @@
 using System;
 using System.IO;
+using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
@@ -25,8 +26,9 @@ public class FrontMatterExtractor
           lines
             .SkipWhile(line => line.TrimEnd() != "---")
             .Skip(1)
-            .TakeWhile(line => line.TrimEnd() != "---")
-            .Where(line => !string.IsNullOrWhiteSpace(line)));
+            .TakeWhile(line => line.TrimEnd() != "---"));
+
+      // frontMatter = frontMatter.Replace("description: >","description: |-");
 
       Episode result;
       try
@@ -35,6 +37,7 @@ public class FrontMatterExtractor
       }
       catch (Exception ex)
       {
+        Console.WriteLine(frontMatter);
         Console.WriteLine(ex.InnerException?.ToString());
         throw;
       }

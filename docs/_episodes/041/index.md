@@ -2,7 +2,7 @@
 episodeNumber:        28
 title:                "Harmoncountry: Charlotte, NC"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   A quiet military bunker in Charlotte known as The Comedy Zone is the site of a kinder, gentler town meeting than Nashville's booze-drenched hootenanny. Mayor Harmon attempts to write a constitution and learns about the deep seated, low-stakes conflict...
 showDate:             
 releaseDate:          "2013-01-16 23:29:00Z"
@@ -73,6 +73,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

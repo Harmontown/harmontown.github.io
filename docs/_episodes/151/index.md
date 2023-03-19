@@ -2,7 +2,7 @@
 episodeNumber:        136
 title:                "Dick Pic"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It's Oscar night and Dino almost had a three way. There's a new Adam Goldberg, Erin McGathy's acceptance speech game corner, Shadow Run and more. RIP Harris Wittels, we miss you. End music "Lisa" by Don't Stop Or We'll Die.
 showDate:             
 releaseDate:          "2015-02-25 03:02:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

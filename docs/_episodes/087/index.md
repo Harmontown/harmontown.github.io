@@ -2,7 +2,7 @@
 episodeNumber:        73
 title:                "From Kennedy&#39;s Assassination, To The Beatles"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Don Cheatle's speech at the Emmys leaves Mayor Harmon pondering. Also, spider monsters, the Beef Fungus Bill game and co-creator of Channel 101 Rob Schrab sits in on D&D!
 showDate:             
 releaseDate:          "2013-09-24 08:24:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        128
 title:                "That&#39;s my wife&#39;s pie, you bitch!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Schrab secretly schrab's the gang, Cameron Esposito and Rhea Butcher of the Put Your Hands Together podcast stop by and talk movies, Kumail returns, Dan and Erin got married, and in D&D they encounter some sleeping bears.
 showDate:             
 releaseDate:          "2014-11-25 00:39:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

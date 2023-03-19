@@ -2,7 +2,7 @@
 episodeNumber:        165
 title:                "Where The Moon?"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Steve Agee comptrolls, Felicia Day guests, Shadowrun kicks ass. Watch the video at harmontown.com/live!
 showDate:             
 releaseDate:          "2015-09-30 00:21:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

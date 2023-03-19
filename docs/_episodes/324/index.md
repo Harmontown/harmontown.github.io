@@ -2,7 +2,7 @@
 episodeNumber:        307
 title:                "French Spencer"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest Comptroller Brandon Johnson and Dan discover French Spencer, and learn that sometimes applause hurts. Featuring Dan Harmon, Brandon Johnson and Spencer Crittenden.
 showDate:             
 releaseDate:          "2018-10-18 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

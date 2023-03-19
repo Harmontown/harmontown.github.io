@@ -2,7 +2,7 @@
 episodeNumber:        108
 title:                "I Make A 5 Stars"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Dan Harmon and Comptroller Duncan Trussell makes another sold out show at Nerdmelt Theater one for the ages!
 showDate:             
 releaseDate:          "2014-07-21 18:28:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

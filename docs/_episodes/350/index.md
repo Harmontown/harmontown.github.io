@@ -2,7 +2,7 @@
 episodeNumber:        333
 title:                "The Scootie Cutie"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Sean Clements and Hayes Davenport.
 showDate:             
 releaseDate:          "2019-05-09 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

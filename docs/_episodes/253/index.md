@@ -2,7 +2,7 @@
 episodeNumber:        236
 title:                "LIVE from Esther&#39;s Follies at SXSW&#39;17 in Austin, TX"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest Doug Benson and audience members discuss movies, Dan & Spencer do some feminist role playing, and Dan gets complimented on his beer choice.
 showDate:             
 releaseDate:          "2017-03-16 07:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

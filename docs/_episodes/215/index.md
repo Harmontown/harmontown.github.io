@@ -2,7 +2,7 @@
 episodeNumber:        199
 title:                "Flesh Thing Made Of Four Strings Of Dude"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan and Jeff trip balls and your Mayor has a message from the Void. Jason Sudeikis returns for the first time since the movie tour along with first time guest Will Forte! Watch the video at harmontown.com/live! Become a member
 showDate:             
 releaseDate:          "2016-06-01 08:07:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

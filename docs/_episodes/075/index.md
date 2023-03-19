@@ -2,7 +2,7 @@
 episodeNumber:        61
 title:                "USS Hubris"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Titanic Sinclair and Mars Argo help examine the internet's war on the self. Comptroller McGathy refs a game of "Spencer or Goldberg" between Mayor Harmon and Kumail.
 showDate:             
 releaseDate:          "2013-06-24 20:49:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

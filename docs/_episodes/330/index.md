@@ -2,9 +2,8 @@
 episodeNumber:        313
 title:                "Ducks Don&#39;t Be Gay"
 image:                "episode-placeholder.jpg"
-description: >
-  Self destructive writer Dan Harmon claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis as his Comptroller and bearded dreamboat Spencer Crittenden as his Dungeon Master. It's like a neurotic town hall meeting, often with alcohol and famous people.
-  Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
+description: |-
+  Self destructive writer Dan Harmon claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis as his Comptroller and bearded dreamboat Spencer Crittenden as his Dungeon Master. It's like a neurotic town hall meeting, often with alcohol and famous people. Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
 showDate:             
 releaseDate:          "2018-12-06 11:00:00Z"
 duration:             "01:56:06"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

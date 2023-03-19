@@ -2,7 +2,7 @@
 episodeNumber:        110
 title:                "Dana Carvey Has Never Done Anything Wrong"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon welcomes Dana Carvey to Harmontown who for some reason apologizes for Wayne's World two and out of nowhere, Tenacious D of www.festivalsupreme.com appear out of thin air! In D&D, someone dies.
 showDate:             
 releaseDate:          "2014-08-04 18:55:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "feat. Tenacious D"
+#- "Example guest 2"
 
 audienceGuests:
 #- "Example guest 1"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

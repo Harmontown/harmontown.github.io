@@ -2,7 +2,7 @@
 episodeNumber:        13
 title:                "Back To The Future Part Kush"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan complains about things he's not allowed to complain about, then outs himself as the world's laziest gay rights and medical marijuana advocate. Plus, in D&D world: nothing happens!
 showDate:             "2012-10-01 04:00:00Z"
 releaseDate:          "2012-10-22 10:19:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

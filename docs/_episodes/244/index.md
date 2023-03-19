@@ -2,7 +2,7 @@
 episodeNumber:        227
 title:                "Harmontownunder: Sydney Opera House Night 2"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Night 2 of Harmontown's historic performances at the Sydney Opera House has a true opera unfold. Watch at harmontown.com/live. Become a member, we're independent. Help us make more shows!
 showDate:             
 releaseDate:          "2017-01-10 01:09:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

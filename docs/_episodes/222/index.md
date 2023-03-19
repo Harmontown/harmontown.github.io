@@ -2,7 +2,7 @@
 episodeNumber:        206
 title:                "Celebrity Highlander"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Of Search Party and Arrested Development Alia Shawkat stops by self-imposed sleepy Harmontown with a historical 30 minute MeUndies commercial. Visit MeUndies.com/feral. Become a member at harmontown.com/live
 showDate:             
 releaseDate:          "2016-07-30 04:18:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

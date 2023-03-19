@@ -2,7 +2,7 @@
 episodeNumber:        55
 title:                "Shahruz the Web Guru"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   After a well meaning stranger poisons the audience with beef fungus, Chinese Ironman, Eddie Murphy, John Landis and Yakov Smirnoff are discussed. In D&D, everyone dies.
 showDate:             
 releaseDate:          "2013-05-10 06:55:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

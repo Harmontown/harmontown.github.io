@@ -2,7 +2,7 @@
 episodeNumber:        56
 title:                "Language is Thought and Spiders are Black People"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   An all around provocapalooza surrounding language, race, religion, science, bugs, moms and fake dinosaurs. In D&D, the characters awake in Ye Olde Arena Milieu.
 showDate:             
 releaseDate:          "2013-05-13 17:30:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

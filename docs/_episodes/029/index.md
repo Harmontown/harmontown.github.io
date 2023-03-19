@@ -2,7 +2,7 @@
 episodeNumber:        16
 title:                "A Four Day March to the Butt&#39;s Expanse"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It's a Jareth-palooza as Harmenians descend on Hollywood dressed as David Bowie in Labyrinth for Halloween. Other topics include almost nothing!
 showDate:             
 releaseDate:          "2012-11-09 20:37:00Z"
@@ -70,6 +70,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

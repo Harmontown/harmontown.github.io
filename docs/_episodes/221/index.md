@@ -2,7 +2,7 @@
 episodeNumber:        205
 title:                "LIVE in San Diego 2016"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   There is no other Harmontown like this. In an effort to sell tickets Dan writes a Community Movie projected on screen. Watch ONLY at harmontown.com/live. It's $5 a month! Subscribe already. Live streaming, instant post-show downloads and get the podcast early if so inclined. Do it for one month, you have to see this.
 showDate:             
 releaseDate:          "2016-07-27 07:58:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "During A Comic Book Convention"
+#- "Example guest 2"
 
 audienceGuests:
 #- "Example guest 1"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

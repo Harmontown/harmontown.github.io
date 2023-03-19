@@ -2,7 +2,7 @@
 episodeNumber:        304
 title:                "Magic Shinto Hat"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Is Schrab getting too comfortable in his comfy chair, and what is he doing with his microphone?
 showDate:             
 releaseDate:          "2018-09-27 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

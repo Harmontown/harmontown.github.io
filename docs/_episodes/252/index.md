@@ -2,7 +2,7 @@
 episodeNumber:        235
 title:                "LIVE from the Cherokee Casino in West Siloam Springs, OK"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Featuring Dan Harmon, Jeff Bryan Davis, and Spencer Crittenden.
 showDate:             
 releaseDate:          "2017-03-08 07:30:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

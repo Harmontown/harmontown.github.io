@@ -2,7 +2,7 @@
 episodeNumber:        244
 title:                "God Made Us To Kill Us"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan explores new interactive options for the show, Rob Corddry and Rob Schrab weigh in on Dan's writing methods, while Guest Comptroller Brandon Johnson becomes Dan's angry writing coach. Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Corddry and Rob Schrab.
 showDate:             
 releaseDate:          "2017-05-10 08:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

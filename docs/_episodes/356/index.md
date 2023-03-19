@@ -2,7 +2,7 @@
 episodeNumber:        339
 title:                "Swinging Three Bats"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Rob Corddry is back! Dan tells us how to break into his house, Rob talks about his time at The Daily Show, and mountain lions do what they do. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Corddry.
 showDate:             
 releaseDate:          "2019-07-04 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        84
 title:                "Low Jack For Your Back Pack, Crackerjack!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon and his Comptroller Jeff Davis return from Scotland where Dan proposed to Erin McGathy. Then, uhh, Mitch Hurwitz, Harris Wittels, Kumail Nanjiani and Steve Agee join the stage... stop reading and get in here!
 showDate:             
 releaseDate:          "2014-01-07 00:33:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

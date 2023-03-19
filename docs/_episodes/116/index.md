@@ -2,7 +2,7 @@
 episodeNumber:        101
 title:                "ePaloma"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   A hungover stroll through such topics as bumper stickers, misogyny, Wolfenstein and how horrifying that game must be for Germans. Kumail Nanjiani's back and we welcome DeMorge Brown to the stage!
 showDate:             
 releaseDate:          "2014-05-26 07:47:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

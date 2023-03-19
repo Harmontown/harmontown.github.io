@@ -2,7 +2,7 @@
 episodeNumber:        97
 title:                "Long Brown Blood"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Preparing for its first month hiatus, Harmontown goes for a big blow out that tackles the usual; racism, censorship, health, mortality etc. Spencer returns for D&D to promote Friendship & Cigarettes.
 showDate:             
 releaseDate:          "2014-03-31 19:58:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

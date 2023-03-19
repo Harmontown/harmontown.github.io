@@ -2,7 +2,7 @@
 episodeNumber:        102
 title:                "Sleepy Canyoneer"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Tony Danza can read Dan's tweets; everyone shares crying stories and there is a sleepy canyoneer in the crowd.
 showDate:             
 releaseDate:          "2014-06-02 09:54:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        167
 title:                "Confirmed By A Well Respected Arborist"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan and Erin get a divorce, The Bootsins return and are torn up about a dying eucalyptus tree, Curtis Armstrong comptrolls, Colin Hanks guests... buckle up. watch the video on harmontown.com/live
 showDate:             
 releaseDate:          "2015-10-14 18:03:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

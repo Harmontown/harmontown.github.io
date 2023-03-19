@@ -2,7 +2,7 @@
 episodeNumber:        293
 title:                "LIVE from The Cradle of Aviation Museum in Long Island, NY"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Live from The Cradle of Aviation Museum in Long Island, NY. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
 showDate:             
 releaseDate:          "2018-07-05 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

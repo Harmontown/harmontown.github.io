@@ -2,7 +2,7 @@
 episodeNumber:        363
 title:                "Nanjianimax"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The gang gets back together one more time to catch up on everything since the show's finale. Special guests: Rob Schrab, Kumail Nanjiani and Emily V. Gordon!
 showDate:             
 releaseDate:          "2021-03-18 07:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              False
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

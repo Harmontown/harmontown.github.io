@@ -2,7 +2,7 @@
 episodeNumber:        98
 title:                "HARMONTOWN NIGHTS PREVIEW"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   ???
 showDate:             
 releaseDate:          "2014-05-03 00:59:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

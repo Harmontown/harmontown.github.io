@@ -2,7 +2,7 @@
 episodeNumber:        252
 title:                "Epeephany"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, and Steve Levy.
 showDate:             
 releaseDate:          "2017-07-19 19:36:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        36
 title:                "Harmoncountry: Madison, WI"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Atonement turns to struggle within a dark cavern. Dan's friend loses an appendage. His Improv mentor is there, but Jeff is leaving?! The audience shouts weird things! Latinos are everywhere!
 showDate:             
 releaseDate:          "2013-01-26 19:25:00Z"
@@ -75,6 +75,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

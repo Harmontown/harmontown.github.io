@@ -2,7 +2,7 @@
 episodeNumber:        132
 title:                "You Make My Shadow Run with David Cross!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Kumail comptrolls, Dan tries to cover the zeitgeist and is joined by David Cross! Who sits in while the gang begin their Shadow Run campaign. Music by YACHT.
 showDate:             
 releaseDate:          "2015-01-28 20:43:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

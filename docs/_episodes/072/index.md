@@ -2,7 +2,7 @@
 episodeNumber:        58
 title:                "I&#39;m Like Very Science"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon explains why an episode was lost; soon to be uncontextually quoted frivolity ensues. Jeff reveals he's psychic; Kumail's resultant bewilderment preempts D&D.
 showDate:             
 releaseDate:          "2013-06-08 19:45:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

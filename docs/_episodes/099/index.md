@@ -2,7 +2,7 @@
 episodeNumber:        85
 title:                "Gender Neutrality"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   A mysterious package sparks a conversation about gender roles in our society; and upon colonizing the moon, is it even possible to raise children gender neutral? Later, Jeff shares kind of a f****d up story.
 showDate:             
 releaseDate:          "2014-01-13 19:38:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

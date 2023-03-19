@@ -2,7 +2,7 @@
 episodeNumber:        68
 title:                "Jolly Rodger"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   In the middle of working on Community 501, a very tired Mayor Harmon takes to a crowd of Harmenians and revels in their eccentricities. In D&D, an Ogre cums.
 showDate:             
 releaseDate:          "2013-08-19 22:57:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        107
 title:                "Clever Girl"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon perfects the apology, Erin McGathy runs an epic Game Corner and in D&D the gang encounter a black dragon.
 showDate:             
 releaseDate:          "2014-07-14 20:36:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

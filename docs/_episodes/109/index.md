@@ -2,7 +2,7 @@
 episodeNumber:        95
 title:                "Bill Martigans"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The Harmontown dream team; Dan Harmon, Jeff Bryan Davis, Erin McGathy, Mitch Hurwitz and Kumail Nanjiani recap SXSW; Fred Phelps death bed and later, Spencer returns for a roaring session of D&D!
 showDate:             
 releaseDate:          "2014-03-17 18:41:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

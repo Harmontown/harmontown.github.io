@@ -2,7 +2,7 @@
 episodeNumber:        289
 title:                "Huh Huh Huh Huh Huh Huh"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Our first show at the beautiful Dynasty Typewriter theater kicks off with an audience for the first time in months. Brandon Johnson haunts the theater, Rob Schrab makes himself mini comptroller with a mini podium, M.C. Gun Control returns, and Spencer ...
 showDate:             
 releaseDate:          "2018-06-07 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

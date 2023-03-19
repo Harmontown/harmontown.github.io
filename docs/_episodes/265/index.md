@@ -2,7 +2,7 @@
 episodeNumber:        248
 title:                "Come Out and Fight Like a Ghost"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan and Jeff take their brand new role playing characters out for a spin. Christina Oh talks movies with Dan. Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Christina Oh.
 showDate:             
 releaseDate:          "2017-06-21 12:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

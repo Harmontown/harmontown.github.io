@@ -2,7 +2,7 @@
 episodeNumber:        96
 title:                "SWAN OF DURG-A-DURG"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Following the 826LA charity event, Mayor Harmon is met by an agent of compromise when a psychologist takes the stage. Later, Erin McGathy attempts her first Dungeon Mastering in D&D!
 showDate:             
 releaseDate:          "2014-03-24 21:53:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

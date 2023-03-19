@@ -2,7 +2,7 @@
 episodeNumber:        208
 title:                "Kratom Barrel"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan riffs on what happens when Michael Winslow goes to war with Radiohead. Later on, transgender back rubs. Watch the video at harmontown.com/live!
 showDate:             
 releaseDate:          "2016-08-10 20:52:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

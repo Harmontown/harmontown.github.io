@@ -2,7 +2,7 @@
 episodeNumber:        242
 title:                "The Final Meltdown"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The end of an era when Harmontown performs its last show on the stages of Nerdmelt in the back of Meltdown comics with the help of Mitch Hurwitz.
 showDate:             
 releaseDate:          "2017-04-26 08:03:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

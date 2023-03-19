@@ -2,7 +2,7 @@
 episodeNumber:        190
 title:                "Pineapple"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   A packed episode leads to three Robs and the roast of Jimmy Carrane. Watch the video at harmontown.com/live! Opening music by Titanic Sinclair! Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Rob Corddry, Jimmy Carrane, Cameron Esposito and DeMorge Brown....
 showDate:             
 releaseDate:          "2016-03-30 05:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

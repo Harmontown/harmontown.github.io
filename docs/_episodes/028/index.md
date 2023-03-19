@@ -2,7 +2,7 @@
 episodeNumber:        15
 title:                "Don&#39;t Ask Black People Time Travel Questions"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan has nothing, so he answers twitter questions. Adam Goldberg takes over the show, then, Dan interviews ethnic people. Plus: in D&D world: the party levels up!
 showDate:             
 releaseDate:          "2012-11-02 17:31:00Z"
@@ -73,6 +73,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

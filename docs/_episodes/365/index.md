@@ -2,9 +2,8 @@
 episodeNumber:        348
 title:                "Bequeathing Teaspoons"
 image:                "episode-placeholder.jpg"
-description: >
-  Heather Anne Campbell is back! Dan demonstrates dog barks, shares some goat facts, interrupts Schrab, and sadly announces the end of the podcast. 
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Heather Anne Campbell.
+description: |-
+  Heather Anne Campbell is back! Dan demonstrates dog barks, shares some goat facts, interrupts Schrab, and sadly announces the end of the podcast.  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Heather Anne Campbell.
 showDate:             
 releaseDate:          "2019-09-12 10:00:00Z"
 duration:             "01:29:15"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        129
 title:                "Best Of A Bad Lot"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown welcomes the return of comptroller Jeff Davis, Mayor Harmon wants you off his lawn and creator of The IT Crowd, Graham Linehan, meets Dan on stage for the first time and they exchange their transcontinental show runner blues.
 showDate:             
 releaseDate:          "2014-12-08 21:05:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

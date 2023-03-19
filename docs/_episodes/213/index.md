@@ -2,7 +2,7 @@
 episodeNumber:        197
 title:                "Stop Singing And Make A Chair"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Your Mayor poops his pants again, flat earth theory and pulling the plug on Rob Schrab. Subscribe for $5 at harmontown.com/live! Live streaming videos, help us big Harmontown bigger and better!
 showDate:             
 releaseDate:          "2016-05-18 05:15:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        159
 title:                "Firetruck"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Our friends Bobcat Goldthwait and Curtis Armstrong return to the show with plenty of insane stories to share. Watch the live at harmontown.com/live and become a member!
 showDate:             
 releaseDate:          "2015-08-19 06:13:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

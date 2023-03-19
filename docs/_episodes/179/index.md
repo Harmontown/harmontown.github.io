@@ -2,7 +2,7 @@
 episodeNumber:        164
 title:                "Peak Hitler"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Senator Bernie Sanders returns, Harmon thinks of the most insulting thing to tattoo above your penis and Shadowrun is faced with a newfound time limit. Watch the video and become a member at harmontown.com!
 showDate:             
 releaseDate:          "2015-09-23 05:32:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

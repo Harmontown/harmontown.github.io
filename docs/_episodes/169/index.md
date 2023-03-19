@@ -2,7 +2,7 @@
 episodeNumber:        154
 title:                "Taye Brigston, the Littlest Show Promoter"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Meet Taye Brigston the world's Littlest Show Promoter of Tiny You! Become a member and watch the video! harmontown.com/live
 showDate:             
 releaseDate:          "2015-07-07 04:12:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

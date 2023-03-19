@@ -2,7 +2,7 @@
 episodeNumber:        109
 title:                "Jaime Lannister&#39;s Hand"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon discusses ComicCon, we enter the Animal Corner, finds out Rogaine will kill your cat and Kumail returns just in time for a rousing round of D&D.
 showDate:             
 releaseDate:          "2014-07-28 19:52:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

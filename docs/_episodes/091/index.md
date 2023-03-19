@@ -2,7 +2,7 @@
 episodeNumber:        77
 title:                "Carpool Diem"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   In the wake of Lou Reed's passing, in which this episode is dedicated to; a sad, stripped down, sleepy and introspective Velvet Harmontown. Plus, the introduction of Harmontown's new character "Johnny Jackhammer." In DnD, the gang is helpless to watch Yearch "less than zero."
 showDate:             
 releaseDate:          "2013-10-28 08:39:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

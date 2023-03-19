@@ -2,7 +2,7 @@
 episodeNumber:        183
 title:                "Disproportionate"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Our friend Colin joins us to fill us in what it's like to be a little person. Brought to you by Balls, it's whats for dinner. Watch the video at harmontown.com/live! Become a member!
 showDate:             
 releaseDate:          "2016-02-03 06:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

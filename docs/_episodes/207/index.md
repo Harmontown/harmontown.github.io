@@ -2,7 +2,7 @@
 episodeNumber:        191
 title:                "Monochromophiliacs"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It's a whodunit with Paul F. Tompkins on Harmontown!
 showDate:             
 releaseDate:          "2016-04-06 05:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

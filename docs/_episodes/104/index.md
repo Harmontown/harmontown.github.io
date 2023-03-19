@@ -2,7 +2,7 @@
 episodeNumber:        90
 title:                "CyberChrist and Stubnortz"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon has some qualms with Uber, we check in with Adam Goldberg and SuperEgo's Matt Gourley settles a dispute during D&D.
 showDate:             
 releaseDate:          "2014-02-10 07:40:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        
 title:                "Lost Episode #14"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Lost Episode #14
 showDate:             
 releaseDate:          
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        94
 title:                "Live From SXSW &#39;14 + Movie Q&amp;A"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   From Austin, TX, Harmontown is live from the Liberty Tavern and SXSW. Bonus audio from the Q & A following the premiere of the "Harmontown" documentary.
 showDate:             
 releaseDate:          "2014-03-10 22:26:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

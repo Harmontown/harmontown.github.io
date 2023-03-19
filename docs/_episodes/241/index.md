@@ -2,7 +2,7 @@
 episodeNumber:        224
 title:                "Harmontownunder: Brisbane, Australia"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown journeys to Australia! First stop, Brisbane.
 showDate:             
 releaseDate:          "2016-12-21 15:59:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

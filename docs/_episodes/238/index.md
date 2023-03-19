@@ -2,7 +2,7 @@
 episodeNumber:        221
 title:                "It Happened In Silverlake"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   In the wake of an upsetting election and racial tension, Harmontown welcomes the Avenger's Elizabeth Olsen, Rick and Morty's Brandon Johnson and our first musical guest ever Babes to suss it all out. Ha-ha-ha ha-ha ha ha-ha.
 showDate:             
 releaseDate:          "2016-11-16 11:42:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

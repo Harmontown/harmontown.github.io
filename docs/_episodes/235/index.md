@@ -2,7 +2,7 @@
 episodeNumber:        218
 title:                "Walter Blanco"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Drew Ackerman of the Sleep With Me podcast tries to test out his ability to put people to sleep on the Harmontown fan. Speaking of fans, one of the weirdest ones ever takes the stage. Watch the video at harmontown.com/live
 showDate:             
 releaseDate:          "2016-10-27 00:45:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,9 +2,8 @@
 episodeNumber:        353
 title:                "Nice Dunking, Cool Swishing"
 image:                "episode-placeholder.jpg"
-description: >
-  Actor/Comedian Flula Borg astounds Jeff with his sports knowledge and 1980's American pop culture references, teaches us his favorite German words, and helps Dan become the best hype man he can be.
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Flula Borg.
+description: |-
+  Actor/Comedian Flula Borg astounds Jeff with his sports knowledge and 1980's American pop culture references, teaches us his favorite German words, and helps Dan become the best hype man he can be. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Flula Borg.
 showDate:             
 releaseDate:          "2019-10-17 10:00:00Z"
 duration:             "02:01:53"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

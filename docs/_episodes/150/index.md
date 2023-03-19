@@ -2,7 +2,7 @@
 episodeNumber:        135
 title:                "Wide"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Post Valentine's Day Harmon is burnt out and declares it to be a bad show, then throws to Twitter and takes us along a musical journey. This is episode is so wide.
 showDate:             
 releaseDate:          "2015-02-18 18:49:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

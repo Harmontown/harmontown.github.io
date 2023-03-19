@@ -2,7 +2,7 @@
 episodeNumber:        176
 title:                "I Don&#39;t Want To Die!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Kyle, heart transplant survivor joins the stage and Rob Schrab guest comptrolls and makes Dan feel bad about not hanging out with him more. Watch the video at harmontown.com/live! Become a member!
 showDate:             
 releaseDate:          "2015-12-08 11:38:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

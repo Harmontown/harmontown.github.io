@@ -2,7 +2,7 @@
 episodeNumber:        88
 title:                "My Whole Life Is A Smile"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown commemorates Phillip Seymour Hoffman, discusses happiness, takes a Sports Corner break and in Pathfinder, Laan-Ev introduces the gang to his friends.
 showDate:             
 releaseDate:          "2014-02-03 21:41:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

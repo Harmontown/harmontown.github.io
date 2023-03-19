@@ -2,7 +2,7 @@
 episodeNumber:        288
 title:                "The Roadhouse Jews"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   In our final episode at the Starburns Castle before moving to our new home, we welcome actor and fellow Podcaster Johnny Pemberton. Dan & Jeff's hot button issues this week include squeakers, cold cases, Kanye and the logistics of a human centipede. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Johnny Pemberton and Steve Levy.
 showDate:             
 releaseDate:          "2018-05-23 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

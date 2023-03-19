@@ -2,7 +2,7 @@
 episodeNumber:        2
 title:                "The Inception Of Girlfriends"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   While Jeff Davis works abroad, Guest Comptroller Erin McGathy ("This Feels Terrible") joins Mayor Harmon for an in depth look at overrated masterpieces, passive aggressive text messages and how to destroy someone else's relationship on stage.
 showDate:             "2012-07-16 04:00:00Z"
 releaseDate:          "2012-07-20 04:22:00Z"
@@ -53,6 +53,7 @@ guests:
 
 audienceGuests:
 - "Tiffany"
+#- "Example guest 2"
 
 images:
 #- "/assets/images/episodes/015/example-1.png"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

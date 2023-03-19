@@ -2,7 +2,7 @@
 episodeNumber:        35
 title:                "Harmoncountry: Chicago, IL"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon starts Atoning With The Father when he presents a day in his fantasy TV writer life, confronts a drunk Darth Vader, then adopts a 15 year old version of himself. The night ends with an impromptu rap battle before new Harmenian Kahleel takes the throne.
 showDate:             
 releaseDate:          "2013-01-24 23:47:00Z"
@@ -74,6 +74,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        138
 title:                "Hologram Crawford"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   We meet the laziest rapper, Curtis Armstrong becomes the latest member of the Harmontown family and the plot in Shadowrun thickens.
 showDate:             
 releaseDate:          "2015-03-11 22:37:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

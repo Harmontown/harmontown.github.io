@@ -2,7 +2,7 @@
 episodeNumber:        104
 title:                "Death To Superman"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Its just Mayor Harmon, Jeff and Spencer and Dan catches you up in World Cup corner and later, Dan improvises his own Superman movie. In D&D, the gang becomes a literal gang and finally loots.
 showDate:             
 releaseDate:          "2014-06-23 19:50:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

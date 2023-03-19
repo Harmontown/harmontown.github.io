@@ -2,7 +2,7 @@
 episodeNumber:        5
 title:                "Confessions Of An Alcoholic Mars Rover"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Jeff blows the whistle on NASA's secret agenda and Dan blows surprise guest Chris Hardwick!
 showDate:             "2012-08-07 04:00:00Z"
 releaseDate:          "2012-08-17 02:51:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "Chris Hardwick"
+#- "Example guest 2"
 
 audienceGuests:
 - "Rob Schrab"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

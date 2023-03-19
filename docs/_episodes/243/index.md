@@ -2,7 +2,7 @@
 episodeNumber:        226
 title:                "Harmontownunder: Sydney Opera House Night 1"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Night 1 of Harmontown at the historic Sydney Opera House in Sydney Australia!
 showDate:             
 releaseDate:          "2017-01-05 00:22:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

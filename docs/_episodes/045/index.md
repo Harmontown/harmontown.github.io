@@ -2,7 +2,7 @@
 episodeNumber:        32
 title:                "Harmoncountry: Arlington, VA"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The mayor and comptroller spend their night in the X Files capitol investigating ghosts, aliens, incest and 9-11 before playing D&D with all black people.
 showDate:             
 releaseDate:          "2013-01-22 01:53:00Z"
@@ -77,6 +77,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

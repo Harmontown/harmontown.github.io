@@ -2,7 +2,7 @@
 episodeNumber:        279
 title:                "Oh Hitler, We Hardly Knew Ye"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It's Oscar night! Dan discusses the current political landscape, the value politicians are bringing to the table, and where we should go next. Also, Spencer thinks the NRA has some dank ass memes. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Critten...
 showDate:             
 releaseDate:          "2018-03-07 11:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

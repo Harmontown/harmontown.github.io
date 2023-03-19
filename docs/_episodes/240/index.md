@@ -2,7 +2,7 @@
 episodeNumber:        223
 title:                "Charles Manson Shark Tank"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Ptolemy Slocum.
 showDate:             
 releaseDate:          "2016-12-07 20:08:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

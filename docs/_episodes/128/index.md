@@ -2,7 +2,7 @@
 episodeNumber:        113
 title:                "FlagCop"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon is possibly a bit jealous of Spencer and Real Abed's budding friendship, and later we welcome Demorge Brown to the mix which spawns a TV pilot pitch, "FlagCop".
 showDate:             
 releaseDate:          "2014-08-25 20:32:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

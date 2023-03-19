@@ -2,7 +2,7 @@
 episodeNumber:        170
 title:                "We Will Be There To Service The Aquarium"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Back by popular demand, Rob Schrab returns to the show even to Harmon's detriment. Watch the video at harmontown.com/live! Become a member!
 showDate:             
 releaseDate:          "2015-11-03 23:59:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

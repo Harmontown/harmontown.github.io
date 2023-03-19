@@ -2,7 +2,7 @@
 episodeNumber:        220
 title:                "Night 2 At The 2016 New York City Comedy Festival!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   For the first time EVER it's Spencer and Dan. Two stools, one show runner, one game master. Watch both nights at harmontown.com/live, become a member!
 showDate:             
 releaseDate:          "2016-11-11 07:10:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

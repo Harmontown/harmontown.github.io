@@ -2,7 +2,7 @@
 episodeNumber:        
 title:                "Lost Episode #6"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest Donald Glover
 showDate:             "2011-10-17 04:00:00Z"
 releaseDate:          
@@ -48,7 +48,7 @@ external:
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 guests:
-#- "Example guest 1"
+- "Donald Glover"
 #- "Example guest 2"
 
 audienceGuests:
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

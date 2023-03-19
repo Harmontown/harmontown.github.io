@@ -2,7 +2,7 @@
 episodeNumber:        232
 title:                "You&#39;re An Ant To My Cum"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Richie Keen, Dino Stamatopoulos, Scott Adsit, Britta Phillips, Rob Schrab and Steve Levy.
 showDate:             
 releaseDate:          "2017-02-15 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

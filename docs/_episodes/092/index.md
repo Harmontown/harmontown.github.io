@@ -2,7 +2,7 @@
 episodeNumber:        78
 title:                "Earthshine"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   For the second time in Harmontown history a bottle of moonshine appears. It's Integrity vs. dishonesty, Baby Boomers vs. Gen X'ers vs. Millennials, it's Mayor Harmon vs. the bathroom at Meltdown Comics, it's Adam vs. Levi, it's Harmontown vs. the world!
 showDate:             
 releaseDate:          "2013-11-05 01:58:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

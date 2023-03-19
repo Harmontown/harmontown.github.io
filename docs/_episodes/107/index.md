@@ -2,7 +2,7 @@
 episodeNumber:        93
 title:                "McConaissance"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon tearfully reflects on the passing of Harold Ramis and while the Academy Awards ceremony takes place mere blocks away, Harmontown hosts its own Oscars special.
 showDate:             
 releaseDate:          "2014-03-03 20:32:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

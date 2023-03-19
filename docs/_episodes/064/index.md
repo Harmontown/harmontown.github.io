@@ -2,7 +2,7 @@
 episodeNumber:        51
 title:                "Bikers Without Bikes"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Bobcat Goldthwait returns with his friend Robin Williams and an amazingly sad story from a very dark carnival. Then, Robin and Bobcat leave, and it's kind of hard to follow them, so Mayor Harmon plays D&D and talks to a girl about sexism or something.
 showDate:             
 releaseDate:          "2013-04-08 03:57:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "Robin Williams"
+#- "Example guest 2"
 
 audienceGuests:
 #- "Example guest 1"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

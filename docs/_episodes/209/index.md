@@ -2,7 +2,7 @@
 episodeNumber:        193
 title:                "Ghost Dinosaurs"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Deadbeat's Tyler Labine plus the return of Kumail Nanjiani with Rob Schrab, Spencer and Jeff all on stage at once! Watch the video at harmontown.com/live! Music by Jeordie White
 showDate:             
 releaseDate:          "2016-04-20 05:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

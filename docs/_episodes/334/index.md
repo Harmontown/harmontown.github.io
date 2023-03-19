@@ -2,9 +2,8 @@
 episodeNumber:        317
 title:                "Rich Man&#39;s NASCAR"
 image:                "episode-placeholder.jpg"
-description: >
-  Dan listened to last week's show while sober and with some comments and clarifications, along with the return of Jesse Camp.
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Jesse Camp.
+description: |-
+  Dan listened to last week's show while sober and with some comments and clarifications, along with the return of Jesse Camp. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Jesse Camp.
 showDate:             
 releaseDate:          "2019-01-17 11:00:00Z"
 duration:             "02:09:32"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

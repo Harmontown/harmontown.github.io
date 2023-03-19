@@ -2,7 +2,7 @@
 episodeNumber:        62
 title:                "Blinking 12:00"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon has nothing to discuss so he opens it to the floor. Super powers are debated. Gifts are given. A special guest returns to D&D.
 showDate:             
 releaseDate:          "2013-07-01 20:34:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        3
 title:                "If They Have Cubs, We&#39;re Already Dead"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   An unusually quiet night in Harmontown gives way to eruptions of arm wrestling, wolf hunting, dungeon mastering and child abuse.
 showDate:             "2012-07-23 04:00:00Z"
 releaseDate:          "2012-07-30 20:25:00Z"
@@ -70,6 +70,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        179
 title:                "LIVE at San Francisco Sketchfest 2016!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown returns to San Francisco Sketchfest for porn, adult diapers, breast cancer awareness and pure insanity. Watch the video at harmontown.com/live! Become a member for $5 a month.
 showDate:             
 releaseDate:          "2016-01-13 07:59:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        75
 title:                "Selling Like Hot Snakes"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon is joined once again by guest Rob Schrab and Erin McGathy plays the role of Comptroller. Spontaneous combustion, peeing your pants and letters from reddit await you in this weeks Harmontown!
 showDate:             
 releaseDate:          "2013-10-08 00:08:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

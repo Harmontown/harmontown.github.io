@@ -2,7 +2,7 @@
 episodeNumber:        100
 title:                "Boner-Hurt Kansas"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It is the Centepisodial Spectacular of Harmontown! Adam Goldberg runs a quiz against a super fan and your Mayor to see who knows more about Harmontown.
 showDate:             
 releaseDate:          "2014-05-19 20:36:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

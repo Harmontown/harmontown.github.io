@@ -2,7 +2,7 @@
 episodeNumber:        349
 title:                "Creamweavers"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan makes a sweater out of cum, and debates with Jeff the pros of being a stander wiper. Dave Foley joins in with tales from The Kids in the Hall and NewsRadio. Who wants a pocket shaman now? Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Dave Foley.
 showDate:             
 releaseDate:          "2019-09-19 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

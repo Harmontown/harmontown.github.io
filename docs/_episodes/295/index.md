@@ -2,7 +2,7 @@
 episodeNumber:        278
 title:                "I Will Put Your Kids on Blast"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The Walking Dead creator, Robert Kirkman, joins Rob Schrab on stage to talk comics, writing and more. Dan tries putting things on blast, to varying success. Jeff plays a listener submitted remix of Schrab's dog's freakout. Featuring Dan Harmon, Jeff Br...
 showDate:             
 releaseDate:          "2018-02-28 11:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

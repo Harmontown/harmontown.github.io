@@ -2,7 +2,7 @@
 episodeNumber:        189
 title:                "Monster Man"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens. Watch the video at harmontown.com! Become a member! Opening song by Babes. feat. Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Andrew Weinberg, Steve Levy and DeMorge Brown
 showDate:             
 releaseDate:          "2016-03-23 04:28:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

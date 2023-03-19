@@ -2,8 +2,8 @@
 episodeNumber:        
 title:                "Lost Episode #16"
 image:                "episode-placeholder.jpg"
-description: >
-  Harmontown at Outside Lands
+description: |-
+  Harmontown at Outside Lands.  The episode is [lost to history](https://twitter.com/thesixler/status/762031703493718017).
 showDate:             
 releaseDate:          
 duration:             
@@ -12,7 +12,7 @@ isTrailer:            false
 hasExplicitLanguage:  false
 soundFile:            
 
-venue:                
+venue:                "Outside Lands Festival, San Francisco, CA"
 comptroller:          
 gameMaster:           
 hasDnD:               
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

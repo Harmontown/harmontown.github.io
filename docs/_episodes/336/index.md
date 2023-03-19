@@ -2,9 +2,8 @@
 episodeNumber:        319
 title:                "Goodbye Sam"
 image:                "episode-placeholder.jpg"
-description: >
-  Dan's future mother-in-law tells an absolute shocker of a story about a scarf. Spencer is gone, Dan fails a polygraph regarding his potential role in the murder.
-  Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab, Randee Heller, Bob Garrett and Cody Heller.
+description: |-
+  Dan's future mother-in-law tells an absolute shocker of a story about a scarf. Spencer is gone, Dan fails a polygraph regarding his potential role in the murder. Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab, Randee Heller, Bob Garrett and Cody Heller.
 showDate:             
 releaseDate:          "2019-01-31 11:00:00Z"
 duration:             "02:13:49"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

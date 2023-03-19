@@ -2,7 +2,7 @@
 episodeNumber:        123
 title:                "LIVE from Austin, TX with LEVAR BURTON"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown goes to Austin and holy sh*t, LeVar Burton is the comptroller.
 showDate:             
 releaseDate:          "2014-10-29 10:45:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

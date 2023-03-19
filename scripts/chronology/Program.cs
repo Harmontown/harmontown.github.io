@@ -1,19 +1,12 @@
-﻿using YamlDotNet.Serialization;
-using YamlDotNet.Serialization.NamingConventions;
+﻿using System.Text.Json;
 
 // var externalImporter = new ExternalSourcesImporter();
 // externalImporter.DeriveChronology();
 
-const string Output = "../../data/chronology.yaml";
+const string Output = "../../data/chronology.json";
 
-var serialiser = 
-  new SerializerBuilder()
-    .WithNamingConvention(CamelCaseNamingConvention.Instance)
-    .DisableAliases()
-    .Build();
+var extractor = new FrontMatterExtractor();
 
-var extractor = new FrontMatterExtractor(); 
+var episodes = extractor.GetEpisodes().ToList();
 
-var episodes =  extractor.GetEpisodes().ToList();
-
-File.WriteAllText(Output, serialiser.Serialize(episodes));
+File.WriteAllText(Output, JsonSerializer.Serialize(episodes, new JsonSerializerOptions { WriteIndented = true }));

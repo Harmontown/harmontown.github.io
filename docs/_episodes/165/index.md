@@ -2,7 +2,7 @@
 episodeNumber:        150
 title:                "Where My Technochromes At?"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan can see more colors than the average person and doesn't care because colors are dumb. Curtis Armstrong comptrolls. Watch the live video at harmontown.com/live!
 showDate:             
 releaseDate:          "2015-06-09 23:30:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

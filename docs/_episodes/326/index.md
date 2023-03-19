@@ -2,7 +2,7 @@
 episodeNumber:        309
 title:                "Firehouse Ghost"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan and Spencer welcome our latest sponsor "MeOnesie" to the show, and our favorite socialist Josh Androsky pops in to explain Measure B. Antonio Banderas also premiers his latest musical, and is not to be missed.
 showDate:             
 releaseDate:          "2018-11-08 11:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

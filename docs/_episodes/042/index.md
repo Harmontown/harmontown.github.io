@@ -2,7 +2,7 @@
 episodeNumber:        29
 title:                "Harmoncountry: Brooklyn, NY"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   New York's biggest borrough rolls out the longest red carpet in Harmoncountry yet. Jeff and Dan improvise a Black Mexican guest's screenplay. Jason Sudeikis drops by and jumps into D&D with astonishing vigor. Dan does a bad job of supporting Erin's PMS, then stage dives.
 showDate:             
 releaseDate:          "2013-01-17 17:27:00Z"
@@ -73,6 +73,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

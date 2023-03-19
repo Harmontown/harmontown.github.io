@@ -2,7 +2,7 @@
 episodeNumber:        302
 title:                "You Can Freeze Me For Seven Dollars"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan is baffled by an Emmy seat filler, Schrab has a new favorite TV show, and what happened to Wicker Man? Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.
 showDate:             
 releaseDate:          "2018-09-13 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

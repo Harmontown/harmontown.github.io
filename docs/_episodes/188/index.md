@@ -2,7 +2,7 @@
 episodeNumber:        172
 title:                "LIVE at The Gramercy, NY Comedy Festival 2015: Night 1"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Get ready for two nights of the craziest Harmontowns ever.
 showDate:             
 releaseDate:          "2015-11-18 04:50:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

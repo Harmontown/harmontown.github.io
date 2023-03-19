@@ -2,7 +2,7 @@
 episodeNumber:        86
 title:                "Constitutional Belieber"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon is joined by Alie & Georgia of the Slumber Party podcast to defend the constitutional rights of Justin Bieber. In D&D, Sharpie doesn't like Lineve's tone.
 showDate:             
 releaseDate:          "2014-01-20 18:43:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

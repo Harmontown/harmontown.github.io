@@ -2,7 +2,7 @@
 episodeNumber:        198
 title:                "Complete Access To Air"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest comptroller Cameron Esposito, a baseball team clad Rhea Butcher, a just wrapped Great Minds director Heath Cullen, our transgender friend Jane Cook equipped with a key to Harmon's house, a poked in the stomach Spencer and a very happy Harmon on a stellar episode Watch the video at harmontown.com/live! Become a member!
 showDate:             
 releaseDate:          "2016-05-25 05:20:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

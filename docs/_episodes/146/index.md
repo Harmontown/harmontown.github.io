@@ -2,7 +2,7 @@
 episodeNumber:        131
 title:                "Dirty Little Potato People"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown 2015 is here! Back To The Future 2 conspiracies, Ireland and D&D goes on hiatus as the gang begins a 2015 ShadowRun campaign.
 showDate:             
 releaseDate:          "2015-01-14 21:24:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

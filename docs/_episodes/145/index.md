@@ -2,7 +2,7 @@
 episodeNumber:        130
 title:                "There&#39;s Nothing To Be Ashamed Of Except America"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It's the last Harmontown of 2014 and the first time we've had the whole gang together in a while. Dan Harmon, Jeff Davis, Kumail Nanjiani, Erin McGathy, Spencer Crittendon and guest John Roy talk sniffers. Video available at Harmontown.com!
 showDate:             
 releaseDate:          "2014-12-16 01:50:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

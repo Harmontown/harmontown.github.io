@@ -2,7 +2,7 @@
 episodeNumber:        72
 title:                "Jib Jab Squeeb Squab"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Rejoice! Kumail is back and joins Dan and Jeff on stage along with comedians John Roy, James Adomian and the entire front row.
 showDate:             
 releaseDate:          "2013-09-16 19:08:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        151
 title:                "Row, Row, Row Your Boat"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   In what has become an instant classic episode of Harmontown, Mayor Harmon is joined by Paget Brewster, Curtis Armstrong, Jeff Davis, Erin McGathy, Spencer Crittenden, Demorge Brown and more for a non-stop insane episode. Watch the video at Harmontown.com/live! Become a member!
 showDate:             
 releaseDate:          "2015-06-17 09:06:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        267
 title:                "We Killed Charles Manson"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest Comptroller Brandon Johnson and actor Rob Huebel return to the show. Rob gives us the inside information about his new show, while Brandon introduces us to Tiny Brandon. Dan's worried he might have played a role in Charles Manson's death. Featuri...
 showDate:             
 releaseDate:          "2017-11-22 16:45:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

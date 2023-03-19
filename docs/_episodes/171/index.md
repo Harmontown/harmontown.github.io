@@ -2,7 +2,7 @@
 episodeNumber:        156
 title:                "Poop Is Temporary, Money Is Forever"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   How big is a bulls urethra? Dan has a video game romance he's guilty about and the gang tries to initiate some butt chuggin'. Become a member! Only $5 and get the HD live stream and near instant download after the show!
 showDate:             
 releaseDate:          "2015-07-22 06:24:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

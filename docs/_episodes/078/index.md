@@ -2,7 +2,7 @@
 episodeNumber:        64
 title:                "I Would Be Mega Black"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon strives to understand whether or not he's a 9/11 conspiracy theorist with special guest James Urbaniak. Also: race and stuff.
 showDate:             
 releaseDate:          "2013-07-15 10:18:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "James Urbaniak"
+#- "Example guest 2"
 
 audienceGuests:
 #- "Example guest 1"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        280
 title:                "Let&#39;s Talk About Prostate Massage"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   The show takes a decidedly weird turn from the start. Guests Rob Schrab and DeMorge Brown talk with Dan, Jeff and Spencer about enemas, prostate massage and more. Steve Levy shares Diarrhea Junior's real life origin story. Featuring Dan Harmon, Jeff Br...
 showDate:             
 releaseDate:          "2018-03-14 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

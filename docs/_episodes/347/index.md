@@ -2,9 +2,8 @@
 episodeNumber:        330
 title:                "All Dicks Are Webbed"
 image:                "episode-placeholder.jpg"
-description: >
-  Despite walking on stage sick as a dog, audience adoration miraculously heals Dan in real time. Francophile Jeff can't help but dissolve into a sentimental jelly thinking about Notre-dame, and Spencer continues to amaze with hitherto unprecedented levels of enthusiasm. 
-  Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
+description: |-
+  Despite walking on stage sick as a dog, audience adoration miraculously heals Dan in real time. Francophile Jeff can't help but dissolve into a sentimental jelly thinking about Notre-dame, and Spencer continues to amaze with hitherto unprecedented levels of enthusiasm.  Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
 showDate:             
 releaseDate:          "2019-04-18 10:00:00Z"
 duration:             "01:59:36"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

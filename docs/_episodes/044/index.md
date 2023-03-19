@@ -2,7 +2,7 @@
 episodeNumber:        31
 title:                "Harmoncountry: Providence, RI"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon used the country's smallest state to tackle the country's biggest issues - suicide and race - before remembering someone double booked the room so he has to leave.
 showDate:             
 releaseDate:          "2013-01-20 13:27:00Z"
@@ -53,6 +53,7 @@ guests:
 
 audienceGuests:
 - "Black Erin"
+#- "Example guest 2"
 
 images:
 #- "/assets/images/episodes/044/example-1.png"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

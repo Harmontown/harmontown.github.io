@@ -2,7 +2,7 @@
 episodeNumber:        350
 title:                "You Have Ten Seconds to Comply"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Dan shares his feelings about the loss of a friend and coworker, then brings on Ed Neumeier – writer of genre defining movies like RoboCop and Starship Troopers to dive deep into their history and trivia. Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ed Neumeier.
 showDate:             
 releaseDate:          "2019-09-26 10:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

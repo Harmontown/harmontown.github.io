@@ -2,7 +2,7 @@
 episodeNumber:        112
 title:                "Popeye Is Our Lord And Savior"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Harmontown is not ready to say goodbye to our friend Robin WIlliams; Jeff & Dan write a new song, an Emmy award winning special effects editor makes their way to the stage, Ferguson and the current paramilitary police state are discussed at length. You ready? Lets do this.
 showDate:             
 releaseDate:          "2014-08-18 15:18:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

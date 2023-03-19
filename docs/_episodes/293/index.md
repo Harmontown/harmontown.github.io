@@ -2,7 +2,7 @@
 episodeNumber:        276
 title:                "Cheapy Peepy"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Steve Levy and Rob Schrab share an intimate physical moment, Dan shows off his Dave Matthews impression, and we discuss the hot button political issue on everyone's mind: Spiro Agnew. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schr...
 showDate:             
 releaseDate:          "2018-02-07 11:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

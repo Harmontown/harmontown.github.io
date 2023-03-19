@@ -2,7 +2,7 @@
 episodeNumber:        38
 title:                "Harmoncountry: Kansas City, KS"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Kansas finds itself at the center of the biggest disaster since Dorothy's twister when Mayor Harmon and Erin McGathy conduct the worst town meeting of the tour. This episode is unedited because I have no idea what I'd cut without cutting the entire thing.
 showDate:             
 releaseDate:          "2013-01-30 02:25:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "Spencer Crittenden"
+#- "Example guest 2"
 
 audienceGuests:
 - "Kyle"
@@ -70,6 +71,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

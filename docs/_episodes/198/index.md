@@ -2,7 +2,7 @@
 episodeNumber:        182
 title:                "Sociopolitical Anal Beads"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Fallout Shelter racism, Rob Schrab has bags on his feet and wonders, how come we haven't gone down? harmontown.com/live
 showDate:             
 releaseDate:          "2016-01-28 19:13:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

@@ -2,7 +2,7 @@
 episodeNumber:        17
 title:                "Grumblesnakes!"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   It's election night fever when Dan and Jeff realize that the episode will air long after the election. Clearly a devout Democrat, Dan complains about his hired help before bringing up a real live woman to referee history's least informed Harry Potter trivia competition. Plus: transitional D&D! Freestyle rapping! Not knowing how to end the show!
 showDate:             
 releaseDate:          "2012-11-17 02:29:00Z"
@@ -49,6 +49,7 @@ external:
 
 guests:
 - "Spencer Crittenden"
+#- "Example guest 2"
 
 audienceGuests:
 - "Adam Goldberg"
@@ -68,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

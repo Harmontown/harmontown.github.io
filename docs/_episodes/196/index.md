@@ -2,7 +2,7 @@
 episodeNumber:        180
 title:                "Your Boobs Are Sick"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest comptroller Rhea Butcher joins your Mayor through the world of politics, gay weddings and mannequin legs. Watch the video at harmontown.com/live. Become a member!
 showDate:             
 releaseDate:          "2016-01-18 08:26:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

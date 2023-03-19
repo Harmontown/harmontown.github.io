@@ -2,7 +2,7 @@
 episodeNumber:        47
 title:                "Procrasturbation"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Mayor Harmon suggests a new, fecal approach to morality. Other topics include Halle Berry, Superman and accents. In D&D, the gang runs afoul of snake men and each other.
 showDate:             
 releaseDate:          "2013-03-08 09:51:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

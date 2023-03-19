@@ -2,7 +2,7 @@
 episodeNumber:        60
 title:                "Us Of The Dangling Wee-Wee"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   In which it asserted by Harmontown, that Fathers are important. Guest starring Spencer's Dad.
 showDate:             
 releaseDate:          "2013-06-17 10:14:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

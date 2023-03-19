@@ -2,7 +2,7 @@
 episodeNumber:        137
 title:                "Jesus Christ This Business Is Risky"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   King of all nerds, Curtis Armstrong, AKA "Booger" visits Harmontown and apparently never has played a role-playing game before and then completely crushes it in Shadowrun.
 showDate:             
 releaseDate:          "2015-03-04 03:34:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

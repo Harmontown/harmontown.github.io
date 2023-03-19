@@ -7,57 +7,7 @@ const string OutDir = "../../docs/_episodes/";
 
 void GenerateEpisodeStubs()
 {
-  var chronolgy = JsonDocument.Parse(File.ReadAllText(ChronologyInput));
-
-  var episodes = new List<EpisodeHeader>();
-
-  foreach (var item in chronolgy.RootElement.EnumerateArray())
-  {
-    int? pdId =
-     item.GetProperty("pdId").ValueKind == JsonValueKind.Null
-        ? null
-        : item.GetProperty("pdId").GetInt32();
-
-    bool? GetBool(JsonElement el, string key) 
-      => (el.GetProperty(key).ValueKind != JsonValueKind.True && el.GetProperty(key).ValueKind != JsonValueKind.False)
-        ? null
-        : el.GetProperty(key).GetBoolean();
-
-    var ep = new EpisodeHeader(
-      SequenceNumber: item.GetProperty("sequenceNumber").GetInt32(),
-      EpisodeNumber: item.GetProperty("episodeNumber").ValueKind == JsonValueKind.Null
-        ? null
-        : item.GetProperty("episodeNumber").GetInt32(),
-      Title: item.GetProperty("title").GetString()!,
-      Venue: item.GetProperty("venue").GetString()!,
-      ShowDate: DateTimeOffset.TryParse(item.GetProperty("showDate").GetString()!, out var showDate)
-        ? showDate
-        : null,
-      ReleaseDate: DateTimeOffset.TryParse(item.GetProperty("releaseDate").GetString()!, out var releaseDate)
-        ? releaseDate
-        : null,
-      Duration: TimeSpan.TryParse(item.GetProperty("duration").GetString()!, out var duration)
-        ? duration
-        : null,
-      Description: item.GetProperty("description").GetString()!,
-      Comptroller: item.GetProperty("comptroller").GetString()!,
-      GameMaster: item.GetProperty("gameMaster").GetString()!,
-      HasDnD: GetBool(item, "hasDnD"),
-      Guests: item.GetProperty("guests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
-      AudienceGuests: item.GetProperty("audienceGuests").EnumerateArray().Select(item => item.GetString()).ToArray()!,
-      IsLostEpisode: item.GetProperty("isLostEpisode").GetBoolean(),
-      IsTrailer: item.GetProperty("isTrailer").GetBoolean(),
-      HasExplicitLanguage: item.GetProperty("hasExplicitLanguage").GetBoolean(),
-      Image: "episode-placeholder.jpg",
-      SoundFile: item.GetProperty("soundfile").GetString(),
-      HarmonCityUrl: item.GetProperty("harmonCityUrl").GetString(),
-      PodcastDynamiteUrl: item.GetProperty("podcastDynamiteUrl").GetString(),
-      HasMinutes: GetBool(item, "hasMinutes"),
-      HallOfRecordsUrl: item.GetProperty("hallOfRecordsUrl").GetString()
-    );
-
-    episodes.Add(ep);
-  }
+  var episodes = JsonSerializer.Deserialize<IEnumerable<Episode>>(File.ReadAllText(ChronologyInput));
 
   // debugging...
   // episodes = episodes.Skip(0).Take(100).ToList();
@@ -65,56 +15,50 @@ void GenerateEpisodeStubs()
   var first = episodes.First();
   var last = episodes.Last();
 
-  string FormatList(string[] list)
+  string FormatList(string[] list, params string[] examples)
   {
-    if (list.Length == 0)
-    {
-      return string.Empty;
-    }
-    return $"\n- {string.Join("\n- ", list.Select(value => FormatString(value)))}";
-  }
-  string ExampleIfEmpty(string[] list, params string[] examples)
-  {
-    if (list.Length != 0)
-    {
-      return string.Empty;
-    }
-    return $"\n#- {string.Join("\n#- ", examples.Select(value => FormatString(value)))}";
+    var items = (list ?? new string[0]);
+    var itemLines = (list ?? new string[0]).Select(item => $"- {FormatString(item)}").ToList();
+    itemLines.AddRange(examples.Skip(itemLines.Count).Select(example => $"#- {FormatString(example)}"));
+
+    return string.Join("\n", itemLines);
   }
   string FormatBool(bool? value) => value?.ToString().ToLower() ?? "";
-  string? FormatString(string? value) => value == null ? null : $"\"{HttpUtility.HtmlEncode(value)}\"";
+  string? FormatString(string? value) => value == null ? null : $"\"{value}\"";
+  string? FormatDateString(string? value) => value == null ? null : FormatString(DateTimeOffset.Parse(value).ToString("u"));
 
   foreach (var ep in episodes)
   {
     var epDir = $"{OutDir}{ep.SequenceNumber:D3}";
     Directory.CreateDirectory(epDir);
-    File.WriteAllText($"{epDir}/index.md",
-  $$"""
----
-episodeNumber:        {{ep.EpisodeNumber}}
-title:                {{FormatString(ep.Title)}}
-image:                {{FormatString(ep.Image)}}
-description: >
-  {{ep.Description.Replace("\r", "").Replace("\n", "\r\n  ")}}
-showDate:             {{FormatString(ep.ShowDate?.ToString("u"))}}
-releaseDate:          {{FormatString(ep.ReleaseDate?.ToString("u"))}}
-duration:             {{FormatString(ep.Duration?.ToString("c"))}}
-isLostEpisode:        {{FormatBool(ep.IsLostEpisode)}}
-isTrailer:            {{FormatBool(ep.IsTrailer)}}
-hasExplicitLanguage:  {{FormatBool(ep.HasExplicitLanguage)}}
-soundFile:            {{FormatString(ep.SoundFile)}}
 
-venue:                {{FormatString(ep.Venue)}}
-comptroller:          {{FormatString(ep.Comptroller)}}
-gameMaster:           {{FormatString(ep.GameMaster)}}
-hasDnD:               {{FormatBool(ep.HasDnD)}}
+    File.WriteAllText($"{epDir}/index.md",
+  $$$"""
+---
+episodeNumber:        {{{ep.EpisodeNumber}}}
+title:                {{{FormatString(ep.Title)}}}
+image:                {{{FormatString(ep.Image)}}}
+description: |-
+  {{{ep.Description.Replace("\r", "").Replace("\n", "\r\n  ")}}}
+showDate:             {{{FormatDateString(ep.ShowDate)}}}
+releaseDate:          {{{FormatDateString(ep.ReleaseDate)}}}
+duration:             {{{FormatString(ep.Duration?.ToString("c"))}}}
+isLostEpisode:        {{{FormatBool(ep.IsLostEpisode)}}}
+isTrailer:            {{{FormatBool(ep.IsTrailer)}}}
+hasExplicitLanguage:  {{{FormatBool(ep.HasExplicitLanguage)}}}
+soundFile:            {{{FormatString(ep.SoundFile)}}}
+
+venue:                {{{FormatString(ep.Venue)}}}
+comptroller:          {{{FormatString(ep.Comptroller)}}}
+gameMaster:           {{{FormatString(ep.GameMaster)}}}
+hasDnD:               {{{FormatBool(ep.HasDnD)}}}
 
 external:
-  harmonCity:         {{FormatString(ep.HarmonCityUrl)}}
+  harmonCity:         {{{FormatString(ep.External.HarmonCity)}}}
   podcastDynamite:
-    hasMinutes:       {{FormatBool(ep.HasMinutes)}}
-    url:              {{FormatString(ep.PodcastDynamiteUrl)}}
-  hallOfRecords:      {{FormatString(ep.HallOfRecordsUrl)}}
+    hasMinutes:       {{{FormatBool(ep.External.PodcastDynamite.HasMinutes)}}}
+    url:              {{{FormatString(ep.External.PodcastDynamite.Url)}}}
+  hallOfRecords:      {{{FormatString(ep.External.HallOfRecords)}}}
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -139,25 +83,29 @@ external:
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-guests:{{FormatList(ep.Guests)}}{{ExampleIfEmpty(ep.Guests, "Example guest 1", "Example guest 2")}}
+guests:
+{{{FormatList(ep.Guests, "Example guest 1", "Example guest 2")}}}
 
-audienceGuests:{{FormatList(ep.AudienceGuests)}}{{ExampleIfEmpty(ep.AudienceGuests, "Example guest 1", "Example guest 2")}}
+audienceGuests:
+{{{FormatList(ep.AudienceGuests, "Example guest 1", "Example guest 2")}}}
 
-images:{{ExampleIfEmpty(
+images:
+{{{FormatList(
   Enumerable.Empty<string>().ToArray(),
   $"/assets/images/episodes/{ep.SequenceNumber:d3}/example-1.png",
-  $"/assets/images/episodes/{ep.SequenceNumber:d3}/example-2.jpeg")}}
+  $"/assets/images/episodes/{ep.SequenceNumber:d3}/example-2.jpeg")}}}
 
 ##############################
 # Generated.  Do not change! #
 ##############################
 layout:               episode
-sequenceNumber:       {{ep.SequenceNumber}}
-hasPrevious:          {{ep != first}}
-hasNext:              {{ep != last}}
+sequenceNumber:       {{{ep.SequenceNumber}}}
+hasPrevious:          {{{ep != first}}}
+hasNext:              {{{ep != last}}}
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->
@@ -176,27 +124,113 @@ hasNext:              {{ep != last}}
 
 GenerateEpisodeStubs();
 
-record EpisodeHeader(
-    int SequenceNumber,
-    int? EpisodeNumber,
-    string Title,
-    string Venue,
-    DateTimeOffset? ShowDate,
-    DateTimeOffset? ReleaseDate,
-    TimeSpan? Duration,
-    string Description,
-    string Comptroller,
-    string? GameMaster,
-    bool? HasDnD,
-    string[] Guests,
-    string[] AudienceGuests,
-    bool IsLostEpisode,
-    bool IsTrailer,
-    bool HasExplicitLanguage,
-    string? Image,
-    string? SoundFile,
-    string? HarmonCityUrl,
-    string? PodcastDynamiteUrl,
-    bool? HasMinutes,
-    string? HallOfRecordsUrl
-    );
+
+
+public record Episode
+{
+  public Episode() { }
+
+  public Episode(
+  int? episodeNumber,
+  string? title,
+  string? image,
+  string? description,
+  string? showDate,
+  string? releaseDate,
+  TimeSpan? duration,
+  bool? isLostEpisode,
+  bool? isTrailer,
+  bool? hasExplicitLanguage,
+  string? soundFile,
+  string? venue,
+  string? comptroller,
+  string? gameMaster,
+  bool? hasDnD,
+  External external,
+  string[]? guests,
+  string[]? audienceGuests,
+  string[]? images,
+  string layout,
+  int sequenceNumber,
+  bool hasPrevious,
+  bool hasNext
+  )
+  {
+    EpisodeNumber = episodeNumber;
+    Title = title;
+    Image = image;
+    Description = description;
+    ShowDate = showDate;
+    ReleaseDate = releaseDate;
+    Duration = duration;
+    IsLostEpisode = isLostEpisode;
+    IsTrailer = isTrailer;
+    HasExplicitLanguage = hasExplicitLanguage;
+    SoundFile = soundFile;
+    Venue = venue;
+    Comptroller = comptroller;
+    GameMaster = gameMaster;
+    HasDnD = hasDnD;
+    External = external;
+    Guests = guests;
+    AudienceGuests = audienceGuests;
+    Images = images;
+    Layout = layout;
+    SequenceNumber = sequenceNumber;
+    HasPrevious = hasPrevious;
+    HasNext = hasNext;
+  }
+
+  public int? EpisodeNumber { get; init; }
+  public string? Title { get; init; }
+  public string? Image { get; init; }
+  public string? Description { get; init; }
+  public string? ShowDate { get; init; }
+  public string? ReleaseDate { get; init; }
+  public TimeSpan? Duration { get; init; }
+  public bool? IsLostEpisode { get; init; }
+  public bool? IsTrailer { get; init; }
+  public bool? HasExplicitLanguage { get; init; }
+  public string? SoundFile { get; init; }
+  public string? Venue { get; init; }
+  public string? Comptroller { get; init; }
+  public string? GameMaster { get; init; }
+  public bool? HasDnD { get; init; }
+  public External External { get; init; }
+  public string[]? Guests { get; init; }
+  public string[]? AudienceGuests { get; init; }
+  public string[]? Images { get; init; }
+  public string Layout { get; init; }
+  public int SequenceNumber { get; init; }
+  public bool HasPrevious { get; init; }
+  public bool HasNext { get; init; }
+}
+
+public record External
+{
+  public External() { }
+
+  public External(string harmonCity, PDEntry podcastDynamite, string hallOfRecords)
+  {
+    HarmonCity = harmonCity;
+    PodcastDynamite = podcastDynamite;
+    HallOfRecords = hallOfRecords;
+  }
+
+  public string HarmonCity { get; init; }
+  public PDEntry PodcastDynamite { get; init; }
+  public string HallOfRecords { get; init; }
+}
+
+public record PDEntry
+{
+  public PDEntry() { }
+  public PDEntry(bool hasMinutes, string url)
+  {
+    HasMinutes = hasMinutes;
+    Url = url;
+  }
+
+  public bool HasMinutes { get; init; }
+  public string? Url { get; init; }
+}

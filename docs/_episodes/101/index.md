@@ -2,7 +2,7 @@
 episodeNumber:        87
 title:                "Kiss Doesn&#39;t Get The Joke"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Guest Comptroller Mitch Hurwitz does his best to help Mayor Harmon and Kumail Nanjiani ridicule Rob Schrab as he tries to celebrate 20 years of his comic book SCUD: The Disposable Assassin. In D&D, Sharpie and Laan-ev go to blows.
 showDate:             
 releaseDate:          "2014-01-27 19:11:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

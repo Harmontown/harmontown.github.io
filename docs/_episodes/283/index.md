@@ -2,7 +2,7 @@
 episodeNumber:        266
 title:                "No Lime"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Spencer shares his adventures in jogging, needles and cupping. The Ron Jeremy banana mystery continues to perplex Jeff. Dan records an introduction video for Rob Schrab and spends a little extra time making sure it's perfect.  Featuring Dan Harmon, Jef...
 showDate:             
 releaseDate:          "2017-11-15 11:00:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

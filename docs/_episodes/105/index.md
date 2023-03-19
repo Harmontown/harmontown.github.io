@@ -2,7 +2,7 @@
 episodeNumber:        91
 title:                "Net Neutrality/Butt Fun"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Net Neutrality activist Eddie Geller shines a light onto how our rights online are on their way out. This, naturally, agitates Mayor Harmon's disenchantment with bureaucracy and capitalism. Meanwhile, Comptroller Jeff Davis and Kumail Nanjiani attempt to come up with something better to call it than "net neutrality."
 showDate:             
 releaseDate:          "2014-02-18 00:50:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

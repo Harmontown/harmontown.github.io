@@ -2,7 +2,7 @@
 episodeNumber:        155
 title:                "LIVE from The Tin Roof in San Diego 2015"
 image:                "episode-placeholder.jpg"
-description: >
+description: |-
   Hot off of ComicCon, Harmontown summons harmenians to San Diego's Tin Roof for a night of drinking, rapping, dinosaurs, bananas and more. Watch the video at harmontown.com/live and become a member!
 showDate:             
 releaseDate:          "2015-07-15 07:30:00Z"
@@ -69,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->

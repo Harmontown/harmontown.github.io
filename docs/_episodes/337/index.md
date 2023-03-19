@@ -2,9 +2,8 @@
 episodeNumber:        320
 title:                "This Much Funches"
 image:                "episode-placeholder.jpg"
-description: >
-  Rob Schrab fills in for Spencer with special guest Ron Funches, and a one man show about plumbing.
-  Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ron Funches.
+description: |-
+  Rob Schrab fills in for Spencer with special guest Ron Funches, and a one man show about plumbing. Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ron Funches.
 showDate:             
 releaseDate:          "2019-02-07 10:37:00Z"
 duration:             "01:49:13"
@@ -70,6 +69,7 @@ hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
+{{ page.description }}
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->
