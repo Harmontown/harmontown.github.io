@@ -1,7 +1,7 @@
 ---
 episodeNumber:        318
 title:                "MC Non-Binary Chicken"
-image:                "episode-placeholder.jpg"
+image:                "episodes/335/05.png"
 description: |-
   Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer.
 

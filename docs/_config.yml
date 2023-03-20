@@ -15,8 +15,9 @@ show_downloads: false
 collections:
   episodes:
     output: true
-  episode-lists:
-    output: true
+
+exclude:
+  - .sass-cache
 
 strict_front_matter: true
 

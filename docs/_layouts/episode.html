@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-<div class="episode-navigation">
+<div class="episode-top-navigation">
   {% if page.hasPrevious %}
   <div id="previous">
     <a href="/episodes/{{ page.sequenceNumber | minus: 1 | prepend: '00' | slice: -3, 3 }}">← Previous</a>
@@ -185,3 +185,17 @@ layout: default
 </div>
 
 {% include episodeGallery.md %}
+
+<div id="bottom-nav" class="episode-bottom-navigation">
+  {% if page.hasPrevious %}
+  <div id="previous">
+    <a href="/episodes/{{ page.sequenceNumber | minus: 1 | prepend: '00' | slice: -3, 3 }}#bottom-nav">← Previous</a>
+  </div>
+  {% endif %}
+  <div id="spacer"></div>
+  {% if page.hasNext %}
+  <div id="next">
+    <a href="/episodes/{{ page.sequenceNumber | plus: 1 | prepend: '00' | slice: -3, 3 }}#bottom-nav">Next →</a>
+  </div>
+  {% endif %}
+</div>

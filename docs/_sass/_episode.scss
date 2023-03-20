@@ -22,10 +22,7 @@
   display: none;
 }
 
-.episode-navigation {
-  margin: 0 -8px;
-  margin-top: -6px;
-  margin-bottom: 16px;
+.episode-top-navigation, .episode-bottom-navigation {
   width: calc(100% + 16px);
   display: flex;
 
@@ -35,6 +32,7 @@
     font-weight: bold;
     margin: 2px;
     padding: 2px;
+    white-space: nowrap;
     &:hover {
       background-color: rgba($theme-primary, 0.1);
     }
@@ -47,6 +45,18 @@
       text-align: right;
     }
   }
+}
+
+.episode-top-navigation {
+  margin: 0 -8px;
+  margin-top: -6px;
+  margin-bottom: 16px;
+}
+
+
+.episode-bottom-navigation {
+  margin: 0 -8px;
+  margin-top: 20px;
 }
 
 .info-box {
