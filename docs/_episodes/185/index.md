@@ -1,7 +1,7 @@
 ---
 episodeNumber:        169
 title:                "A Little Handicap"
-image:                "episode-placeholder.jpg"
+image:                "episodes/185/03.png"
 description: |-
   We welcome the great Andy Kindler back to Harmontown and Dan goes to the haunted hayride and something incredibly offensive happens.
 showDate:             
