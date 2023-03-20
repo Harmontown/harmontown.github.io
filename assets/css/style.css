@@ -1069,24 +1069,31 @@ table {
 .hidden {
   display: none; }
 
-.episode-navigation {
-  margin: 0 -8px;
-  margin-top: -6px;
-  margin-bottom: 16px;
+.episode-top-navigation, .episode-bottom-navigation {
   width: calc(100% + 16px);
   display: flex; }
-  .episode-navigation a {
+  .episode-top-navigation a, .episode-bottom-navigation a {
     display: block;
     font-size: 150%;
     font-weight: bold;
     margin: 2px;
-    padding: 2px; }
-    .episode-navigation a:hover {
+    padding: 2px;
+    white-space: nowrap; }
+    .episode-top-navigation a:hover, .episode-bottom-navigation a:hover {
       background-color: rgba(72, 186, 187, 0.1); }
-  .episode-navigation div {
+  .episode-top-navigation div, .episode-bottom-navigation div {
     flex: 1; }
-    .episode-navigation div#next {
+    .episode-top-navigation div#next, .episode-bottom-navigation div#next {
       text-align: right; }
+
+.episode-top-navigation {
+  margin: 0 -8px;
+  margin-top: -6px;
+  margin-bottom: 16px; }
+
+.episode-bottom-navigation {
+  margin: 0 -8px;
+  margin-top: 20px; }
 
 .info-box {
   background-color: #fbfbfb;
