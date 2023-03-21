@@ -4,15 +4,15 @@ layout: default
 ---
 
 <div class="episode-top-navigation">
-  {% if page.previous %}
+  {% if page.previousUrl %}
   <div id="previous">
-    <a href="{{ page.previous.url }}">← Previous</a>
+    <a href="{{ page.previousUrl }}">← Previous</a>
   </div>
   {% endif %}
   <div id="spacer"></div>
-  {% if page.next %}
+  {% if page.nextUrl %}
   <div id="next">
-    <a href="{{ page.next.url }}">Next →</a>
+    <a href="{{ page.nextUrl }}">Next →</a>
   </div>
   {% endif %}
 </div>
@@ -187,15 +187,15 @@ layout: default
 {% include episodeGallery.md %}
 
 <div id="bottom-nav" class="episode-bottom-navigation">
-  {% if page.previous %}
+  {% if page.previousUrl %}
   <div id="previous">
-    <a href="{{ page.previous.url }}">← Previous</a>
+    <a href="{{ page.previousUrl }}">← Previous</a>
   </div>
   {% endif %}
   <div id="spacer"></div>
-  {% if page.next %}
+  {% if page.nextUrl %}
   <div id="next">
-    <a href="{{ page.next.url }}">Next →</a>
+    <a href="{{ page.nextUrl }}">Next →</a>
   </div>
   {% endif %}
 </div>
