@@ -15,7 +15,7 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/132/117"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYhgcVBJQ_jj5ADJ3xpbfYH"
 
-image:                "/assets/images/episodes/132/05.png"
+image:                "/assets/images/episodes/117/05.png"
 description: |-
   Harmontown tests its live streaming capabilities, Alex Rubens comptrolls and instead of D&D the group goes on a sci-fi side quest.
 showDate:             

@@ -15,7 +15,7 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/335/318"
   hallOfRecords:      
 
-image:                "/assets/images/episodes/335/05.png"
+image:                "/assets/images/episodes/318/05.png"
 description: |-
   Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer.
   

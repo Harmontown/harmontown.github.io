@@ -15,7 +15,7 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/185/169"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZoeHDBXIMxHYIFSEuE4oly"
 
-image:                "/assets/images/episodes/185/03.png"
+image:                "/assets/images/episodes/169/03.png"
 description: |-
   We welcome the great Andy Kindler back to Harmontown and Dan goes to the haunted hayride and something incredibly offensive happens.
 showDate:             
