@@ -5,8 +5,8 @@ using System.IO;
 using System.Collections.Generic;
 using System;
 
-const string ChronologyInput = "../../data/chronology.json";
-const string OutDir = "../../docs/_episodes/";
+const string ChronologyInput = "../../../data/chronology.json";
+const string OutDir = "../../../docs/_episodes/";
 
 void GenerateEpisodeStubs()
 {

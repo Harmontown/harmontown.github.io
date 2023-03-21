@@ -1,4 +1,4 @@
 bin/
 obj/
-dotComScraper/
-videoPostScraper/cache/
+data-scrapers/dotComScraper/
+data-processors/videoPostDates/cache/

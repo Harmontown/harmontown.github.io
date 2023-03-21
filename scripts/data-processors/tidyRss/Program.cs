@@ -1,7 +1,7 @@
 ﻿using System.Xml.Linq;
 
-const string RawInput = "../../data/raw/feeds.megaphone.fm-harmontown.xml";
-const string Output = "../../data/rss-tidied.xml";
+const string RawInput = "../../../data/raw/feeds.megaphone.fm-harmontown.xml";
+const string Output = "../../../data/rss-tidied.xml";
 
 void ProcessRawInput()
 {

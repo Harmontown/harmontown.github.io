@@ -1,8 +1,8 @@
 ﻿using System.Text.Json;
 
-const string PDInput = "../../data/raw/podcastDynamite/";
-const string PeopleOutput = "../../data/people.json";
-const string RolesOut = "../../data/roles.json";
+const string PDInput = "../../../../data/raw/podcastDynamite/";
+const string PeopleOutput = "../../../../data/people.json";
+const string RolesOut = "../../../../data/roles.json";
 
 void AggregatePeople()
 {

@@ -51,6 +51,8 @@ public record Episode
   public Episode() { }
 
   public Episode(
+  string id,
+  int sequenceNumber,
   int? episodeNumber,
   string? title,
   string? image,
@@ -71,11 +73,12 @@ public record Episode
   string[]? audienceGuests,
   string[]? images,
   string layout,
-  int sequenceNumber,
   bool hasPrevious,
   bool hasNext
   )
   {
+    Id = id;
+    SequenceNumber = sequenceNumber;
     EpisodeNumber = episodeNumber;
     Title = title;
     Image = image;
@@ -96,11 +99,11 @@ public record Episode
     AudienceGuests = audienceGuests;
     Images = images;
     Layout = layout;
-    SequenceNumber = sequenceNumber;
     HasPrevious = hasPrevious;
     HasNext = hasNext;
   }
-
+  public string Id { get; init; }
+  public int SequenceNumber { get; init; }
   public int? EpisodeNumber { get; init; }
   public string? Title { get; init; }
   public string? Image { get; init; }
@@ -121,7 +124,6 @@ public record Episode
   public string[]? AudienceGuests { get; init; }
   public string[]? Images { get; init; }
   public string Layout { get; init; }
-  public int SequenceNumber { get; init; }
   public bool HasPrevious { get; init; }
   public bool HasNext { get; init; }
 }

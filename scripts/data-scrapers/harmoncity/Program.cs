@@ -2,7 +2,7 @@
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
-const string Output = "../../data/raw/harmoncity.json";
+const string Output = "../../../data/raw/harmoncity.json";
 
 async Task Scrape()
 {

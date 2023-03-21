@@ -9,14 +9,14 @@ using System.Net.Http.Headers;
 var directory = LoadDirectory();
 
 var tvdb =
-  JsonDocument.Parse(File.ReadAllText("../../data/thetvdb.json"))
+  JsonDocument.Parse(File.ReadAllText("../../../data/thetvdb.json"))
     .RootElement
     .EnumerateArray()
     .Select(item => (epNum: item.GetProperty("episodeNumber").GetInt32(), date: item.GetProperty("date").GetDateTimeOffset()))
     .ToList();
 
 var seqNumByEpNum =
-  JsonDocument.Parse(File.ReadAllText("../../data/chronology.json"))
+  JsonDocument.Parse(File.ReadAllText("../../../data/chronology.json"))
     .RootElement
     .EnumerateArray()
     .Where(item => item.GetProperty("EpisodeNumber").ValueKind != JsonValueKind.Null)
@@ -103,7 +103,7 @@ List<DirectoryEntry> LoadDirectory()
 
 static class Constants
 {
-  public const string DirectoryFile = "../dotComScraper/directory.json";
+  public const string DirectoryFile = "../../data-scrapers/dotComScraper/directory.json";
   public const string UrlBase = "https://download.harmontown.com/video/harmontown-";
   public const string OutDir = "E:/Harmontown/";
   public const string SnapsDir = Constants.OutDir + "snaps/";

@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 
 const string UrlFormat = "https://harmondev.duckdns.org/api/vtt/stream/Harmontown.S01E{0:D3}.vtt";
-const string FileFormat = "../../data/raw/harmondev.duckdns.org/Harmontown.S01E{0:D3}.vtt";
+const string FileFormat = "../../../data/raw/harmondev.duckdns.org/Harmontown.S01E{0:D3}.vtt";
 
 // await Scrape();
 

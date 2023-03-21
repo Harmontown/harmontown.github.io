@@ -1,7 +1,7 @@
 ﻿using System.Net.Http;
 using System.Text.Json;
 
-const string Output = "../../data/raw/podcastDynamite/";
+const string Output = "../../../data/raw/podcastDynamite/";
 
 async Task Scrape()
 {

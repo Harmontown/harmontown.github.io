@@ -3,8 +3,8 @@
 // var externalImporter = new ExternalSourcesImporter();
 // externalImporter.DeriveChronology();
 
-const string Output = "../../data/chronology.json";
-const string Input = "../../data/thetvdb.json";
+const string Output = "../../../data/chronology.json";
+const string Input = "../../../data/thetvdb.json";
 
 var episodes = new FrontMatterExtractor().GetEpisodes().ToList();
 // MergeTheTVDB(episodes);

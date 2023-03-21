@@ -7,8 +7,8 @@ using System.Text.RegularExpressions;
 using System.Net.Http.Headers;
 using System.Web;
 
-const string SiteMap = "../../data/raw/harmontown.com/wp-sitemap-posts-post-1.xml";
-const string Output = "../../data/video-post-dates.json";
+const string SiteMap = "../../../data/raw/harmontown.com/wp-sitemap-posts-post-1.xml";
+const string Output = "../../../data/video-post-dates.json";
 
 var client = new HttpClient();
 client.DefaultRequestHeaders.Add("User-Agent", " Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0");

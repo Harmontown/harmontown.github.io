@@ -4,9 +4,9 @@ using System.Xml.Linq;
 using System.Text.RegularExpressions;
 
 /// Sourced by using FireFox's "inspect element" and copy/pasting the HTML element.
-const string Input = "../../data/raw/thetvdb.xml";
+const string Input = "../../../data/raw/thetvdb.xml";
 
-const string Output = "../../data/thetvdb.json";
+const string Output = "../../../data/thetvdb.json";
 
 void Scrape()
 {

@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 
-const string Directory = "../dotComScraper/directory.json";
-const string VideoPostDates = "../../data/video-post-dates.json";
+const string Directory = "../../data-scrapers/dotComScraper/directory.json";
+const string VideoPostDates = "../../../data/video-post-dates.json";
 
 var videoPostDates = 
   JsonDocument.Parse(File.ReadAllText(VideoPostDates))
