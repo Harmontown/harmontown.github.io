@@ -189,13 +189,13 @@ layout: default
 <div id="bottom-nav" class="episode-bottom-navigation">
   {% if page.previousUrl %}
   <div id="previous">
-    <a href="{{ page.previousUrl }}">← Previous</a>
+    <a href="{{ page.previousUrl }}#bottom-nav">← Previous</a>
   </div>
   {% endif %}
   <div id="spacer"></div>
   {% if page.nextUrl %}
   <div id="next">
-    <a href="{{ page.nextUrl }}">Next →</a>
+    <a href="{{ page.nextUrl }}#bottom-nav">Next →</a>
   </div>
   {% endif %}
 </div>
