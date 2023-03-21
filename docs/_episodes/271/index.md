@@ -1,7 +1,7 @@
 ---
 episodeNumber:        254
 title:                "Down with Sighty"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan explains his feelings on Nazis, The Game Grumps (Arin Hanson & Dan Avidan) visit the show, then the gang continues their role playing adventures.
 

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        12
 title:                "Death, Fascism and the Pursuit of Not Remaking Robocop"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Special guest Greg Proops returns! The question of what happens after you die remains unanswered, but tangents include mental illness, poverty and misunderstood Van Halen lyrics. Meanwhile, in D&D world, Sharpie and Quark claim their Embermauler bounty, buy horses and do improv in a forest with an old unicorn friend.
 showDate:             

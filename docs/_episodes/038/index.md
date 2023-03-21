@@ -1,7 +1,7 @@
 ---
 episodeNumber:        25
 title:                "Harmoncountry: Austin, TX"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   What else would Mayor Harmon discuss in Austin other than Politics, Mexican food, Hey Yah by Outkast and pooping? In D&D: a friend's dark secret is revealed.
 showDate:             

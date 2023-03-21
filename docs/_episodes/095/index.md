@@ -1,7 +1,7 @@
 ---
 episodeNumber:        81
 title:                "Hot Dog With Lettuce"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon jumps right into a drop in from original Saturday Night Live cast member Laraine Newman which merges into a visit from controversial author Dr. Chris Ryan to delves into polygamy and the very nature of our sexuality. In D&D, Spencer gives up.
 showDate:             

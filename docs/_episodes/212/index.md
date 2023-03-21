@@ -1,7 +1,7 @@
 ---
 episodeNumber:        196
 title:                "Problematizing"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The Doughboys drop by Harmontown on Mother's Day and some insane improv ensues.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        114
 title:                "Slick Rick &amp; The Batman"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon pays an Australian in the audience 100 bucks to serve them cups of ice. We get to the bottom of Schrabbing with Internet Trolling Sensation Rob Schrab and later, Rob provides all sound effects for D&D.
 showDate:             

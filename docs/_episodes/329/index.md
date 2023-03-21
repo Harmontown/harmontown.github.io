@@ -1,7 +1,7 @@
 ---
 episodeNumber:        312
 title:                "Live from the New York Comedy Festival 2018"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is live from the New York Comedy Festival!
   

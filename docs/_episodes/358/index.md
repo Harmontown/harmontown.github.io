@@ -1,7 +1,7 @@
 ---
 episodeNumber:        341
 title:                "Ketel One, Audience Zero"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We finally get to the bottom of the story about Spencer's bees, why The Golden Girls owned mink, what a Jeff Golem would look like, Rob Schrab, and bagels.
 

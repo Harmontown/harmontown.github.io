@@ -1,7 +1,7 @@
 ---
 episodeNumber:        264
 title:                "Cheese Stain"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Jeff solve the Ron Jeremy banana mystery, even stranger things happen with Dan's girlfriend, and the gang jumps back in to roleplaying.
 

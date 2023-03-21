@@ -1,7 +1,7 @@
 ---
 episodeNumber:        118
 title:                "LIVE from Seattle 2014 feat. Dino Stamatopoulos!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown kicks of its run of movie screenings followed by a live podcast in Seattle to a powerful crowd of Harmenians and is post lifted to new heights and derailed from its first guest comptrolling appearance from Dino Stamatopoulos!
 showDate:             

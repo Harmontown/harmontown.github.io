@@ -1,7 +1,7 @@
 ---
 episodeNumber:        347
 title:                "The Breasts Feel Fine, Wherever They Are"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Host of the podcast "How Did This Get Played?", Heather Anne Campbell joins "Rick and Morty" writer Nick Rutherford to discuss their shared experiences writing for, regrettable video games, cancer, and their personal experiences with religion.
 showDate:             

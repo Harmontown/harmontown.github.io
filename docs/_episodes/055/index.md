@@ -1,7 +1,7 @@
 ---
 episodeNumber:        42
 title:                "Harmoncountry: San Francisco, CA"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The tour ends at the golden gate, where freedom to live is achieved by getting drunk, talking nonsense, meeting strangers and, well, you know the forumla.
 showDate:             

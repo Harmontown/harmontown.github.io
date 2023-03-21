@@ -1,7 +1,7 @@
 ---
 episodeNumber:        325
 title:                "Get Off My Lawn, Words"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down?
 

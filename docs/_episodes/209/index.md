@@ -1,7 +1,7 @@
 ---
 episodeNumber:        193
 title:                "Ghost Dinosaurs"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Deadbeat's Tyler Labine plus the return of Kumail Nanjiani with Rob Schrab, Spencer and Jeff all on stage at once!
 

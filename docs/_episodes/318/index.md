@@ -1,7 +1,7 @@
 ---
 episodeNumber:        301
 title:                "SuperNova"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We're all mad about scooters, Dan gives an audience member a backpack and makes a new friend, then Spencer debuts his new role playing grading system.
 

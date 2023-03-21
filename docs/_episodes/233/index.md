@@ -1,7 +1,7 @@
 ---
 episodeNumber:        216
 title:                "No On Prop 60"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The Michael Jordan of porn Riley Reid enlightens Harmenians and Californians why we need to vote NO on Prop 60. dontharassca.com Later military nerds enlighten us all on why not to join the military or get out.
 showDate:             

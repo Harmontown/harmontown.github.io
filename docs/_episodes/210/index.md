@@ -1,7 +1,7 @@
 ---
 episodeNumber:        194
 title:                "Talk, Talk, Talk, Wounded"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Gigantic sweetheart and actor Derek Mears visits Harmontown, Dan doesn't trust when Rob says "I love you", music by Jeordie White.
 showDate:             

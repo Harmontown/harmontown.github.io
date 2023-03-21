@@ -1,7 +1,7 @@
 ---
 episodeNumber:        49
 title:                "Jock Jams and Pearl Jams"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Man versus lion, Space Jam versus Goonies, Leprechaun versus his own sexuality. Brian W. Collins retires his horror movie blog. Kumail Nanjiani and the rest of the D&D party finish their battle with specific parts of a dragon.
 showDate:             

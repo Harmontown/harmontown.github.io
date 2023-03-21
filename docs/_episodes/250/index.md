@@ -1,7 +1,7 @@
 ---
 episodeNumber:        233
 title:                "The Only Enemy is Stopping"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Open Mike Eagle.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        306
 title:                "Cholo to Cholo: Crackers Try"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Omar Camacho from the hit YouTube series "Cholos Try" teaches Dan, Spencer and Brandon what it means to be a Cholo.
 

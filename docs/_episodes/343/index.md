@@ -1,7 +1,7 @@
 ---
 episodeNumber:        326
 title:                "Bootie Etiquette"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert!
 

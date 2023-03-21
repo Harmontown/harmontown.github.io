@@ -1,7 +1,7 @@
 ---
 episodeNumber:        174
 title:                "Crazy Gums"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Thomas Middleditch joins Harmontown for some full body scrubbing, Shadow Run and possibly some deeply offensiveness.
 showDate:             

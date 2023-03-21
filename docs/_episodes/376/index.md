@@ -1,7 +1,7 @@
 ---
 episodeNumber:        359
 title:                "Maslow&#39;s Hierarchy of Crushing Puss"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   NeuroTribes author Steve Silberman and his husband Keith Karraker talk with us about Community and Harmontown's wide ranging fan base. Jeff and Dan share experiences with audience members from around the globe who made the trek to our penultimate episode. We've also got bowties, fish testicles, and even Bigger Dick Energy.
 

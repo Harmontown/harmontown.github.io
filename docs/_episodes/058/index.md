@@ -1,7 +1,7 @@
 ---
 episodeNumber:        45
 title:                "Dan Took a Shower"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A discussion of hygiene heats up with Kumail Nanjiani, then boils over when Bobcat Goldthwait drops by. In D&D, zombies attack while Quark engages in advanced animal husbandry. This fabulous episode is unedited so we will just warn you of a small glitch with the mayor's mic a few minutes in that lasts but a moment.
 showDate:             

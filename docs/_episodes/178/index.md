@@ -1,7 +1,7 @@
 ---
 episodeNumber:        163
 title:                "NeuroTitties"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Author of the quintessential book on autism, "NeuroTribes", Steven Silberman joins Harmontown for an in depth conversation on the history of and hyper-intelligent nature of autism.
 showDate:             

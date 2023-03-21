@@ -1,7 +1,7 @@
 ---
 episodeNumber:        298
 title:                "Homeless Sapiens"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan explains dog intelligence and Canadian creepypasta, while Schrab and Jeff demonstrate the perfect stage walk-on. Spencer tries MeUndies for the first time, and Dan plays himself.
 

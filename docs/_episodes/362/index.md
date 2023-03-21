@@ -1,7 +1,7 @@
 ---
 episodeNumber:        345
 title:                "Oh the Places You Won&#39;t Go"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is honored to welcome Conflict Journalist Robert Evans to the show. With topics ranging from Syria to 8chan, Robert has done all the homework, and takes us through, with stunning detail, the conflicts that will define the era we live in.
 

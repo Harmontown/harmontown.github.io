@@ -1,7 +1,7 @@
 ---
 episodeNumber:        120
 title:                "LIVE in Toronto feat. Bobcat Goldthwait!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown visits Toronto for a massive show with comptroller Bobcat Goldthwait! Later, our friend Jane comes on stage to talk transgenderism.
 showDate:             

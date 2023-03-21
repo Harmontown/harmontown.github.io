@@ -1,7 +1,7 @@
 ---
 episodeNumber:        319
 title:                "Goodbye Sam"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's future mother-in-law tells an absolute shocker of a story about a scarf. Spencer is gone, Dan fails a polygraph regarding his potential role in the murder.
 

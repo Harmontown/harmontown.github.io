@@ -1,7 +1,7 @@
 ---
 episodeNumber:        247
 title:                "Everything is Sexy When You Trust Someone"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Jeff Davis returns with a fantastic reprise of the classic "Pringles Dick". Brandon Johnson passes the comptroller torch back to Jeff. Dan, Jeff, Spencer and Steve Levy create characters for their new D&D campaign!
 

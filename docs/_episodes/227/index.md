@@ -1,7 +1,7 @@
 ---
 episodeNumber:        210
 title:                "A Haunted House With A Glass Ceiling"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A 4 year old takes the stage, a 16 year old stage, Cameron Esposito and Rhea Butcher, The Bootzins, Casper Mattresses.
 showDate:             

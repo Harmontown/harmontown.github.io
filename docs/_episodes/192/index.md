@@ -1,7 +1,7 @@
 ---
 episodeNumber:        176
 title:                "I Don&#39;t Want To Die!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Kyle, heart transplant survivor joins the stage and Rob Schrab guest comptrolls and makes Dan feel bad about not hanging out with him more.
 showDate:             

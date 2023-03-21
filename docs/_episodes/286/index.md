@@ -1,7 +1,7 @@
 ---
 episodeNumber:        269
 title:                "Dan Rates Every Animal"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan, Jeff and Spencer dig deep into genitals of unusual size, bats, giraffes, dolphins and Paul Newman.
 

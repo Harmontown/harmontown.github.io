@@ -1,7 +1,7 @@
 ---
 episodeNumber:        352
 title:                "Throw Me Under the Grassy Knoll"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest comptroller Brandon Johnson, and the "Stuff They Don't Want You to Know" podcast guys (Matt Frederick, Ben Bowlin and Noel Brown) talk podcasts, Harmonspiracies, and Schrab's "Creepshow" episode.
 

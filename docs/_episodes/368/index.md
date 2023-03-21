@@ -1,7 +1,7 @@
 ---
 episodeNumber:        351
 title:                "The Cowboy Rulebook"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mitch Hurwitz is back! Mitch and Dan talk Arrested Development, Golden Girls, upcoming projects and the future of network TV. Singer/songwriter Robbie Fulks joins in with some tales told via country music.
 

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        190
 title:                "Pineapple"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A packed episode leads to three Robs and the roast of Jimmy Carrane. 
   

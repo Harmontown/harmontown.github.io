@@ -1,7 +1,7 @@
 ---
 episodeNumber:        274
 title:                "LIVE From SF Sketchfest 2018"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown visits San Fransisco Sketchfest for a live show with stories about Dan's grandpa, an interview with the developer of iBone, and more.
 

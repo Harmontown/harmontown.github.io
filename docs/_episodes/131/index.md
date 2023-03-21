@@ -1,7 +1,7 @@
 ---
 episodeNumber:        116
 title:                "LIVE From The XOXO Festival 2014 in Portland"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Technology! Industry! Vodka! Harmontown live in Portland from the XOXO Festival with Spencer as your humble comptroller!
 showDate:             

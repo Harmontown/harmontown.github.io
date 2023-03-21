@@ -1,7 +1,7 @@
 ---
 episodeNumber:        361
 title:                "Ad Nauseam"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Bonus Episode! All the ad songs. Happy Holidays from Harmontown.
   Featuring Jeff B Davis, Spencer Crittenden, Dan Harmon, Church, and music by unsung hero Brendan Lynch-Salamon.

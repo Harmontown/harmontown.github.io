@@ -1,7 +1,7 @@
 ---
 episodeNumber:        59
 title:                "Writing Tips From A Jerk"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon tells us how to not write. Also discussed: Wikileaks, Disabilities, Ben Affleck and puppies.
 showDate:             

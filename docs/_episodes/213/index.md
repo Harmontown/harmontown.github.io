@@ -1,7 +1,7 @@
 ---
 episodeNumber:        197
 title:                "Stop Singing And Make A Chair"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Your Mayor poops his pants again, flat earth theory and pulling the plug on Rob Schrab.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        10
 title:                "A Tuppence or a Shilling for Your Wainscotting"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon and Guest Comptroller Erin McGathy discuss Knight Rider, Alf and anxiety, then play a quick round of Dungeons and Dragons before getting into a huge fight about movies and breaking up.
 showDate:             "2012-09-10 04:00:00Z"

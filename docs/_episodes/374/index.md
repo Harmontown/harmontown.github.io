@@ -1,7 +1,7 @@
 ---
 episodeNumber:        357
 title:                "What&#39;s Up My Twitta?"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Brandon Johnson is comptrolling, Nick Rutherford is and isn't our guest. Dan talks a bit about Community. ED-209 makes a cameo appearance. There's a lot to unpack in this episode.
   

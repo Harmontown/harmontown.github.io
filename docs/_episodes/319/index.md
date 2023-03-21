@@ -1,7 +1,7 @@
 ---
 episodeNumber:        302
 title:                "You Can Freeze Me For Seven Dollars"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan is baffled by an Emmy seat filler, Schrab has a new favorite TV show, and what happened to Wicker Man?
 

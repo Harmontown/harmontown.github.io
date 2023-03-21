@@ -1,7 +1,7 @@
 ---
 episodeNumber:        26
 title:                "Harmoncountry: Atlanta, GA"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon regales the "Paris of Georgia" with historic knowledge, general trivia and mad rapping science. Topics include his armpits and race.
 showDate:             

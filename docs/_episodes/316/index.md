@@ -1,7 +1,7 @@
 ---
 episodeNumber:        299
 title:                "Rock Me Homo Deus"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's trainer, Dave Klein, returns to take the audience through a workout session. Jeff returns as comptroller, and Schrab shows Dan what it would be like to live next to a Neanderthal.
 

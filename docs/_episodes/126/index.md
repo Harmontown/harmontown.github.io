@@ -1,7 +1,7 @@
 ---
 episodeNumber:        111
 title:                "Fluid Levitation"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon, Jeff Davis, Erin McGathy and Spencer Crittenden discover a Belgian fan in the audience, but when a Londoner from the crowd
 showDate:             

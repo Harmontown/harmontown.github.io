@@ -1,7 +1,7 @@
 ---
 episodeNumber:        103
 title:                "Tony Shalhoub Award"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Happy Birthday to all the Fathers out there, Kumail is comptrolling, Erin runs her best game yet and D&D is sizzling. Come get your Harmontown!
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        57
 title:                "Blood on the Corn"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon and Guest Comptroller Goldthwait examine their own bodies, Dan's drinking, Jeremy Piven, Bigfoot and their likely deaths by significant other. In D&D, the heroes continue to fight their shadow selves.
 showDate:             

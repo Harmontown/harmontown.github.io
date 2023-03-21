@@ -1,7 +1,7 @@
 ---
 episodeNumber:        121
 title:                "LIVE from 92y in NYC feat. Gilbert Gottfried"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Comptroller Gilbert Gottfried warms up Harmontown's biggest crowd yet at New York City's 92y!
 showDate:             

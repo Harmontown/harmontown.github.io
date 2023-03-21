@@ -1,7 +1,7 @@
 ---
 episodeNumber:        157
 title:                "LIVE From UCB East in New York"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's in New York for a project and Harmontown does a small intimate show at Upright Citizens Brigade Theater East. Daily Show writer Rory Albanese swings by, Absinth is drank. Drunk? Dranken? Whatever!
 showDate:             

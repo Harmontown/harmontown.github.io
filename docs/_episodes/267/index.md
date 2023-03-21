@@ -1,7 +1,7 @@
 ---
 episodeNumber:        250
 title:                "I Don&#39;t Want to Ghostsplain"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Role playing & Ghostsplaining through our 250th episode! A medical emergency is averted after Jeff gets a nose bleed from laughing.
 

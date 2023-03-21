@@ -1,7 +1,7 @@
 ---
 episodeNumber:        115
 title:                "Oh, the Blimpery!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dolphins are bad, Jews are great as learn with comptroller, Rick & Morty writer Ryan Ridley! Then for the first time we welcome our hilarious friend Dave Horwitz to the stage who you all now can begin to fall for. In D&D, its really funny.
 showDate:             

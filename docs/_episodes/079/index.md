@@ -1,7 +1,7 @@
 ---
 episodeNumber:        65
 title:                "Tim Tums Are Where Cake and Vodka Go"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmon talks to Matt Dwyer about being a better interviewer than Mayor Harmon, who no longer needs to be good at anything because he survived an endoscopy. In D&D: Frost Giant politics.
 showDate:             

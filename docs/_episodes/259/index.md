@@ -1,7 +1,7 @@
 ---
 episodeNumber:        242
 title:                "The Final Meltdown"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The gang gives NerdMelt an emotional sendoff at our final show before moving to the Starburns Castle. Mitch Hurwitz, Rob Schrab, Ryan Ridley, Brandon Johnson, Dave Klein, Adam Goldberg and Dustin Marshall return to reminisce, role play and learn the secret life of executive assistants.
 showDate:             

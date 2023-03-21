@@ -1,7 +1,7 @@
 ---
 episodeNumber:        265
 title:                "The Pearl is Ragnarok"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Comptroller Brandon Johnson joins Dan and Spencer to lay down some beats and serve up the best role playing snacks we've ever tasted.
 showDate:             

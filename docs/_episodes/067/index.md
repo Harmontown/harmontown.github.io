@@ -1,7 +1,7 @@
 ---
 episodeNumber:        54
 title:                "Go, Marbles, Go!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon, sore from softball practice, enlists the aid of Duncan Trussell and Greg Proops to keep the meeting moving. Topics include virtual reality, dead mothers and Jaws 4. In Dungeons and Dragons, Erin summons her first monkey.
 showDate:             

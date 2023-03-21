@@ -1,7 +1,7 @@
 ---
 episodeNumber:        290
 title:                "A Turd in a Slipper"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Jeff discuss airliner pooping and Elon Musk stories. Judd Apatow explains how his casting style has changed over his career. How much self loathing goes into being a show creator?
 showDate:             

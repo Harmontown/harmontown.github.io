@@ -1,7 +1,7 @@
 ---
 episodeNumber:        310
 title:                "Asexual Cowboy"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is live from the New York Comedy Festival!
   

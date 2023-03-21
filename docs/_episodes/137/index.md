@@ -1,7 +1,7 @@
 ---
 episodeNumber:        122
 title:                "LIVE from The Roxie in San Francisco feat. Steve Agee"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown begins an epic 4 days of non-stop podcasting starting in San Francisco with none other then comptroller Steve Agee!
 showDate:             

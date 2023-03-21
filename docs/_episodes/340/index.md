@@ -1,7 +1,7 @@
 ---
 episodeNumber:        323
 title:                "Adam Ruins Harmontown"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Adam Conover, from Adam Ruins Everything and CollegeHumor, ruins herpes, hymens and Harmontown. Brandon Johnson is our guest comptroller, and Schrab is back with another new chair.
 

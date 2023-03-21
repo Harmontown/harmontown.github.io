@@ -1,7 +1,7 @@
 ---
 episodeNumber:        248
 title:                "Come Out and Fight Like a Ghost"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Jeff take their brand new role playing characters out for a spin. Christina Oh talks movies with Dan.
 

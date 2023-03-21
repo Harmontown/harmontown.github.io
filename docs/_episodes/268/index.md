@@ -1,7 +1,7 @@
 ---
 episodeNumber:        251
 title:                "Brothers Killing Brothers for Some Dank Memes"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan dives into his writing process, we go deep into the meme wars, before wrapping the show up with some role playing.
 

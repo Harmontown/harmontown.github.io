@@ -1,7 +1,7 @@
 ---
 episodeNumber:        339
 title:                "Swinging Three Bats"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rob Corddry is back! Dan tells us how to break into his house, Rob talks about his time at The Daily Show, and mountain lions do what they do.
 

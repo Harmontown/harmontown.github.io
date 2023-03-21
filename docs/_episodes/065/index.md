@@ -1,7 +1,7 @@
 ---
 episodeNumber:        52
 title:                "By the Power of Bored Audience Skull!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In which Mayor Harmon explores everything that's already been explored about the topics of Road House, Roger Ebert and Skeletor. Plus: Kumail Nanjiani, Drunk Spencer and the final word on nipple size.
 showDate:             

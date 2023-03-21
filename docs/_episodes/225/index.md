@@ -1,7 +1,7 @@
 ---
 episodeNumber:        208
 title:                "Kratom Barrel"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan riffs on what happens when Michael Winslow goes to war with Radiohead. Later on, transgender back rubs.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        296
 title:                "You Can Live Forever Here at Bevmo"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Jeff returns briefly to flex his vocal chords after surgery. Legendary SNL alum Laraine Newman shares Groundlings and Coneheads behind the scenes stories. Steve Levy explains a new dating app.
 

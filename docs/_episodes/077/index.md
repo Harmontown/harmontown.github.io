@@ -1,7 +1,7 @@
 ---
 episodeNumber:        63
 title:                "Everyone in the World is Stupid"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   New editions of Things Dan Can't Complain About and Connor's Conundrums, a chat with aneurysm survivor Siike and a violent fight with Spencer about "meta gaming."
 showDate:             

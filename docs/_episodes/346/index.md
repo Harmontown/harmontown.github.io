@@ -1,7 +1,7 @@
 ---
 episodeNumber:        329
 title:                "Wolf Urine"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The squad delves deep into the pros & cons of wolf piss. Schrab schrabs Dan into a crater, while Brandon holds the ship together upon re-entry.
 showDate:             

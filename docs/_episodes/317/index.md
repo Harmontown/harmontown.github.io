@@ -1,7 +1,7 @@
 ---
 episodeNumber:        300
 title:                "We Do Right by Whatever You Are"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We celebrate the 300th episode by looking back at our favorite moments. Kumail Nanjiani, Emily Gordon, Rob Schrab, Steve Agee and Brandon Johnson help us jump the shark with our first clip show.
   

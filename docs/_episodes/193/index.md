@@ -1,7 +1,7 @@
 ---
 episodeNumber:        177
 title:                "Why Is It Called Lord of the Rings?"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rob Schrab questions Lord Of The Ring(s), depression and someone dies in Shadow Run!
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        44
 title:                "Dudes and Goo"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   After a few false starts, it turns out Mayor Harmon may be suffering from a show-threatening case of homecoming confidence, but when special guests D.C Pierson and Kumail Nanjiani join, the meeting erupts into an awesome discussion of drugs, religion, Spencer, Hannibal Lechter and octopus sex. In D&D: Sharpie and Mulraine seal the deal.
 showDate:             

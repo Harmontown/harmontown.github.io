@@ -1,7 +1,7 @@
 ---
 episodeNumber:        348
 title:                "Bequeathing Teaspoons"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Heather Anne Campbell is back! Dan demonstrates dog barks, shares some goat facts, interrupts Schrab, and sadly announces the end of the podcast.
 

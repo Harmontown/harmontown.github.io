@@ -1,7 +1,7 @@
 ---
 episodeNumber:        334
 title:                "The MacArthur Park Handjobber"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Ryan Kraus from "Cold Case Murder Mysteries" deconstructs true crime and horror and what it means to be the perfect crime, and how one day we're all going to be robots. Also, Spencer's balls are too big.
 

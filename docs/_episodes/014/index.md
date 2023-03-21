@@ -1,7 +1,7 @@
 ---
 episodeNumber:        1
 title:                "Achieve Weightlessness"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's a special night at Harmontown when Mayor Harmon decides the goal is to "achieve weightlessness" and establish Harmontown's real purpose. One hour, thirty tangents, two emails from Harmon's big brother and that goal remains unachieved, but a legendary theme park death does finally get its own theme song.
 showDate:             "2012-06-16 04:00:00Z"

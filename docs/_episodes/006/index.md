@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #6"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Donald Glover
 showDate:             "2011-10-17 04:00:00Z"

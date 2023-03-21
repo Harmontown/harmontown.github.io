@@ -1,7 +1,7 @@
 ---
 episodeNumber:        285
 title:                "A Ken Dolan&#39;s Production"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan, Rob and Spencer share embarrassing celebrity encounters, hotel room trashing and poop stories. Steve has a problem with the violence in shellfish.
 

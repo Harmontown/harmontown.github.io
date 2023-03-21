@@ -1,7 +1,7 @@
 ---
 episodeNumber:        353
 title:                "Nice Dunking, Cool Swishing"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Actor/Comedian Flula Borg astounds Jeff with his sports knowledge and 1980's American pop culture references, teaches us his favorite German words, and helps Dan become the best hype man he can be.
 

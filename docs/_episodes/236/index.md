@@ -1,7 +1,7 @@
 ---
 episodeNumber:        219
 title:                "Night 1 At The 2016 New York City Comedy Festival!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We're back at New York's Gramercy Theater and meet comedian and artist Mary Houlihan as well as Evan Shapiro, the Founder SeeSo, the home of Harmonquest!
 showDate:             

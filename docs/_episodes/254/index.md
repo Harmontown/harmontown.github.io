@@ -1,7 +1,7 @@
 ---
 episodeNumber:        237
 title:                "Less Than White"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Tim Talbott.
 showDate:             

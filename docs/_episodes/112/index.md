@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "HARMONTOWN NIGHTS PREVIEW"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   ???
 showDate:             

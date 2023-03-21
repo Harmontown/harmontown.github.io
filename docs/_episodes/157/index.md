@@ -1,7 +1,7 @@
 ---
 episodeNumber:        142
 title:                "Kiss On Your Balls"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's Easter. Jeff does not understand Chain Zingers. Like, really doesn't get it. Curtis Armstrong returns for Shadowrun and there is a lot of testicle play.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        134
 title:                "Dogs, Cats and Danny DeVito"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan solicits black audience members to join the show and organically, not by force or anything, they engage in a rap battle. Guest Greg Proops returns and adds a nice layer of insanity to our Shadow Run campaign.
 showDate:             

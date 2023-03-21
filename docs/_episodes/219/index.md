@@ -1,7 +1,7 @@
 ---
 episodeNumber:        203
 title:                "Pubic Hairs Travel Or Migrate"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Power trio Dan Harmon, Jeff Davis and Spencer Crittenden lay down another classic episode of Harmon.
 showDate:             

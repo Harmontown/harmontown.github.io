@@ -1,7 +1,7 @@
 ---
 episodeNumber:        200
 title:                "Simulation"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever.
 showDate:             

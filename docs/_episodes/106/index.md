@@ -1,7 +1,7 @@
 ---
 episodeNumber:        92
 title:                "It&#39;s Not Personal, It&#39;s Business"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon becomes label mates with Ice-T, which spurs Comptroller Jeff Davis into having Dan rattle off all his impressions. Mitch Hurwitz joins the group and when Spencer is out for the week, an abstract game of D&D ensues.
 showDate:             

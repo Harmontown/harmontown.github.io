@@ -1,7 +1,7 @@
 ---
 episodeNumber:        201
 title:                "Black Woman Against Over Here"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Spencer comptrolls, Dino stops by and it's hot as absolute Hell.
 showDate:             

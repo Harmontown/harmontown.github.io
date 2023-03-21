@@ -1,7 +1,7 @@
 ---
 episodeNumber:        82
 title:                "Jim Belushi&#39;s Basement"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon brings Arrested Development's creator Mitch Hurwitz on stage to talk shop about TV. Later Kumail returns and the whole thing ends with an epic D&D session. Quit reading already and press play!
 showDate:             

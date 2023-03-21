@@ -1,7 +1,7 @@
 ---
 episodeNumber:        119
 title:                "LIVE at the Vista with bonus Q&amp;A"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In conjunction with Cinefamily and Starburns Industries, enjoy Harmontown, LIVE from the Vista theater with a special Q&A for the HARMONTOWN movie, now at harmontown.com!
 showDate:             

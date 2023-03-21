@@ -1,7 +1,7 @@
 ---
 episodeNumber:        98
 title:                "HARMONOLOGY"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Hot off the Renaissance Faire, the whole gang is back from hiatus... and very drunk. Kumail Nanjiani and Matt Gourley join the stage while Mayor Harmon proposes a new religion.
 showDate:             

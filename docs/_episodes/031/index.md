@@ -1,7 +1,7 @@
 ---
 episodeNumber:        18
 title:                "Sand Pollution: The Journals of Young Morrisey"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan reads from his magical adolescent journals, casting a magical spell of adolescent depression over the entire audience and the dungeons and dragons session. So he brings up a depressed Harmenian and attempts to cure him. But by then he's pretty drunk.
 showDate:             

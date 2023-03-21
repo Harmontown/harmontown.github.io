@@ -1,7 +1,7 @@
 ---
 episodeNumber:        304
 title:                "Magic Shinto Hat"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Is Schrab getting too comfortable in his comfy chair, and what is he doing with his microphone? The role playing gang pivots to being potato farmers, but they get stuck on naming. Steve Levy is like a Lego.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        307
 title:                "French Spencer"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Comptroller Brandon Johnson and Dan discover French Spencer, and learn that sometimes applause hurts.
 

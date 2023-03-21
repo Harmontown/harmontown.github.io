@@ -1,7 +1,7 @@
 ---
 episodeNumber:        207
 title:                "LIVE from Just for Laughs Montreal 2016"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is welcomed by a warm crowd and a sold out show in Montreal for another gut spilling and heart wrenching episode steeped in comedy and loving kindness.
 showDate:             

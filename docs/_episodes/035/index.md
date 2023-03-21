@@ -1,7 +1,7 @@
 ---
 episodeNumber:        22
 title:                "Nanu Nanu, I&#39;m Racist"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An impromptu Fellowship of the Nerds is assembled to explain how to break The Hobbit into three movies. Jury duty stories! Adam Goldberg's roommate!
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #14"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Lost Episode #14
 showDate:             

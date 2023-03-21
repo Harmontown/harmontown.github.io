@@ -1,7 +1,7 @@
 ---
 episodeNumber:        260
 title:                "Oym"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Duncan Trussell wants us all to try Nitrous Oxide and start a cult, Dan is unapologetic about last week's show, and everyone shares their favorite stories about Steve Levy's anatomy.
 showDate:             

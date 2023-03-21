@@ -1,7 +1,7 @@
 ---
 episodeNumber:        145
 title:                "Swastika Made Of Dicks"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon's neighbor posts an elitist sign in their neighborhood and he loses it. There's rants, bits, baby talk, Shadownrun. Spencer, Curtis, Erin and DeMorge.
 showDate:             

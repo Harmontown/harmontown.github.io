@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #8"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guests Gillian Jacobs and Dana DeArmond
 showDate:             "2011-12-09 05:00:00Z"

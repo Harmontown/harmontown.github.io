@@ -1,7 +1,7 @@
 ---
 episodeNumber:        148
 title:                "Easy, Sisyphus"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The great Andy Kindler finally visits Harmontown!!!
 showDate:             

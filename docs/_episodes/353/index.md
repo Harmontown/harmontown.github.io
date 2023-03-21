@@ -1,7 +1,7 @@
 ---
 episodeNumber:        336
 title:                "Mon the Perim"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   This Harmontown has everything: A baby kicker, a handshake before sex, Squeezy Steve Levy, and one hundred pounds of beef jerky.
 

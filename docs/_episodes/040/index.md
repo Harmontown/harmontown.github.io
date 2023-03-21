@@ -1,7 +1,7 @@
 ---
 episodeNumber:        27
 title:                "Harmoncountry: Nashville, TN"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon chooses Music City, USA as the place to enter the "drunk Brian Wilson" phase of his podcasting career. Is his mistake the pre-show Jaggerbombs or the mid-show moonshine? In any case, let this episode stand as a cautionary tale.
 showDate:             

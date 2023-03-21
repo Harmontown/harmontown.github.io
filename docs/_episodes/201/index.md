@@ -1,7 +1,7 @@
 ---
 episodeNumber:        185
 title:                "LIVE in Chicago 2016 at Park West!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A game changing sold out show in Chicago's beautiful Park West theatre! Music by Babes.
 showDate:             

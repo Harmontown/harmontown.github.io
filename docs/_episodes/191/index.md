@@ -1,7 +1,7 @@
 ---
 episodeNumber:        175
 title:                "Princess Spencer Crittenden Nipples"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The guys make Siri do their bidding, an emotional moment with an audeince memeber, Rick and Morty writers playing Shadowrun. Be careful, cause there's snakes out here bitch!
 showDate:             

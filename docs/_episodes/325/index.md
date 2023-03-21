@@ -1,7 +1,7 @@
 ---
 episodeNumber:        308
 title:                "Soft on Hitler, Hard on Dicks"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Actor/Comedian Brett Gelman and Dan talk about constipation, Dan's new abs, Buck Rogers, and Hitler.
 

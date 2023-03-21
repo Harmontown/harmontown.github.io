@@ -1,7 +1,7 @@
 ---
 episodeNumber:        291
 title:                "Grimlock Love Slimewave Pornography"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's back in the Rick & Morty writer's room, James Adomian and Rob Schrab face off with cartoon voices doing unspeakable things, Spencer says Binkis a lot.
 showDate:             

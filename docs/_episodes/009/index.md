@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #9 (Live at San Francisco Sketchfest 2012)"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Live at San Francisco Sketchfest 2012
 showDate:             "2012-01-29 05:00:00Z"

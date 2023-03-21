@@ -1,7 +1,7 @@
 ---
 episodeNumber:        362
 title:                "Harmontown Reunion!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Jeff and Spencer are Harmontown's hype men for our upcoming reunion special, including a retelling of an old classic Harmontown tune about a chicken noodle can. Check out harmontown.com to buy tickets to our live streaming episode on February 21st, 2021!
 showDate:             

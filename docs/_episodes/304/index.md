@@ -1,7 +1,7 @@
 ---
 episodeNumber:        287
 title:                "That Brain, She Die"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's still in bed recovering from shingles, but Schrab wants to know why Dan won't go to a movie with him. Rob Schrab almost lists his top four Infinity Wars spoilers, Spencer shares history of the incel movement, and Dan explains why his brain is gendered like a battleship.
 showDate:             

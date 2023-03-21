@@ -1,7 +1,7 @@
 ---
 episodeNumber:        252
 title:                "Epeephany"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing.
 

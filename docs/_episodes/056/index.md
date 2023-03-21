@@ -1,7 +1,7 @@
 ---
 episodeNumber:        43
 title:                "Harmoncountry: Los Angeles"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Looking back on his tour, non-heroic Mayjor Harmon asks what have I learned (spoiler: he doesn't know) with friends Bobcat Goldthwait, Marc Maron and Duncan Trussell in an epic show at L.A's Egyptian Theater.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        24
 title:                "Harmoncountry: Phoenix, Arizona"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon begins his tour feeling way more insecure than the kind-hearted heroes of a new city. A Harmontown theme with an awesome hook starts getting workshopped. In D&D, the heroes fight cylinders.
 showDate:             

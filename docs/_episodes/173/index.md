@@ -1,7 +1,7 @@
 ---
 episodeNumber:        158
 title:                "While in Stealth Mode Press ‘X&#39; to Kiss Your Wife"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Erin is out of the country and Harmon is playing a lot of video games and has strong opinions on them. Ryan Ridley comptrolls and the guys from Before You Were Funny make Harmon read one of his earliest short stories.
 showDate:             

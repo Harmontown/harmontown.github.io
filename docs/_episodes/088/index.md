@@ -1,7 +1,7 @@
 ---
 episodeNumber:        74
 title:                "Morality"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon tries to examine our ethical boundaries, but when that sounds too much like going to bat for pedophiles, everyone starts high fiving themselves for not wanting to do it with babies
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        311
 title:                "Twenty Sides of Booty"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character.
 showDate:             

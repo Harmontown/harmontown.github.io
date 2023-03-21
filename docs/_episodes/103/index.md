@@ -1,7 +1,7 @@
 ---
 episodeNumber:        89
 title:                "Live At Cobb&#39;s in San Francisco with Joel Hodgson"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown does the 13th annual San Francisco Sketchfest, gets a drop in from Mystery Science Theater 3000's Joel Hodgson and later on, the show goes straight Maury Povich.
 showDate:             

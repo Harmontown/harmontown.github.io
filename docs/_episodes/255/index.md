@@ -1,7 +1,7 @@
 ---
 episodeNumber:        238
 title:                "My name is Johnny Varvatos"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff B. Davis, Rob Schrab and Brandon Johnson
 showDate:             

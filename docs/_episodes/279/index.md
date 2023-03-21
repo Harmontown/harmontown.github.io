@@ -1,7 +1,7 @@
 ---
 episodeNumber:        262
 title:                "Porcelain Birds"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Rob talk about sexual harassment in the entertainment industry and the ramifications of a Rick & Morty porn parody being produced. Spencer reveals why people really buy iPads.
 

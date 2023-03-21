@@ -1,7 +1,7 @@
 ---
 episodeNumber:        143
 title:                "Retardinol"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rick and Morty's Justin Roiland makes a revelation to Curtis Armstrong. Harmon longs for the cold war and its Shadow Run, not Shadow Picnic! Brought to you by Doritos and Honda!
 showDate:             

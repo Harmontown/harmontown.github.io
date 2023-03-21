@@ -1,7 +1,7 @@
 ---
 episodeNumber:        255
 title:                "The Ian Bowers Birthday Special"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Graham Linehan returns to Harmontown! Dan discovers what an "omega virgin" is by a dramatic reading of an incident involving creepy soup.
 

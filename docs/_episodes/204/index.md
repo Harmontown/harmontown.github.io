@@ -1,7 +1,7 @@
 ---
 episodeNumber:        188
 title:                "Donna Schrab Gets Things Done"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rob Corddry visits Harmontown for the first time and is a die-hard fan, everyone falls in love with him. Later we meet Rob Schrab's parents!
 

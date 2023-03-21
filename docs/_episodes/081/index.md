@@ -1,7 +1,7 @@
 ---
 episodeNumber:        67
 title:                "Click Here For Bacardi"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Pet psychology is discussed. Then the usual topics of race and terrorism. Then crap gets real about anarchy on the moon.
 showDate:             

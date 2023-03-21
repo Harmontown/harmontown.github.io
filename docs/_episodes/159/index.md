@@ -1,7 +1,7 @@
 ---
 episodeNumber:        144
 title:                "Operation Metalbeast"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmon hates muppets. We meet a guy named Skuta and shortly after, the most intense fan in the show's history.
 showDate:             

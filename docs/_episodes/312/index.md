@@ -1,7 +1,7 @@
 ---
 episodeNumber:        295
 title:                "Dadfished"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   "Great Minds with Dan Harmon" director Heath Cullens tells the tale of how he accidentally convinced Dan that he's Dan's father. Brandon Johnson is our comptroller and Steve Levy joins for a return to role playing.
 showDate:             

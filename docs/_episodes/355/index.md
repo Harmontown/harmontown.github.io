@@ -1,7 +1,7 @@
 ---
 episodeNumber:        338
 title:                "This Trident Has Four Dents"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer's bees and pirate eye patches are on the agenda tonight!
 

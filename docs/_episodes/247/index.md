@@ -1,7 +1,7 @@
 ---
 episodeNumber:        230
 title:                "LIVE From SF Sketchfest 2017"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Fascism comes to America and Harmontown susses it out with the city of San Francisco.
 

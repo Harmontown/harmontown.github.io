@@ -1,7 +1,7 @@
 ---
 episodeNumber:        184
 title:                "Strain Has A New First Name"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown meets Zoe Lister Jones then turns into an hour of improv and complete chaos!
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        127
 title:                "Ant Ball"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Comproller Dave Horwitz makes his first appearance. A Russian travels the world to ask Dan one question, and Spencer devises a way to get off of an island if stranded.
 showDate:             

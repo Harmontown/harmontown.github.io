@@ -1,7 +1,7 @@
 ---
 episodeNumber:        37
 title:                "Harmoncountry: Minneapolis, MN"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon and Guest Comptroller McGathy interface with Twin Town from injured tendon to badly placed sound effect. Former Dead Alewives member Sean McKenna raps. Joyfully unedited episode.
 showDate:             

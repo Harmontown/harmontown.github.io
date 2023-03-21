@@ -1,7 +1,7 @@
 ---
 episodeNumber:        20
 title:                "Flesh Knife"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   More horrible rapping, a new character named Big Red, a phone call to Chevy Chase and a conversation with Adam Goldberg. In D&D: our heroes fall into a pit!
   Note: the audience was not mic'd this episode.

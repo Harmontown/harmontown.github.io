@@ -1,7 +1,7 @@
 ---
 episodeNumber:        40
 title:                "Harmoncountry: Salt Lake City, UT"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is reborn in a strange land of complex liquor laws, polarized religion and Kevin Nealon photos. Plus: Sports Corner, Fart Corner, odor dating and weird rants!
 showDate:             

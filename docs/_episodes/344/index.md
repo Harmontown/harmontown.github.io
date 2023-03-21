@@ -1,7 +1,7 @@
 ---
 episodeNumber:        327
 title:                "A Cardigan with Stab Holes"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Suruthi and Hannah from the RedHanded podcast are this week's guests. They share their true crime expertise, including some crime role playing!
 

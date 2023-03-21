@@ -1,7 +1,7 @@
 ---
 episodeNumber:        241
 title:                "Kumanji"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Kumail and Emily return to discuss Harmontown leaving NerdMelt, Spencer & Schrab provide color commentary while Brandon Johnson and Doug Benson get to meet Dan's newest rap character, Peanut Jones.
 

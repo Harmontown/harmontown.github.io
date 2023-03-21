@@ -1,7 +1,7 @@
 ---
 episodeNumber:        317
 title:                "Rich Man&#39;s NASCAR"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan listened to last week's show while sober and with some comments and clarifications, along with the return of Jesse Camp.
 

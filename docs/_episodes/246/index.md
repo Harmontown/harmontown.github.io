@@ -1,7 +1,7 @@
 ---
 episodeNumber:        229
 title:                "Health Care Is Good, Black People Deserve To Live"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Founders of Reductress, Beth Newell and Sarah Pappalardo join Harmontown to promote their podcast Mouth Time and Dan tries to gain a feminist perspective, our friend Brandon Johnson returns and more!
 showDate:             

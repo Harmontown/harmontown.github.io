@@ -1,7 +1,7 @@
 ---
 episodeNumber:        204
 title:                "I&#39;m Drunk And High And Shouldn&#39;t Have A Podcast"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   What would seem like a classic episode format, becomes weird. Weird af. A great weird episode.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        293
 title:                "LIVE from The Cradle of Aviation Museum in Long Island, NY"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Live from The Cradle of Aviation Museum in Long Island, NY.
 

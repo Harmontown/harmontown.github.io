@@ -1,7 +1,7 @@
 ---
 episodeNumber:        159
 title:                "Firetruck"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Our friends Bobcat Goldthwait and Curtis Armstrong return to the show with plenty of insane stories to share.
 showDate:             

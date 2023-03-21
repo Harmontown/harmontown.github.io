@@ -1,7 +1,7 @@
 ---
 episodeNumber:        355
 title:                "Hershey&#39;s Rorschach"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Our march into oblivion continues! No guests! No role playing! Nothing to lose! It's worth mentioning Spencer is feeling pretty sassy this episode and it shows.
 

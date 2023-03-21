@@ -1,7 +1,7 @@
 ---
 episodeNumber:        166
 title:                "#CHIOPS"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Comptroller Rob Schrab comes out of the gate yelling, an over zealous fan brings hot sauce to the stage and guest Amy Berg and Wil Wheaton play a game of Werewolf!
 showDate:             

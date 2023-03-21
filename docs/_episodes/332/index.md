@@ -1,7 +1,7 @@
 ---
 episodeNumber:        315
 title:                "Rocket My Face Into Another Guy&#39;s Face"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Steven Conrad, writer/director of the TV Series 'Patriot' joins guest Comptroller Brandon Johnson. The Santa Clause 2, Have You Seen It?
 

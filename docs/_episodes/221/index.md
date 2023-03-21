@@ -1,7 +1,7 @@
 ---
 episodeNumber:        205
 title:                "LIVE in San Diego 2016"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   There is no other Harmontown like this. In an effort to sell tickets Dan writes a Community Movie projected on screen.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        356
 title:                "MC Late"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan gets stuck in traffic, but the episode is redeemed by meeting a multi-talented audience member UMNIA and her singer/doctor mom! Improv, jazz and rap meet on this week's Harmontown!
 

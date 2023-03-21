@@ -1,7 +1,7 @@
 ---
 episodeNumber:        41
 title:                "Harmoncountry: Portland, OR"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayoral Master Harmon strides boldly across the return threshold and declares Spencer God. Then he raps and dicks around with people in the audience. It doesn't sound like much on paper but it's a pretty great episode.
 showDate:             

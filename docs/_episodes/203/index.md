@@ -1,7 +1,7 @@
 ---
 episodeNumber:        187
 title:                "The Four Points Of The Triangle"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan is stoned...Schrab too, the creator of The Stanley Parable randomly joins the stage and Spencer steals the show with some improv.
 showDate:             

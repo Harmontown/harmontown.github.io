@@ -1,7 +1,7 @@
 ---
 episodeNumber:        192
 title:                "Give Black People A Chance To Hear Crickets"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Aisha Tyler visits Harmontown along with Hour Of Goon's Jeordie White and Fred Sablan for some complete insanity.
 showDate:             

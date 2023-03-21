@@ -1,7 +1,7 @@
 ---
 episodeNumber:        189
 title:                "Monster Man"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens.
   

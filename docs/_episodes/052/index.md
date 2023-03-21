@@ -1,7 +1,7 @@
 ---
 episodeNumber:        39
 title:                "Harmoncountry: Denver, CO"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   High atop the nation, in Omlette Country, Comptroller Davis returns. Topics include cheese sticks, sports, beat boxing, dungeons, dragons and crazy people.
 showDate:             

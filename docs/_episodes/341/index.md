@@ -1,7 +1,7 @@
 ---
 episodeNumber:        324
 title:                "Aunt Tipathy"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan problematizes things that don't need to be problematized, listens to audio porn and gets to the bottom of The Flash with Brandon and Schrab.
 

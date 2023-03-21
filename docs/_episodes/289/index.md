@@ -1,7 +1,7 @@
 ---
 episodeNumber:        272
 title:                "Don&#39;t Let Him Wipe or Flush"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We hear about the drunk driver that hit Dan's house, plus Jeff's trip to India. Everyone questions Steve Levy's doctor's qualifications, but is glad he's alive. While roleplaying, the gang stakes out an in-use restroom for a very, very long time.
 showDate:             

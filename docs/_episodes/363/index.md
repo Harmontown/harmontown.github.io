@@ -1,7 +1,7 @@
 ---
 episodeNumber:        346
 title:                "Every Day is a New Hate"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Author of the new book "It Came from Something Awful", Dale Beran teaches us the history 4chan and 8chan. How did simple websites transform into centers of white nationalism, violence and tools of politics?
 

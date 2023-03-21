@@ -1,7 +1,7 @@
 ---
 episodeNumber:        21
 title:                "Adventurtunity Mobisode!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon does his Bane impression and practices getting booed in various cities for the upcoming tour. In D&D: the heroes finally encounter Sharpie's dad.
 showDate:             

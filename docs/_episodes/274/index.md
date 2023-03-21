@@ -1,7 +1,7 @@
 ---
 episodeNumber:        257
 title:                "I Change the World&#39;s Oil"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan gets Christian dating tips from a ride-sharing driver and explores what various Scottish dogs might sound like. The gang's role playing characters level up and face a new foe!
 

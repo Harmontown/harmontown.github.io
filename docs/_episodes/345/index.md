@@ -1,7 +1,7 @@
 ---
 episodeNumber:        328
 title:                "Jeff&#39;s Joke Corner"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Jeff Davis's joke corner! A walrus walks into a whorehouse... Also, the return of roleplaying with guest Steve Levy!
 

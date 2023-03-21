@@ -1,7 +1,7 @@
 ---
 episodeNumber:        316
 title:                "Amy Grant Made My Puberty and My Atheism Happen"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and the gang kick off 2019 with everyone's expanded feelings on airlines, Dan's engagement, charitable giving and Paul Rudd.
 

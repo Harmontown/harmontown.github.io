@@ -1,7 +1,7 @@
 ---
 episodeNumber:        202
 title:                "A Lady Who Is Famous For Killing Her Baby"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An all-star hunk episode of Harmontown with humanitarian beefcake Daniel Gillies, the mouth watering Duncan Trussell and the cut from marble stone greek god Kumail Nanjiani.
 showDate:             

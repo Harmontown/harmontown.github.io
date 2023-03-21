@@ -1,7 +1,7 @@
 ---
 episodeNumber:        283
 title:                "Necrophilia Questions"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We have a lot of questions about Necrophilia. Dan answers a lot of questions about his underwear and debates the morality and accuracy of veterinary medicine, while Jeff has a creative solution for man boobs.
 showDate:             

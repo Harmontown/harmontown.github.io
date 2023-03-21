@@ -1,7 +1,7 @@
 ---
 episodeNumber:        217
 title:                "I Wanna Shave With Me"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Andy Dick and Dino Stamatopoulos return for some music, slide whistle and some feels. Your Mayor uses the pressure valve on his brain and lets off some steam.
 showDate:             

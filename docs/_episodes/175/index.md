@@ -1,7 +1,7 @@
 ---
 episodeNumber:        160
 title:                "AWWW"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   As we learned last week, the movie Boat Trip is insane, and a surprise drop in from Horatio Sanz discusses just how strange working on it really was. Later, the audiences awwws.
 showDate:             

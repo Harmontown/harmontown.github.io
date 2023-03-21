@@ -1,7 +1,7 @@
 ---
 episodeNumber:        322
 title:                "WOKE AF HASHTAG"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Brandon Johnson is the guest Comptroller, Rob Schrab is at Spencer's desk, and our guest is Brian Wysol, creator of the Adult Swim series Hot Streets. Dan punishes Justin Roiland for missing the show.
 

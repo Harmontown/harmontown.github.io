@@ -1,7 +1,7 @@
 ---
 episodeNumber:        180
 title:                "Your Boobs Are Sick"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest comptroller Rhea Butcher joins your Mayor through the world of politics, gay weddings and mannequin legs.
 showDate:             

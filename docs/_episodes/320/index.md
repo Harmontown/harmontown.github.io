@@ -1,7 +1,7 @@
 ---
 episodeNumber:        303
 title:                "Frog Complex"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Is it morally right to eat Gillian Anderson's sandwiches? Why are Ron Perlman's hands so soft? What's really going on with Predator?
 

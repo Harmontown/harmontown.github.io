@@ -1,7 +1,7 @@
 ---
 episodeNumber:        167
 title:                "Confirmed By A Well Respected Arborist"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Erin get a divorce, The Bootsins return and are torn up about a dying eucalyptus tree, Curtis Armstrong comptrolls, Colin Hanks guests... buckle up.
 showDate:             

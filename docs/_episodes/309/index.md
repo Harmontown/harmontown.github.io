@@ -1,7 +1,7 @@
 ---
 episodeNumber:        292
 title:                "LIVE from The Wilbur in Boston 2018"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Live from the Wilbur in Boston, MA. Special guest Aaron Mahnke from the Lore podcast.
 

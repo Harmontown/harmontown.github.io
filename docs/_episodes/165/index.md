@@ -1,7 +1,7 @@
 ---
 episodeNumber:        150
 title:                "Where My Technochromes At?"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan can see more colors than the average person and doesn't care because colors are dumb. Curtis Armstrong comptrolls.
 showDate:             

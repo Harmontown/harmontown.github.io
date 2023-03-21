@@ -1,7 +1,7 @@
 ---
 episodeNumber:        282
 title:                "The Christmas with No Underwear"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The show breaks new ground with a cold open ad, Dan introduces the show's latest lovable sponsored character M.C. Gun Control, we explore Dan's therapy revelations and Jeff hatches a cunning plan turning himself into a tree.
 showDate:             

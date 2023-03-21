@@ -1,7 +1,7 @@
 ---
 episodeNumber:        209
 title:                "Pantyhose &amp; Coconuts"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Of the FeralAudio.com podcast Obsessed, Joseph Scrimshaw talks Obsession with the Harmontown gang and your Mayor dives into his pantyhose fetish.
 showDate:             

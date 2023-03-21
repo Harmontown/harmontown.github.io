@@ -1,7 +1,7 @@
 ---
 episodeNumber:        173
 title:                "LIVE at The Gramercy, NY Comedy Festival 2015: Night 2"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Scott Adsit and Dino Stamatopoulos join Harmontown Night 2 at the Gramcery.
 showDate:             

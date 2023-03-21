@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #10"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Lost episode from before the show was a podcast.
 showDate:             "2012-02-27 05:00:00Z"

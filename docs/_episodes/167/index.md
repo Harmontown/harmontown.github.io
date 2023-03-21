@@ -1,7 +1,7 @@
 ---
 episodeNumber:        152
 title:                "White Guilt Kerosene On The White Guilt Bonfire"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan, Jeff and Spencer start out the show, World Cup sports corner and lots of privilege and guilt.
 showDate:             

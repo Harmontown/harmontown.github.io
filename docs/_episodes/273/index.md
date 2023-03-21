@@ -1,7 +1,7 @@
 ---
 episodeNumber:        256
 title:                "Dan Harmon&#39;s Top Five Shoe Jokes"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rob Schrab is back! Dan sports a new look, tells his top 5 shoe jokes, then takes the role playing team on a wild adventure.
 

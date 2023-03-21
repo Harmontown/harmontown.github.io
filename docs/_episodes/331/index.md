@@ -1,7 +1,7 @@
 ---
 episodeNumber:        314
 title:                "You&#39;re the Good Kind of Fat"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Comedian and fellow podcaster Pete Holmes joins Dan, Jeff and Spencer to answer: What Hurts Pete Holmes?
 

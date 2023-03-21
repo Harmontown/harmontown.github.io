@@ -1,7 +1,7 @@
 ---
 episodeNumber:        331
 title:                "High as Bat Pussy"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan dives deep into balls. Before the show Dan gets a little too high, which is perfect for our guest Gabriel Sunday, creator and star of the new cannabis inspired TV series Dope State.
 

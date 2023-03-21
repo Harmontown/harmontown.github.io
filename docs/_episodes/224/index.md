@@ -1,7 +1,7 @@
 ---
 episodeNumber:        
 title:                "Lost Episode #16"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown at Outside Lands.  The episode is [lost to history](https://twitter.com/thesixler/status/762031703493718017).
 showDate:             

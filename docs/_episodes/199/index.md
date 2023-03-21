@@ -1,7 +1,7 @@
 ---
 episodeNumber:        183
 title:                "Disproportionate"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Our friend Colin joins us to fill us in what it's like to be a little person. Brought to you by Balls, it's whats for dinner.
 showDate:             

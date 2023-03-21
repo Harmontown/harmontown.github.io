@@ -1,7 +1,7 @@
 ---
 episodeNumber:        342
 title:                "Musk Balloons"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Duncan Trussell is back! sporting an increasingly majestic beard. The show dives deep into America's hot button topics like prolapses, space travel and DNA filled balloons.
 

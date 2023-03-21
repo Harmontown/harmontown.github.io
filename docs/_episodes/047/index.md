@@ -1,7 +1,7 @@
 ---
 episodeNumber:        34
 title:                "Harmoncountry: Bloomington, IN"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In honor of his Midwestern heritage, The Mayor puts a town meeting straight up the middle and over the plate, with sports talk, a cosmic meditation and an in depth discussion of science and religion with some of Indiana's greatest, drunkest minds!
 showDate:             

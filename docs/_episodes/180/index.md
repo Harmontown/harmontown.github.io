@@ -1,7 +1,7 @@
 ---
 episodeNumber:        165
 title:                "Where The Moon?"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Steve Agee comptrolls, Felicia Day guests, Shadowrun kicks ass.
 showDate:             

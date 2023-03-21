@@ -1,7 +1,7 @@
 ---
 episodeNumber:        263
 title:                "Seventeen Chicken Boots"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Jeff revisits the idea of zip-line transportation after Dan meets with Elon Musk. "Harmontown" documentary creator Neil Berkeley comes by to talk about his new film about Gilbert Gottfried. The show ends with a fan submitted rap that does a lot of things to a lot of mamas.
 showDate:             

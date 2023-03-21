@@ -1,7 +1,7 @@
 ---
 episodeNumber:        105
 title:                "Game Recognize Game"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon enters couples therapy and makes an emotional bid. Kumail Nanjiani is back and doesn't understand why Jeff talks to strangers. Doctors are too prostate happy and a Brazilian fan from Rio defends them. Just a great episode from top to bottom, enjoy.
 showDate:             

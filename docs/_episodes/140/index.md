@@ -1,7 +1,7 @@
 ---
 episodeNumber:        125
 title:                "Lets Teach Duncan Trussell How To Be Mean feat. Joel McHale"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   After 4 days of straight podcasting, the gang returns to LA with comptroller Duncan Trussell and a special drop in from Community's Joel McHale.
 showDate:             

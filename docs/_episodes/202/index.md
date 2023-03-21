@@ -1,7 +1,7 @@
 ---
 episodeNumber:        186
 title:                "Auld Lang Schrab"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmon loses an Oscar, Phil and Mike of HBO's Animals, Abed Geith returns and Schrab is extra disruptive on HARMONTOWN!
 showDate:             

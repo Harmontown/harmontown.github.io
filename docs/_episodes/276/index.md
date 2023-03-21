@@ -1,7 +1,7 @@
 ---
 episodeNumber:        259
 title:                "Pajampion"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rob Schrab returns as our comptroller with Eddie Pepitone dropping in to discuss comedy. Rob and Dan weigh in on biometrics, then the role playing gang shouts their way through an adventure.
 showDate:             

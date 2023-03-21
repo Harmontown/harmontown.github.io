@@ -1,7 +1,7 @@
 ---
 episodeNumber:        8
 title:                "Cleft In Twain!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon grapples with fame and exposes The Family Feud; Comptroller Davis grapples with and exposes Harmon's shocking inability to tell jokes and the roleplaying Adventures of Sharpie and Quark begin.
 showDate:             "2012-08-27 04:00:00Z"

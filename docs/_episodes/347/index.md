@@ -1,7 +1,7 @@
 ---
 episodeNumber:        330
 title:                "All Dicks Are Webbed"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Despite walking on stage sick as a dog, audience adoration miraculously heals Dan in real time. Francophile Jeff can't help but dissolve into a sentimental jelly thinking about Notre-dame, and Spencer continues to amaze with hitherto unprecedented levels of enthusiasm.
 showDate:             

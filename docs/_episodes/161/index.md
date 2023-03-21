@@ -1,7 +1,7 @@
 ---
 episodeNumber:        146
 title:                "Definitely Squatchy, Bro (LIVE from Bridgetown 2015!)"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown goes back to Portland for Bridgetown 2015 and it gets squatchy, bro!
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        83
 title:                "DICKS AND BALLS AND BEER"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's the last Harmontown of 2013, get ready for some Christmas magic. Anatoly gets on stage nearly nude, Duncan Trussell talks Christmas as a mushroom cult, Adam Goldberg nearly murders everyone, Jeff Davis hates Paul McCartney and Rob Schrab jumps in on D&D. Happy Holidays and we'll see you next year!
 showDate:             

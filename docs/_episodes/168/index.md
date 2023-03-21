@@ -1,7 +1,7 @@
 ---
 episodeNumber:        153
 title:                "You Do Not Spam Fireballs"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The reason Harmontown exists, Emily Gordon, guest for the first time. Kumail drops in, feminists are responsible for 99.9% of blowjobs and sperm is like a slushy.
 showDate:             

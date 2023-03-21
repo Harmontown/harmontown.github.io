@@ -1,7 +1,7 @@
 ---
 episodeNumber:        220
 title:                "Night 2 At The 2016 New York City Comedy Festival!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   For the first time EVER it's Spencer and Dan. Two stools, one show runner, one game master.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        360
 title:                "Cliffhanger!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown's final curtain call. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Brandon Johnson, Rob Schrab, Open Mike Eagle, Steve Levy and Nick Rutherford. Drive fast and take chances!
 showDate:             "2019-12-02 00:00:00Z"

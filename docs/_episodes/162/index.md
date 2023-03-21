@@ -1,7 +1,7 @@
 ---
 episodeNumber:        147
 title:                "High Concept Humiliation"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Sen. Bernie Sanders pays a visit to Harmontown and talks the bottom 45 percent of the top 60 percent of the top 1 percent.
 showDate:             

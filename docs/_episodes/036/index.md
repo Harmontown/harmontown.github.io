@@ -1,7 +1,7 @@
 ---
 episodeNumber:        23
 title:                "Turtle Panties"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown's last show before the tour becomes a star studded bon voyage. Eric Idle teaches Dan to write songs, Patton Oswalt teaches him the meaning of fear and Ryan Stiles teaches him that fighting displacer beasts takes 45 minutes.
 showDate:             

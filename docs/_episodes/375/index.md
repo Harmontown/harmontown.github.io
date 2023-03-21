@@ -1,7 +1,7 @@
 ---
 episodeNumber:        358
 title:                "Top 10 Funniest Things"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We're counting down the last few episodes of Harmontown, and to celebrate we're counting down the top ten funniest things. Nick Rutherford is back, it's Church's birthday, and Schrab sees how far he can push the show off the rails.
 

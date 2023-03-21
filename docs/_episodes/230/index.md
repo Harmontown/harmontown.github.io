@@ -1,7 +1,7 @@
 ---
 episodeNumber:        213
 title:                "ED-209"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   SCHRAB IS HERE. And the best improvised scene ever ensues.
 showDate:             

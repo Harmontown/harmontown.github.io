@@ -1,7 +1,7 @@
 ---
 episodeNumber:        224
 title:                "Harmontownunder: Brisbane, Australia"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown journeys to Australia! First stop, Brisbane.
 showDate:             

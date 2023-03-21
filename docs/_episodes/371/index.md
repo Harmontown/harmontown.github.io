@@ -1,7 +1,7 @@
 ---
 episodeNumber:        354
 title:                "Mobile Pork Unit"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Classic Harmontown is back! The return of role playing with Steve Levy, the iHarmon and all the potatoes you could ever want.
 showDate:             

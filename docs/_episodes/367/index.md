@@ -1,7 +1,7 @@
 ---
 episodeNumber:        350
 title:                "You Have Ten Seconds to Comply"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan shares his feelings about the loss of a friend and coworker, then brings on Ed Neumeier – writer of genre defining movies like RoboCop and Starship Troopers to dive deep into their history and trivia.
 

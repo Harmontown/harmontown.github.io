@@ -1,7 +1,7 @@
 ---
 episodeNumber:        281
 title:                "If I Need a Gas Mask, I&#39;d Rather Be Dead"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   This week's guest is Kara Brown, staff writer for the Black-ish spinoff, Grown-ish. Dan shares how a social media interaction with a fan lead to questions about Rick and Morty's future. Schrab tells tales of his small hometown, and Spencer tries to get to the bottom of what's going on with DeMorge sexually.
 showDate:             

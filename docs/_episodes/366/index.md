@@ -1,7 +1,7 @@
 ---
 episodeNumber:        349
 title:                "Creamweavers"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan makes a sweater out of cum, and debates with Jeff the pros of being a stander wiper. Dave Foley joins in with tales from The Kids in the Hall and NewsRadio. Who wants a pocket shaman now?
 

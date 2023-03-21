@@ -1,7 +1,7 @@
 ---
 episodeNumber:        343
 title:                "Poolitics"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We Need A Pool Dietician For The Internet, and the milkman is an albino. With special guests Brandon Johnson and Steve Levy!
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        76
 title:                "Hug Me, Hug Me, Hug Me"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The room is packed with Communicon fans and two of them are asked by Mayor Harmon to come on stage and discuss a recent internet exchange about why they feel Dan should "stop talking." A lengthy game of D&D then ensues.
 showDate:             

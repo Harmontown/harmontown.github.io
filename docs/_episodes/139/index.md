@@ -1,7 +1,7 @@
 ---
 episodeNumber:        124
 title:                "LIVE in Houston, TX with comptroller Erin McGathy!"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is in Aust...no wait Houston and the gang discusses weddings, Erin hosts a game corner and producer Dustin shares stories about cum.
 showDate:             

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        154
 title:                "Taye Brigston, the Littlest Show Promoter"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Meet Taye Brigston the world's Littlest Show Promoter of Tiny You!
 showDate:             

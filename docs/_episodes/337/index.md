@@ -1,7 +1,7 @@
 ---
 episodeNumber:        320
 title:                "This Much Funches"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rob Schrab fills in for Spencer with special guest Ron Funches, and a one man show about plumbing.
 

@@ -1,7 +1,7 @@
 ---
 episodeNumber:        249
 title:                "Harmontown From ID10T Fest"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown goes to Chris Hardwick's ID10T Festival. Dan raps about Kubrick, takes questions from the audience, does some push ups and even dance battles with a cosplayer! Our role playing game continues, with Steve getting a feel for Diarrhea Junior.
 

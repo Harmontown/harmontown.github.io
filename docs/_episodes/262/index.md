@@ -1,7 +1,7 @@
 ---
 episodeNumber:        245
 title:                "Explain Your World View"
-image:                "episode-placeholder.jpg"
+image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mystery Science Theater's Joel Hodgson stops by, everyone's world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries.
 
