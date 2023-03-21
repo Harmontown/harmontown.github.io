@@ -1,28 +1,45 @@
 ---
-episodeNumber:        263
-title:                "Seventeen Chicken Boots"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Jeff revisits the idea of zip-line transportation after Dan meets with Elon Musk. "Harmontown" documentary creator Neil Berkeley comes by to talk about his new film about Gilbert Gottfried. The show ends with a fan submitted rap that does a lot of things to a lot of mamas.
-showDate:             
-releaseDate:          "2017-10-25 17:37:00Z"
-duration:             "02:03:31"
+layout:               episode
+slug:                 "280"
+sequenceNumber:       297
+episodeNumber:        280
+title:                "Let&#39;s Talk About Prostate Massage"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4247006774.mp3?updated=1596756872"
+duration:             "02:02:58"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5799653036.mp3?updated=1596586374"
+external:
+  harmonCity:         "https://harmon.city/episode-280"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/297/280"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The show takes a decidedly weird turn from the start. Guests Rob Schrab and DeMorge Brown talk with Dan, Jeff and Spencer about enemas, prostate massage and more. Steve Levy shares Diarrhea Junior's real life origin story.
+showDate:             
+releaseDate:          "2018-03-14 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-263"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/280/263"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/297/example-1.png"
+#- "/assets/images/episodes/297/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Neil Berkeley"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/280/example-1.png"
-#- "/assets/images/episodes/280/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       280
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

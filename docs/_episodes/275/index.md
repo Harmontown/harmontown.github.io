@@ -1,28 +1,45 @@
 ---
-episodeNumber:        258
-title:                "Retired Ninja Quarterly"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Rapper B. Squid and Dan sing about a thousand winters, we question "What if a guy had long arms?" and "Who really stole Steve Levy's roommate's car?" before realizing we're entering Harmageddon.
-showDate:             
-releaseDate:          "2017-09-13 10:00:00Z"
-duration:             "02:06:40"
+layout:               episode
+slug:                 "275"
+sequenceNumber:       292
+episodeNumber:        275
+title:                "We Could Disappear Up Each Other&#39;s Asses"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8129623335.mp3"
+duration:             "02:04:15"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2014893639.mp3?updated=1596589563"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-258"
+  harmonCity:         "https://harmon.city/episode-275"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/275/258"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/292/275"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Guest Comptroller Brandon Johnson and Spencer question Dan's retirement requirements. Singer-songwriter John Mayer comes on to really get inside Dan's wonderland of a mind. Dan and John debate the pros and cons of Googling yourself. The show wraps up by answering the question on everyone's mind: Can John Mayer rap?
+showDate:             
+releaseDate:          "2018-01-31 11:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/292/example-1.png"
+#- "/assets/images/episodes/292/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "B. Squid"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/275/example-1.png"
-#- "/assets/images/episodes/275/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       275
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

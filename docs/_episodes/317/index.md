@@ -1,32 +1,47 @@
 ---
-episodeNumber:        300
-title:                "We Do Right by Whatever You Are"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  We celebrate the 300th episode by looking back at our favorite moments. Kumail Nanjiani, Emily Gordon, Rob Schrab, Steve Agee and Brandon Johnson help us jump the shark with our first clip show.
-  
-  Clips include Open Mike Eagle, Mitch Hurwitz, Curtis Armstrong, DeMorge Brown, Erin McGathy, Bobcat Goldthwait, John Mayer and Jonah Ray.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Emily V. Gordon, Kumail Nanjiani, Rob Schrab, Brandon Johnson and Steve Agee. 
-showDate:             
-releaseDate:          "2018-08-23 10:00:00Z"
-duration:             "02:03:00"
+layout:               episode
+slug:                 "317"
+sequenceNumber:       334
+episodeNumber:        317
+title:                "Rich Man&#39;s NASCAR"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6567122292.mp3"
+duration:             "02:09:32"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9527834676.mp3?updated=1596833283"
+external:
+  harmonCity:         "https://harmon.city/episode-317"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/334/317"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan listened to last week's show while sober and with some comments and clarifications, along with the return of Jesse Camp.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Jesse Camp.
+showDate:             
+releaseDate:          "2019-01-17 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-300"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/317/300"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/334/example-1.png"
+#- "/assets/images/episodes/334/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -50,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/317/example-1.png"
-#- "/assets/images/episodes/317/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       317
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

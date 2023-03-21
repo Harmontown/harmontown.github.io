@@ -1,28 +1,50 @@
 ---
-episodeNumber:        22
-title:                "Nanu Nanu, I&#39;m Racist"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  An impromptu Fellowship of the Nerds is assembled to explain how to break The Hobbit into three movies. Jury duty stories! Adam Goldberg's roommate!
-showDate:             
-releaseDate:          "2013-01-07 03:33:00Z"
-duration:             "02:03:05"
+layout:               episode
+slug:                 "35"
+sequenceNumber:       48
+episodeNumber:        35
+title:                "Harmoncountry: Chicago, IL"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6230550878.mp3?updated=1560295661"
+duration:             "02:06:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6502803547.mp3?updated=1554324167"
+external:
+  harmonCity:         "https://harmon.city/episode-35"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/48/35"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb8UfTsst4vpo8biC72UUs2"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon starts Atoning With The Father when he presents a day in his fantasy TV writer life, confronts a drunk Darth Vader, then adopts a 15 year old version of himself. The night ends with an impromptu rap battle before new Harmenian Kahleel takes the throne.
+showDate:             
+releaseDate:          "2013-01-24 23:47:00Z"
+venue:                "TBC, Chicago, IL"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-22"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/35/22"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObTuam0Ycko9ZqzdTMpVmqH"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Ryan"
+- "Ben"
+- "Alex"
+- "Mason"
+- "Ahmad"
+- "Nate"
+- "Kahleel"
+
+images:
+#- "/assets/images/episodes/048/example-1.png"
+#- "/assets/images/episodes/048/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,30 +68,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Anastasia (Adam Goldberg&#39;s roommate)"
-- "Erin McGathy"
-
-audienceGuests:
-- "Phil"
-- "Ben"
-- "Unnamed"
-- "Tyler"
-- "Adam Goldberg"
-
-images:
-#- "/assets/images/episodes/035/example-1.png"
-#- "/assets/images/episodes/035/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       35
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

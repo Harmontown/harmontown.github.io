@@ -1,28 +1,45 @@
 ---
-episodeNumber:        121
-title:                "LIVE from 92y in NYC feat. Gilbert Gottfried"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Comptroller Gilbert Gottfried warms up Harmontown's biggest crowd yet at New York City's 92y!
-showDate:             
-releaseDate:          "2014-10-14 20:03:00Z"
-duration:             "02:18:49"
+layout:               episode
+slug:                 "136"
+sequenceNumber:       151
+episodeNumber:        136
+title:                "Dick Pic"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2511788109.mp3"
+duration:             "02:03:11"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5041770987.mp3?updated=1561581685"
+external:
+  harmonCity:         "https://harmon.city/episode-136"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/151/136"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYq_7zPeN7UDvuA1M-4R8bD"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's Oscar night and Dino almost had a three way. There's a new Adam Goldberg, Erin McGathy's acceptance speech game corner, Shadow Run and more. RIP Harris Wittels, we miss you. End music "Lisa" by Don't Stop Or We'll Die.
+showDate:             
+releaseDate:          "2015-02-25 03:02:00Z"
 venue:                
-comptroller:          "Gilbert Gottfried"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-121"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/136/121"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObob-bg5HsJ1SW_pd2qFbOg"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/151/example-1.png"
+#- "/assets/images/episodes/151/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/136/example-1.png"
-#- "/assets/images/episodes/136/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       136
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,50 @@
 ---
-episodeNumber:        30
-title:                "Harmoncountry: Sommerville, MA"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon and Comptroller Davis begin the show like any other – discussing the city's auto theft statistics. What comes next is 80+ minutes of insanity, featuring Adam Goldberg's brothers, Erin and Dan's sex life and much, much, sooooo much more.
-showDate:             
-releaseDate:          "2013-01-19 09:04:00Z"
-duration:             "01:58:45"
+layout:               episode
+slug:                 "43"
+sequenceNumber:       56
+episodeNumber:        43
+title:                "Harmoncountry: Los Angeles"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9327404085.mp3?updated=1554492541"
+duration:             "02:33:31"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2988867057.mp3?updated=1554329784"
+external:
+  harmonCity:         "https://harmon.city/episode-43"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/56/43"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObokiYvPPxoplQwDItH96fg"
 
-venue:                "TBC, Sommerville, MA"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Looking back on his tour, non-heroic Mayjor Harmon asks what have I learned (spoiler: he doesn't know) with friends Bobcat Goldthwait, Marc Maron and Duncan Trussell in an epic show at L.A's Egyptian Theater.
+showDate:             
+releaseDate:          "2013-02-08 09:24:00Z"
+venue:                "Egyptian Theatre, Los Angeles, CA"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-30"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/43/30"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaXxtFgBlHURu39fBmy6X9p"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Bobcat Goldthwait"
+- "Marc Maron"
+- "Spencer Crittenden"
+- "Duncan Trussell"
+- "Sean &quot;SnapTheJap&quot; Sakimae"
+- "Roy McClurg"
+- "Erin McGathy"
+
+audienceGuests:
+- "Adam Goldberg"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/056/example-1.png"
+#- "/assets/images/episodes/056/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,33 +68,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Erin McGathy"
-- "Spencer Crittenden"
-
-audienceGuests:
-- "Cara"
-- "Matt"
-- "Noah Goldberg"
-- "Harry Goldberg"
-- "Emma"
-- "Marissa"
-- "Marissa&#39;s Mom"
-- "Matt"
-- "&quot;Nic&quot;"
-
-images:
-#- "/assets/images/episodes/043/example-1.png"
-#- "/assets/images/episodes/043/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       43
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

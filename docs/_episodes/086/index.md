@@ -1,28 +1,45 @@
 ---
-episodeNumber:        72
-title:                "Jib Jab Squeeb Squab"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Rejoice! Kumail is back and joins Dan and Jeff on stage along with comedians John Roy, James Adomian and the entire front row.
-showDate:             
-releaseDate:          "2013-09-16 19:08:00Z"
-duration:             "01:59:49"
+layout:               episode
+slug:                 "86"
+sequenceNumber:       100
+episodeNumber:        86
+title:                "Constitutional Belieber"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8031854394.mp3?updated=1555717466"
+duration:             "02:02:13"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8798524951.mp3?updated=1555610463"
+external:
+  harmonCity:         "https://harmon.city/episode-86"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/100/86"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZawnnkhQxQ-yZq4oC1_hDd"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon is joined by Alie & Georgia of the Slumber Party podcast to defend the constitutional rights of Justin Bieber. In D&D, Sharpie doesn't like Lineve's tone.
+showDate:             
+releaseDate:          "2014-01-20 18:43:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-72"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/86/72"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZbsDYyen-k1twLwcGDINnr"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/100/example-1.png"
+#- "/assets/images/episodes/100/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/086/example-1.png"
-#- "/assets/images/episodes/086/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       86
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

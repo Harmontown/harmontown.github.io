@@ -1,28 +1,45 @@
 ---
-episodeNumber:        57
-title:                "Blood on the Corn"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon and Guest Comptroller Goldthwait examine their own bodies, Dan's drinking, Jeremy Piven, Bigfoot and their likely deaths by significant other. In D&D, the heroes continue to fight their shadow selves.
-showDate:             
-releaseDate:          "2013-05-21 18:11:00Z"
-duration:             "02:08:15"
+layout:               episode
+slug:                 "71"
+sequenceNumber:       85
+episodeNumber:        71
+title:                "Push The Button, Pull The Chain"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3646792805.mp3?updated=1555607950"
+duration:             "02:02:13"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6515807780.mp3?updated=1554504161"
+external:
+  harmonCity:         "https://harmon.city/episode-71"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/85/71"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaTW0fvBVB4QH9wcoZVWsha"
 
-venue:                "NerdMelt"
-comptroller:          "Bobcat Goldthwait"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The Mayor uses his iHarmon to knock down an entire show agenda that includes topics like Premium Gas and what Harmontown should do this year for Halloween when Comptroller Jeff Davis says no to his idea for 15 minutes straight. Later, Erin doesn't understand Grand Theft Auto V and an attractive man in a wheel chair joins the stage for a game of Pathfinder!
+showDate:             
+releaseDate:          "2013-09-09 19:12:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-57"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/71/57"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOajzw9rjF71gJnhtOAJpr0s"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/085/example-1.png"
+#- "/assets/images/episodes/085/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/071/example-1.png"
-#- "/assets/images/episodes/071/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       71
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

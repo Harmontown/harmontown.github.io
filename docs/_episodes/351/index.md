@@ -1,30 +1,47 @@
 ---
-episodeNumber:        334
-title:                "The MacArthur Park Handjobber"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Ryan Kraus from "Cold Case Murder Mysteries" deconstructs true crime and horror and what it means to be the perfect crime, and how one day we're all going to be robots. Also, Spencer's balls are too big.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Ryan Kraus.
-showDate:             
-releaseDate:          "2019-05-23 10:00:00Z"
-duration:             "02:04:44"
+layout:               episode
+slug:                 "351"
+sequenceNumber:       368
+episodeNumber:        351
+title:                "The Cowboy Rulebook"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4296678179.mp3?updated=1596574908"
+duration:             "01:55:18"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6011347392.mp3?updated=1596570113"
+external:
+  harmonCity:         "https://harmon.city/episode-351"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/368/351"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mitch Hurwitz is back! Mitch and Dan talk Arrested Development, Golden Girls, upcoming projects and the future of network TV. Singer/songwriter Robbie Fulks joins in with some tales told via country music.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Mitch Hurwitz, Robbie Fulks and Rob Schrab.
+showDate:             
+releaseDate:          "2019-10-03 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-334"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/351/334"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/368/example-1.png"
+#- "/assets/images/episodes/368/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/351/example-1.png"
-#- "/assets/images/episodes/351/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       351
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        148
-title:                "Easy, Sisyphus"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The great Andy Kindler finally visits Harmontown!!!
-showDate:             
-releaseDate:          "2015-05-27 07:53:00Z"
-duration:             "02:05:34"
+layout:               episode
+slug:                 "163"
+sequenceNumber:       178
+episodeNumber:        163
+title:                "NeuroTitties"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6337563853.mp3?updated=1561403794"
+duration:             "02:08:09"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9127618283.mp3?updated=1561766439"
+external:
+  harmonCity:         "https://harmon.city/episode-163"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/178/163"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa6e1YaJtrUYLsPjPTEvc7N"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Author of the quintessential book on autism, "NeuroTribes", Steven Silberman joins Harmontown for an in depth conversation on the history of and hyper-intelligent nature of autism.
+showDate:             
+releaseDate:          "2015-09-16 07:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-148"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/163/148"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObpASCG-DSZGnLmir2wsFDJ"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/178/example-1.png"
+#- "/assets/images/episodes/178/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/163/example-1.png"
-#- "/assets/images/episodes/163/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       163
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

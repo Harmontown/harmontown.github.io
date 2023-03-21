@@ -1,28 +1,45 @@
 ---
-episodeNumber:        74
-title:                "Morality"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon tries to examine our ethical boundaries, but when that sounds too much like going to bat for pedophiles, everyone starts high fiving themselves for not wanting to do it with babies
-showDate:             
-releaseDate:          "2013-09-30 09:04:00Z"
-duration:             "01:56:29"
+layout:               episode
+slug:                 "88"
+sequenceNumber:       102
+episodeNumber:        88
+title:                "My Whole Life Is A Smile"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8311092189.mp3?updated=1555717480"
+duration:             "02:04:32"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9654197280.mp3?updated=1555612163"
+external:
+  harmonCity:         "https://harmon.city/episode-88"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/102/88"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObt24qHgM0laPaAsv2gT-Lw"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown commemorates Phillip Seymour Hoffman, discusses happiness, takes a Sports Corner break and in Pathfinder, Laan-Ev introduces the gang to his friends.
+showDate:             
+releaseDate:          "2014-02-03 21:41:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-74"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/88/74"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYWRQ2IVuvRJ0H4si7PWROK"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/102/example-1.png"
+#- "/assets/images/episodes/102/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/088/example-1.png"
-#- "/assets/images/episodes/088/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       88
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

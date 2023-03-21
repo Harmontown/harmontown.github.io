@@ -1,28 +1,46 @@
 ---
-episodeNumber:        12
-title:                "Death, Fascism and the Pursuit of Not Remaking Robocop"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Special guest Greg Proops returns! The question of what happens after you die remains unanswered, but tangents include mental illness, poverty and misunderstood Van Halen lyrics. Meanwhile, in D&D world, Sharpie and Quark claim their Embermauler bounty, buy horses and do improv in a forest with an old unicorn friend.
-showDate:             
-releaseDate:          "2012-10-19 02:09:00Z"
-duration:             "01:06:17"
+layout:               episode
+slug:                 "25"
+sequenceNumber:       38
+episodeNumber:        25
+title:                "Harmoncountry: Austin, TX"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6409005607.mp3?updated=1554326191"
+duration:             "01:29:10"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8088402176.mp3?updated=1555712014"
+external:
+  harmonCity:         "https://harmon.city/episode-25"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/38/25"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaW5YZQkM50AcgVLa-Guh7D"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  What else would Mayor Harmon discuss in Austin other than Politics, Mexican food, Hey Yah by Outkast and pooping? In D&D: a friend's dark secret is revealed.
+showDate:             
+releaseDate:          "2013-01-13 08:53:00Z"
+venue:                "TBC, Austin, TX"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-12"
-  podcastDynamite:
-    hasMinutes:       true
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/25/12"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZyMcMPdL943dv3nLlnqeyc"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Ray Pruitt"
+- "Jen Brown"
+- "Mars"
+
+images:
+#- "/assets/images/episodes/038/example-1.png"
+#- "/assets/images/episodes/038/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Greg Proops"
-- "Spencer Crittenden"
-
-audienceGuests:
-- "Adam Goldberg"
-- "Bipolarity Pontificator"
-
-images:
-#- "/assets/images/episodes/025/example-1.png"
-#- "/assets/images/episodes/025/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       25
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

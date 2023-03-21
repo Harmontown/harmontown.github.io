@@ -1,30 +1,49 @@
 ---
-episodeNumber:        293
-title:                "LIVE from The Cradle of Aviation Museum in Long Island, NY"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Live from The Cradle of Aviation Museum in Long Island, NY.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
-showDate:             
-releaseDate:          "2018-07-05 10:00:00Z"
-duration:             "02:06:54"
+layout:               episode
+slug:                 "310"
+sequenceNumber:       327
+episodeNumber:        310
+title:                "Asexual Cowboy"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6705652686.mp3?updated=1596579071"
+duration:             "02:03:08"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6980282854.mp3?updated=1596856688"
+external:
+  harmonCity:         "https://harmon.city/episode-310"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/327/310"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown is live from the New York Comedy Festival!
+  
+  Dan and Spencer dig deep into the how's and why's of their Red Dead Redemption 2 addictions, Jeff is sober. Crescendoing in a panel of three audience members talking shop with Dan, therapy shop.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
+showDate:             
+releaseDate:          "2018-11-15 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-293"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/310/293"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/327/example-1.png"
+#- "/assets/images/episodes/327/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +67,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/310/example-1.png"
-#- "/assets/images/episodes/310/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       310
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

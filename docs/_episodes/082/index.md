@@ -1,28 +1,45 @@
 ---
-episodeNumber:        68
-title:                "Jolly Rodger"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In the middle of working on Community 501, a very tired Mayor Harmon takes to a crowd of Harmenians and revels in their eccentricities. In D&D, an Ogre cums.
-showDate:             
-releaseDate:          "2013-08-19 22:57:00Z"
-duration:             "02:03:46"
+layout:               episode
+slug:                 "82"
+sequenceNumber:       96
+episodeNumber:        82
+title:                "Jim Belushi&#39;s Basement"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5496750200.mp3?updated=1555715359"
+duration:             "01:57:41"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1835457808.mp3?updated=1560294708"
+external:
+  harmonCity:         "https://harmon.city/episode-82"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/96/82"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaISpIncNv30--5a-np52_q"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon brings Arrested Development's creator Mitch Hurwitz on stage to talk shop about TV. Later Kumail returns and the whole thing ends with an epic D&D session. Quit reading already and press play!
+showDate:             
+releaseDate:          "2013-12-02 23:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-68"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/82/68"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObxbRd732zAUnpve2MVWtnf"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Mitch Hurwitz"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/096/example-1.png"
+#- "/assets/images/episodes/096/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/082/example-1.png"
-#- "/assets/images/episodes/082/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       82
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

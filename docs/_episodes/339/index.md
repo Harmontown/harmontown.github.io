@@ -1,30 +1,47 @@
 ---
-episodeNumber:        322
-title:                "WOKE AF HASHTAG"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Brandon Johnson is the guest Comptroller, Rob Schrab is at Spencer's desk, and our guest is Brian Wysol, creator of the Adult Swim series Hot Streets. Dan punishes Justin Roiland for missing the show.
-
-  Featuring Dan Harmon, Brandon Johnson, Rob Schrab and Brian Wysol.
-showDate:             
-releaseDate:          "2019-02-21 11:30:00Z"
-duration:             "01:58:00"
+layout:               episode
+slug:                 "339"
+sequenceNumber:       356
+episodeNumber:        339
+title:                "Swinging Three Bats"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8196637454.mp3"
+duration:             "02:02:37"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3365002042.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-339"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/356/339"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Rob Corddry is back! Dan tells us how to break into his house, Rob talks about his time at The Daily Show, and mountain lions do what they do.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Corddry.
+showDate:             
+releaseDate:          "2019-07-04 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-322"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/339/322"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/356/example-1.png"
+#- "/assets/images/episodes/356/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/339/example-1.png"
-#- "/assets/images/episodes/339/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       339
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

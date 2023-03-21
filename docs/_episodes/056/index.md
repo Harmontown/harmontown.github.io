@@ -1,28 +1,45 @@
 ---
-episodeNumber:        43
-title:                "Harmoncountry: Los Angeles"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Looking back on his tour, non-heroic Mayjor Harmon asks what have I learned (spoiler: he doesn't know) with friends Bobcat Goldthwait, Marc Maron and Duncan Trussell in an epic show at L.A's Egyptian Theater.
-showDate:             
-releaseDate:          "2013-02-08 09:24:00Z"
-duration:             "02:33:31"
+layout:               episode
+slug:                 "56"
+sequenceNumber:       70
+episodeNumber:        56
+title:                "Language is Thought and Spiders are Black People"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1414022938.mp3?updated=1554503431"
+duration:             "01:54:24"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9327404085.mp3?updated=1554492541"
+external:
+  harmonCity:         "https://harmon.city/episode-56"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/70/56"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZMIpuEV_KZ2FTNfHO5rL3F"
 
-venue:                "Egyptian Theatre, Los Angeles, CA"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  An all around provocapalooza surrounding language, race, religion, science, bugs, moms and fake dinosaurs. In D&D, the characters awake in Ye Olde Arena Milieu.
+showDate:             
+releaseDate:          "2013-05-13 17:30:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-43"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/56/43"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObokiYvPPxoplQwDItH96fg"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/070/example-1.png"
+#- "/assets/images/episodes/070/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,31 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Bobcat Goldthwait"
-- "Marc Maron"
-- "Spencer Crittenden"
-- "Duncan Trussell"
-- "Sean &quot;SnapTheJap&quot; Sakimae"
-- "Roy McClurg"
-- "Erin McGathy"
-
-audienceGuests:
-- "Adam Goldberg"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/056/example-1.png"
-#- "/assets/images/episodes/056/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       56
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

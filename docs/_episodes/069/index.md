@@ -1,28 +1,45 @@
 ---
-episodeNumber:        55
-title:                "Shahruz the Web Guru"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  After a well meaning stranger poisons the audience with beef fungus, Chinese Ironman, Eddie Murphy, John Landis and Yakov Smirnoff are discussed. In D&D, everyone dies.
-showDate:             
-releaseDate:          "2013-05-10 06:55:00Z"
-duration:             "01:48:45"
+layout:               episode
+slug:                 "69"
+sequenceNumber:       83
+episodeNumber:        69
+title:                "Cobra Customer Service"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2718692113.mp3?updated=1555611552"
+duration:             "01:54:38"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7654524907.mp3?updated=1554503594"
+external:
+  harmonCity:         "https://harmon.city/episode-69"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/83/69"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObiAPSO3RfXHy7kARqAc09_"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon issues an edict to wait staff, proclaims his eternal love for Erin and signs off on gay weddings.
+showDate:             
+releaseDate:          "2013-08-26 08:10:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-55"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/69/55"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObri-ojoNZzSNWIkqXuayGa"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/083/example-1.png"
+#- "/assets/images/episodes/083/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/069/example-1.png"
-#- "/assets/images/episodes/069/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       69
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

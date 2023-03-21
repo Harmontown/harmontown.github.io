@@ -1,28 +1,45 @@
 ---
-episodeNumber:        75
-title:                "Selling Like Hot Snakes"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon is joined once again by guest Rob Schrab and Erin McGathy plays the role of Comptroller. Spontaneous combustion, peeing your pants and letters from reddit await you in this weeks Harmontown!
-showDate:             
-releaseDate:          "2013-10-08 00:08:00Z"
-duration:             "01:47:36"
+layout:               episode
+slug:                 "89"
+sequenceNumber:       103
+episodeNumber:        89
+title:                "Live At Cobb&#39;s in San Francisco with Joel Hodgson"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8934035172.mp3?updated=1555718341"
+duration:             "01:59:46"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6599196205.mp3?updated=1560295820"
+external:
+  harmonCity:         "https://harmon.city/episode-89"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/103/89"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ3io55H0gPCjPcLUslaNMi"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown does the 13th annual San Francisco Sketchfest, gets a drop in from Mystery Science Theater 3000's Joel Hodgson and later on, the show goes straight Maury Povich.
+showDate:             
+releaseDate:          "2014-02-07 19:28:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-75"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/89/75"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYzMdiBuhqOGI47U5spiNdI"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/103/example-1.png"
+#- "/assets/images/episodes/103/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/089/example-1.png"
-#- "/assets/images/episodes/089/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       89
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

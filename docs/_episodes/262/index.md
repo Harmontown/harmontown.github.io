@@ -1,30 +1,47 @@
 ---
-episodeNumber:        245
-title:                "Explain Your World View"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mystery Science Theater's Joel Hodgson stops by, everyone's world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries.
-
-  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Joel Hodgson, Robert Evans and Magenta Vaughn.
-showDate:             
-releaseDate:          "2017-05-24 06:43:00Z"
-duration:             "02:03:56"
+layout:               episode
+slug:                 "262"
+sequenceNumber:       279
+episodeNumber:        262
+title:                "Porcelain Birds"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5330727073.mp3?updated=1596587371"
+duration:             "02:07:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7038219060.mp3?updated=1596759709"
-
-venue:                
-comptroller:          "Brandon Johnson"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-245"
+  harmonCity:         "https://harmon.city/episode-262"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/262/245"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/279/262"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan and Rob talk about sexual harassment in the entertainment industry and the ramifications of a Rick & Morty porn parody being produced. Spencer reveals why people really buy iPads.
+  
+  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Steve Levy.
+showDate:             
+releaseDate:          "2017-10-18 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/279/example-1.png"
+#- "/assets/images/episodes/279/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,27 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Joel Hodgson"
-- "Robert Evans"
-- "Magenta Vaughn"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/262/example-1.png"
-#- "/assets/images/episodes/262/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       262
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

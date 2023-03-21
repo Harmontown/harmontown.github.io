@@ -1,28 +1,47 @@
 ---
-episodeNumber:        304
-title:                "Magic Shinto Hat"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Is Schrab getting too comfortable in his comfy chair, and what is he doing with his microphone? The role playing gang pivots to being potato farmers, but they get stuck on naming. Steve Levy is like a Lego.
-showDate:             
-releaseDate:          "2018-09-27 10:00:00Z"
-duration:             "02:07:41"
+layout:               episode
+slug:                 "321"
+sequenceNumber:       338
+episodeNumber:        321
+title:                "Rise the Boats"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5039539011.mp3?updated=1596564385"
+duration:             "01:57:38"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6586506051.mp3?updated=1596580673"
+external:
+  harmonCity:         "https://harmon.city/episode-321"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/338/321"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Comedian Mohanad Elshieky shares recent events in his life, while Dan shares relatable tales of house shopping. Brandon Johnson is back, filling in for Spencer.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Mohanad Elshieky.
+showDate:             
+releaseDate:          "2019-02-14 11:00:00Z"
 venue:                
-comptroller:          "Rob Schrab"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-304"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/321/304"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/338/example-1.png"
+#- "/assets/images/episodes/338/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/321/example-1.png"
-#- "/assets/images/episodes/321/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       321
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

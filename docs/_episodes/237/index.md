@@ -1,28 +1,45 @@
 ---
-episodeNumber:        220
-title:                "Night 2 At The 2016 New York City Comedy Festival!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  For the first time EVER it's Spencer and Dan. Two stools, one show runner, one game master.
-showDate:             
-releaseDate:          "2016-11-11 07:10:00Z"
-duration:             "01:46:30"
+layout:               episode
+slug:                 "237"
+sequenceNumber:       254
+episodeNumber:        237
+title:                "Less Than White"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2046806980.mp3"
+duration:             "01:54:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3937338382.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-237"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/254/237"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Tim Talbott.
+showDate:             
+releaseDate:          "2017-03-22 07:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-220"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/237/220"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/254/example-1.png"
+#- "/assets/images/episodes/254/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/237/example-1.png"
-#- "/assets/images/episodes/237/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       237
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

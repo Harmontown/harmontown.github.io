@@ -1,28 +1,47 @@
 ---
-episodeNumber:        276
-title:                "Cheapy Peepy"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Steve Levy and Rob Schrab share an intimate physical moment, Dan shows off his Dave Matthews impression, and we discuss the hot button political issue on everyone's mind: Spiro Agnew.
-showDate:             
-releaseDate:          "2018-02-07 11:00:00Z"
-duration:             "02:03:23"
+layout:               episode
+slug:                 "293"
+sequenceNumber:       310
+episodeNumber:        293
+title:                "LIVE from The Cradle of Aviation Museum in Long Island, NY"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6980282854.mp3?updated=1596856688"
+duration:             "02:06:54"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4108191484.mp3?updated=1596784321"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-276"
+  harmonCity:         "https://harmon.city/episode-293"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/293/276"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/310/293"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Live from The Cradle of Aviation Museum in Long Island, NY.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
+showDate:             
+releaseDate:          "2018-07-05 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/310/example-1.png"
+#- "/assets/images/episodes/310/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Rob Schrab"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/293/example-1.png"
-#- "/assets/images/episodes/293/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       293
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

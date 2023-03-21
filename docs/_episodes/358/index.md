@@ -1,30 +1,47 @@
 ---
-episodeNumber:        341
-title:                "Ketel One, Audience Zero"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  We finally get to the bottom of the story about Spencer's bees, why The Golden Girls owned mink, what a Jeff Golem would look like, Rob Schrab, and bagels.
-
-  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Jeff Bryan Davis.
-showDate:             
-releaseDate:          "2019-07-18 10:00:00Z"
-duration:             "02:05:28"
+layout:               episode
+slug:                 "358"
+sequenceNumber:       375
+episodeNumber:        358
+title:                "Top 10 Funniest Things"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1162720767.mp3?updated=1596569882"
+duration:             "01:50:50"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1737266482.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-358"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/375/358"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  We're counting down the last few episodes of Harmontown, and to celebrate we're counting down the top ten funniest things. Nick Rutherford is back, it's Church's birthday, and Schrab sees how far he can push the show off the rails.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Nick Rutherford and Church.
+showDate:             
+releaseDate:          "2019-11-21 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-341"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/358/341"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/375/example-1.png"
+#- "/assets/images/episodes/375/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/358/example-1.png"
-#- "/assets/images/episodes/358/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       358
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

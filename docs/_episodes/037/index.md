@@ -1,28 +1,50 @@
 ---
-episodeNumber:        24
-title:                "Harmoncountry: Phoenix, Arizona"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon begins his tour feeling way more insecure than the kind-hearted heroes of a new city. A Harmontown theme with an awesome hook starts getting workshopped. In D&D, the heroes fight cylinders.
-showDate:             
-releaseDate:          "2013-01-12 00:50:00Z"
-duration:             "01:37:16"
+layout:               episode
+slug:                 "37"
+sequenceNumber:       50
+episodeNumber:        37
+title:                "Harmoncountry: Minneapolis, MN"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7331800635.mp3?updated=1554336971"
+duration:             "01:35:58"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1114500278.mp3?updated=1554325542"
+external:
+  harmonCity:         "https://harmon.city/episode-37"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/50/37"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-kxN3QSR5OPJEHQAE0Qyv"
 
-venue:                "TBC, Phoenix, AZ"
-comptroller:          "Jeff B. Davis"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon and Guest Comptroller McGathy interface with Twin Town from injured tendon to badly placed sound effect. Former Dead Alewives member Sean McKenna raps. Joyfully unedited episode.
+showDate:             
+releaseDate:          "2013-01-27 20:30:00Z"
+venue:                "TBC, Minneapolis, MN"
+comptroller:          "Erin McGathy"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-24"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/37/24"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ1sqMDANvfxWftoL62GMN4"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Sean McKenna"
+- "Eric Hill"
+
+audienceGuests:
+- "Tony"
+- "Matt"
+- "Josh"
+- "Joe"
+- "Jaffer"
+- "Austin"
+
+images:
+#- "/assets/images/episodes/050/example-1.png"
+#- "/assets/images/episodes/050/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,31 +68,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Alex"
-- "Dustin"
-- "Pam"
-- "Brianne I"
-- "Brianne II"
-- "Ben (Injured Scrabbler)"
-- "Tyler Dandy"
-
-images:
-#- "/assets/images/episodes/037/example-1.png"
-#- "/assets/images/episodes/037/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       37
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

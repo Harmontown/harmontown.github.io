@@ -1,28 +1,47 @@
 ---
-episodeNumber:        281
-title:                "If I Need a Gas Mask, I&#39;d Rather Be Dead"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  This week's guest is Kara Brown, staff writer for the Black-ish spinoff, Grown-ish. Dan shares how a social media interaction with a fan lead to questions about Rick and Morty's future. Schrab tells tales of his small hometown, and Spencer tries to get to the bottom of what's going on with DeMorge sexually.
-showDate:             
-releaseDate:          "2018-03-21 10:00:00Z"
-duration:             "01:58:18"
+layout:               episode
+slug:                 "298"
+sequenceNumber:       315
+episodeNumber:        298
+title:                "Homeless Sapiens"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2817009246.mp3?updated=1596836932"
+duration:             "02:04:31"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6760230398.mp3?updated=1596761450"
+external:
+  harmonCity:         "https://harmon.city/episode-298"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/315/298"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan explains dog intelligence and Canadian creepypasta, while Schrab and Jeff demonstrate the perfect stage walk-on. Spencer tries MeUndies for the first time, and Dan plays himself.
+  
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis and Rob Schrab.
+showDate:             
+releaseDate:          "2018-08-09 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-281"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/298/281"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/315/example-1.png"
+#- "/assets/images/episodes/315/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/298/example-1.png"
-#- "/assets/images/episodes/298/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       298
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

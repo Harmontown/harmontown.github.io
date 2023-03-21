@@ -5,8 +5,8 @@ module Harmontown
       prefixLength = '/srv/jekyll'.length
 
       episodes = site.collections['episodes'].docs.each { |ep|
-        relative_url = ep.path[prefixLength..]
-        ep.data['collection_item_url'] = relative_url
+      collection_item_url = ep.path[prefixLength..]
+        ep.data['collection_item_url'] = collection_item_url
 
         images_path = '/assets/images/episodes/' + ep['sequenceNumber'].to_s.rjust(3, '0') + '/'
         ep.data['images'] = (ep.data['images'] || []) +

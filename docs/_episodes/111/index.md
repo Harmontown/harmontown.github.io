@@ -1,28 +1,45 @@
 ---
-episodeNumber:        97
-title:                "Long Brown Blood"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Preparing for its first month hiatus, Harmontown goes for a big blow out that tackles the usual; racism, censorship, health, mortality etc. Spencer returns for D&D to promote Friendship & Cigarettes.
-showDate:             
-releaseDate:          "2014-03-31 19:58:00Z"
-duration:             "02:09:54"
+layout:               episode
+slug:                 "111"
+sequenceNumber:       126
+episodeNumber:        111
+title:                "Fluid Levitation"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3032194377.mp3?updated=1556746940"
+duration:             "02:02:33"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9806272080.mp3?updated=1556231620"
+external:
+  harmonCity:         "https://harmon.city/episode-111"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/126/111"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObZVa-0U5I7JEVnMvH6r52_"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon, Jeff Davis, Erin McGathy and Spencer Crittenden discover a Belgian fan in the audience, but when a Londoner from the crowd
+showDate:             
+releaseDate:          "2014-08-11 18:38:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-97"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/111/97"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb7STQSAQu3kDkWksO7kYEc"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/126/example-1.png"
+#- "/assets/images/episodes/126/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/111/example-1.png"
-#- "/assets/images/episodes/111/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       111
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

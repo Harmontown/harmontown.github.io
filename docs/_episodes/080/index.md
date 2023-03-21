@@ -1,28 +1,46 @@
 ---
-episodeNumber:        66
-title:                "Frequently I Am A Woman In My Dreams"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon has got nothing. This prompts Kumail and Erin to join the stage for some dream interpretation and penis trauma. In D&D, Sharpie dies.
-showDate:             
-releaseDate:          "2013-08-05 09:56:00Z"
-duration:             "01:53:19"
+layout:               episode
+slug:                 "80"
+sequenceNumber:       94
+episodeNumber:        80
+title:                "Harmontown At Largo"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5537922667.mp3?updated=1555625941"
+duration:             "00:47:51"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5400422615.mp3?updated=1555545411"
+external:
+  harmonCity:         "https://harmon.city/episode-80"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/94/80"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObdfxl3IiROmw_QlqHOmnqw"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  In conjunction with Adult Swim and Starburns Industries, HARMONTOWN Live at Largo Coronet Theatre! Featuring Justin Roiland, John Oliver and Sarah Chalke! (Presented in 128kbps Stereo)
+showDate:             
+releaseDate:          "2013-11-18 10:20:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-66"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/80/66"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOajEqi9G67Hz6bLTSJbmsd8"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Justin Roiland"
+- "John Oliver"
+- "Sarah Chalke"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/094/example-1.png"
+#- "/assets/images/episodes/094/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/080/example-1.png"
-#- "/assets/images/episodes/080/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       80
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

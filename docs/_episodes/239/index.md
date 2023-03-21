@@ -1,28 +1,45 @@
 ---
-episodeNumber:        222
-title:                "Anne Frank Kicked A Cat Once"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Erin McGathy makes a triumphant return to Harmontown as the role of Spencer and brings the sounded of 20 sided die back to Harmontown! Bonus track: an all new song originally made for Harmontown by Colleen Green!
-showDate:             
-releaseDate:          "2016-11-24 03:01:00Z"
-duration:             "01:48:14"
+layout:               episode
+slug:                 "239"
+sequenceNumber:       256
+episodeNumber:        239
+title:                "LIVE from the Chicago Improv Festival 2017"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2468356696.mp3"
+duration:             "01:49:56"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9729988647.mp3?updated=1596672956"
+external:
+  harmonCity:         "https://harmon.city/episode-239"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/256/239"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown joins the Chicago Improv Festival with guest Comptroller Brandon Johnson. Improv legends Jimmy Carrane and Scott Adsit help Dan demonstrate the difference between improv and written comedy, while Brandon and Dan discover the seven types of pee.
+showDate:             
+releaseDate:          "2017-04-05 05:37:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-222"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/239/222"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Jimmy Carrane"
+- "Scott Adsit"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/256/example-1.png"
+#- "/assets/images/episodes/256/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/239/example-1.png"
-#- "/assets/images/episodes/239/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       239
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

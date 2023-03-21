@@ -1,28 +1,45 @@
 ---
-episodeNumber:        108
-title:                "I Make A 5 Stars"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Dan Harmon and Comptroller Duncan Trussell makes another sold out show at Nerdmelt Theater one for the ages!
-showDate:             
-releaseDate:          "2014-07-21 18:28:00Z"
-duration:             "01:50:04"
+layout:               episode
+slug:                 "123"
+sequenceNumber:       138
+episodeNumber:        123
+title:                "LIVE from Austin, TX with LEVAR BURTON"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8232975554.mp3?updated=1561584917"
+duration:             "01:59:05"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9185241368.mp3?updated=1556325079"
+external:
+  harmonCity:         "https://harmon.city/episode-123"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/138/123"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYcMtpaTkgtdac4zAZOUOvg"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown goes to Austin and holy sh*t, LeVar Burton is the comptroller.
+showDate:             
+releaseDate:          "2014-10-29 10:45:00Z"
 venue:                
-comptroller:          "Duncan Trussell"
+comptroller:          "LeVar Burton"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-108"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/123/108"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObORGwI5Lrg8cWgtv3nTO5Y"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/138/example-1.png"
+#- "/assets/images/episodes/138/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/123/example-1.png"
-#- "/assets/images/episodes/123/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       123
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

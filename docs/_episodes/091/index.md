@@ -1,28 +1,45 @@
 ---
-episodeNumber:        77
-title:                "Carpool Diem"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In the wake of Lou Reed's passing, in which this episode is dedicated to; a sad, stripped down, sleepy and introspective Velvet Harmontown. Plus, the introduction of Harmontown's new character "Johnny Jackhammer." In DnD, the gang is helpless to watch Yearch "less than zero."
-showDate:             
-releaseDate:          "2013-10-28 08:39:00Z"
-duration:             "02:00:38"
+layout:               episode
+slug:                 "91"
+sequenceNumber:       105
+episodeNumber:        91
+title:                "Net Neutrality/Butt Fun"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9689774999.mp3?updated=1556145437"
+duration:             "02:08:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8257519142.mp3?updated=1555624819"
+external:
+  harmonCity:         "https://harmon.city/episode-91"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/105/91"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaVvXWgFPN0Tps1vA6wdxSh"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Net Neutrality activist Eddie Geller shines a light onto how our rights online are on their way out. This, naturally, agitates Mayor Harmon's disenchantment with bureaucracy and capitalism. Meanwhile, Comptroller Jeff Davis and Kumail Nanjiani attempt to come up with something better to call it than "net neutrality."
+showDate:             
+releaseDate:          "2014-02-18 00:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-77"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/91/77"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaI-GUkr8_BpzFtzCfgodZ8"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/105/example-1.png"
+#- "/assets/images/episodes/105/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/091/example-1.png"
-#- "/assets/images/episodes/091/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       91
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

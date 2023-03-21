@@ -1,28 +1,45 @@
 ---
-episodeNumber:        80
-title:                "Harmontown At Largo"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In conjunction with Adult Swim and Starburns Industries, HARMONTOWN Live at Largo Coronet Theatre! Featuring Justin Roiland, John Oliver and Sarah Chalke! (Presented in 128kbps Stereo)
-showDate:             
-releaseDate:          "2013-11-18 10:20:00Z"
-duration:             "00:47:51"
+layout:               episode
+slug:                 "94"
+sequenceNumber:       108
+episodeNumber:        94
+title:                "Live From SXSW &#39;14 + Movie Q&amp;A"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7536468874.mp3?updated=1556133349"
+duration:             "02:25:57"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5537922667.mp3?updated=1555625941"
+external:
+  harmonCity:         "https://harmon.city/episode-94"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/108/94"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYHBUC8_ob1mHSycTEOTNcr"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  From Austin, TX, Harmontown is live from the Liberty Tavern and SXSW. Bonus audio from the Q & A following the premiere of the "Harmontown" documentary.
+showDate:             
+releaseDate:          "2014-03-10 22:26:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-80"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/94/80"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObdfxl3IiROmw_QlqHOmnqw"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/108/example-1.png"
+#- "/assets/images/episodes/108/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Justin Roiland"
-- "John Oliver"
-- "Sarah Chalke"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/094/example-1.png"
-#- "/assets/images/episodes/094/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       94
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

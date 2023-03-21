@@ -1,28 +1,45 @@
 ---
-episodeNumber:        221
-title:                "It Happened In Silverlake"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In the wake of an upsetting election and racial tension, Harmontown welcomes the Avenger's Elizabeth Olsen, Rick and Morty's Brandon Johnson and our first musical guest ever Babes to suss it all out. Ha-ha-ha ha-ha ha ha-ha.
-showDate:             
-releaseDate:          "2016-11-16 11:42:00Z"
-duration:             "02:14:07"
+layout:               episode
+slug:                 "238"
+sequenceNumber:       255
+episodeNumber:        238
+title:                "My name is Johnny Varvatos"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2062953615.mp3?updated=1596756147"
+duration:             "01:51:07"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6470253579.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-238"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/255/238"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Jeff B. Davis, Rob Schrab and Brandon Johnson
+showDate:             
+releaseDate:          "2017-03-29 05:48:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-221"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/238/221"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/255/example-1.png"
+#- "/assets/images/episodes/255/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/238/example-1.png"
-#- "/assets/images/episodes/238/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       238
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

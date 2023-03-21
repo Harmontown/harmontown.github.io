@@ -1,28 +1,45 @@
 ---
-episodeNumber:        155
-title:                "LIVE from The Tin Roof in San Diego 2015"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Hot off of ComicCon, Harmontown summons harmenians to San Diego's Tin Roof for a night of drinking, rapping, dinosaurs, bananas and more.
-showDate:             
-releaseDate:          "2015-07-15 07:30:00Z"
-duration:             "02:11:14"
+layout:               episode
+slug:                 "170"
+sequenceNumber:       186
+episodeNumber:        170
+title:                "We Will Be There To Service The Aquarium"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6205817424.mp3?updated=1561146922"
+duration:             "02:08:06"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1744918897.mp3?updated=1561580518"
+external:
+  harmonCity:         "https://harmon.city/episode-170"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/186/170"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZyiKo6_qMKDjPRd_zHH0FA"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Back by popular demand, Rob Schrab returns to the show even to Harmon's detriment.
+showDate:             
+releaseDate:          "2015-11-03 23:59:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-155"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/170/155"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObmT9lg1DXJSKVIgrdVLv5W"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/186/example-1.png"
+#- "/assets/images/episodes/186/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/170/example-1.png"
-#- "/assets/images/episodes/170/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       170
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

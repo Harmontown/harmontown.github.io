@@ -1,28 +1,45 @@
 ---
-episodeNumber:        149
-title:                "LIVE from Everything Is Festival 2015"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown is back in Portland for Everything Is Terrible! Penis size is questioned and two well dressed audio members take the brunt of it, Dan is accused of sh*tting his pants and ends up revealing his balls.
-showDate:             
-releaseDate:          "2015-06-02 23:29:00Z"
-duration:             "01:28:17"
+layout:               episode
+slug:                 "164"
+sequenceNumber:       179
+episodeNumber:        164
+title:                "Peak Hitler"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8074304759.mp3?updated=1561399904"
+duration:             "02:05:19"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9554704726.mp3?updated=1561763799"
+external:
+  harmonCity:         "https://harmon.city/episode-164"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/179/164"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObGriZk6DLVju2dWBCqAUom"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Senator Bernie Sanders returns, Harmon thinks of the most insulting thing to tattoo above your penis and Shadowrun is faced with a newfound time limit.
+showDate:             
+releaseDate:          "2015-09-23 05:32:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-149"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/164/149"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb4iA0NASSh1ARcWLf4Ar3C"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/179/example-1.png"
+#- "/assets/images/episodes/179/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/164/example-1.png"
-#- "/assets/images/episodes/164/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       164
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

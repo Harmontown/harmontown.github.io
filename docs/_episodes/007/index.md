@@ -1,28 +1,47 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #7"
+layout:               episode
+slug:                 "7"
+sequenceNumber:       20
+episodeNumber:        7
+title:                "Cranky Mayors, Pink Hairs and Shoelace Cares"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028373533.mp3?updated=1555697331"
+duration:             "01:31:07"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-7"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/20/7"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaRVCngsVJqLkyjXrzyCckP"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost episode from before the show was a podcast.
-showDate:             "2011-11-21 05:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  An especially antsy crowd turns Harmontown's meeting into a flippin' town meeting, pushing our fearless leader from musings on infidelity to contemplations of suicide. Plus: Dungeonmaster Spencer unveils the boys' characters!
+showDate:             "2012-08-20 04:00:00Z"
+releaseDate:          "2012-08-30 06:13:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+- "Christina &quot;Pink Hair&quot;"
+- "Nti Aning"
+- "Levi"
+- "Adam Goldberg"
+
+images:
+#- "/assets/images/episodes/020/example-1.png"
+#- "/assets/images/episodes/020/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/007/example-1.png"
-#- "/assets/images/episodes/007/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       7
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

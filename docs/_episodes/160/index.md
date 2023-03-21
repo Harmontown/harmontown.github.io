@@ -1,28 +1,45 @@
 ---
-episodeNumber:        145
-title:                "Swastika Made Of Dicks"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon's neighbor posts an elitist sign in their neighborhood and he loses it. There's rants, bits, baby talk, Shadownrun. Spencer, Curtis, Erin and DeMorge.
-showDate:             
-releaseDate:          "2015-05-06 02:31:00Z"
-duration:             "02:05:08"
+layout:               episode
+slug:                 "160"
+sequenceNumber:       175
+episodeNumber:        160
+title:                "AWWW"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1030279687.mp3?updated=1561412499"
+duration:             "02:10:03"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8556507448.mp3?updated=1562016466"
+external:
+  harmonCity:         "https://harmon.city/episode-160"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/175/160"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYEh5ZOwRnaQGycBb1EMFin"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  As we learned last week, the movie Boat Trip is insane, and a surprise drop in from Horatio Sanz discusses just how strange working on it really was. Later, the audiences awwws.
+showDate:             
+releaseDate:          "2015-08-25 22:34:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-145"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/160/145"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObGW5aDYyEPvi1q-rN7NTdm"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/175/example-1.png"
+#- "/assets/images/episodes/175/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/160/example-1.png"
-#- "/assets/images/episodes/160/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       160
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

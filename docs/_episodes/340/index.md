@@ -1,30 +1,45 @@
 ---
-episodeNumber:        323
-title:                "Adam Ruins Harmontown"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Adam Conover, from Adam Ruins Everything and CollegeHumor, ruins herpes, hymens and Harmontown. Brandon Johnson is our guest comptroller, and Schrab is back with another new chair.
-
-  Featuring Dan Harmon, Brandon Johnson, Rob Schrab and Adam Conover.
-showDate:             
-releaseDate:          "2019-02-28 11:00:00Z"
-duration:             "01:53:44"
+layout:               episode
+slug:                 "340"
+sequenceNumber:       357
+episodeNumber:        340
+title:                "It&#39;s Not Called Show-Friends"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3629706360.mp3"
+duration:             "02:01:22"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7557659041.mp3?updated=1596565741"
+external:
+  harmonCity:         "https://harmon.city/episode-340"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/357/340"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Schrab is comptrolling to prepare for his upcoming role as moderator of the Comic-Con Rick & Morty Panel. But Jeff's still here, and without a podium, not-quite fitting into the seats on the stage. Listen now and gain the inside track on such topics as Jaws 4, Bees, and people who shower excessively: probably...
+showDate:             
+releaseDate:          "2019-07-11 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Rob Schrab"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-323"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/340/323"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/357/example-1.png"
+#- "/assets/images/episodes/357/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/340/example-1.png"
-#- "/assets/images/episodes/340/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       340
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

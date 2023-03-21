@@ -1,28 +1,46 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #11"
+layout:               episode
+slug:                 "11"
+sequenceNumber:       24
+episodeNumber:        11
+title:                "Tylenol With Codeine"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8755972312.mp3?updated=1555713084"
+duration:             "01:36:01"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-11"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/24/11"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZp9MHpv9D44MFt_JS3Nncd"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Probably the infamous Chevy Chase voicemail episode.
-showDate:             "2012-03-26 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  The first appearance of Greg Proops provokes a fit of Mayor Harmon's pointless political rants and a D&D adventure that shall forever be remembered as involving unicorn pee.
+showDate:             "2012-09-17 04:00:00Z"
+releaseDate:          "2012-09-28 02:30:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Greg Proops"
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/024/example-1.png"
+#- "/assets/images/episodes/024/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/011/example-1.png"
-#- "/assets/images/episodes/011/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       11
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

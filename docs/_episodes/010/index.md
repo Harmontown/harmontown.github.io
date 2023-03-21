@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #10"
+layout:               episode
+slug:                 "10"
+sequenceNumber:       23
+episodeNumber:        10
+title:                "A Tuppence or a Shilling for Your Wainscotting"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4509016283.mp3?updated=1555697297"
+duration:             "01:17:08"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-10"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/23/10"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ9uXTrAkDHmldmOhrkH4lT"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost episode from before the show was a podcast.
-showDate:             "2012-02-27 05:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  Mayor Harmon and Guest Comptroller Erin McGathy discuss Knight Rider, Alf and anxiety, then play a quick round of Dungeons and Dragons before getting into a huge fight about movies and breaking up.
+showDate:             "2012-09-10 04:00:00Z"
+releaseDate:          "2012-09-21 01:45:00Z"
 venue:                "NerdMelt"
-comptroller:          "Jeff B. Davis"
+comptroller:          "Erin McGathy"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+- "Adam Goldberg"
+- "David"
+
+images:
+#- "/assets/images/episodes/023/example-1.png"
+#- "/assets/images/episodes/023/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/010/example-1.png"
-#- "/assets/images/episodes/010/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       10
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

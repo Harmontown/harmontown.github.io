@@ -6,7 +6,7 @@ using YamlDotNet.Serialization.NamingConventions;
 
 public class FrontMatterExtractor
 {
-  const string Input = "../../docs/_episodes/";
+  const string Input = "../../../docs/_episodes/";
 
   public IEnumerable<Episode> GetEpisodes()
   {
@@ -14,6 +14,7 @@ public class FrontMatterExtractor
     var deserialiser =
       new DeserializerBuilder()
         .WithNamingConvention(CamelCaseNamingConvention.Instance)
+        .IgnoreUnmatchedProperties()
         .Build();
 
     foreach (var dir in epDirs)
@@ -51,7 +52,7 @@ public record Episode
   public Episode() { }
 
   public Episode(
-  string id,
+  string slug,
   int sequenceNumber,
   int? episodeNumber,
   string? title,
@@ -60,7 +61,7 @@ public record Episode
   string? showDate,
   string? releaseDate,
   TimeSpan? duration,
-  bool? isLostEpisode,
+  bool isLostEpisode,
   bool? isTrailer,
   bool? hasExplicitLanguage,
   string? soundFile,
@@ -71,13 +72,10 @@ public record Episode
   External external,
   string[]? guests,
   string[]? audienceGuests,
-  string[]? images,
-  string layout,
-  bool hasPrevious,
-  bool hasNext
+  string[]? images
   )
   {
-    Id = id;
+    Slug = slug;
     SequenceNumber = sequenceNumber;
     EpisodeNumber = episodeNumber;
     Title = title;
@@ -98,11 +96,8 @@ public record Episode
     Guests = guests;
     AudienceGuests = audienceGuests;
     Images = images;
-    Layout = layout;
-    HasPrevious = hasPrevious;
-    HasNext = hasNext;
   }
-  public string Id { get; init; }
+  public string Slug { get; init; }
   public int SequenceNumber { get; init; }
   public int? EpisodeNumber { get; init; }
   public string? Title { get; init; }
@@ -111,7 +106,7 @@ public record Episode
   public string? ShowDate { get; init; }
   public string? ReleaseDate { get; init; }
   public TimeSpan? Duration { get; init; }
-  public bool? IsLostEpisode { get; init; }
+  public bool IsLostEpisode { get; init; }
   public bool? IsTrailer { get; init; }
   public bool? HasExplicitLanguage { get; init; }
   public string? SoundFile { get; init; }
@@ -123,9 +118,6 @@ public record Episode
   public string[]? Guests { get; init; }
   public string[]? AudienceGuests { get; init; }
   public string[]? Images { get; init; }
-  public string Layout { get; init; }
-  public bool HasPrevious { get; init; }
-  public bool HasNext { get; init; }
 }
 
 public record External

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        129
-title:                "Best Of A Bad Lot"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown welcomes the return of comptroller Jeff Davis, Mayor Harmon wants you off his lawn and creator of The IT Crowd, Graham Linehan, meets Dan on stage for the first time and they exchange their transcontinental show runner blues.
-showDate:             
-releaseDate:          "2014-12-08 21:05:00Z"
-duration:             "01:58:38"
+layout:               episode
+slug:                 "144"
+sequenceNumber:       159
+episodeNumber:        144
+title:                "Operation Metalbeast"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9452351749.mp3?updated=1562009622"
+duration:             "02:00:09"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6924818498.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-144"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/159/144"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObgpjhjT2pSkoeR3G1Kw5hP"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmon hates muppets. We meet a guy named Skuta and shortly after, the most intense fan in the show's history.
+showDate:             
+releaseDate:          "2015-04-29 08:32:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-129"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/144/129"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb2iz00ou8Lt-0YNTm-q1Xy"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/159/example-1.png"
+#- "/assets/images/episodes/159/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/144/example-1.png"
-#- "/assets/images/episodes/144/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       144
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

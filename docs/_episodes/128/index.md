@@ -1,28 +1,45 @@
 ---
-episodeNumber:        113
-title:                "FlagCop"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon is possibly a bit jealous of Spencer and Real Abed's budding friendship, and later we welcome Demorge Brown to the mix which spawns a TV pilot pitch, "FlagCop".
-showDate:             
-releaseDate:          "2014-08-25 20:32:00Z"
-duration:             "02:06:01"
+layout:               episode
+slug:                 "128"
+sequenceNumber:       143
+episodeNumber:        128
+title:                "That&#39;s my wife&#39;s pie, you bitch!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1261445002.mp3"
+duration:             "02:07:15"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1653306381.mp3?updated=1556750498"
+external:
+  harmonCity:         "https://harmon.city/episode-128"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/143/128"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYuNTVwQ1ytYqsWEL4iusNj"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Schrab secretly Schrabs the gang, Cameron Esposito and Rhea Butcher of the Put Your Hands Together podcast stop by and talk movies, Kumail returns, Dan and Erin got married, and in D&D they encounter some sleeping bears.
+showDate:             
+releaseDate:          "2014-11-25 00:39:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Kumail Nanjiani"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-113"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/128/113"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObtYvvKMeoeHC6xHfVY3h75"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/143/example-1.png"
+#- "/assets/images/episodes/143/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/128/example-1.png"
-#- "/assets/images/episodes/128/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       128
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        127
-title:                "Ant Ball"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Comproller Dave Horwitz makes his first appearance. A Russian travels the world to ask Dan one question, and Spencer devises a way to get off of an island if stranded.
-showDate:             
-releaseDate:          "2014-11-11 22:46:00Z"
-duration:             "01:37:27"
+layout:               episode
+slug:                 "142"
+sequenceNumber:       157
+episodeNumber:        142
+title:                "Kiss On Your Balls"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2645892210.mp3?updated=1562018428"
+duration:             "01:52:15"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6471051966.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-142"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/157/142"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZVdVNXXgHml6kuRxXh6ZYl"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's Easter. Jeff does not understand Chain Zingers. Like, really doesn't get it. Curtis Armstrong returns for Shadowrun and there is a lot of testicle play.
+showDate:             
+releaseDate:          "2015-04-07 23:28:00Z"
 venue:                
-comptroller:          "Dave Horwitz"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-127"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/142/127"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObFsbJCu_ufBE8-CYG9xCb7"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/157/example-1.png"
+#- "/assets/images/episodes/157/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/142/example-1.png"
-#- "/assets/images/episodes/142/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       142
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

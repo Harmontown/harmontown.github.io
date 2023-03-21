@@ -1,28 +1,45 @@
 ---
-episodeNumber:        287
-title:                "That Brain, She Die"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan's still in bed recovering from shingles, but Schrab wants to know why Dan won't go to a movie with him. Rob Schrab almost lists his top four Infinity Wars spoilers, Spencer shares history of the incel movement, and Dan explains why his brain is gendered like a battleship.
-showDate:             
-releaseDate:          "2018-05-09 10:00:00Z"
-duration:             "02:06:31"
+layout:               episode
+slug:                 "304"
+sequenceNumber:       321
+episodeNumber:        304
+title:                "Magic Shinto Hat"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6586506051.mp3?updated=1596580673"
+duration:             "02:07:41"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2437724248.mp3?updated=1596871881"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-287"
+  harmonCity:         "https://harmon.city/episode-304"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/304/287"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/321/304"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Is Schrab getting too comfortable in his comfy chair, and what is he doing with his microphone? The role playing gang pivots to being potato farmers, but they get stuck on naming. Steve Levy is like a Lego.
+showDate:             
+releaseDate:          "2018-09-27 10:00:00Z"
+venue:                
+comptroller:          "Rob Schrab"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/321/example-1.png"
+#- "/assets/images/episodes/321/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Brandon Johnson"
-- "Rob Schrab"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/304/example-1.png"
-#- "/assets/images/episodes/304/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       304
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

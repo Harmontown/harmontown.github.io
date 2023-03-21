@@ -1,30 +1,47 @@
 ---
-episodeNumber:        307
-title:                "French Spencer"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest Comptroller Brandon Johnson and Dan discover French Spencer, and learn that sometimes applause hurts.
-
-  Featuring Dan Harmon, Brandon Johnson and Spencer Crittenden.
-showDate:             
-releaseDate:          "2018-10-18 10:00:00Z"
-duration:             "02:05:58"
+layout:               episode
+slug:                 "324"
+sequenceNumber:       341
+episodeNumber:        324
+title:                "Aunt Tipathy"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6235756669.mp3?updated=1596567827"
+duration:             "01:57:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8630704834.mp3?updated=1596579045"
+external:
+  harmonCity:         "https://harmon.city/episode-324"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/341/324"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan problematizes things that don't need to be problematized, listens to audio porn and gets to the bottom of The Flash with Brandon and Schrab.
+  
+  Featuring Dan Harmon, Brandon Johnson and Rob Schrab.
+showDate:             
+releaseDate:          "2019-03-07 11:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-307"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/324/307"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/341/example-1.png"
+#- "/assets/images/episodes/341/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/324/example-1.png"
-#- "/assets/images/episodes/324/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       324
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

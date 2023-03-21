@@ -1,31 +1,45 @@
 ---
-episodeNumber:        189
-title:                "Monster Man"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens.
-  
-  Opening song by Babes.
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Andrew Weinberg, Steve Levy and DeMorge Brown
-showDate:             
-releaseDate:          "2016-03-23 04:28:00Z"
-duration:             "02:05:01"
+layout:               episode
+slug:                 "205"
+sequenceNumber:       221
+episodeNumber:        205
+title:                "LIVE in San Diego 2016"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3520710901.mp3?updated=1559944757"
+duration:             "01:52:07"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8911442095.mp3?updated=1560380738"
+external:
+  harmonCity:         "https://harmon.city/episode-205"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/221/205"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOboTK2lpt_Vk-TvjLvPEvKw"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  There is no other Harmontown like this. In an effort to sell tickets Dan writes a Community Movie projected on screen.
+showDate:             
+releaseDate:          "2016-07-27 07:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-189"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/205/189"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYyFa_78n4cnTEQzG_fZi1N"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "During A Comic Book Convention"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/221/example-1.png"
+#- "/assets/images/episodes/221/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -49,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/205/example-1.png"
-#- "/assets/images/episodes/205/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       205
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

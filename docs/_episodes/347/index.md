@@ -1,28 +1,45 @@
 ---
-episodeNumber:        330
-title:                "All Dicks Are Webbed"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Despite walking on stage sick as a dog, audience adoration miraculously heals Dan in real time. Francophile Jeff can't help but dissolve into a sentimental jelly thinking about Notre-dame, and Spencer continues to amaze with hitherto unprecedented levels of enthusiasm.
-showDate:             
-releaseDate:          "2019-04-18 10:00:00Z"
-duration:             "01:59:36"
+layout:               episode
+slug:                 "347"
+sequenceNumber:       364
+episodeNumber:        347
+title:                "The Breasts Feel Fine, Wherever They Are"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1906132134.mp3?updated=1596574224"
+duration:             "02:09:05"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7955316629.mp3?updated=1596653142"
+external:
+  harmonCity:         "https://harmon.city/episode-347"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/364/347"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Host of the podcast "How Did This Get Played?", Heather Anne Campbell joins "Rick and Morty" writer Nick Rutherford to discuss their shared experiences writing for, regrettable video games, cancer, and their personal experiences with religion.
+showDate:             
+releaseDate:          "2019-08-29 10:00:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-330"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/347/330"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Heather Anne Campbell"
+- "Nick Rutherford"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/364/example-1.png"
+#- "/assets/images/episodes/364/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/347/example-1.png"
-#- "/assets/images/episodes/347/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       347
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

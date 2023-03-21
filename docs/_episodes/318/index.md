@@ -1,30 +1,47 @@
 ---
-episodeNumber:        301
-title:                "SuperNova"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  We're all mad about scooters, Dan gives an audience member a backpack and makes a new friend, then Spencer debuts his new role playing grading system.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
-showDate:             
-releaseDate:          "2018-08-30 10:00:00Z"
-duration:             "02:02:27"
+layout:               episode
+slug:                 "318"
+sequenceNumber:       335
+episodeNumber:        318
+title:                "MC Non-Binary Chicken"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3247911544.mp3?updated=1596509712"
+duration:             "02:00:37"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2850970357.mp3?updated=1596748135"
+external:
+  harmonCity:         "https://harmon.city/episode-318"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/335/318"
+  hallOfRecords:      
 
+image:                "/assets/images/episodes/335/05.png"
+description: |-
+  Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Open Mike Eagle.
+showDate:             
+releaseDate:          "2019-01-24 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-301"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/318/301"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/335/example-1.png"
+#- "/assets/images/episodes/335/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/318/example-1.png"
-#- "/assets/images/episodes/318/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       318
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

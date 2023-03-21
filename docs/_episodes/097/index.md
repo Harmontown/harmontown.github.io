@@ -1,28 +1,45 @@
 ---
-episodeNumber:        83
-title:                "DICKS AND BALLS AND BEER"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's the last Harmontown of 2013, get ready for some Christmas magic. Anatoly gets on stage nearly nude, Duncan Trussell talks Christmas as a mushroom cult, Adam Goldberg nearly murders everyone, Jeff Davis hates Paul McCartney and Rob Schrab jumps in on D&D. Happy Holidays and we'll see you next year!
-showDate:             
-releaseDate:          "2013-12-17 02:15:00Z"
-duration:             "01:56:40"
+layout:               episode
+slug:                 "97"
+sequenceNumber:       111
+episodeNumber:        97
+title:                "Long Brown Blood"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9806272080.mp3?updated=1556231620"
+duration:             "02:09:54"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3632226250.mp3?updated=1555715785"
+external:
+  harmonCity:         "https://harmon.city/episode-97"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/111/97"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb7STQSAQu3kDkWksO7kYEc"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Preparing for its first month hiatus, Harmontown goes for a big blow out that tackles the usual; racism, censorship, health, mortality etc. Spencer returns for D&D to promote Friendship & Cigarettes.
+showDate:             
+releaseDate:          "2014-03-31 19:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-83"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/97/83"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObKJdCiHHSabO6dQmxFIJ-o"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/111/example-1.png"
+#- "/assets/images/episodes/111/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/097/example-1.png"
-#- "/assets/images/episodes/097/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       97
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

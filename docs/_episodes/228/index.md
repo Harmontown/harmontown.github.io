@@ -1,28 +1,45 @@
 ---
-episodeNumber:        211
-title:                "JonBen&#233;t Gacy"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  My Favorite Murder meets Harmontown.
-showDate:             
-releaseDate:          "2016-08-31 09:57:00Z"
-duration:             "02:02:00"
+layout:               episode
+slug:                 "228"
+sequenceNumber:       245
+episodeNumber:        228
+title:                "I F_cking Love White Sh_t"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3406345858.mp3?updated=1596834110"
+duration:             "02:02:39"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9584979609.mp3?updated=1559765095"
+external:
+  harmonCity:         "https://harmon.city/episode-228"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/245/228"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown is back in the states for the first show of 2017!
+showDate:             
+releaseDate:          "2017-01-12 09:30:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-211"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/228/211"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/245/example-1.png"
+#- "/assets/images/episodes/245/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/228/example-1.png"
-#- "/assets/images/episodes/228/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       228
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,47 @@
 ---
-episodeNumber:        275
-title:                "We Could Disappear Up Each Other&#39;s Asses"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest Comptroller Brandon Johnson and Spencer question Dan's retirement requirements. Singer-songwriter John Mayer comes on to really get inside Dan's wonderland of a mind. Dan and John debate the pros and cons of Googling yourself. The show wraps up by answering the question on everyone's mind: Can John Mayer rap?
-showDate:             
-releaseDate:          "2018-01-31 11:00:00Z"
-duration:             "02:04:15"
+layout:               episode
+slug:                 "292"
+sequenceNumber:       309
+episodeNumber:        292
+title:                "LIVE from The Wilbur in Boston 2018"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7351617876.mp3?updated=1596861023"
+duration:             "02:21:26"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8129623335.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-292"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/309/292"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Live from the Wilbur in Boston, MA. Special guest Aaron Mahnke from the Lore podcast.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Aaron Mahnke and Steve Levy.
+showDate:             
+releaseDate:          "2018-06-28 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-275"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/292/275"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/309/example-1.png"
+#- "/assets/images/episodes/309/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/292/example-1.png"
-#- "/assets/images/episodes/292/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       292
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

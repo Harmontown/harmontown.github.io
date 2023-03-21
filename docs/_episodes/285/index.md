@@ -1,28 +1,47 @@
 ---
-episodeNumber:        268
-title:                "Socialists Dress Like Spencer"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Josh Androsky educates us about the Democratic Socialists of America, Schrab enjoys an office chair, Church sings and shares her political side, and Jeff claims an exception to the "smelt it, dealt it" rule. We all learn how to dance like Spencer.
-showDate:             
-releaseDate:          "2017-11-29 10:30:00Z"
-duration:             "02:14:44"
+layout:               episode
+slug:                 "285"
+sequenceNumber:       302
+episodeNumber:        285
+title:                "A Ken Dolan&#39;s Production"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2909477626.mp3?updated=1596661474"
+duration:             "02:04:43"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1954462337.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-285"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/302/285"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan, Rob and Spencer share embarrassing celebrity encounters, hotel room trashing and poop stories. Steve has a problem with the violence in shellfish.
+  
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Schrab, DeMorge Brown and Steve Levy.
+showDate:             
+releaseDate:          "2018-04-25 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-268"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/285/268"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/302/example-1.png"
+#- "/assets/images/episodes/302/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/285/example-1.png"
-#- "/assets/images/episodes/285/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       285
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

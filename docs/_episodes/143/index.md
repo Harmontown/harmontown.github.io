@@ -1,28 +1,45 @@
 ---
-episodeNumber:        128
-title:                "That&#39;s my wife&#39;s pie, you bitch!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Schrab secretly Schrabs the gang, Cameron Esposito and Rhea Butcher of the Put Your Hands Together podcast stop by and talk movies, Kumail returns, Dan and Erin got married, and in D&D they encounter some sleeping bears.
-showDate:             
-releaseDate:          "2014-11-25 00:39:00Z"
-duration:             "02:07:15"
+layout:               episode
+slug:                 "143"
+sequenceNumber:       158
+episodeNumber:        143
+title:                "Retardinol"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2125009876.mp3?updated=1562016830"
+duration:             "01:38:27"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1261445002.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-143"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/158/143"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-W2CUyR-hF5wngNVHf7Is"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Rick and Morty's Justin Roiland makes a revelation to Curtis Armstrong. Harmon longs for the cold war and its Shadow Run, not Shadow Picnic! Brought to you by Doritos and Honda!
+showDate:             
+releaseDate:          "2015-04-15 02:16:00Z"
 venue:                
-comptroller:          "Kumail Nanjiani"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-128"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/143/128"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYuNTVwQ1ytYqsWEL4iusNj"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/158/example-1.png"
+#- "/assets/images/episodes/158/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/143/example-1.png"
-#- "/assets/images/episodes/143/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       143
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

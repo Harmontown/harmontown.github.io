@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #14"
+layout:               episode
+slug:                 "68"
+sequenceNumber:       82
+episodeNumber:        68
+title:                "Jolly Rodger"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1835457808.mp3?updated=1560294708"
+duration:             "02:03:46"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-68"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/82/68"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObxbRd732zAUnpve2MVWtnf"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost Episode #14
+  In the middle of working on Community 501, a very tired Mayor Harmon takes to a crowd of Harmenians and revels in their eccentricities. In D&D, an Ogre cums.
 showDate:             
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
-venue:                "NerdMelt"
-comptroller:          
+releaseDate:          "2013-08-19 22:57:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/082/example-1.png"
+#- "/assets/images/episodes/082/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/068/example-1.png"
-#- "/assets/images/episodes/068/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       68
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

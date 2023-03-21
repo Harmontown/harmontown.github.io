@@ -1,30 +1,47 @@
 ---
-episodeNumber:        338
-title:                "This Trident Has Four Dents"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer's bees and pirate eye patches are on the agenda tonight!
-
-  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Ryan Kraus.
-showDate:             
-releaseDate:          "2019-06-27 10:00:00Z"
-duration:             "02:06:47"
+layout:               episode
+slug:                 "355"
+sequenceNumber:       372
+episodeNumber:        355
+title:                "Hershey&#39;s Rorschach"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7209937866.mp3?updated=1596573050"
+duration:             "01:58:03"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4645360136.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-355"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/372/355"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Our march into oblivion continues! No guests! No role playing! Nothing to lose! It's worth mentioning Spencer is feeling pretty sassy this episode and it shows.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.
+showDate:             
+releaseDate:          "2019-10-31 10:00:00Z"
 venue:                
-comptroller:          "Rob Schrab"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-338"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/355/338"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/372/example-1.png"
+#- "/assets/images/episodes/372/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/355/example-1.png"
-#- "/assets/images/episodes/355/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       355
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

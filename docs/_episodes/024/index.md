@@ -1,28 +1,50 @@
 ---
-episodeNumber:        11
-title:                "Tylenol With Codeine"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The first appearance of Greg Proops provokes a fit of Mayor Harmon's pointless political rants and a D&D adventure that shall forever be remembered as involving unicorn pee.
-showDate:             "2012-09-17 04:00:00Z"
-releaseDate:          "2012-09-28 02:30:00Z"
-duration:             "01:36:01"
+layout:               episode
+slug:                 "24"
+sequenceNumber:       37
+episodeNumber:        24
+title:                "Harmoncountry: Phoenix, Arizona"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1114500278.mp3?updated=1554325542"
+duration:             "01:37:16"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8755972312.mp3?updated=1555713084"
+external:
+  harmonCity:         "https://harmon.city/episode-24"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/37/24"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ1sqMDANvfxWftoL62GMN4"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon begins his tour feeling way more insecure than the kind-hearted heroes of a new city. A Harmontown theme with an awesome hook starts getting workshopped. In D&D, the heroes fight cylinders.
+showDate:             
+releaseDate:          "2013-01-12 00:50:00Z"
+venue:                "TBC, Phoenix, AZ"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-11"
-  podcastDynamite:
-    hasMinutes:       true
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/24/11"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZp9MHpv9D44MFt_JS3Nncd"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Alex"
+- "Dustin"
+- "Pam"
+- "Brianne I"
+- "Brianne II"
+- "Ben (Injured Scrabbler)"
+- "Tyler Dandy"
+
+images:
+#- "/assets/images/episodes/037/example-1.png"
+#- "/assets/images/episodes/037/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +68,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Greg Proops"
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/024/example-1.png"
-#- "/assets/images/episodes/024/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       24
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

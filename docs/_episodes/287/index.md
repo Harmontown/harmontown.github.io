@@ -1,28 +1,45 @@
 ---
-episodeNumber:        270
-title:                "The Boy Who Ate The Most Spaghetti"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest Comptroller Brandon Johnson and Josh Androsky return to discuss the current state of higher education with Ben Nelson from the Minerva Project. Everyone plays Balderdash while Andy Dick entertains everyone.
-showDate:             
-releaseDate:          "2017-12-13 11:00:00Z"
-duration:             "02:14:17"
+layout:               episode
+slug:                 "287"
+sequenceNumber:       304
+episodeNumber:        287
+title:                "That Brain, She Die"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2437724248.mp3?updated=1596871881"
+duration:             "02:06:31"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7587189943.mp3"
-
-venue:                
-comptroller:          "Brandon Johnson"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-270"
+  harmonCity:         "https://harmon.city/episode-287"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/287/270"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/304/287"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan's still in bed recovering from shingles, but Schrab wants to know why Dan won't go to a movie with him. Rob Schrab almost lists his top four Infinity Wars spoilers, Spencer shares history of the incel movement, and Dan explains why his brain is gendered like a battleship.
+showDate:             
+releaseDate:          "2018-05-09 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Brandon Johnson"
+- "Rob Schrab"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/304/example-1.png"
+#- "/assets/images/episodes/304/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/287/example-1.png"
-#- "/assets/images/episodes/287/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       287
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

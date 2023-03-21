@@ -1,28 +1,48 @@
 ---
-episodeNumber:        223
-title:                "Charles Manson Shark Tank"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Ptolemy Slocum.
-showDate:             
-releaseDate:          "2016-12-07 20:08:00Z"
-duration:             "02:02:46"
+layout:               episode
+slug:                 "240"
+sequenceNumber:       257
+episodeNumber:        240
+title:                "Blackest Friend in the World"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6664172127.mp3"
+duration:             "02:05:01"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7831819096.mp3?updated=1596675652"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-223"
+  harmonCity:         "https://harmon.city/episode-240"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/240/223"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/257/240"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Creator of the documentary "Accidental Courtesy: Daryl Davis, Race & America" Matt Ornstein drops by to discuss his new film with guests Brandon Johnson and Steve Agee. Steve Levy does a quick Jew and A.
+  
+  Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden, Matt Ornstein, Brandon Johnson, Steve Agee, and Steve Levy.
+showDate:             
+releaseDate:          "2017-04-12 13:51:00Z"
+venue:                
+comptroller:          "Brandon Johnson"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Matt Ornstein"
+- "Steve Agee"
+- "Steve Levy"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/257/example-1.png"
+#- "/assets/images/episodes/257/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +66,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/240/example-1.png"
-#- "/assets/images/episodes/240/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       240
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,30 +1,47 @@
 ---
-episodeNumber:        315
-title:                "Rocket My Face Into Another Guy&#39;s Face"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Steven Conrad, writer/director of the TV Series 'Patriot' joins guest Comptroller Brandon Johnson. The Santa Clause 2, Have You Seen It?
-
-  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Steve Conrad.
-showDate:             
-releaseDate:          "2018-12-20 11:00:00Z"
-duration:             "02:11:24"
+layout:               episode
+slug:                 "332"
+sequenceNumber:       349
+episodeNumber:        332
+title:                "No Recompense!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8529322335.mp3?updated=1596571920"
+duration:             "02:03:40"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4268871207.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-332"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/349/332"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan talks to Jesse Margolis, founder of Overheard LA about what else: Mike Crivello's Camera World; It's a wonderful world of cameras! We attempt to get into the heads of internet trolls, also featuring a bonus White Walker locker room pep talk.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Jesse Margolis.
+showDate:             
+releaseDate:          "2019-05-02 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-315"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/332/315"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/349/example-1.png"
+#- "/assets/images/episodes/349/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/332/example-1.png"
-#- "/assets/images/episodes/332/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       332
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

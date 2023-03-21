@@ -1,30 +1,47 @@
 ---
-episodeNumber:        252
-title:                "Epeephany"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing.
-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, and Steve Levy.
-showDate:             
-releaseDate:          "2017-07-19 19:36:00Z"
-duration:             "02:08:32"
+layout:               episode
+slug:                 "269"
+sequenceNumber:       286
+episodeNumber:        269
+title:                "Dan Rates Every Animal"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4169205236.mp3"
+duration:             "02:16:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6825371497.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-269"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/286/269"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan, Jeff and Spencer dig deep into genitals of unusual size, bats, giraffes, dolphins and Paul Newman.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Steve Levy.
+showDate:             
+releaseDate:          "2017-12-07 00:11:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-252"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/269/252"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/286/example-1.png"
+#- "/assets/images/episodes/286/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/269/example-1.png"
-#- "/assets/images/episodes/269/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       269
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

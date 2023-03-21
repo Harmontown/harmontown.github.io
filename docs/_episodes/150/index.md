@@ -1,28 +1,45 @@
 ---
-episodeNumber:        135
-title:                "Wide"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Post Valentine's Day Harmon is burnt out and declares it to be a bad show, then throws to Twitter and takes us along a musical journey. This is episode is so wide.
-showDate:             
-releaseDate:          "2015-02-18 18:49:00Z"
-duration:             "02:00:02"
+layout:               episode
+slug:                 "150"
+sequenceNumber:       165
+episodeNumber:        150
+title:                "Where My Technochromes At?"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9218698326.mp3?updated=1561594017"
+duration:             "02:02:59"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7977376576.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-150"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/165/150"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZdc0wPapJ90pzxaDm-Xujj"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan can see more colors than the average person and doesn't care because colors are dumb. Curtis Armstrong comptrolls.
+showDate:             
+releaseDate:          "2015-06-09 23:30:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Curtis Armstrong"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-135"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/150/135"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObka9sEbA1wX23JLIbHranx"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/165/example-1.png"
+#- "/assets/images/episodes/165/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/150/example-1.png"
-#- "/assets/images/episodes/150/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       150
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

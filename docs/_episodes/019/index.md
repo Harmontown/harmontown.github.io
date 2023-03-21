@@ -1,28 +1,46 @@
 ---
-episodeNumber:        6
-title:                "Atonement with the Mannequins and Butts"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Sometimes it happens. Sometimes an innocent story about junior high proceeds down a road of perversion straight to where the sun doesn't shine. Also: Spencer collects info for Harmon and Davis' D&D characters, and special guest Rob Schrab tells a story...about his butt.
-showDate:             "2012-08-16 04:00:00Z"
-releaseDate:          "2012-08-24 07:40:00Z"
-duration:             "01:24:01"
+layout:               episode
+slug:                 "19"
+sequenceNumber:       32
+episodeNumber:        19
+title:                "Everyone&#39;s a Rapper!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8398406951.mp3?updated=1555703126"
+duration:             "01:22:32"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8221722384.mp3?updated=1555698443"
+external:
+  harmonCity:         "https://harmon.city/episode-19"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/32/19"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObT2tGM8bPyKIgC4BNxX4AT"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon comes up spittin' decidedly unmad fire. We meet a mysterious lady in the audience that can only say "no." No D&D this week but Spencer rules the day just the same. Adam Goldberg takes a swipe at having a segment. Dan raps EVEN MORE. New Harmenian "Misha" takes the stage and does some standup. Dan and Jeff rap battle!
+showDate:             
+releaseDate:          "2012-12-05 12:43:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-6"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/19/6"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaVMxqtQoObkowkRqGMRkeD"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+- "Adam Goldberg"
+- "Misha Han"
+- "&quot;No&quot; lady"
+
+images:
+#- "/assets/images/episodes/032/example-1.png"
+#- "/assets/images/episodes/032/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Rob Schrab"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/019/example-1.png"
-#- "/assets/images/episodes/019/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       19
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

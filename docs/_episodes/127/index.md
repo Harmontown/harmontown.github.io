@@ -1,28 +1,45 @@
 ---
-episodeNumber:        112
-title:                "Popeye Is Our Lord And Savior"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown is not ready to say goodbye to our friend Robin WIlliams; Jeff & Dan write a new song, an Emmy award winning special effects editor makes their way to the stage, Ferguson and the current paramilitary police state are discussed at length. You ready? Lets do this.
-showDate:             
-releaseDate:          "2014-08-18 15:18:00Z"
-duration:             "01:59:14"
+layout:               episode
+slug:                 "127"
+sequenceNumber:       142
+episodeNumber:        127
+title:                "Ant Ball"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6471051966.mp3"
+duration:             "01:37:27"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3249789679.mp3?updated=1556746942"
+external:
+  harmonCity:         "https://harmon.city/episode-127"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/142/127"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObFsbJCu_ufBE8-CYG9xCb7"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Comproller Dave Horwitz makes his first appearance. A Russian travels the world to ask Dan one question, and Spencer devises a way to get off of an island if stranded.
+showDate:             
+releaseDate:          "2014-11-11 22:46:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Dave Horwitz"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-112"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/127/112"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaJYcd55DUX_fuueElbp8Ig"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/142/example-1.png"
+#- "/assets/images/episodes/142/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/127/example-1.png"
-#- "/assets/images/episodes/127/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       127
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

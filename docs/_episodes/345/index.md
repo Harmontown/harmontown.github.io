@@ -1,30 +1,47 @@
 ---
-episodeNumber:        328
-title:                "Jeff&#39;s Joke Corner"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Jeff Davis's joke corner! A walrus walks into a whorehouse... Also, the return of roleplaying with guest Steve Levy!
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
-showDate:             
-releaseDate:          "2019-04-04 10:00:00Z"
-duration:             "02:16:13"
+layout:               episode
+slug:                 "345"
+sequenceNumber:       362
+episodeNumber:        345
+title:                "Oh the Places You Won&#39;t Go"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9433274980.mp3?updated=1596576719"
+duration:             "02:09:44"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5727215879.mp3?updated=1596656734"
+external:
+  harmonCity:         "https://harmon.city/episode-345"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/362/345"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown is honored to welcome Conflict Journalist Robert Evans to the show. With topics ranging from Syria to 8chan, Robert has done all the homework, and takes us through, with stunning detail, the conflicts that will define the era we live in.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Robert Evans.
+showDate:             
+releaseDate:          "2019-08-15 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-328"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/345/328"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/362/example-1.png"
+#- "/assets/images/episodes/362/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/345/example-1.png"
-#- "/assets/images/episodes/345/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       345
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        212
-title:                "The Medicine Of Attention"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Skull Juice's Dino Stamatopoulos and Andy Dick and the creators of "Stranger Things" The Duffer Brothers all in one episode.
-showDate:             
-releaseDate:          "2016-09-14 22:54:00Z"
-duration:             "02:01:04"
+layout:               episode
+slug:                 "229"
+sequenceNumber:       246
+episodeNumber:        229
+title:                "Health Care Is Good, Black People Deserve To Live"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5865931038.mp3?updated=1596834230"
+duration:             "02:00:23"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5045132074.mp3?updated=1559762320"
+external:
+  harmonCity:         "https://harmon.city/episode-229"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/246/229"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Founders of Reductress, Beth Newell and Sarah Pappalardo join Harmontown to promote their podcast Mouth Time and Dan tries to gain a feminist perspective, our friend Brandon Johnson returns and more!
+showDate:             
+releaseDate:          "2017-01-18 17:00:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-212"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/229/212"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/246/example-1.png"
+#- "/assets/images/episodes/246/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/229/example-1.png"
-#- "/assets/images/episodes/229/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       229
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,46 @@
 ---
-episodeNumber:        13
-title:                "Back To The Future Part Kush"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan complains about things he's not allowed to complain about, then outs himself as the world's laziest gay rights and medical marijuana advocate. Plus, in D&D world: nothing happens!
-showDate:             "2012-10-01 04:00:00Z"
-releaseDate:          "2012-10-22 10:19:00Z"
-duration:             "01:20:57"
+layout:               episode
+slug:                 "26"
+sequenceNumber:       39
+episodeNumber:        26
+title:                "Harmoncountry: Atlanta, GA"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6937998010.mp3?updated=1554327206"
+duration:             "01:19:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2299183434.mp3?updated=1555706170"
+external:
+  harmonCity:         "https://harmon.city/episode-26"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/39/26"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObwWbifD5TqxrUdUWbsW3Cp"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon regales the "Paris of Georgia" with historic knowledge, general trivia and mad rapping science. Topics include his armpits and race.
+showDate:             
+releaseDate:          "2013-01-14 19:51:00Z"
+venue:                "TBC, Atlanta, GA"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-13"
-  podcastDynamite:
-    hasMinutes:       true
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/26/13"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObMPhTHhB42msc1OiLAp65l"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Deanna"
+- "Jackie"
+- "Nathaniel Metz"
+
+images:
+#- "/assets/images/episodes/039/example-1.png"
+#- "/assets/images/episodes/039/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Nathaniel"
-- "Julieta Col&#225;s"
-
-images:
-#- "/assets/images/episodes/026/example-1.png"
-#- "/assets/images/episodes/026/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       26
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

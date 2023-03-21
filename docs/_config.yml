@@ -15,6 +15,7 @@ show_downloads: false
 collections:
   episodes:
     output: true
+    sort_by: sequenceNumber
 
 exclude:
   - .sass-cache

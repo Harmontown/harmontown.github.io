@@ -1,28 +1,45 @@
 ---
-episodeNumber:        103
-title:                "Tony Shalhoub Award"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Happy Birthday to all the Fathers out there, Kumail is comptrolling, Erin runs her best game yet and D&D is sizzling. Come get your Harmontown!
-showDate:             
-releaseDate:          "2014-06-16 20:27:00Z"
-duration:             "02:12:49"
+layout:               episode
+slug:                 "118"
+sequenceNumber:       133
+episodeNumber:        118
+title:                "LIVE from Seattle 2014 feat. Dino Stamatopoulos!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7041950481.mp3?updated=1560985770"
+duration:             "01:49:02"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868103730.mp3?updated=1556231623"
+external:
+  harmonCity:         "https://harmon.city/episode-118"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/133/118"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZWYuTP7Bfia7B_ATaSSutn"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown kicks of its run of movie screenings followed by a live podcast in Seattle to a powerful crowd of Harmenians and is post lifted to new heights and derailed from its first guest comptrolling appearance from Dino Stamatopoulos!
+showDate:             
+releaseDate:          "2014-09-29 22:13:00Z"
 venue:                
-comptroller:          "Kumail Nanjiani"
+comptroller:          "Dino Stamatopolous"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-103"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/118/103"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb-UTDxBrN1btuZJ4yE9Pt-"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/133/example-1.png"
+#- "/assets/images/episodes/133/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/118/example-1.png"
-#- "/assets/images/episodes/118/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       118
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

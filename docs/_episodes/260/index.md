@@ -1,30 +1,45 @@
 ---
-episodeNumber:        243
-title:                "Adult Onset Pyromania"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Our first show after moving to the Starburns Castle with Brandon Johnson as the guest comptroller! Dan finds a giant surprise gift on stage then shows off his latest Minecraft creations then we hear the history of America as a rap.
-
-  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.
-showDate:             
-releaseDate:          "2017-05-03 13:52:00Z"
-duration:             "01:59:08"
+layout:               episode
+slug:                 "260"
+sequenceNumber:       277
+episodeNumber:        260
+title:                "Oym"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2647159183.mp3?updated=1596588403"
+duration:             "01:55:50"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3847603239.mp3?updated=1596758479"
+external:
+  harmonCity:         "https://harmon.city/episode-260"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/277/260"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Duncan Trussell wants us all to try Nitrous Oxide and start a cult, Dan is unapologetic about last week's show, and everyone shares their favorite stories about Steve Levy's anatomy.
+showDate:             
+releaseDate:          "2017-09-27 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-243"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/260/243"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Duncan Trussell"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/277/example-1.png"
+#- "/assets/images/episodes/277/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Rob Schrab"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/260/example-1.png"
-#- "/assets/images/episodes/260/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       260
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

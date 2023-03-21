@@ -1,28 +1,45 @@
 ---
-episodeNumber:        164
-title:                "Peak Hitler"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Senator Bernie Sanders returns, Harmon thinks of the most insulting thing to tattoo above your penis and Shadowrun is faced with a newfound time limit.
-showDate:             
-releaseDate:          "2015-09-23 05:32:00Z"
-duration:             "02:05:19"
+layout:               episode
+slug:                 "179"
+sequenceNumber:       195
+episodeNumber:        179
+title:                "LIVE at San Francisco Sketchfest 2016!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5718170164.mp3?updated=1560812976"
+duration:             "01:51:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8074304759.mp3?updated=1561399904"
+external:
+  harmonCity:         "https://harmon.city/episode-179"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/195/179"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYVcXGHRxZeKXmUxrkmWseb"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown returns to San Francisco Sketchfest for porn, adult diapers, breast cancer awareness and pure insanity.
+showDate:             
+releaseDate:          "2016-01-13 07:59:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-164"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/179/164"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObGriZk6DLVju2dWBCqAUom"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/195/example-1.png"
+#- "/assets/images/episodes/195/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/179/example-1.png"
-#- "/assets/images/episodes/179/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       179
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

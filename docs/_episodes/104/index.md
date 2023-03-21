@@ -1,28 +1,45 @@
 ---
-episodeNumber:        90
-title:                "CyberChrist and Stubnortz"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon has some qualms with Uber, we check in with Adam Goldberg and SuperEgo's Matt Gourley settles a dispute during D&D.
-showDate:             
-releaseDate:          "2014-02-10 07:40:00Z"
-duration:             "01:55:27"
+layout:               episode
+slug:                 "104"
+sequenceNumber:       119
+episodeNumber:        104
+title:                "Death To Superman"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2790185279.mp3?updated=1556326540"
+duration:             "01:59:57"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028819427.mp3?updated=1555718145"
+external:
+  harmonCity:         "https://harmon.city/episode-104"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/119/104"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZz3N9SAW8h2A06vdxKf4zG"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Its just Mayor Harmon, Jeff and Spencer and Dan catches you up in World Cup corner and later, Dan improvises his own Superman movie. In D&D, the gang becomes a literal gang and finally loots.
+showDate:             
+releaseDate:          "2014-06-23 19:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-90"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/104/90"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObhQSM0gQDMGWK1vdzKlgwR"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/119/example-1.png"
+#- "/assets/images/episodes/119/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/104/example-1.png"
-#- "/assets/images/episodes/104/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       104
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

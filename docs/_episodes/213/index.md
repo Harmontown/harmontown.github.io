@@ -1,28 +1,45 @@
 ---
-episodeNumber:        197
-title:                "Stop Singing And Make A Chair"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Your Mayor poops his pants again, flat earth theory and pulling the plug on Rob Schrab.
-showDate:             
-releaseDate:          "2016-05-18 05:15:00Z"
-duration:             "02:03:26"
+layout:               episode
+slug:                 "213"
+sequenceNumber:       230
+episodeNumber:        213
+title:                "ED-209"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6204938258.mp3?updated=1559759946"
+duration:             "02:01:33"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5627385465.mp3?updated=1560204642"
+external:
+  harmonCity:         "https://harmon.city/episode-213"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/230/213"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  SCHRAB IS HERE. And the best improvised scene ever ensues.
+showDate:             
+releaseDate:          "2016-09-21 23:45:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-197"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/213/197"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYy3pMVtFaS2KAi9QQzJyDr"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/230/example-1.png"
+#- "/assets/images/episodes/230/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/213/example-1.png"
-#- "/assets/images/episodes/213/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       213
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

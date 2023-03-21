@@ -1,28 +1,45 @@
 ---
-episodeNumber:        154
-title:                "Taye Brigston, the Littlest Show Promoter"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Meet Taye Brigston the world's Littlest Show Promoter of Tiny You!
-showDate:             
-releaseDate:          "2015-07-07 04:12:00Z"
-duration:             "01:58:13"
+layout:               episode
+slug:                 "169"
+sequenceNumber:       185
+episodeNumber:        169
+title:                "A Little Handicap"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1112536018.mp3?updated=1561153550"
+duration:             "02:04:33"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9547733715.mp3?updated=1561582514"
+external:
+  harmonCity:         "https://harmon.city/episode-169"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/185/169"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZoeHDBXIMxHYIFSEuE4oly"
 
+image:                "/assets/images/episodes/185/03.png"
+description: |-
+  We welcome the great Andy Kindler back to Harmontown and Dan goes to the haunted hayride and something incredibly offensive happens.
+showDate:             
+releaseDate:          "2015-10-28 04:26:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-154"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/169/154"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaZfA8iI50Hst5TRPsj-5gl"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/185/example-1.png"
+#- "/assets/images/episodes/185/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/169/example-1.png"
-#- "/assets/images/episodes/169/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       169
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

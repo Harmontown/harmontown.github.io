@@ -1,28 +1,45 @@
 ---
-episodeNumber:        58
-title:                "I&#39;m Like Very Science"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon explains why an episode was lost; soon to be uncontextually quoted frivolity ensues. Jeff reveals he's psychic; Kumail's resultant bewilderment preempts D&D.
-showDate:             
-releaseDate:          "2013-06-08 19:45:00Z"
-duration:             "01:50:17"
+layout:               episode
+slug:                 "72"
+sequenceNumber:       86
+episodeNumber:        72
+title:                "Jib Jab Squeeb Squab"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8798524951.mp3?updated=1555610463"
+duration:             "01:59:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1983763317.mp3?updated=1554505890"
+external:
+  harmonCity:         "https://harmon.city/episode-72"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/86/72"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZbsDYyen-k1twLwcGDINnr"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Rejoice! Kumail is back and joins Dan and Jeff on stage along with comedians John Roy, James Adomian and the entire front row.
+showDate:             
+releaseDate:          "2013-09-16 19:08:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-58"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/72/58"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYPpHt1YsJzkNjAsV0hiq9O"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/086/example-1.png"
+#- "/assets/images/episodes/086/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/072/example-1.png"
-#- "/assets/images/episodes/072/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       72
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

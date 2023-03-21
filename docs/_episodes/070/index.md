@@ -1,28 +1,45 @@
 ---
-episodeNumber:        56
-title:                "Language is Thought and Spiders are Black People"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  An all around provocapalooza surrounding language, race, religion, science, bugs, moms and fake dinosaurs. In D&D, the characters awake in Ye Olde Arena Milieu.
-showDate:             
-releaseDate:          "2013-05-13 17:30:00Z"
-duration:             "01:54:24"
+layout:               episode
+slug:                 "70"
+sequenceNumber:       84
+episodeNumber:        70
+title:                "Gone Fishin&#39;"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4912930871.mp3?updated=1560295082"
+duration:             "02:16:05"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1414022938.mp3?updated=1554503431"
+external:
+  harmonCity:         "https://harmon.city/episode-70"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/84/70"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaAFIchPVZfIAgKOhFBtFN-"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon, now equipped with his trusty new invention, is joined by Johnny Pemberton to break down prank phone calls. Afterwards a visit from "The Tumor Lady" and then later on, the topic of fishing for compliments becomes a major issue for everyone on stage. Mostly Erin, who challenges Spencer in this nearly lost episode.
+showDate:             
+releaseDate:          "2013-09-03 00:04:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-56"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/70/56"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZMIpuEV_KZ2FTNfHO5rL3F"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/084/example-1.png"
+#- "/assets/images/episodes/084/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/070/example-1.png"
-#- "/assets/images/episodes/070/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       70
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

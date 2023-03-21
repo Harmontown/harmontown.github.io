@@ -1,28 +1,45 @@
 ---
-episodeNumber:        93
-title:                "McConaissance"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon tearfully reflects on the passing of Harold Ramis and while the Academy Awards ceremony takes place mere blocks away, Harmontown hosts its own Oscars special.
-showDate:             
-releaseDate:          "2014-03-03 20:32:00Z"
-duration:             "01:57:05"
+layout:               episode
+slug:                 "107"
+sequenceNumber:       122
+episodeNumber:        107
+title:                "Clever Girl"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5867394719.mp3?updated=1556323770"
+duration:             "02:07:01"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7537699370.mp3?updated=1556134812"
+external:
+  harmonCity:         "https://harmon.city/episode-107"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/122/107"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb2ZKgpla6UnevU-aoWvdkl"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon perfects the apology, Erin McGathy runs an epic Game Corner and in D&D the gang encounter a black dragon.
+showDate:             
+releaseDate:          "2014-07-14 20:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-93"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/107/93"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZMIoq38XXjI0ocbQ1g1clH"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/122/example-1.png"
+#- "/assets/images/episodes/122/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/107/example-1.png"
-#- "/assets/images/episodes/107/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       107
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

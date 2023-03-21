@@ -1,28 +1,45 @@
 ---
-episodeNumber:        104
-title:                "Death To Superman"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Its just Mayor Harmon, Jeff and Spencer and Dan catches you up in World Cup corner and later, Dan improvises his own Superman movie. In D&D, the gang becomes a literal gang and finally loots.
-showDate:             
-releaseDate:          "2014-06-23 19:50:00Z"
-duration:             "01:59:57"
+layout:               episode
+slug:                 "119"
+sequenceNumber:       134
+episodeNumber:        119
+title:                "LIVE at the Vista with bonus Q&amp;A"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9661898465.mp3?updated=1560988312"
+duration:             "01:51:02"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2790185279.mp3?updated=1556326540"
+external:
+  harmonCity:         "https://harmon.city/episode-119"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/134/119"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZilMKB5wzq8Igmb1oxUNT1"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  In conjunction with Cinefamily and Starburns Industries, enjoy Harmontown, LIVE from the Vista theater with a special Q&A for the HARMONTOWN movie, now at harmontown.com!
+showDate:             
+releaseDate:          "2014-10-05 17:52:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-104"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/119/104"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZz3N9SAW8h2A06vdxKf4zG"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/134/example-1.png"
+#- "/assets/images/episodes/134/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/119/example-1.png"
-#- "/assets/images/episodes/119/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       119
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

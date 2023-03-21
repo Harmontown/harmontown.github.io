@@ -1,28 +1,45 @@
 ---
-episodeNumber:        45
-title:                "Dan Took a Shower"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  A discussion of hygiene heats up with Kumail Nanjiani, then boils over when Bobcat Goldthwait drops by. In D&D, zombies attack while Quark engages in advanced animal husbandry. This fabulous episode is unedited so we will just warn you of a small glitch with the mayor's mic a few minutes in that lasts but a moment.
-showDate:             
-releaseDate:          "2013-02-21 00:21:00Z"
-duration:             "01:51:58"
+layout:               episode
+slug:                 "58"
+sequenceNumber:       72
+episodeNumber:        58
+title:                "I&#39;m Like Very Science"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1983763317.mp3?updated=1554505890"
+duration:             "01:50:17"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4031683895.mp3?updated=1554491720"
+external:
+  harmonCity:         "https://harmon.city/episode-58"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/72/58"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYPpHt1YsJzkNjAsV0hiq9O"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon explains why an episode was lost; soon to be uncontextually quoted frivolity ensues. Jeff reveals he's psychic; Kumail's resultant bewilderment preempts D&D.
+showDate:             
+releaseDate:          "2013-06-08 19:45:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-45"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/58/45"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOacFU_j251WjfRuPtpwAKbV"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/072/example-1.png"
+#- "/assets/images/episodes/072/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Kumail Nanjiani"
-- "Bobcat Goldthwait"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/058/example-1.png"
-#- "/assets/images/episodes/058/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       58
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,48 @@
 ---
-episodeNumber:        343
-title:                "Poolitics"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  We Need A Pool Dietician For The Internet, and the milkman is an albino. With special guests Brandon Johnson and Steve Levy!
-showDate:             
-releaseDate:          "2019-08-01 10:00:00Z"
-duration:             "01:55:07"
+layout:               episode
+slug:                 "360"
+sequenceNumber:       377
+episodeNumber:        360
+title:                "Cliffhanger!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8165669126.mp3?updated=1596568719"
+duration:             "02:14:29"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9877914292.mp3?updated=1596586024"
+external:
+  harmonCity:         "https://harmon.city/episode-360"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/360"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown's final curtain call. Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Brandon Johnson, Rob Schrab, Open Mike Eagle, Steve Levy and Nick Rutherford. Drive fast and take chances!
+showDate:             "2019-12-02 00:00:00Z"
+releaseDate:          "2019-12-05 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-343"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/360/343"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Brandon Johnson"
+- "Rob Schrab"
+- "Open Mike Eagle"
+- "Steve Levy"
+- "Nick Rutherford"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/377/example-1.png"
+#- "/assets/images/episodes/377/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +66,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Brandon Johnson"
-- "Steve Levy"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/360/example-1.png"
-#- "/assets/images/episodes/360/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       360
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

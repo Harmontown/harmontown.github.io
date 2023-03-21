@@ -1,30 +1,45 @@
 ---
-episodeNumber:        294
-title:                "A Gold Medallion"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Andy Kindler and Brandon Johnson join us to discuss their feelings on Kombucha and social media. Dan explores a career as a cover song musician.
-
-  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Andy Kindler.
-showDate:             
-releaseDate:          "2018-07-12 10:00:00Z"
-duration:             "02:01:28"
+layout:               episode
+slug:                 "311"
+sequenceNumber:       328
+episodeNumber:        311
+title:                "Twenty Sides of Booty"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3167373224.mp3?updated=1596582516"
+duration:             "02:05:08"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8654995383.mp3?updated=1596855710"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-294"
+  harmonCity:         "https://harmon.city/episode-311"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/311/294"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/328/311"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character.
+showDate:             
+releaseDate:          "2018-11-22 11:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Dan Harmon"
+hasDnD:               true
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/328/example-1.png"
+#- "/assets/images/episodes/328/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/311/example-1.png"
-#- "/assets/images/episodes/311/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       311
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

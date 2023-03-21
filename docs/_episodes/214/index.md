@@ -1,28 +1,45 @@
 ---
-episodeNumber:        198
-title:                "Complete Access To Air"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest comptroller Cameron Esposito, a baseball team clad Rhea Butcher, a just wrapped Great Minds director Heath Cullen, our transgender friend Jane Cook equipped with a key to Harmon's house, a poked in the stomach Spencer and a very happy Harmon on a stellar episode.
-showDate:             
-releaseDate:          "2016-05-25 05:20:00Z"
-duration:             "02:11:08"
+layout:               episode
+slug:                 "214"
+sequenceNumber:       231
+episodeNumber:        214
+title:                "Live At JFL Toronto 2016"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8596851826.mp3?updated=1559757108"
+duration:             "01:56:06"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4071830522.mp3?updated=1560201980"
+external:
+  harmonCity:         "https://harmon.city/episode-214"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/231/214"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown comes to Toronto along with Emily Gordon and Kumail Nanjiani to perform some weird improv in front of a lot of people.
+showDate:             
+releaseDate:          "2016-09-30 05:04:00Z"
 venue:                
-comptroller:          "Cameron Esposito"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-198"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/214/198"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZXc_wxmq8VPaH2TyNudkr4"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/231/example-1.png"
+#- "/assets/images/episodes/231/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/214/example-1.png"
-#- "/assets/images/episodes/214/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       214
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

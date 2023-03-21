@@ -1,28 +1,45 @@
 ---
-episodeNumber:        278
-title:                "I Will Put Your Kids on Blast"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The Walking Dead creator, Robert Kirkman, joins Rob Schrab on stage to talk comics, writing and more. Dan tries putting things on blast, to varying success. Jeff plays a listener submitted remix of Schrab's dog's freakout.
-showDate:             
-releaseDate:          "2018-02-28 11:00:00Z"
-duration:             "02:10:44"
+layout:               episode
+slug:                 "295"
+sequenceNumber:       312
+episodeNumber:        295
+title:                "Dadfished"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868028924.mp3?updated=1596851865"
+duration:             "01:55:31"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9261979258.mp3?updated=1596782420"
+external:
+  harmonCity:         "https://harmon.city/episode-295"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/312/295"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  "Great Minds with Dan Harmon" director Heath Cullens tells the tale of how he accidentally convinced Dan that he's Dan's father. Brandon Johnson is our comptroller and Steve Levy joins for a return to role playing.
+showDate:             
+releaseDate:          "2018-07-19 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-278"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/295/278"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/312/example-1.png"
+#- "/assets/images/episodes/312/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/295/example-1.png"
-#- "/assets/images/episodes/295/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       295
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

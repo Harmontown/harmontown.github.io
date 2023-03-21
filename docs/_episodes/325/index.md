@@ -1,30 +1,47 @@
 ---
-episodeNumber:        308
-title:                "Soft on Hitler, Hard on Dicks"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Actor/Comedian Brett Gelman and Dan talk about constipation, Dan's new abs, Buck Rogers, and Hitler.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brett Gelman.
-showDate:             
-releaseDate:          "2018-10-25 10:00:00Z"
-duration:             "02:02:25"
+layout:               episode
+slug:                 "325"
+sequenceNumber:       342
+episodeNumber:        325
+title:                "Get Off My Lawn, Words"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1364711663.mp3?updated=1596658041"
+duration:             "02:10:14"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3463313160.mp3?updated=1596579103"
+external:
+  harmonCity:         "https://harmon.city/episode-325"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/342/325"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down?
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Rob Schrab.
+showDate:             
+releaseDate:          "2019-03-14 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-308"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/325/308"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/342/example-1.png"
+#- "/assets/images/episodes/342/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/325/example-1.png"
-#- "/assets/images/episodes/325/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       325
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

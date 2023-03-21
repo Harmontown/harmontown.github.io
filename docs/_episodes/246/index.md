@@ -1,28 +1,47 @@
 ---
-episodeNumber:        229
-title:                "Health Care Is Good, Black People Deserve To Live"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Founders of Reductress, Beth Newell and Sarah Pappalardo join Harmontown to promote their podcast Mouth Time and Dan tries to gain a feminist perspective, our friend Brandon Johnson returns and more!
-showDate:             
-releaseDate:          "2017-01-18 17:00:00Z"
-duration:             "02:00:23"
+layout:               episode
+slug:                 "246"
+sequenceNumber:       263
+episodeNumber:        246
+title:                "Your Description of a Birthday Would Make Vonnegut Kill Himself"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3180026616.mp3?updated=1596760999"
+duration:             "02:11:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5865931038.mp3?updated=1596834230"
+external:
+  harmonCity:         "https://harmon.city/episode-246"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/263/246"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  We learn some shocking truths about Spencer while Steve Levy fills in for him, Fred Stoller delves deep into the writing process of Seinfeld, Dan suspects our guest comptroller (Brandon Johnson) is a time traveler.
+  
+  Featuring Dan Harmon, Brandon Johnson, Steve Levy and Fred Stoller.
+showDate:             
+releaseDate:          "2017-05-31 05:47:00Z"
 venue:                
 comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-229"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/246/229"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Fred Stoller"
+- "Steve Levy"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/263/example-1.png"
+#- "/assets/images/episodes/263/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/246/example-1.png"
-#- "/assets/images/episodes/246/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       246
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

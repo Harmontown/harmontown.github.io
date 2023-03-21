@@ -1,28 +1,45 @@
 ---
-episodeNumber:        92
-title:                "It&#39;s Not Personal, It&#39;s Business"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon becomes label mates with Ice-T, which spurs Comptroller Jeff Davis into having Dan rattle off all his impressions. Mitch Hurwitz joins the group and when Spencer is out for the week, an abstract game of D&D ensues.
-showDate:             
-releaseDate:          "2014-02-24 20:27:00Z"
-duration:             "02:00:58"
+layout:               episode
+slug:                 "106"
+sequenceNumber:       121
+episodeNumber:        106
+title:                "Pakisnap!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1542016211.mp3?updated=1556325115"
+duration:             "02:02:13"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2795222181.mp3?updated=1556134195"
+external:
+  harmonCity:         "https://harmon.city/episode-106"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/121/106"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaQbIE4ZPv7MsJiI5pZX4PK"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan Harmon, Jeff Davis, Greg Proops, Kumail Nanjiani, Erin McGathy and Spencer Crittenden perform for another sold out HARMONTOWN and FINALLY, necrophillia is discussed at great length.
+showDate:             
+releaseDate:          "2014-07-07 20:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-92"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/106/92"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaj5ireqFMAXQlybKnI_tkC"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/121/example-1.png"
+#- "/assets/images/episodes/121/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/106/example-1.png"
-#- "/assets/images/episodes/106/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       106
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

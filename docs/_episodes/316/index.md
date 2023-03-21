@@ -1,30 +1,47 @@
 ---
-episodeNumber:        299
-title:                "Rock Me Homo Deus"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan's trainer, Dave Klein, returns to take the audience through a workout session. Jeff returns as comptroller, and Schrab shows Dan what it would be like to live next to a Neanderthal.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Dave Klein and Rob Schrab.
-showDate:             
-releaseDate:          "2018-08-16 10:00:00Z"
-duration:             "01:58:14"
+layout:               episode
+slug:                 "316"
+sequenceNumber:       333
+episodeNumber:        316
+title:                "Amy Grant Made My Puberty and My Atheism Happen"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5970573662.mp3?updated=1596508377"
+duration:             "01:58:05"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6341944220.mp3?updated=1596833912"
+external:
+  harmonCity:         "https://harmon.city/episode-316"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/333/316"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan and the gang kick off 2019 with everyone's expanded feelings on airlines, Dan's engagement, charitable giving and Paul Rudd.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Kevin Day and Jesse Camp.
+showDate:             
+releaseDate:          "2019-01-10 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-299"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/316/299"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/333/example-1.png"
+#- "/assets/images/episodes/333/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/316/example-1.png"
-#- "/assets/images/episodes/316/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       316
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

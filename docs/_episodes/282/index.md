@@ -1,28 +1,45 @@
 ---
-episodeNumber:        265
-title:                "The Pearl is Ragnarok"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest Comptroller Brandon Johnson joins Dan and Spencer to lay down some beats and serve up the best role playing snacks we've ever tasted.
-showDate:             
-releaseDate:          "2017-11-08 11:00:00Z"
-duration:             "02:05:41"
+layout:               episode
+slug:                 "282"
+sequenceNumber:       299
+episodeNumber:        282
+title:                "The Christmas with No Underwear"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3969094748.mp3?updated=1630440104"
+duration:             "02:06:46"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7124168321.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-282"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/299/282"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The show breaks new ground with a cold open ad, Dan introduces the show's latest lovable sponsored character M.C. Gun Control, we explore Dan's therapy revelations and Jeff hatches a cunning plan turning himself into a tree.
+showDate:             
+releaseDate:          "2018-03-28 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-265"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/282/265"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/299/example-1.png"
+#- "/assets/images/episodes/299/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/282/example-1.png"
-#- "/assets/images/episodes/282/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       282
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

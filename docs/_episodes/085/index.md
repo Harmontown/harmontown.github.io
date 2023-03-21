@@ -1,28 +1,45 @@
 ---
-episodeNumber:        71
-title:                "Push The Button, Pull The Chain"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The Mayor uses his iHarmon to knock down an entire show agenda that includes topics like Premium Gas and what Harmontown should do this year for Halloween when Comptroller Jeff Davis says no to his idea for 15 minutes straight. Later, Erin doesn't understand Grand Theft Auto V and an attractive man in a wheel chair joins the stage for a game of Pathfinder!
-showDate:             
-releaseDate:          "2013-09-09 19:12:00Z"
-duration:             "02:02:13"
+layout:               episode
+slug:                 "85"
+sequenceNumber:       99
+episodeNumber:        85
+title:                "Gender Neutrality"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9620222690.mp3?updated=1555716356"
+duration:             "01:57:28"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3646792805.mp3?updated=1555607950"
+external:
+  harmonCity:         "https://harmon.city/episode-85"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/99/85"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYtSHUk7Pf0TuBUMc4nZkE7"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  A mysterious package sparks a conversation about gender roles in our society; and upon colonizing the moon, is it even possible to raise children gender neutral? Later, Jeff shares kind of a f****d up story.
+showDate:             
+releaseDate:          "2014-01-13 19:38:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-71"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/85/71"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaTW0fvBVB4QH9wcoZVWsha"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/099/example-1.png"
+#- "/assets/images/episodes/099/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/085/example-1.png"
-#- "/assets/images/episodes/085/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       85
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

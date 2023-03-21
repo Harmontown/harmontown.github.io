@@ -1,28 +1,45 @@
 ---
-episodeNumber:        5
-title:                "Confessions Of An Alcoholic Mars Rover"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Jeff blows the whistle on NASA's secret agenda and Dan blows surprise guest Chris Hardwick!
-showDate:             "2012-08-07 04:00:00Z"
-releaseDate:          "2012-08-17 02:51:00Z"
-duration:             "01:19:28"
+layout:               episode
+slug:                 "18"
+sequenceNumber:       31
+episodeNumber:        18
+title:                "Sand Pollution: The Journals of Young Morrisey"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4402179215.mp3?updated=1555703184"
+duration:             "01:40:21"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8937834520.mp3?updated=1555698703"
+external:
+  harmonCity:         "https://harmon.city/episode-18"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/31/18"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObFaEuR2E2PLwOM34YTV5Iy"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan reads from his magical adolescent journals, casting a magical spell of adolescent depression over the entire audience and the dungeons and dragons session. So he brings up a depressed Harmenian and attempts to cure him. But by then he's pretty drunk.
+showDate:             
+releaseDate:          "2012-11-30 05:48:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-5"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/18/5"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZySzSoNnne7tXKA6SEDs3e"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Adam Goldberg"
+- "Jes&#250;s Diaz"
+
+images:
+#- "/assets/images/episodes/031/example-1.png"
+#- "/assets/images/episodes/031/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Chris Hardwick"
-#- "Example guest 2"
-
-audienceGuests:
-- "Rob Schrab"
-- "Spencer Crittenden"
-
-images:
-#- "/assets/images/episodes/018/example-1.png"
-#- "/assets/images/episodes/018/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       18
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

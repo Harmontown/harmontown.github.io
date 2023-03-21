@@ -1,28 +1,45 @@
 ---
-episodeNumber:        143
-title:                "Retardinol"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Rick and Morty's Justin Roiland makes a revelation to Curtis Armstrong. Harmon longs for the cold war and its Shadow Run, not Shadow Picnic! Brought to you by Doritos and Honda!
-showDate:             
-releaseDate:          "2015-04-15 02:16:00Z"
-duration:             "01:38:27"
+layout:               episode
+slug:                 "158"
+sequenceNumber:       173
+episodeNumber:        158
+title:                "While in Stealth Mode Press ‘X&#39; to Kiss Your Wife"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7347511160.mp3?updated=1561416479"
+duration:             "02:07:29"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2125009876.mp3?updated=1562016830"
+external:
+  harmonCity:         "https://harmon.city/episode-158"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/173/158"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYsLqN8PLhZ2dPeBPs3p9x_"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Erin is out of the country and Harmon is playing a lot of video games and has strong opinions on them. Ryan Ridley comptrolls and the guys from Before You Were Funny make Harmon read one of his earliest short stories.
+showDate:             
+releaseDate:          "2015-08-12 07:30:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Ryan Ridley"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-143"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/158/143"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-W2CUyR-hF5wngNVHf7Is"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/173/example-1.png"
+#- "/assets/images/episodes/173/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/158/example-1.png"
-#- "/assets/images/episodes/158/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       158
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

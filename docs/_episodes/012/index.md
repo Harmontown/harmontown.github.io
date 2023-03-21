@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #12"
+layout:               episode
+slug:                 "12"
+sequenceNumber:       25
+episodeNumber:        12
+title:                "Death, Fascism and the Pursuit of Not Remaking Robocop"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8088402176.mp3?updated=1555712014"
+duration:             "01:06:17"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-12"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/25/12"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZyMcMPdL943dv3nLlnqeyc"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost episode from before the show was a podcast.
-showDate:             "2012-04-30 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  Special guest Greg Proops returns! The question of what happens after you die remains unanswered, but tangents include mental illness, poverty and misunderstood Van Halen lyrics. Meanwhile, in D&D world, Sharpie and Quark claim their Embermauler bounty, buy horses and do improv in a forest with an old unicorn friend.
+showDate:             
+releaseDate:          "2012-10-19 02:09:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Greg Proops"
+- "Spencer Crittenden"
+
+audienceGuests:
+- "Adam Goldberg"
+- "Bipolarity Pontificator"
+
+images:
+#- "/assets/images/episodes/025/example-1.png"
+#- "/assets/images/episodes/025/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/012/example-1.png"
-#- "/assets/images/episodes/012/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       12
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

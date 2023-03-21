@@ -1,28 +1,47 @@
 ---
-episodeNumber:        235
-title:                "LIVE from the Cherokee Casino in West Siloam Springs, OK"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Featuring Dan Harmon, Jeff Bryan Davis, and Spencer Crittenden.
-showDate:             
-releaseDate:          "2017-03-08 07:30:00Z"
-duration:             "02:07:35"
+layout:               episode
+slug:                 "252"
+sequenceNumber:       269
+episodeNumber:        252
+title:                "Epeephany"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6825371497.mp3"
+duration:             "02:08:32"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8575453930.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-252"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/269/252"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, and Steve Levy.
+showDate:             
+releaseDate:          "2017-07-19 19:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-235"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/252/235"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/269/example-1.png"
+#- "/assets/images/episodes/269/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/252/example-1.png"
-#- "/assets/images/episodes/252/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       252
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

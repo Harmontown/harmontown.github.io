@@ -1,28 +1,45 @@
 ---
-episodeNumber:        62
-title:                "Blinking 12:00"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon has nothing to discuss so he opens it to the floor. Super powers are debated. Gifts are given. A special guest returns to D&D.
-showDate:             
-releaseDate:          "2013-07-01 20:34:00Z"
-duration:             "01:57:51"
+layout:               episode
+slug:                 "76"
+sequenceNumber:       90
+episodeNumber:        76
+title:                "Hug Me, Hug Me, Hug Me"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8107073170.mp3?updated=1555623040"
+duration:             "01:49:42"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5692275742.mp3?updated=1555528723"
+external:
+  harmonCity:         "https://harmon.city/episode-76"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/90/76"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObX6_sNKGu6UJ42Fq-WtyOv"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The room is packed with Communicon fans and two of them are asked by Mayor Harmon to come on stage and discuss a recent internet exchange about why they feel Dan should "stop talking." A lengthy game of D&D then ensues.
+showDate:             
+releaseDate:          "2013-10-21 15:25:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-62"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/76/62"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZh7lIHCuuY3Utqj4_IuRKa"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/090/example-1.png"
+#- "/assets/images/episodes/090/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/076/example-1.png"
-#- "/assets/images/episodes/076/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       76
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

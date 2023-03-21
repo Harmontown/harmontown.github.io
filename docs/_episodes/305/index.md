@@ -1,28 +1,47 @@
 ---
-episodeNumber:        288
-title:                "The Roadhouse Jews"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In our final episode at the Starburns Castle before moving to our new home, we welcome actor and fellow Podcaster Johnny Pemberton. Dan & Jeff's hot button issues this week include squeakers, cold cases, Kanye and the logistics of a human centipede.
-showDate:             
-releaseDate:          "2018-05-23 10:00:00Z"
-duration:             "02:04:17"
+layout:               episode
+slug:                 "305"
+sequenceNumber:       322
+episodeNumber:        305
+title:                "Smiles Wider Than Their Faces"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5666200554.mp3?updated=1596580121"
+duration:             "01:56:23"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3239648695.mp3?updated=1596869520"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-288"
+  harmonCity:         "https://harmon.city/episode-305"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/305/288"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/322/305"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Podcaster David Cummings, from The NoSleep Podcast, joins guest comptroller Brandon Johnson for a spooky evening of horror stories, cuckoo clocks and wholesome Canadian terror.
+  
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and David Cummings.
+showDate:             
+releaseDate:          "2018-10-04 10:00:00Z"
+venue:                
+comptroller:          "Brandon Johnson"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/322/example-1.png"
+#- "/assets/images/episodes/322/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Johnny Pemberton"
-- "Steve Levy"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/305/example-1.png"
-#- "/assets/images/episodes/305/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       305
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

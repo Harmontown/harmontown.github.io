@@ -1,28 +1,47 @@
 ---
-episodeNumber:        239
-title:                "LIVE from the Chicago Improv Festival 2017"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown joins the Chicago Improv Festival with guest Comptroller Brandon Johnson. Improv legends Jimmy Carrane and Scott Adsit help Dan demonstrate the difference between improv and written comedy, while Brandon and Dan discover the seven types of pee.
-showDate:             
-releaseDate:          "2017-04-05 05:37:00Z"
-duration:             "01:49:56"
+layout:               episode
+slug:                 "256"
+sequenceNumber:       273
+episodeNumber:        256
+title:                "Dan Harmon&#39;s Top Five Shoe Jokes"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8483761964.mp3?updated=1596591092"
+duration:             "02:04:13"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2468356696.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-256"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/273/256"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Rob Schrab is back! Dan sports a new look, tells his top 5 shoe jokes, then takes the role playing team on a wild adventure.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Rob Schrab.
+showDate:             
+releaseDate:          "2017-08-30 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-239"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/256/239"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/273/example-1.png"
+#- "/assets/images/episodes/273/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Jimmy Carrane"
-- "Scott Adsit"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/256/example-1.png"
-#- "/assets/images/episodes/256/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       256
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

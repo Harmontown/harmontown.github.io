@@ -1,28 +1,45 @@
 ---
-episodeNumber:        120
-title:                "LIVE in Toronto feat. Bobcat Goldthwait!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown visits Toronto for a massive show with comptroller Bobcat Goldthwait! Later, our friend Jane comes on stage to talk transgenderism.
-showDate:             
-releaseDate:          "2014-10-10 21:37:00Z"
-duration:             "02:33:47"
+layout:               episode
+slug:                 "135"
+sequenceNumber:       150
+episodeNumber:        135
+title:                "Wide"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7977376576.mp3"
+duration:             "02:00:02"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8667367468.mp3?updated=1561579748"
+external:
+  harmonCity:         "https://harmon.city/episode-135"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/150/135"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObka9sEbA1wX23JLIbHranx"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Post Valentine's Day Harmon is burnt out and declares it to be a bad show, then throws to Twitter and takes us along a musical journey. This is episode is so wide.
+showDate:             
+releaseDate:          "2015-02-18 18:49:00Z"
 venue:                
-comptroller:          "Bobcat Goldthwait"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-120"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/135/120"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa2cZLogkhPavP4POXwGCR1"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/150/example-1.png"
+#- "/assets/images/episodes/150/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/135/example-1.png"
-#- "/assets/images/episodes/135/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       135
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

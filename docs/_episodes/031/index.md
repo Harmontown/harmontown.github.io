@@ -1,28 +1,45 @@
 ---
-episodeNumber:        18
-title:                "Sand Pollution: The Journals of Young Morrisey"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan reads from his magical adolescent journals, casting a magical spell of adolescent depression over the entire audience and the dungeons and dragons session. So he brings up a depressed Harmenian and attempts to cure him. But by then he's pretty drunk.
-showDate:             
-releaseDate:          "2012-11-30 05:48:00Z"
-duration:             "01:40:21"
+layout:               episode
+slug:                 "31"
+sequenceNumber:       44
+episodeNumber:        31
+title:                "Harmoncountry: Providence, RI"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4515436291.mp3?updated=1554331209"
+duration:             "01:19:40"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4402179215.mp3?updated=1555703184"
+external:
+  harmonCity:         "https://harmon.city/episode-31"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/44/31"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYgzvlVxD9oGT44j-NbfQRY"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon used the country's smallest state to tackle the country's biggest issues – suicide and race – before remembering someone double booked the room so he has to leave.
+showDate:             
+releaseDate:          "2013-01-20 13:27:00Z"
+venue:                "TBC, Providence, RI"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-18"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/31/18"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObFaEuR2E2PLwOM34YTV5Iy"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Erin McGathy"
+- "Spencer Crittenden"
+
+audienceGuests:
+- "Black Erin"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/044/example-1.png"
+#- "/assets/images/episodes/044/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Adam Goldberg"
-- "Jes&#250;s Diaz"
-
-images:
-#- "/assets/images/episodes/031/example-1.png"
-#- "/assets/images/episodes/031/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       31
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

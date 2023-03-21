@@ -1,28 +1,45 @@
 ---
-episodeNumber:        44
-title:                "Dudes and Goo"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  After a few false starts, it turns out Mayor Harmon may be suffering from a show-threatening case of homecoming confidence, but when special guests D.C Pierson and Kumail Nanjiani join, the meeting erupts into an awesome discussion of drugs, religion, Spencer, Hannibal Lechter and octopus sex. In D&D: Sharpie and Mulraine seal the deal.
-showDate:             
-releaseDate:          "2013-02-14 15:21:00Z"
-duration:             "01:49:26"
+layout:               episode
+slug:                 "57"
+sequenceNumber:       71
+episodeNumber:        57
+title:                "Blood on the Corn"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6515807780.mp3?updated=1554504161"
+duration:             "02:08:15"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4652021328.mp3?updated=1554491927"
+external:
+  harmonCity:         "https://harmon.city/episode-57"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/71/57"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOajzw9rjF71gJnhtOAJpr0s"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon and Guest Comptroller Goldthwait examine their own bodies, Dan's drinking, Jeremy Piven, Bigfoot and their likely deaths by significant other. In D&D, the heroes continue to fight their shadow selves.
+showDate:             
+releaseDate:          "2013-05-21 18:11:00Z"
 venue:                "NerdMelt"
-comptroller:          "Jeff B. Davis"
+comptroller:          "Bobcat Goldthwait"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-44"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/57/44"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYQbTvybdwP5un2_xq0JaoZ"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/071/example-1.png"
+#- "/assets/images/episodes/071/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "DC Pierson"
-- "Kumail Nanjiani"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/057/example-1.png"
-#- "/assets/images/episodes/057/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       57
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

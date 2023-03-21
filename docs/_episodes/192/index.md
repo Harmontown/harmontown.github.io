@@ -1,28 +1,45 @@
 ---
-episodeNumber:        176
-title:                "I Don&#39;t Want To Die!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Kyle, heart transplant survivor joins the stage and Rob Schrab guest comptrolls and makes Dan feel bad about not hanging out with him more.
-showDate:             
-releaseDate:          "2015-12-08 11:38:00Z"
-duration:             "02:23:22"
+layout:               episode
+slug:                 "192"
+sequenceNumber:       208
+episodeNumber:        192
+title:                "Give Black People A Chance To Hear Crickets"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4323981266.mp3?updated=1560376564"
+duration:             "02:08:27"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9840576740.mp3?updated=1560982593"
+external:
+  harmonCity:         "https://harmon.city/episode-192"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/208/192"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYYy-fQDCkPD9Au8aiwUuPC"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Aisha Tyler visits Harmontown along with Hour Of Goon's Jeordie White and Fred Sablan for some complete insanity.
+showDate:             
+releaseDate:          "2016-04-13 05:00:00Z"
 venue:                
-comptroller:          "Rob Schrab"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-176"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/192/176"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYsobZsqwq8xysXZg4ZmJxN"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/208/example-1.png"
+#- "/assets/images/episodes/208/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/192/example-1.png"
-#- "/assets/images/episodes/192/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       192
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

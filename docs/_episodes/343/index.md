@@ -1,30 +1,45 @@
 ---
-episodeNumber:        326
-title:                "Bootie Etiquette"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert!
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brandon Johnson.
-showDate:             
-releaseDate:          "2019-03-21 10:00:00Z"
-duration:             "02:09:28"
+layout:               episode
+slug:                 "343"
+sequenceNumber:       360
+episodeNumber:        343
+title:                "Poolitics"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9877914292.mp3?updated=1596586024"
+duration:             "01:55:07"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9382632600.mp3?updated=1596657418"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-326"
+  harmonCity:         "https://harmon.city/episode-343"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/343/326"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/360/343"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  We Need A Pool Dietician For The Internet, and the milkman is an albino. With special guests Brandon Johnson and Steve Levy!
+showDate:             
+releaseDate:          "2019-08-01 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Brandon Johnson"
+- "Steve Levy"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/360/example-1.png"
+#- "/assets/images/episodes/360/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/343/example-1.png"
-#- "/assets/images/episodes/343/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       343
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

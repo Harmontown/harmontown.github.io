@@ -1,28 +1,47 @@
 ---
-episodeNumber:        172
-title:                "LIVE at The Gramercy, NY Comedy Festival 2015: Night 1"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Get ready for two nights of the craziest Harmontowns ever.
-showDate:             
-releaseDate:          "2015-11-18 04:50:00Z"
-duration:             "01:35:02"
+layout:               episode
+slug:                 "188"
+sequenceNumber:       204
+episodeNumber:        188
+title:                "Donna Schrab Gets Things Done"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7659970412.mp3?updated=1560382687"
+duration:             "02:07:03"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5763141609.mp3?updated=1561142080"
+external:
+  harmonCity:         "https://harmon.city/episode-188"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/204/188"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYkoxNRn8sw8ou-o78nZMXW"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Rob Corddry visits Harmontown for the first time and is a die-hard fan, everyone falls in love with him. Later we meet Rob Schrab's parents!
+  
+  Outro music: "Lonely Forever" by Babes
+showDate:             
+releaseDate:          "2016-03-16 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-172"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/188/172"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ_yXwdGtIKKVSOwiE6S6UO"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/204/example-1.png"
+#- "/assets/images/episodes/204/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/188/example-1.png"
-#- "/assets/images/episodes/188/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       188
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

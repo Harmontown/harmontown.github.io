@@ -1,28 +1,47 @@
 ---
-episodeNumber:        295
-title:                "Dadfished"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  "Great Minds with Dan Harmon" director Heath Cullens tells the tale of how he accidentally convinced Dan that he's Dan's father. Brandon Johnson is our comptroller and Steve Levy joins for a return to role playing.
-showDate:             
-releaseDate:          "2018-07-19 10:00:00Z"
-duration:             "01:55:31"
+layout:               episode
+slug:                 "312"
+sequenceNumber:       329
+episodeNumber:        312
+title:                "Live from the New York Comedy Festival 2018"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2995642060.mp3?updated=1596578696"
+duration:             "01:30:41"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868028924.mp3?updated=1596851865"
+external:
+  harmonCity:         "https://harmon.city/episode-312"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/329/312"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown is live from the New York Comedy Festival!
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
+showDate:             
+releaseDate:          "2018-11-29 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-295"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/312/295"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/329/example-1.png"
+#- "/assets/images/episodes/329/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/312/example-1.png"
-#- "/assets/images/episodes/312/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       312
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

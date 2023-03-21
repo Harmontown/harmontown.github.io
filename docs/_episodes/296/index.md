@@ -1,28 +1,47 @@
 ---
-episodeNumber:        279
-title:                "Oh Hitler, We Hardly Knew Ye"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's Oscar night! Dan discusses the current political landscape, the value politicians are bringing to the table, and where we should go next. Also, Spencer thinks the NRA has some dank ass memes
-showDate:             
-releaseDate:          "2018-03-07 11:00:00Z"
-duration:             "02:07:30"
+layout:               episode
+slug:                 "296"
+sequenceNumber:       313
+episodeNumber:        296
+title:                "You Can Live Forever Here at Bevmo"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7505077183.mp3?updated=1596849971"
+duration:             "01:46:16"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8292607205.mp3?updated=1596762818"
+external:
+  harmonCity:         "https://harmon.city/episode-296"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/313/296"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Jeff returns briefly to flex his vocal chords after surgery. Legendary SNL alum Laraine Newman shares Groundlings and Coneheads behind the scenes stories. Steve Levy explains a new dating app.
+  
+  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jeff Bryan Davis and Laraine Newman.
+showDate:             
+releaseDate:          "2018-07-26 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-279"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/296/279"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/313/example-1.png"
+#- "/assets/images/episodes/313/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/296/example-1.png"
-#- "/assets/images/episodes/296/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       296
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

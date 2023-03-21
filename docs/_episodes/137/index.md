@@ -1,28 +1,45 @@
 ---
-episodeNumber:        122
-title:                "LIVE from The Roxie in San Francisco feat. Steve Agee"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown begins an epic 4 days of non-stop podcasting starting in San Francisco with none other then comptroller Steve Agee!
-showDate:             
-releaseDate:          "2014-10-27 22:09:00Z"
-duration:             "01:58:47"
+layout:               episode
+slug:                 "137"
+sequenceNumber:       152
+episodeNumber:        137
+title:                "Jesus Christ This Business Is Risky"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2761155168.mp3?updated=1562025727"
+duration:             "02:05:17"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9019948493.mp3?updated=1561582927"
+external:
+  harmonCity:         "https://harmon.city/episode-137"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/152/137"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY4I7nOWL5E7nb8cx7JMs8g"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  King of all nerds, Curtis Armstrong, AKA "Booger" visits Harmontown and apparently never has played a role-playing game before and then completely crushes it in Shadowrun.
+showDate:             
+releaseDate:          "2015-03-04 03:34:00Z"
 venue:                
-comptroller:          "Steve Agee"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-122"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/137/122"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYTccLqROHY4q2ti5w7g7gT"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/152/example-1.png"
+#- "/assets/images/episodes/152/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/137/example-1.png"
-#- "/assets/images/episodes/137/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       137
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

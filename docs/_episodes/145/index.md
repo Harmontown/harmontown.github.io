@@ -1,28 +1,45 @@
 ---
-episodeNumber:        130
-title:                "There&#39;s Nothing To Be Ashamed Of Except America"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's the last Harmontown of 2014 and the first time we've had the whole gang together in a while. Dan Harmon, Jeff Davis, Kumail Nanjiani, Erin McGathy, Spencer Crittenden and guest John Roy talk sniffers.
-showDate:             
-releaseDate:          "2014-12-16 01:50:00Z"
-duration:             "02:00:27"
+layout:               episode
+slug:                 "145"
+sequenceNumber:       160
+episodeNumber:        145
+title:                "Swastika Made Of Dicks"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8556507448.mp3?updated=1562016466"
+duration:             "02:05:08"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3118086938.mp3?updated=1560295601"
+external:
+  harmonCity:         "https://harmon.city/episode-145"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/160/145"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObGW5aDYyEPvi1q-rN7NTdm"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon's neighbor posts an elitist sign in their neighborhood and he loses it. There's rants, bits, baby talk, Shadownrun. Spencer, Curtis, Erin and DeMorge.
+showDate:             
+releaseDate:          "2015-05-06 02:31:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-130"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/145/130"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZE-TgUHFs5LpHz4GOJnW5t"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/160/example-1.png"
+#- "/assets/images/episodes/160/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/145/example-1.png"
-#- "/assets/images/episodes/145/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       145
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        137
-title:                "Jesus Christ This Business Is Risky"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  King of all nerds, Curtis Armstrong, AKA "Booger" visits Harmontown and apparently never has played a role-playing game before and then completely crushes it in Shadowrun.
-showDate:             
-releaseDate:          "2015-03-04 03:34:00Z"
-duration:             "02:05:17"
+layout:               episode
+slug:                 "152"
+sequenceNumber:       167
+episodeNumber:        152
+title:                "White Guilt Kerosene On The White Guilt Bonfire"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8970080096.mp3?updated=1561589913"
+duration:             "02:05:52"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2761155168.mp3?updated=1562025727"
+external:
+  harmonCity:         "https://harmon.city/episode-152"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/167/152"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYUQ-Ri9dEzuCb7tvQ7Q31z"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan, Jeff and Spencer start out the show, World Cup sports corner and lots of privilege and guilt.
+showDate:             
+releaseDate:          "2015-06-24 01:29:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-137"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/152/137"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY4I7nOWL5E7nb8cx7JMs8g"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/167/example-1.png"
+#- "/assets/images/episodes/167/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/152/example-1.png"
-#- "/assets/images/episodes/152/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       152
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

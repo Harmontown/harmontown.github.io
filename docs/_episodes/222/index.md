@@ -1,28 +1,45 @@
 ---
-episodeNumber:        206
-title:                "Celebrity Highlander"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Of Search Party and Arrested Development Alia Shawkat stops by self-imposed sleepy Harmontown with a historical 30 minute MeUndies commercial.
-showDate:             
-releaseDate:          "2016-07-30 04:18:00Z"
-duration:             "02:12:02"
+layout:               episode
+slug:                 "222"
+sequenceNumber:       239
+episodeNumber:        222
+title:                "Anne Frank Kicked A Cat Once"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9729988647.mp3?updated=1596672956"
+duration:             "01:48:14"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9731376278.mp3?updated=1559933874"
+external:
+  harmonCity:         "https://harmon.city/episode-222"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/239/222"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Erin McGathy makes a triumphant return to Harmontown as the role of Spencer and brings the sounded of 20 sided die back to Harmontown! Bonus track: an all new song originally made for Harmontown by Colleen Green!
+showDate:             
+releaseDate:          "2016-11-24 03:01:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-206"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/222/206"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZUDMurUCTuhvPGB2Bsltqd"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/239/example-1.png"
+#- "/assets/images/episodes/239/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/222/example-1.png"
-#- "/assets/images/episodes/222/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       222
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

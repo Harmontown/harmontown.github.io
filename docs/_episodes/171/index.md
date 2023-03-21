@@ -1,28 +1,45 @@
 ---
-episodeNumber:        156
-title:                "Poop Is Temporary, Money Is Forever"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  How big is a bulls urethra? Dan has a video game romance he's guilty about and the gang tries to initiate some butt chuggin'.
-showDate:             
-releaseDate:          "2015-07-22 06:24:00Z"
-duration:             "02:11:14"
+layout:               episode
+slug:                 "171"
+sequenceNumber:       187
+episodeNumber:        171
+title:                "I Gymnastics Over To Her"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6281409763.mp3?updated=1561144376"
+duration:             "02:18:10"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2985013051.mp3?updated=1561579030"
+external:
+  harmonCity:         "https://harmon.city/episode-171"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/187/171"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ5-HLhQf6DMl9oLGKkNL9r"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Guest comptroller Ryan Ridley and guest Aubrey Plaza forge their way through the pseudo socio-political intestinal tract of Harmontown!
+showDate:             
+releaseDate:          "2015-11-11 01:11:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Ryan Ridley"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-156"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/171/156"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ7k2Y_LQXkEFE0e3y9kLgP"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/187/example-1.png"
+#- "/assets/images/episodes/187/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/171/example-1.png"
-#- "/assets/images/episodes/171/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       171
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

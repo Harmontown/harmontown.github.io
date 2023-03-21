@@ -1,30 +1,45 @@
 ---
-episodeNumber:        249
-title:                "Harmontown From ID10T Fest"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown goes to Chris Hardwick's ID10T Festival. Dan raps about Kubrick, takes questions from the audience, does some push ups and even dance battles with a cosplayer! Our role playing game continues, with Steve getting a feel for Diarrhea Junior.
-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
-showDate:             
-releaseDate:          "2017-06-28 15:17:00Z"
-duration:             "01:25:05"
+layout:               episode
+slug:                 "266"
+sequenceNumber:       283
+episodeNumber:        266
+title:                "No Lime"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8300498738.mp3"
+duration:             "02:09:54"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1116061381.mp3?updated=1596762834"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-249"
+  harmonCity:         "https://harmon.city/episode-266"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/266/249"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/283/266"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Spencer shares his adventures in jogging, needles and cupping. The Ron Jeremy banana mystery continues to perplex Jeff. Dan records an introduction video for Rob Schrab and spends a little extra time making sure it's perfect.
+showDate:             
+releaseDate:          "2017-11-15 11:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/283/example-1.png"
+#- "/assets/images/episodes/283/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Steve Levy"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/266/example-1.png"
-#- "/assets/images/episodes/266/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       266
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

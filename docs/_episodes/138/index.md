@@ -1,28 +1,45 @@
 ---
-episodeNumber:        123
-title:                "LIVE from Austin, TX with LEVAR BURTON"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown goes to Austin and holy sh*t, LeVar Burton is the comptroller.
-showDate:             
-releaseDate:          "2014-10-29 10:45:00Z"
-duration:             "01:59:05"
+layout:               episode
+slug:                 "138"
+sequenceNumber:       153
+episodeNumber:        138
+title:                "Hologram Crawford"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4180527222.mp3?updated=1562024746"
+duration:             "01:58:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8232975554.mp3?updated=1561584917"
+external:
+  harmonCity:         "https://harmon.city/episode-138"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/153/138"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ_9TSokj7eO6uv8BVXOEQy"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  We meet the laziest rapper, Curtis Armstrong becomes the latest member of the Harmontown family and the plot in Shadowrun thickens.
+showDate:             
+releaseDate:          "2015-03-11 22:37:00Z"
 venue:                
-comptroller:          "LeVar Burton"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-123"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/138/123"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYcMtpaTkgtdac4zAZOUOvg"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/153/example-1.png"
+#- "/assets/images/episodes/153/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/138/example-1.png"
-#- "/assets/images/episodes/138/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       138
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

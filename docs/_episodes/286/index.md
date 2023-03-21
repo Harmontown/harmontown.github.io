@@ -1,30 +1,46 @@
 ---
-episodeNumber:        269
-title:                "Dan Rates Every Animal"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan, Jeff and Spencer dig deep into genitals of unusual size, bats, giraffes, dolphins and Paul Newman.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Steve Levy.
-showDate:             
-releaseDate:          "2017-12-07 00:11:00Z"
-duration:             "02:16:35"
+layout:               episode
+slug:                 "286"
+sequenceNumber:       303
+episodeNumber:        286
+title:                "All the Shingle Ladies"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4379813941.mp3"
+duration:             "01:59:15"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4169205236.mp3"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-269"
+  harmonCity:         "https://harmon.city/episode-286"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/286/269"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/303/286"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan reacts to being diagnosed with Shingles by bringing a bed on stage and eating eggs. Fellow podcasters Keith Malley and Chemda Khalili join Jeff and Schrab in Dan's bed to discuss infectious diseases.
+showDate:             
+releaseDate:          "2018-05-02 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Keith Malley"
+- "Chemda Khalili"
+- "Rob Schrab"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/303/example-1.png"
+#- "/assets/images/episodes/303/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/286/example-1.png"
-#- "/assets/images/episodes/286/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       286
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

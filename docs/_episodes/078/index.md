@@ -1,28 +1,45 @@
 ---
-episodeNumber:        64
-title:                "I Would Be Mega Black"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon strives to understand whether or not he's a 9/11 conspiracy theorist with special guest James Urbaniak. Also: race and stuff.
-showDate:             
-releaseDate:          "2013-07-15 10:18:00Z"
-duration:             "02:04:01"
+layout:               episode
+slug:                 "78"
+sequenceNumber:       92
+episodeNumber:        78
+title:                "Earthshine"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1718346436.mp3?updated=1555626658"
+duration:             "01:53:18"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5285436060.mp3?updated=1555529807"
+external:
+  harmonCity:         "https://harmon.city/episode-78"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/92/78"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY_tQDi8McICVzFexBTRXT-"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  For the second time in Harmontown history a bottle of moonshine appears. It's Integrity vs. dishonesty, Baby Boomers vs. Gen X'ers vs. Millennials, it's Mayor Harmon vs. the bathroom at Meltdown Comics, it's Adam vs. Levi, it's Harmontown vs. the world!
+showDate:             
+releaseDate:          "2013-11-05 01:58:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-64"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/78/64"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaOM7Ugd8qBFcinV1o3Vm5e"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/092/example-1.png"
+#- "/assets/images/episodes/092/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "James Urbaniak"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/078/example-1.png"
-#- "/assets/images/episodes/078/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       78
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

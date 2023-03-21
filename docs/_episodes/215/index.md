@@ -1,28 +1,45 @@
 ---
-episodeNumber:        199
-title:                "Flesh Thing Made Of Four Strings Of Dude"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan and Jeff trip balls and your Mayor has a message from the Void. Jason Sudeikis returns for the first time since the movie tour along with first time guest Will Forte!
-showDate:             
-releaseDate:          "2016-06-01 08:07:00Z"
-duration:             "02:08:06"
+layout:               episode
+slug:                 "215"
+sequenceNumber:       232
+episodeNumber:        215
+title:                "Amazing Blades"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8945763572.mp3?updated=1559605758"
+duration:             "02:01:01"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5095515149.mp3?updated=1560196813"
+external:
+  harmonCity:         "https://harmon.city/episode-215"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/232/215"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Rapper Logic joins Harmontown and we continue our legacy of the greatest advertising money can buy.
+showDate:             
+releaseDate:          "2016-10-05 10:23:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-199"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/215/199"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaoIMc7QoTke8pSoB908v1e"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/232/example-1.png"
+#- "/assets/images/episodes/232/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/215/example-1.png"
-#- "/assets/images/episodes/215/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       215
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

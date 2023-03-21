@@ -1,28 +1,45 @@
 ---
-episodeNumber:        89
-title:                "Live At Cobb&#39;s in San Francisco with Joel Hodgson"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown does the 13th annual San Francisco Sketchfest, gets a drop in from Mystery Science Theater 3000's Joel Hodgson and later on, the show goes straight Maury Povich.
-showDate:             
-releaseDate:          "2014-02-07 19:28:00Z"
-duration:             "01:59:46"
+layout:               episode
+slug:                 "103"
+sequenceNumber:       118
+episodeNumber:        103
+title:                "Tony Shalhoub Award"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8868103730.mp3?updated=1556231623"
+duration:             "02:12:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8934035172.mp3?updated=1555718341"
+external:
+  harmonCity:         "https://harmon.city/episode-103"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/118/103"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb-UTDxBrN1btuZJ4yE9Pt-"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Happy Birthday to all the Fathers out there, Kumail is comptrolling, Erin runs her best game yet and D&D is sizzling. Come get your Harmontown!
+showDate:             
+releaseDate:          "2014-06-16 20:27:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Kumail Nanjiani"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-89"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/103/89"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ3io55H0gPCjPcLUslaNMi"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/118/example-1.png"
+#- "/assets/images/episodes/118/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/103/example-1.png"
-#- "/assets/images/episodes/103/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       103
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        272
-title:                "Don&#39;t Let Him Wipe or Flush"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  We hear about the drunk driver that hit Dan's house, plus Jeff's trip to India. Everyone questions Steve Levy's doctor's qualifications, but is glad he's alive. While roleplaying, the gang stakes out an in-use restroom for a very, very long time.
-showDate:             
-releaseDate:          "2018-01-10 11:00:00Z"
-duration:             "02:12:25"
+layout:               episode
+slug:                 "289"
+sequenceNumber:       306
+episodeNumber:        289
+title:                "Huh Huh Huh Huh Huh Huh"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7579118444.mp3?updated=1596867207"
+duration:             "02:00:51"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7319556997.mp3?updated=1596858894"
+external:
+  harmonCity:         "https://harmon.city/episode-289"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/306/289"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Our first show at the beautiful Dynasty Typewriter theater kicks off with an audience for the first time in months. Brandon Johnson haunts the theater, Rob Schrab makes himself mini comptroller with a mini podium, M.C. Gun Control returns, and Spencer kicks off an extended role playing session.
+showDate:             
+releaseDate:          "2018-06-07 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               true
+hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-272"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/289/272"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/306/example-1.png"
+#- "/assets/images/episodes/306/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/289/example-1.png"
-#- "/assets/images/episodes/289/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       289
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

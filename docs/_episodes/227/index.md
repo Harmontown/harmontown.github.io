@@ -1,28 +1,47 @@
 ---
-episodeNumber:        210
-title:                "A Haunted House With A Glass Ceiling"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  A 4 year old takes the stage, a 16 year old stage, Cameron Esposito and Rhea Butcher, The Bootzins, Casper Mattresses.
-showDate:             
-releaseDate:          "2016-08-24 05:49:00Z"
-duration:             "02:05:13"
+layout:               episode
+slug:                 "227"
+sequenceNumber:       244
+episodeNumber:        227
+title:                "Harmontownunder: Sydney Opera House Night 2"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3964757791.mp3?updated=1596787200"
+duration:             "02:00:38"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9537031624.mp3?updated=1559772408"
+external:
+  harmonCity:         "https://harmon.city/episode-227"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/244/227"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Night 2 of Harmontown's historic performances at the Sydney Opera House has a true opera unfold.
+  
+  Featuring Dan Harmon, Jeff Davis and Spencer Crittenden.
+showDate:             
+releaseDate:          "2017-01-10 01:09:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-210"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/227/210"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/244/example-1.png"
+#- "/assets/images/episodes/244/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/227/example-1.png"
-#- "/assets/images/episodes/227/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       227
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

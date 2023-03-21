@@ -1,28 +1,47 @@
 ---
-episodeNumber:        309
-title:                "Firehouse Ghost"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan and Spencer welcome our latest sponsor "MeOnesie" to the show, and our favorite socialist Josh Androsky pops in to explain Measure B. Antonio Banderas also premiers his latest musical, and is not to be missed.
-showDate:             
-releaseDate:          "2018-11-08 11:00:00Z"
-duration:             "01:56:58"
+layout:               episode
+slug:                 "326"
+sequenceNumber:       343
+episodeNumber:        326
+title:                "Bootie Etiquette"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9382632600.mp3?updated=1596657418"
+duration:             "02:09:28"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6611330489.mp3?updated=1596579052"
+external:
+  harmonCity:         "https://harmon.city/episode-326"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/343/326"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert!
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brandon Johnson.
+showDate:             
+releaseDate:          "2019-03-21 10:00:00Z"
 venue:                
-comptroller:          "Spencer Crittenden"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-309"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/326/309"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/343/example-1.png"
+#- "/assets/images/episodes/343/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/326/example-1.png"
-#- "/assets/images/episodes/326/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       326
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

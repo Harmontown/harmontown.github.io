@@ -1,28 +1,45 @@
 ---
-episodeNumber:        73
-title:                "From Kennedy&#39;s Assassination, To The Beatles"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Don Cheatle's speech at the Emmys leaves Mayor Harmon pondering. Also, spider monsters, the Beef Fungus Bill game and co-creator of Channel 101 Rob Schrab sits in on D&D!
-showDate:             
-releaseDate:          "2013-09-24 08:24:00Z"
-duration:             "01:49:43"
+layout:               episode
+slug:                 "87"
+sequenceNumber:       101
+episodeNumber:        87
+title:                "Kiss Doesn&#39;t Get The Joke"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5034086784.mp3?updated=1555718415"
+duration:             "02:25:46"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1376751870.mp3?updated=1555607420"
+external:
+  harmonCity:         "https://harmon.city/episode-87"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/101/87"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaFKR_VO-GVmwYb_IZP5UfT"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Guest Comptroller Mitch Hurwitz does his best to help Mayor Harmon and Kumail Nanjiani ridicule Rob Schrab as he tries to celebrate 20 years of his comic book SCUD: The Disposable Assassin. In D&D, Sharpie and Laan-ev go to blows.
+showDate:             
+releaseDate:          "2014-01-27 19:11:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-73"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/87/73"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaNEeg-ihhUYkVPxPt9WXDE"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/101/example-1.png"
+#- "/assets/images/episodes/101/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/087/example-1.png"
-#- "/assets/images/episodes/087/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       87
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

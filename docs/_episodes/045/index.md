@@ -1,28 +1,45 @@
 ---
-episodeNumber:        32
-title:                "Harmoncountry: Arlington, VA"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The mayor and comptroller spend their night in the X Files capitol investigating ghosts, aliens, incest and 9-11 before playing D&D with all black people.
-showDate:             
-releaseDate:          "2013-01-22 01:53:00Z"
-duration:             "01:49:00"
+layout:               episode
+slug:                 "45"
+sequenceNumber:       58
+episodeNumber:        45
+title:                "Dan Took a Shower"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4031683895.mp3?updated=1554491720"
+duration:             "01:51:58"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5735310974.mp3?updated=1554331324"
+external:
+  harmonCity:         "https://harmon.city/episode-45"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/58/45"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOacFU_j251WjfRuPtpwAKbV"
 
-venue:                "TBC, Arlington, VA"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  A discussion of hygiene heats up with Kumail Nanjiani, then boils over when Bobcat Goldthwait drops by. In D&D, zombies attack while Quark engages in advanced animal husbandry. This fabulous episode is unedited so we will just warn you of a small glitch with the mayor's mic a few minutes in that lasts but a moment.
+showDate:             
+releaseDate:          "2013-02-21 00:21:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-32"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/45/32"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObC6dWJVcwLHJwMn53e6bWR"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Kumail Nanjiani"
+- "Bobcat Goldthwait"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/058/example-1.png"
+#- "/assets/images/episodes/058/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,34 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Adam"
-- "LeTaya"
-- "Nathan"
-- "Cory"
-- "Dane"
-- "Vanessa"
-- "Aliyah"
-- "Philip"
-- "Andrew"
-- "Alex Fox"
-
-images:
-#- "/assets/images/episodes/045/example-1.png"
-#- "/assets/images/episodes/045/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       45
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

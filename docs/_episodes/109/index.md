@@ -1,28 +1,45 @@
 ---
-episodeNumber:        95
-title:                "Bill Martigans"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The Harmontown dream team; Dan Harmon, Jeff Bryan Davis, Erin McGathy, Mitch Hurwitz and Kumail Nanjiani recap SXSW; Fred Phelps death bed and later, Spencer returns for a roaring session of D&D!
-showDate:             
-releaseDate:          "2014-03-17 18:41:00Z"
-duration:             "02:02:43"
+layout:               episode
+slug:                 "109"
+sequenceNumber:       124
+episodeNumber:        109
+title:                "Jaime Lannister&#39;s Hand"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6447459003.mp3?updated=1556750515"
+duration:             "02:05:21"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4041552340.mp3?updated=1556133291"
+external:
+  harmonCity:         "https://harmon.city/episode-109"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/124/109"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb1fofIeJcIHnkgRJEE4luJ"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon discusses ComicCon, we enter the Animal Corner, finds out Rogaine will kill your cat and Kumail returns just in time for a rousing round of D&D.
+showDate:             
+releaseDate:          "2014-07-28 19:52:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-95"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/109/95"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYq_HDIedn9G4vOh3KNBKrz"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/124/example-1.png"
+#- "/assets/images/episodes/124/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/109/example-1.png"
-#- "/assets/images/episodes/109/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       109
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        47
-title:                "Procrasturbation"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon suggests a new, fecal approach to morality. Other topics include Halle Berry, Superman and accents. In D&D, the gang runs afoul of snake men and each other.
-showDate:             
-releaseDate:          "2013-03-08 09:51:00Z"
-duration:             "01:41:55"
+layout:               episode
+slug:                 "60"
+sequenceNumber:       74
+episodeNumber:        60
+title:                "Us Of The Dangling Wee-Wee"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1485037642.mp3?updated=1554506430"
+duration:             "01:58:29"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6342558089.mp3?updated=1554494666"
+external:
+  harmonCity:         "https://harmon.city/episode-60"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/74/60"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOacBdD8_SwG-Qn-ADNibJQN"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  In which it asserted by Harmontown, that Fathers are important. Guest starring Spencer's Dad.
+showDate:             
+releaseDate:          "2013-06-17 10:14:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-47"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/60/47"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaEooxgy6ezIhCfp8uhax6Q"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/074/example-1.png"
+#- "/assets/images/episodes/074/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/060/example-1.png"
-#- "/assets/images/episodes/060/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       60
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

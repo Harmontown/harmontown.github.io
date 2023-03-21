@@ -1,30 +1,45 @@
 ---
-episodeNumber:        250
-title:                "I Don&#39;t Want to Ghostsplain"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Role playing & Ghostsplaining through our 250th episode! A medical emergency is averted after Jeff gets a nose bleed from laughing.
-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
-showDate:             
-releaseDate:          "2017-07-06 01:43:00Z"
-duration:             "02:03:40"
+layout:               episode
+slug:                 "267"
+sequenceNumber:       284
+episodeNumber:        267
+title:                "We Killed Charles Manson"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3770942281.mp3"
+duration:             "02:16:50"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6996533152.mp3?updated=1596763711"
+external:
+  harmonCity:         "https://harmon.city/episode-267"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/284/267"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Guest Comptroller Brandon Johnson and actor Rob Huebel return to the show. Rob gives us the inside information about his new show, while Brandon introduces us to Tiny Brandon. Dan's worried he might have played a role in Charles Manson's death
+showDate:             
+releaseDate:          "2017-11-22 16:45:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-250"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/267/250"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/284/example-1.png"
+#- "/assets/images/episodes/284/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/267/example-1.png"
-#- "/assets/images/episodes/267/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       267
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

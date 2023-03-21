@@ -1,28 +1,45 @@
 ---
-episodeNumber:        133
-title:                "DeMorge Do You Know Jamal?"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's sports corner for all you Superbowl heads, audience member Jamal sheds some light on race and ShadowRun is in full effect.
-showDate:             
-releaseDate:          "2015-02-04 19:53:00Z"
-duration:             "02:13:40"
+layout:               episode
+slug:                 "148"
+sequenceNumber:       163
+episodeNumber:        148
+title:                "Easy, Sisyphus"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9127618283.mp3?updated=1561766439"
+duration:             "02:05:34"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6058998457.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-148"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/163/148"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObpASCG-DSZGnLmir2wsFDJ"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The great Andy Kindler finally visits Harmontown!!!
+showDate:             
+releaseDate:          "2015-05-27 07:53:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-133"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/148/133"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObM3_6gs_cXtRt-IGoZuxKE"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/163/example-1.png"
+#- "/assets/images/episodes/163/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/148/example-1.png"
-#- "/assets/images/episodes/148/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       148
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

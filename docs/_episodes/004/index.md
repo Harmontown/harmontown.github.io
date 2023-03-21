@@ -1,28 +1,48 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #4"
+layout:               episode
+slug:                 "4"
+sequenceNumber:       17
+episodeNumber:        4
+title:                "The Technology Of N-Words"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2303221881.mp3?updated=1555700005"
+duration:             "01:15:37"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-4"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/17/4"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObPXDf9RnOKccpUDJQGcIha"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost episode from before the show was a podcast.
-showDate:             "2011-08-29 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  A discussion of something the Scottish call a "Wizard Sleeve" is ever-so-briefly interrupted by racism, robots, and a visit from something Erin McGathy calls a "game corner."
+showDate:             "2012-07-31 04:00:00Z"
+releaseDate:          "2012-08-04 02:29:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Erin McGathy"
+#- "Example guest 2"
+
+audienceGuests:
+- "Anthony"
+- "Justin"
+- "&quot;Terminator: Sarah Connor Chronicles&quot; guy"
+- "&quot;God Is a Moog&quot; guy"
+- "Nti Aning"
+
+images:
+#- "/assets/images/episodes/017/example-1.png"
+#- "/assets/images/episodes/017/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +66,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/004/example-1.png"
-#- "/assets/images/episodes/004/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       4
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

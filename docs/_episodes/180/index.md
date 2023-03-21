@@ -1,28 +1,45 @@
 ---
-episodeNumber:        165
-title:                "Where The Moon?"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Steve Agee comptrolls, Felicia Day guests, Shadowrun kicks ass.
-showDate:             
-releaseDate:          "2015-09-30 00:21:00Z"
-duration:             "02:04:15"
+layout:               episode
+slug:                 "180"
+sequenceNumber:       196
+episodeNumber:        180
+title:                "Your Boobs Are Sick"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4126889238.mp3?updated=1560556056"
+duration:             "02:01:11"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7721272978.mp3?updated=1561161087"
+external:
+  harmonCity:         "https://harmon.city/episode-180"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/196/180"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOatZQlJOdaqk5y7C92YQed4"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Guest comptroller Rhea Butcher joins your Mayor through the world of politics, gay weddings and mannequin legs.
+showDate:             
+releaseDate:          "2016-01-18 08:26:00Z"
 venue:                
-comptroller:          "Steve Agee"
+comptroller:          "Rhea Butcher"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-165"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/180/165"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaMLIffK2PzWoQ8AAsppLle"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/196/example-1.png"
+#- "/assets/images/episodes/196/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/180/example-1.png"
-#- "/assets/images/episodes/180/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       180
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

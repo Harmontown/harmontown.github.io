@@ -1,28 +1,45 @@
 ---
-episodeNumber:        208
-title:                "Kratom Barrel"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan riffs on what happens when Michael Winslow goes to war with Radiohead. Later on, transgender back rubs.
-showDate:             
-releaseDate:          "2016-08-10 20:52:00Z"
-duration:             "01:58:10"
+layout:               episode
+slug:                 "225"
+sequenceNumber:       242
+episodeNumber:        225
+title:                "Harmontownunder: Melbourne, Australia"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1334561981.mp3"
+duration:             "02:03:18"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3508953202.mp3?updated=1559777010"
+external:
+  harmonCity:         "https://harmon.city/episode-225"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/242/225"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The Australian adventures of Harmontown continue with a sold out show in Melbourne, Australia!
+showDate:             
+releaseDate:          "2016-12-28 20:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-208"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/225/208"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZThXN4abL2nv07yr-pgysi"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/242/example-1.png"
+#- "/assets/images/episodes/242/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/225/example-1.png"
-#- "/assets/images/episodes/225/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       225
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

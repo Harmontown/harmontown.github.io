@@ -1,28 +1,45 @@
 ---
-episodeNumber:        185
-title:                "LIVE in Chicago 2016 at Park West!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  A game changing sold out show in Chicago's beautiful Park West theatre! Music by Babes.
-showDate:             
-releaseDate:          "2016-02-24 02:50:00Z"
-duration:             "01:56:18"
+layout:               episode
+slug:                 "201"
+sequenceNumber:       217
+episodeNumber:        201
+title:                "Black Woman Against Over Here"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6654036124.mp3?updated=1560193507"
+duration:             "02:02:22"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8739285076.mp3?updated=1560540027"
+external:
+  harmonCity:         "https://harmon.city/episode-201"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/217/201"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaHQ3S7CpiuijsfY3iKr1mo"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Spencer comptrolls, Dino stops by and it's hot as absolute Hell.
+showDate:             
+releaseDate:          "2016-06-22 05:00:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Spencer Crittenden"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-185"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/201/185"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZkKVnpY8iY0rcqt-jv8rVg"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/217/example-1.png"
+#- "/assets/images/episodes/217/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/201/example-1.png"
-#- "/assets/images/episodes/201/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       201
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        168
-title:                "Live From The SeeSo Launch at the New York Television Festival 2015"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown invades The New York Television festival for the launch of Seeso, a new comedy streaming service and the home of our upcoming show Harmonquest!
-showDate:             
-releaseDate:          "2015-10-21 23:58:00Z"
-duration:             "01:01:04"
+layout:               episode
+slug:                 "184"
+sequenceNumber:       200
+episodeNumber:        184
+title:                "Strain Has A New First Name"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8725070688.mp3?updated=1560541629"
+duration:             "02:01:55"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4321993911.mp3?updated=1561153990"
+external:
+  harmonCity:         "https://harmon.city/episode-184"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/200/184"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaQN5I_Evklm2UCc-lxKUtO"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown meets Zoe Lister Jones then turns into an hour of improv and complete chaos!
+showDate:             
+releaseDate:          "2016-02-10 06:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-168"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/184/168"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZcLn2elRItrkDXvq2bq1Fx"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/200/example-1.png"
+#- "/assets/images/episodes/200/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/184/example-1.png"
-#- "/assets/images/episodes/184/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       184
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

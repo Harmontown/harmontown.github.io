@@ -1,28 +1,45 @@
 ---
-episodeNumber:        115
-title:                "Oh, the Blimpery!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dolphins are bad, Jews are great as learn with comptroller, Rick & Morty writer Ryan Ridley! Then for the first time we welcome our hilarious friend Dave Horwitz to the stage who you all now can begin to fall for. In D&D, its really funny.
-showDate:             
-releaseDate:          "2014-09-08 19:50:00Z"
-duration:             "02:06:49"
+layout:               episode
+slug:                 "130"
+sequenceNumber:       145
+episodeNumber:        130
+title:                "There&#39;s Nothing To Be Ashamed Of Except America"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3118086938.mp3?updated=1560295601"
+duration:             "02:00:27"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4351991043.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-130"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/145/130"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZE-TgUHFs5LpHz4GOJnW5t"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's the last Harmontown of 2014 and the first time we've had the whole gang together in a while. Dan Harmon, Jeff Davis, Kumail Nanjiani, Erin McGathy, Spencer Crittenden and guest John Roy talk sniffers.
+showDate:             
+releaseDate:          "2014-12-16 01:50:00Z"
 venue:                
-comptroller:          "Ryan Ridley"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-115"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/130/115"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObg6Uo3Zi7dSciMx53DgBQy"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/145/example-1.png"
+#- "/assets/images/episodes/145/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/130/example-1.png"
-#- "/assets/images/episodes/130/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       130
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

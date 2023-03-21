@@ -1,28 +1,45 @@
 ---
-episodeNumber:        86
-title:                "Constitutional Belieber"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon is joined by Alie & Georgia of the Slumber Party podcast to defend the constitutional rights of Justin Bieber. In D&D, Sharpie doesn't like Lineve's tone.
-showDate:             
-releaseDate:          "2014-01-20 18:43:00Z"
-duration:             "02:02:13"
+layout:               episode
+slug:                 "100"
+sequenceNumber:       115
+episodeNumber:        100
+title:                "Boner-Hurt Kansas"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3107672992.mp3?updated=1556230790"
+duration:             "02:02:41"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8031854394.mp3?updated=1555717466"
+external:
+  harmonCity:         "https://harmon.city/episode-100"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/115/100"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYBPC1hoju2vCHkkDbq2aQ3"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It is the Centepisodial Spectacular of Harmontown! Adam Goldberg runs a quiz against a super fan and your Mayor to see who knows more about Harmontown.
+showDate:             
+releaseDate:          "2014-05-19 20:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-86"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/100/86"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZawnnkhQxQ-yZq4oC1_hDd"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/115/example-1.png"
+#- "/assets/images/episodes/115/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/100/example-1.png"
-#- "/assets/images/episodes/100/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       100
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,53 @@
 ---
-episodeNumber:        19
-title:                "Everyone&#39;s a Rapper!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon comes up spittin' decidedly unmad fire. We meet a mysterious lady in the audience that can only say "no." No D&D this week but Spencer rules the day just the same. Adam Goldberg takes a swipe at having a segment. Dan raps EVEN MORE. New Harmenian "Misha" takes the stage and does some standup. Dan and Jeff rap battle!
-showDate:             
-releaseDate:          "2012-12-05 12:43:00Z"
-duration:             "01:22:32"
+layout:               episode
+slug:                 "32"
+sequenceNumber:       45
+episodeNumber:        32
+title:                "Harmoncountry: Arlington, VA"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5735310974.mp3?updated=1554331324"
+duration:             "01:49:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8398406951.mp3?updated=1555703126"
+external:
+  harmonCity:         "https://harmon.city/episode-32"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/45/32"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObC6dWJVcwLHJwMn53e6bWR"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The mayor and comptroller spend their night in the X Files capitol investigating ghosts, aliens, incest and 9-11 before playing D&D with all black people.
+showDate:             
+releaseDate:          "2013-01-22 01:53:00Z"
+venue:                "TBC, Arlington, VA"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-19"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/32/19"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObT2tGM8bPyKIgC4BNxX4AT"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Adam"
+- "LeTaya"
+- "Nathan"
+- "Cory"
+- "Dane"
+- "Vanessa"
+- "Aliyah"
+- "Philip"
+- "Andrew"
+- "Alex Fox"
+
+images:
+#- "/assets/images/episodes/045/example-1.png"
+#- "/assets/images/episodes/045/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +71,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-#- "Example guest 2"
-
-audienceGuests:
-- "Adam Goldberg"
-- "Misha Han"
-- "&quot;No&quot; lady"
-
-images:
-#- "/assets/images/episodes/032/example-1.png"
-#- "/assets/images/episodes/032/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       32
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

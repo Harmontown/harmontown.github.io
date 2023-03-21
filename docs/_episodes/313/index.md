@@ -1,30 +1,45 @@
 ---
-episodeNumber:        296
-title:                "You Can Live Forever Here at Bevmo"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Jeff returns briefly to flex his vocal chords after surgery. Legendary SNL alum Laraine Newman shares Groundlings and Coneheads behind the scenes stories. Steve Levy explains a new dating app.
-
-  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jeff Bryan Davis and Laraine Newman.
-showDate:             
-releaseDate:          "2018-07-26 10:00:00Z"
-duration:             "01:46:16"
+layout:               episode
+slug:                 "313"
+sequenceNumber:       330
+episodeNumber:        313
+title:                "Ducks Don&#39;t Be Gay"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7192102916.mp3?updated=1596578450"
+duration:             "01:56:06"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7505077183.mp3?updated=1596849971"
+external:
+  harmonCity:         "https://harmon.city/episode-313"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/330/313"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Self destructive writer Dan Harmon claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis as his Comptroller and bearded dreamboat Spencer Crittenden as his Dungeon Master. It's like a neurotic town hall meeting, often with alcohol and famous people.
+showDate:             
+releaseDate:          "2018-12-06 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-296"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/313/296"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/330/example-1.png"
+#- "/assets/images/episodes/330/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/313/example-1.png"
-#- "/assets/images/episodes/313/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       313
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

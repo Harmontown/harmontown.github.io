@@ -1,28 +1,45 @@
 ---
-episodeNumber:        313
-title:                "Ducks Don&#39;t Be Gay"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Self destructive writer Dan Harmon claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis as his Comptroller and bearded dreamboat Spencer Crittenden as his Dungeon Master. It's like a neurotic town hall meeting, often with alcohol and famous people.
-showDate:             
-releaseDate:          "2018-12-06 11:00:00Z"
-duration:             "01:56:06"
+layout:               episode
+slug:                 "330"
+sequenceNumber:       347
+episodeNumber:        330
+title:                "All Dicks Are Webbed"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7955316629.mp3?updated=1596653142"
+duration:             "01:59:36"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7192102916.mp3?updated=1596578450"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-313"
+  harmonCity:         "https://harmon.city/episode-330"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/330/313"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/347/330"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Despite walking on stage sick as a dog, audience adoration miraculously heals Dan in real time. Francophile Jeff can't help but dissolve into a sentimental jelly thinking about Notre-dame, and Spencer continues to amaze with hitherto unprecedented levels of enthusiasm.
+showDate:             
+releaseDate:          "2019-04-18 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/347/example-1.png"
+#- "/assets/images/episodes/347/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/330/example-1.png"
-#- "/assets/images/episodes/330/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       330
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

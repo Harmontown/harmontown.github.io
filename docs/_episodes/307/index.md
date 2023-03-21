@@ -1,28 +1,47 @@
 ---
-episodeNumber:        290
-title:                "A Turd in a Slipper"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan and Jeff discuss airliner pooping and Elon Musk stories. Judd Apatow explains how his casting style has changed over his career. How much self loathing goes into being a show creator?
-showDate:             
-releaseDate:          "2018-06-14 10:00:00Z"
-duration:             "02:00:27"
+layout:               episode
+slug:                 "307"
+sequenceNumber:       324
+episodeNumber:        307
+title:                "French Spencer"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8630704834.mp3?updated=1596579045"
+duration:             "02:05:58"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  true
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8334159380.mp3?updated=1596865970"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-290"
+  harmonCity:         "https://harmon.city/episode-307"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/307/290"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/324/307"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Guest Comptroller Brandon Johnson and Dan discover French Spencer, and learn that sometimes applause hurts.
+  
+  Featuring Dan Harmon, Brandon Johnson and Spencer Crittenden.
+showDate:             
+releaseDate:          "2018-10-18 10:00:00Z"
+venue:                
+comptroller:          "Brandon Johnson"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/324/example-1.png"
+#- "/assets/images/episodes/324/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/307/example-1.png"
-#- "/assets/images/episodes/307/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       307
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

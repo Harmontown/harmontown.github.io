@@ -1,28 +1,47 @@
 ---
-episodeNumber:        311
-title:                "Twenty Sides of Booty"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character.
-showDate:             
-releaseDate:          "2018-11-22 11:00:00Z"
-duration:             "02:05:08"
+layout:               episode
+slug:                 "328"
+sequenceNumber:       345
+episodeNumber:        328
+title:                "Jeff&#39;s Joke Corner"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5727215879.mp3?updated=1596656734"
+duration:             "02:16:13"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3167373224.mp3?updated=1596582516"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Dan Harmon"
-hasDnD:               true
-
 external:
-  harmonCity:         "https://harmon.city/episode-311"
+  harmonCity:         "https://harmon.city/episode-328"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/328/311"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/345/328"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Jeff Davis's joke corner! A walrus walks into a whorehouse... Also, the return of roleplaying with guest Steve Levy!
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
+showDate:             
+releaseDate:          "2019-04-04 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/345/example-1.png"
+#- "/assets/images/episodes/345/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/328/example-1.png"
-#- "/assets/images/episodes/328/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       328
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

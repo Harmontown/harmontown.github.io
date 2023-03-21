@@ -1,28 +1,45 @@
 ---
-episodeNumber:        184
-title:                "Strain Has A New First Name"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown meets Zoe Lister Jones then turns into an hour of improv and complete chaos!
-showDate:             
-releaseDate:          "2016-02-10 06:00:00Z"
-duration:             "02:01:55"
+layout:               episode
+slug:                 "200"
+sequenceNumber:       216
+episodeNumber:        200
+title:                "Simulation"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6676936577.mp3?updated=1560195531"
+duration:             "02:13:36"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8725070688.mp3?updated=1560541629"
+external:
+  harmonCity:         "https://harmon.city/episode-200"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/216/200"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYt7LhndjmITqJKpHNpXu0a"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever.
+showDate:             
+releaseDate:          "2016-06-08 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-184"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/200/184"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaQN5I_Evklm2UCc-lxKUtO"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/216/example-1.png"
+#- "/assets/images/episodes/216/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/200/example-1.png"
-#- "/assets/images/episodes/200/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       200
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,30 +1,45 @@
 ---
-episodeNumber:        346
-title:                "Every Day is a New Hate"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Author of the new book "It Came from Something Awful", Dale Beran teaches us the history 4chan and 8chan. How did simple websites transform into centers of white nationalism, violence and tools of politics?
-
-  Featuring Dan Harmon, Brandon Johnson and Dale Beran.
-showDate:             
-releaseDate:          "2019-08-22 10:00:00Z"
-duration:             "01:59:53"
+layout:               episode
+slug:                 "363"
+sequenceNumber:       380
+episodeNumber:        363
+title:                "Nanjianimax"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1441745471.mp3"
+duration:             "02:06:21"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3768422803.mp3?updated=1596576016"
+external:
+  harmonCity:         "https://harmon.city/episode-363"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/363"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The gang gets back together one more time to catch up on everything since the show's finale. Special guests: Rob Schrab, Kumail Nanjiani and Emily V. Gordon!
+showDate:             
+releaseDate:          "2021-03-18 07:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-346"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/363/346"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/380/example-1.png"
+#- "/assets/images/episodes/380/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/363/example-1.png"
-#- "/assets/images/episodes/363/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       363
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

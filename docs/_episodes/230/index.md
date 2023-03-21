@@ -1,28 +1,47 @@
 ---
-episodeNumber:        213
-title:                "ED-209"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  SCHRAB IS HERE. And the best improvised scene ever ensues.
-showDate:             
-releaseDate:          "2016-09-21 23:45:00Z"
-duration:             "02:01:33"
+layout:               episode
+slug:                 "230"
+sequenceNumber:       247
+episodeNumber:        230
+title:                "LIVE From SF Sketchfest 2017"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7033395606.mp3?updated=1596827132"
+duration:             "01:56:36"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6204938258.mp3?updated=1559759946"
+external:
+  harmonCity:         "https://harmon.city/episode-230"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/247/230"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Fascism comes to America and Harmontown susses it out with the city of San Francisco.
+  
+  Original music made for Harmontown by Titanic Sinclair.
+showDate:             
+releaseDate:          "2017-02-02 06:45:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-213"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/230/213"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/247/example-1.png"
+#- "/assets/images/episodes/247/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/230/example-1.png"
-#- "/assets/images/episodes/230/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       230
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

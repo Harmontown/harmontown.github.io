@@ -1,28 +1,45 @@
 ---
-episodeNumber:        78
-title:                "Earthshine"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  For the second time in Harmontown history a bottle of moonshine appears. It's Integrity vs. dishonesty, Baby Boomers vs. Gen X'ers vs. Millennials, it's Mayor Harmon vs. the bathroom at Meltdown Comics, it's Adam vs. Levi, it's Harmontown vs. the world!
-showDate:             
-releaseDate:          "2013-11-05 01:58:00Z"
-duration:             "01:53:18"
+layout:               episode
+slug:                 "92"
+sequenceNumber:       106
+episodeNumber:        92
+title:                "It&#39;s Not Personal, It&#39;s Business"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2795222181.mp3?updated=1556134195"
+duration:             "02:00:58"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1718346436.mp3?updated=1555626658"
+external:
+  harmonCity:         "https://harmon.city/episode-92"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/106/92"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaj5ireqFMAXQlybKnI_tkC"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon becomes label mates with Ice-T, which spurs Comptroller Jeff Davis into having Dan rattle off all his impressions. Mitch Hurwitz joins the group and when Spencer is out for the week, an abstract game of D&D ensues.
+showDate:             
+releaseDate:          "2014-02-24 20:27:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-78"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/92/78"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY_tQDi8McICVzFexBTRXT-"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/106/example-1.png"
+#- "/assets/images/episodes/106/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/092/example-1.png"
-#- "/assets/images/episodes/092/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       92
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

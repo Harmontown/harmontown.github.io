@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #2"
+layout:               episode
+slug:                 "2"
+sequenceNumber:       15
+episodeNumber:        2
+title:                "The Inception Of Girlfriends"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7648412420.mp3"
+duration:             "01:18:13"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-2"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/15/2"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZujfsmDZV1WWvhBR_Cpl3R"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost episode from before the show was a podcast.
-showDate:             "2011-06-20 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  While Jeff Davis works abroad, Guest Comptroller Erin McGathy ("This Feels Terrible") joins Mayor Harmon for an in depth look at overrated masterpieces, passive aggressive text messages and how to destroy someone else's relationship on stage.
+showDate:             "2012-07-16 04:00:00Z"
+releaseDate:          "2012-07-20 04:22:00Z"
 venue:                "NerdMelt"
-comptroller:          "Jeff B. Davis"
+comptroller:          "Erin McGathy"
 gameMaster:           
 hasDnD:               false
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+- "Tiffany"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/015/example-1.png"
+#- "/assets/images/episodes/015/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/002/example-1.png"
-#- "/assets/images/episodes/002/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       2
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

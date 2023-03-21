@@ -1,28 +1,45 @@
 ---
-episodeNumber:        209
-title:                "Pantyhose &amp; Coconuts"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Of the FeralAudio.com podcast Obsessed, Joseph Scrimshaw talks Obsession with the Harmontown gang and your Mayor dives into his pantyhose fetish.
-showDate:             
-releaseDate:          "2016-08-17 03:32:00Z"
-duration:             "02:00:41"
+layout:               episode
+slug:                 "226"
+sequenceNumber:       243
+episodeNumber:        226
+title:                "Harmontownunder: Sydney Opera House Night 1"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5271634387.mp3"
+duration:             "02:07:33"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5723474089.mp3?updated=1559774885"
+external:
+  harmonCity:         "https://harmon.city/episode-226"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/243/226"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Night 1 of Harmontown at the historic Sydney Opera House in Sydney Australia!
+showDate:             
+releaseDate:          "2017-01-05 00:22:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-209"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/226/209"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/243/example-1.png"
+#- "/assets/images/episodes/243/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/226/example-1.png"
-#- "/assets/images/episodes/226/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       226
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

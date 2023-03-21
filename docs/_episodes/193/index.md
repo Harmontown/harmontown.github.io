@@ -1,28 +1,47 @@
 ---
-episodeNumber:        177
-title:                "Why Is It Called Lord of the Rings?"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Rob Schrab questions Lord Of The Ring(s), depression and someone dies in Shadow Run!
-showDate:             
-releaseDate:          "2015-12-16 01:11:00Z"
-duration:             "02:12:13"
+layout:               episode
+slug:                 "193"
+sequenceNumber:       209
+episodeNumber:        193
+title:                "Ghost Dinosaurs"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2609226706.mp3?updated=1560374783"
+duration:             "02:04:20"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4624322295.mp3?updated=1560969258"
+external:
+  harmonCity:         "https://harmon.city/episode-193"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/209/193"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa_tw_XX9jRm7r-1_5oDMWD"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Deadbeat's Tyler Labine plus the return of Kumail Nanjiani with Rob Schrab, Spencer and Jeff all on stage at once!
+  
+  Music by Jeordie White
+showDate:             
+releaseDate:          "2016-04-20 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-177"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/193/177"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa4MIdhm_by26ssxEKUN8Du"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/209/example-1.png"
+#- "/assets/images/episodes/209/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/193/example-1.png"
-#- "/assets/images/episodes/193/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       193
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

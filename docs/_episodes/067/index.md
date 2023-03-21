@@ -1,28 +1,45 @@
 ---
-episodeNumber:        54
-title:                "Go, Marbles, Go!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon, sore from softball practice, enlists the aid of Duncan Trussell and Greg Proops to keep the meeting moving. Topics include virtual reality, dead mothers and Jaws 4. In Dungeons and Dragons, Erin summons her first monkey.
-showDate:             
-releaseDate:          "2013-04-23 10:29:00Z"
-duration:             "01:57:18"
+layout:               episode
+slug:                 "67"
+sequenceNumber:       81
+episodeNumber:        67
+title:                "Click Here For Bacardi"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3539909450.mp3?updated=1555545291"
+duration:             "01:47:26"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5026135164.mp3?updated=1554504114"
+external:
+  harmonCity:         "https://harmon.city/episode-67"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/81/67"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZe7VJhd6BjDamrlM7hCXYN"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Pet psychology is discussed. Then the usual topics of race and terrorism. Then crap gets real about anarchy on the moon.
+showDate:             
+releaseDate:          "2013-08-12 11:35:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-54"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/67/54"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObrz9sXIPzHEzsURW-TWUv1"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/081/example-1.png"
+#- "/assets/images/episodes/081/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Duncan Trussell"
-- "Greg Proops"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/067/example-1.png"
-#- "/assets/images/episodes/067/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       67
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

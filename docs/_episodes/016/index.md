@@ -1,28 +1,46 @@
 ---
-episodeNumber:        3
-title:                "If They Have Cubs, We&#39;re Already Dead"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  An unusually quiet night in Harmontown gives way to eruptions of arm wrestling, wolf hunting, dungeon mastering and child abuse.
-showDate:             "2012-07-23 04:00:00Z"
-releaseDate:          "2012-07-30 20:25:00Z"
-duration:             "01:14:08"
+layout:               episode
+slug:                 "16"
+sequenceNumber:       29
+episodeNumber:        16
+title:                "A Four Day March to the Butt&#39;s Expanse"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8086031692.mp3?updated=1555704651"
+duration:             "01:26:16"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3517247513.mp3?updated=1555699895"
+external:
+  harmonCity:         "https://harmon.city/episode-16"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/29/16"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOanNReIwfgRmbHZyWzTKZ2p"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's a Jareth-palooza as Harmenians descend on Hollywood dressed as David Bowie in Labyrinth for Halloween. Other topics include almost nothing!
+showDate:             
+releaseDate:          "2012-11-09 20:37:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-3"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/16/3"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOawdpYr2espJPYTwEKyTWHU"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Erin McGathy"
+- "Spencer Crittenden"
+
+audienceGuests:
+- "Nti Aning"
+- "B.J."
+- "Michael"
+
+images:
+#- "/assets/images/episodes/029/example-1.png"
+#- "/assets/images/episodes/029/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-- "Max"
-- "B.J."
-- "Erin McGathy"
-
-images:
-#- "/assets/images/episodes/016/example-1.png"
-#- "/assets/images/episodes/016/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       16
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -4,15 +4,15 @@ layout: default
 ---
 
 <div class="episode-top-navigation">
-  {% if page.hasPrevious %}
+  {% if page.previous %}
   <div id="previous">
-    <a href="/episodes/{{ page.sequenceNumber | minus: 1 | prepend: '00' | slice: -3, 3 }}">← Previous</a>
+    <a href="{{ page.previous.url }}">← Previous</a>
   </div>
   {% endif %}
   <div id="spacer"></div>
-  {% if page.hasNext %}
+  {% if page.next %}
   <div id="next">
-    <a href="/episodes/{{ page.sequenceNumber | plus: 1 | prepend: '00' | slice: -3, 3 }}">Next →</a>
+    <a href="{{ page.next.url }}">Next →</a>
   </div>
   {% endif %}
 </div>
@@ -187,15 +187,15 @@ layout: default
 {% include episodeGallery.md %}
 
 <div id="bottom-nav" class="episode-bottom-navigation">
-  {% if page.hasPrevious %}
+  {% if page.previous %}
   <div id="previous">
-    <a href="/episodes/{{ page.sequenceNumber | minus: 1 | prepend: '00' | slice: -3, 3 }}#bottom-nav">← Previous</a>
+    <a href="{{ page.previous.url }}">← Previous</a>
   </div>
   {% endif %}
   <div id="spacer"></div>
-  {% if page.hasNext %}
+  {% if page.next %}
   <div id="next">
-    <a href="/episodes/{{ page.sequenceNumber | plus: 1 | prepend: '00' | slice: -3, 3 }}#bottom-nav">Next →</a>
+    <a href="{{ page.next.url }}">Next →</a>
   </div>
   {% endif %}
 </div>

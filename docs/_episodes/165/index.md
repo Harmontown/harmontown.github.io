@@ -1,28 +1,45 @@
 ---
-episodeNumber:        150
-title:                "Where My Technochromes At?"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan can see more colors than the average person and doesn't care because colors are dumb. Curtis Armstrong comptrolls.
-showDate:             
-releaseDate:          "2015-06-09 23:30:00Z"
-duration:             "02:02:59"
+layout:               episode
+slug:                 "165"
+sequenceNumber:       180
+episodeNumber:        165
+title:                "Where The Moon?"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7721272978.mp3?updated=1561161087"
+duration:             "02:04:15"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9218698326.mp3?updated=1561594017"
+external:
+  harmonCity:         "https://harmon.city/episode-165"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/180/165"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaMLIffK2PzWoQ8AAsppLle"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Steve Agee comptrolls, Felicia Day guests, Shadowrun kicks ass.
+showDate:             
+releaseDate:          "2015-09-30 00:21:00Z"
 venue:                
-comptroller:          "Curtis Armstrong"
+comptroller:          "Steve Agee"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-150"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/165/150"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZdc0wPapJ90pzxaDm-Xujj"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/180/example-1.png"
+#- "/assets/images/episodes/180/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/165/example-1.png"
-#- "/assets/images/episodes/165/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       165
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

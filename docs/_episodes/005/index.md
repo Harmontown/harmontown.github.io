@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #5"
+layout:               episode
+slug:                 "5"
+sequenceNumber:       18
+episodeNumber:        5
+title:                "Confessions Of An Alcoholic Mars Rover"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8937834520.mp3?updated=1555698703"
+duration:             "01:19:28"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-5"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/18/5"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZySzSoNnne7tXKA6SEDs3e"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  [Clip from the fifth episode of Harmontown](https://www.youtube.com/watch?v=iVz67bJujU0).
-showDate:             "2011-09-26 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  Jeff blows the whistle on NASA's secret agenda and Dan blows surprise guest Chris Hardwick!
+showDate:             "2012-08-07 04:00:00Z"
+releaseDate:          "2012-08-17 02:51:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Chris Hardwick"
+#- "Example guest 2"
+
+audienceGuests:
+- "Rob Schrab"
+- "Spencer Crittenden"
+
+images:
+#- "/assets/images/episodes/018/example-1.png"
+#- "/assets/images/episodes/018/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/005/example-1.png"
-#- "/assets/images/episodes/005/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       5
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

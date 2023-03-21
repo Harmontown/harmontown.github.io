@@ -1,28 +1,47 @@
 ---
-episodeNumber:        232
-title:                "You&#39;re An Ant To My Cum"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Richie Keen, Dino Stamatopoulos, Scott Adsit, Britta Phillips, Rob Schrab and Steve Levy.
-showDate:             
-releaseDate:          "2017-02-15 10:00:00Z"
-duration:             "02:00:52"
+layout:               episode
+slug:                 "249"
+sequenceNumber:       266
+episodeNumber:        249
+title:                "Harmontown From ID10T Fest"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1116061381.mp3?updated=1596762834"
+duration:             "01:25:05"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5112786742.mp3?updated=1596825121"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-232"
+  harmonCity:         "https://harmon.city/episode-249"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/249/232"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/266/249"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown goes to Chris Hardwick's ID10T Festival. Dan raps about Kubrick, takes questions from the audience, does some push ups and even dance battles with a cosplayer! Our role playing game continues, with Steve getting a feel for Diarrhea Junior.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
+showDate:             
+releaseDate:          "2017-06-28 15:17:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Steve Levy"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/266/example-1.png"
+#- "/assets/images/episodes/266/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/249/example-1.png"
-#- "/assets/images/episodes/249/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       249
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

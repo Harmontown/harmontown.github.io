@@ -1,28 +1,46 @@
 ---
-episodeNumber:        35
-title:                "Harmoncountry: Chicago, IL"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon starts Atoning With The Father when he presents a day in his fantasy TV writer life, confronts a drunk Darth Vader, then adopts a 15 year old version of himself. The night ends with an impromptu rap battle before new Harmenian Kahleel takes the throne.
-showDate:             
-releaseDate:          "2013-01-24 23:47:00Z"
-duration:             "02:06:49"
+layout:               episode
+slug:                 "48"
+sequenceNumber:       61
+episodeNumber:        48
+title:                "Felicity Wackamole"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5496026101.mp3?updated=1554494350"
+duration:             "01:53:36"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6230550878.mp3?updated=1560295661"
+external:
+  harmonCity:         "https://harmon.city/episode-48"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/61/48"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaFXDLI4pALG5ZfvPET4oI7"
 
-venue:                "TBC, Chicago, IL"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Topics include Gene Hackman, emphysema, sharks, cereal, Thalidomide, Wreck it Ralph, burn victims, Dracula, Special Olympics, regular Olympics, Bruce Villanch, missing electronics and law enforcement. The D&D party flirts with sleep studies, then fights a dragon.
+  Featuring Doug Benson and Kumail Nanjiani.
+showDate:             
+releaseDate:          "2013-03-15 06:57:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-35"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/48/35"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb8UfTsst4vpo8biC72UUs2"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Doug Benson"
+- "Kumail Nanjiani"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/061/example-1.png"
+#- "/assets/images/episodes/061/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,31 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Ryan"
-- "Ben"
-- "Alex"
-- "Mason"
-- "Ahmad"
-- "Nate"
-- "Kahleel"
-
-images:
-#- "/assets/images/episodes/048/example-1.png"
-#- "/assets/images/episodes/048/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       48
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

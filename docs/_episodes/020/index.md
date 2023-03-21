@@ -1,28 +1,48 @@
 ---
-episodeNumber:        7
-title:                "Cranky Mayors, Pink Hairs and Shoelace Cares"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  An especially antsy crowd turns Harmontown's meeting into a flippin' town meeting, pushing our fearless leader from musings on infidelity to contemplations of suicide. Plus: Dungeonmaster Spencer unveils the boys' characters!
-showDate:             "2012-08-20 04:00:00Z"
-releaseDate:          "2012-08-30 06:13:00Z"
-duration:             "01:31:07"
+layout:               episode
+slug:                 "20"
+sequenceNumber:       33
+episodeNumber:        20
+title:                "Flesh Knife"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2157303919.mp3?updated=1555703714"
+duration:             "01:34:32"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028373533.mp3?updated=1555697331"
+external:
+  harmonCity:         "https://harmon.city/episode-20"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/33/20"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ-mIB1YjXYNaC32RiV8Hmu"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  More horrible rapping, a new character named Big Red, a phone call to Chevy Chase and a conversation with Adam Goldberg. In D&D: our heroes fall into a pit!
+  Note: the audience was not mic'd this episode.
+showDate:             
+releaseDate:          "2013-01-05 05:37:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-7"
-  podcastDynamite:
-    hasMinutes:       true
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/20/7"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaRVCngsVJqLkyjXrzyCckP"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+- "Kyle"
+- "Adam &quot;Big Red&quot;"
+- "Adam Goldberg"
+- "Jes&#250;s Diaz"
+
+images:
+#- "/assets/images/episodes/033/example-1.png"
+#- "/assets/images/episodes/033/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,28 +66,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-#- "Example guest 2"
-
-audienceGuests:
-- "Christina &quot;Pink Hair&quot;"
-- "Nti Aning"
-- "Levi"
-- "Adam Goldberg"
-
-images:
-#- "/assets/images/episodes/020/example-1.png"
-#- "/assets/images/episodes/020/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       20
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

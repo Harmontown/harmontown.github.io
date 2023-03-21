@@ -32,35 +32,52 @@ void GenerateEpisodeStubs()
 
   foreach (var ep in episodes)
   {
-    var epDir = $"{OutDir}{ep.SequenceNumber:D3}";
+    var epDir = $"{OutDir}{ep.Slug.PadLeft(3, '0')}";
     Directory.CreateDirectory(epDir);
 
     var frontMatter = $$$"""
 ---
+layout:               episode
+slug:                 {{{FormatString(ep.Slug)}}}
+sequenceNumber:       {{{ep.SequenceNumber}}}
 episodeNumber:        {{{ep.EpisodeNumber}}}
 title:                {{{FormatString(ep.Title)}}}
-image:                {{{FormatString(ep.Image)}}}
-description: |-
-  {{{ep.Description.Replace("\r", "").Replace("\n", "\r\n  ")}}}
-showDate:             {{{FormatDateString(ep.ShowDate)}}}
-releaseDate:          {{{FormatDateString(ep.ReleaseDate)}}}
+soundFile:            {{{FormatString(ep.SoundFile)}}}
 duration:             {{{FormatString(ep.Duration?.ToString("c"))}}}
 isLostEpisode:        {{{FormatBool(ep.IsLostEpisode)}}}
 isTrailer:            {{{FormatBool(ep.IsTrailer)}}}
-hasExplicitLanguage:  {{{FormatBool(ep.HasExplicitLanguage)}}}
-soundFile:            {{{FormatString(ep.SoundFile)}}}
-
-venue:                {{{FormatString(ep.Venue)}}}
-comptroller:          {{{FormatString(ep.Comptroller)}}}
-gameMaster:           {{{FormatString(ep.GameMaster)}}}
-hasDnD:               {{{FormatBool(ep.HasDnD)}}}
-
 external:
   harmonCity:         {{{FormatString(ep.External.HarmonCity)}}}
   podcastDynamite:
     hasMinutes:       {{{FormatBool(ep.External.PodcastDynamite.HasMinutes)}}}
     url:              {{{FormatString(ep.External.PodcastDynamite.Url)}}}
   hallOfRecords:      {{{FormatString(ep.External.HallOfRecords)}}}
+
+image:                {{{FormatString(ep.Image)}}}
+description: |-
+  {{{ep.Description.Replace("\r", "").Replace("\n", "\r\n  ")}}}
+showDate:             {{{FormatDateString(ep.ShowDate)}}}
+releaseDate:          {{{FormatDateString(ep.ReleaseDate)}}}
+venue:                {{{FormatString(ep.Venue)}}}
+comptroller:          {{{FormatString(ep.Comptroller)}}}
+gameMaster:           {{{FormatString(ep.GameMaster)}}}
+hasDnD:               {{{FormatBool(ep.HasDnD)}}}
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+{{{FormatList(ep.Guests, "Example guest 1", "Example guest 2")}}}
+
+audienceGuests:
+{{{FormatList(ep.AudienceGuests, "Example guest 1", "Example guest 2")}}}
+
+images:
+{{{FormatList(
+  Enumerable.Empty<string>().ToArray(),
+  $"/assets/images/episodes/{ep.SequenceNumber:d3}/example-1.png",
+  $"/assets/images/episodes/{ep.SequenceNumber:d3}/example-2.jpeg")}}}
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -84,26 +101,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-{{{FormatList(ep.Guests, "Example guest 1", "Example guest 2")}}}
-
-audienceGuests:
-{{{FormatList(ep.AudienceGuests, "Example guest 1", "Example guest 2")}}}
-
-images:
-{{{FormatList(
-  Enumerable.Empty<string>().ToArray(),
-  $"/assets/images/episodes/{ep.SequenceNumber:d3}/example-1.png",
-  $"/assets/images/episodes/{ep.SequenceNumber:d3}/example-2.jpeg")}}}
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       {{{ep.SequenceNumber}}}
-hasPrevious:          {{{ep != first}}}
-hasNext:              {{{ep != last}}}
 ---
 """;
 
@@ -123,22 +120,29 @@ hasNext:              {{{ep != last}}}
 <!-- The episode gallery will be rendered here -->
 """;
 
-    var filename = $"{epDir}/index.md";
+    var body = bodyTemplate;
 
-    var originalContents = File.ReadAllLines(filename);
+    var targetFile = new FileInfo($"{epDir}/index.md");
+    if (targetFile.Exists)
+    {
+      var originalContents = File.ReadAllLines(targetFile.FullName);
 
-    var originalBody =
-      string.Join(
-        "\r\n",
-        originalContents
-          .Skip(1)
-          .SkipWhile(line => line.TrimEnd() != "---")
-          .Skip(1)
-      ).Trim();
+      var originalBody =
+        string.Join(
+          "\r\n",
+          originalContents
+            .Skip(1)
+            .SkipWhile(line => line.TrimEnd() != "---")
+            .Skip(1)
+        ).Trim();
 
-    var body = string.IsNullOrWhiteSpace(originalBody) ? bodyTemplate : originalBody;
+      if (!string.IsNullOrWhiteSpace(originalBody))
+      {
+        body = originalBody;
+      }
+    }
 
-    File.WriteAllText(filename, frontMatter + "\r\n\r\n" + body);
+    File.WriteAllText(targetFile.FullName, frontMatter + "\r\n\r\n" + body);
   }
 }
 
@@ -152,6 +156,8 @@ public record Episode
   public Episode() { }
 
   public Episode(
+  string slug,
+  int sequenceNumber,
   int? episodeNumber,
   string? title,
   string? image,
@@ -170,13 +176,11 @@ public record Episode
   External external,
   string[]? guests,
   string[]? audienceGuests,
-  string[]? images,
-  string layout,
-  int sequenceNumber,
-  bool hasPrevious,
-  bool hasNext
+  string[]? images
   )
   {
+    Slug = slug;
+    SequenceNumber = sequenceNumber;
     EpisodeNumber = episodeNumber;
     Title = title;
     Image = image;
@@ -196,12 +200,9 @@ public record Episode
     Guests = guests;
     AudienceGuests = audienceGuests;
     Images = images;
-    Layout = layout;
-    SequenceNumber = sequenceNumber;
-    HasPrevious = hasPrevious;
-    HasNext = hasNext;
   }
-
+  public string Slug { get; init; }
+  public int SequenceNumber { get; init; }
   public int? EpisodeNumber { get; init; }
   public string? Title { get; init; }
   public string? Image { get; init; }
@@ -221,10 +222,6 @@ public record Episode
   public string[]? Guests { get; init; }
   public string[]? AudienceGuests { get; init; }
   public string[]? Images { get; init; }
-  public string Layout { get; init; }
-  public int SequenceNumber { get; init; }
-  public bool HasPrevious { get; init; }
-  public bool HasNext { get; init; }
 }
 
 public record External

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        195
-title:                "What Did You Do To Norman Lear?"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The most legendary television writer and producer in all of history Norman Lear joins Harmontown, you'll never look at birthday candles the same way again.
-showDate:             
-releaseDate:          "2016-05-04 17:33:00Z"
-duration:             "02:09:35"
+layout:               episode
+slug:                 "211"
+sequenceNumber:       228
+episodeNumber:        211
+title:                "JonBen&#233;t Gacy"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9584979609.mp3?updated=1559765095"
+duration:             "02:02:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7272187326.mp3?updated=1560208635"
+external:
+  harmonCity:         "https://harmon.city/episode-211"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/228/211"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  My Favorite Murder meets Harmontown.
+showDate:             
+releaseDate:          "2016-08-31 09:57:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-195"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/211/195"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYh7PJd0xcsKcAyLqVXHsSD"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/228/example-1.png"
+#- "/assets/images/episodes/228/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/211/example-1.png"
-#- "/assets/images/episodes/211/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       211
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

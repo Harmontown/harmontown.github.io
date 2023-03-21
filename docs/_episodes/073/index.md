@@ -1,28 +1,45 @@
 ---
-episodeNumber:        59
-title:                "Writing Tips From A Jerk"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon tells us how to not write. Also discussed: Wikileaks, Disabilities, Ben Affleck and puppies.
-showDate:             
-releaseDate:          "2013-06-13 22:20:00Z"
-duration:             "01:50:36"
+layout:               episode
+slug:                 "73"
+sequenceNumber:       87
+episodeNumber:        73
+title:                "From Kennedy&#39;s Assassination, To The Beatles"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1376751870.mp3?updated=1555607420"
+duration:             "01:49:43"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7617164198.mp3?updated=1554506313"
+external:
+  harmonCity:         "https://harmon.city/episode-73"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/87/73"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaNEeg-ihhUYkVPxPt9WXDE"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Don Cheatle's speech at the Emmys leaves Mayor Harmon pondering. Also, spider monsters, the Beef Fungus Bill game and co-creator of Channel 101 Rob Schrab sits in on D&D!
+showDate:             
+releaseDate:          "2013-09-24 08:24:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-59"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/73/59"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZDQHaBhVI87EzH_1b2Jham"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/087/example-1.png"
+#- "/assets/images/episodes/087/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/073/example-1.png"
-#- "/assets/images/episodes/073/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       73
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

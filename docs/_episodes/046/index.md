@@ -1,28 +1,46 @@
 ---
-episodeNumber:        33
-title:                "Harmoncountry: Pittsburgh, PA"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The Harmontown tour "meets its goddess" in a featureless black box theatre, where Dan cries, arouses himself, tells a joke and gets in a fight with Erin. Unedited episode.
-showDate:             
-releaseDate:          "2013-01-22 03:20:00Z"
-duration:             "02:03:17"
+layout:               episode
+slug:                 "46"
+sequenceNumber:       59
+episodeNumber:        46
+title:                "Neigh Means Yay"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8748679485.mp3?updated=1554494005"
+duration:             "01:54:46"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1438167606.mp3?updated=1554331766"
+external:
+  harmonCity:         "https://harmon.city/episode-46"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/59/46"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYb1FGdRuDovmy6n2uJTNj7"
 
-venue:                "TBC, Pittsburgh, PA"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  'Rick and Morty' writer Ryan Ridley drops by, 'Real Abed' Gheith pitches his insane restuarant and Kumail Nanjiani reveals secrets to brown acting. In D&D: the party climbs into a hole.
+showDate:             
+releaseDate:          "2013-03-01 02:03:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-33"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/46/33"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZobqXx_hFsWcy_8FkDDQ_s"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Ryan Ridley"
+- "&quot;Real Abed&quot; Gheith"
+- "Kumail Nanjiani"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/059/example-1.png"
+#- "/assets/images/episodes/059/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,30 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Justin"
-- "Jen"
-- "Mike"
-- "Ian"
-- "Dean"
-- "Joel the Usher"
-
-images:
-#- "/assets/images/episodes/046/example-1.png"
-#- "/assets/images/episodes/046/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       46
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

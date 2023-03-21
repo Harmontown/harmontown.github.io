@@ -1,28 +1,45 @@
 ---
-episodeNumber:        82
-title:                "Jim Belushi&#39;s Basement"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon brings Arrested Development's creator Mitch Hurwitz on stage to talk shop about TV. Later Kumail returns and the whole thing ends with an epic D&D session. Quit reading already and press play!
-showDate:             
-releaseDate:          "2013-12-02 23:08:00Z"
-duration:             "01:57:41"
+layout:               episode
+slug:                 "96"
+sequenceNumber:       110
+episodeNumber:        96
+title:                "SWAN OF DURG-A-DURG"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7122764314.mp3?updated=1556131723"
+duration:             "01:59:57"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5496750200.mp3?updated=1555715359"
+external:
+  harmonCity:         "https://harmon.city/episode-96"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/110/96"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOal6Wf6vIe10MR_vraUlb8L"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Following the 826LA charity event, Mayor Harmon is met by an agent of compromise when a psychologist takes the stage. Later, Erin McGathy attempts her first Dungeon Mastering in D&D!
+showDate:             
+releaseDate:          "2014-03-24 21:53:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-82"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/96/82"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaISpIncNv30--5a-np52_q"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/110/example-1.png"
+#- "/assets/images/episodes/110/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Mitch Hurwitz"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/096/example-1.png"
-#- "/assets/images/episodes/096/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       96
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

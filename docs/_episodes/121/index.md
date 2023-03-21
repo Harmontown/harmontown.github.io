@@ -1,28 +1,45 @@
 ---
-episodeNumber:        106
-title:                "Pakisnap!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan Harmon, Jeff Davis, Greg Proops, Kumail Nanjiani, Erin McGathy and Spencer Crittenden perform for another sold out HARMONTOWN and FINALLY, necrophillia is discussed at great length.
-showDate:             
-releaseDate:          "2014-07-07 20:08:00Z"
-duration:             "02:02:13"
+layout:               episode
+slug:                 "121"
+sequenceNumber:       136
+episodeNumber:        121
+title:                "LIVE from 92y in NYC feat. Gilbert Gottfried"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5041770987.mp3?updated=1561581685"
+duration:             "02:18:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1542016211.mp3?updated=1556325115"
+external:
+  harmonCity:         "https://harmon.city/episode-121"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/136/121"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObob-bg5HsJ1SW_pd2qFbOg"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Comptroller Gilbert Gottfried warms up Harmontown's biggest crowd yet at New York City's 92y!
+showDate:             
+releaseDate:          "2014-10-14 20:03:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Gilbert Gottfried"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-106"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/121/106"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaQbIE4ZPv7MsJiI5pZX4PK"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/136/example-1.png"
+#- "/assets/images/episodes/136/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/121/example-1.png"
-#- "/assets/images/episodes/121/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       121
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

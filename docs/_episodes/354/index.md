@@ -1,28 +1,45 @@
 ---
-episodeNumber:        337
-title:                "I Was a Simpson"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown welcomes its most charming guest to date: Yeardley Smith to the show. The star of Maximum Overdrive, Hermans' Head, and nothing else, is revealed to be a font of charisma, wisdom, and behind-the-scenes stories that enrapture the mayor himself. Also, we've got TWO COMPTROLLERS. That's right, Jeff and Brandon: Pandamonium at the Podium...
-showDate:             
-releaseDate:          "2019-06-20 10:00:00Z"
-duration:             "02:04:42"
+layout:               episode
+slug:                 "354"
+sequenceNumber:       371
+episodeNumber:        354
+title:                "Mobile Pork Unit"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2565186341.mp3?updated=1596573390"
+duration:             "01:48:47"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8035609369.mp3?updated=1596672176"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-337"
+  harmonCity:         "https://harmon.city/episode-354"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/354/337"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/371/354"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Classic Harmontown is back! The return of role playing with Steve Levy, the iHarmon and all the potatoes you could ever want.
+showDate:             
+releaseDate:          "2019-10-24 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Steve Levy"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/371/example-1.png"
+#- "/assets/images/episodes/371/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/354/example-1.png"
-#- "/assets/images/episodes/354/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       354
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #6"
+layout:               episode
+slug:                 "6"
+sequenceNumber:       19
+episodeNumber:        6
+title:                "Atonement with the Mannequins and Butts"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8221722384.mp3?updated=1555698443"
+duration:             "01:24:01"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-6"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/19/6"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaVMxqtQoObkowkRqGMRkeD"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Guest Donald Glover
-showDate:             "2011-10-17 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  Sometimes it happens. Sometimes an innocent story about junior high proceeds down a road of perversion straight to where the sun doesn't shine. Also: Spencer collects info for Harmon and Davis' D&D characters, and special guest Rob Schrab tells a story...about his butt.
+showDate:             "2012-08-16 04:00:00Z"
+releaseDate:          "2012-08-24 07:40:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Rob Schrab"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/019/example-1.png"
+#- "/assets/images/episodes/019/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Donald Glover"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/006/example-1.png"
-#- "/assets/images/episodes/006/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       6
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

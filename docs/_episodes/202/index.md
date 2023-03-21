@@ -1,28 +1,45 @@
 ---
-episodeNumber:        186
-title:                "Auld Lang Schrab"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmon loses an Oscar, Phil and Mike of HBO's Animals, Abed Geith returns and Schrab is extra disruptive on HARMONTOWN!
-showDate:             
-releaseDate:          "2016-03-02 06:00:00Z"
-duration:             "01:59:42"
+layout:               episode
+slug:                 "202"
+sequenceNumber:       218
+episodeNumber:        202
+title:                "A Lady Who Is Famous For Killing Her Baby"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9504164677.mp3?updated=1560191838"
+duration:             "01:58:33"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1911269215.mp3?updated=1560538069"
+external:
+  harmonCity:         "https://harmon.city/episode-202"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/218/202"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaT5rAkggFgY3lfChxJ2XhI"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  An all-star hunk episode of Harmontown with humanitarian beefcake Daniel Gillies, the mouth watering Duncan Trussell and the cut from marble stone greek god Kumail Nanjiani.
+showDate:             
+releaseDate:          "2016-06-29 04:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-186"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/202/186"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZVfCfdXS3MOYLWkqz2ipXx"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/218/example-1.png"
+#- "/assets/images/episodes/218/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/202/example-1.png"
-#- "/assets/images/episodes/202/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       202
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

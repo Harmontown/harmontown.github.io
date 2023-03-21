@@ -1,28 +1,45 @@
 ---
-episodeNumber:        214
-title:                "Live At JFL Toronto 2016"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown comes to Toronto along with Emily Gordon and Kumail Nanjiani to perform some weird improv in front of a lot of people.
-showDate:             
-releaseDate:          "2016-09-30 05:04:00Z"
-duration:             "01:56:06"
+layout:               episode
+slug:                 "231"
+sequenceNumber:       248
+episodeNumber:        231
+title:                "Pacman Versus Garfield"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2483494367.mp3?updated=1596826350"
+duration:             "02:05:28"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8596851826.mp3?updated=1559757108"
+external:
+  harmonCity:         "https://harmon.city/episode-231"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/248/231"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab and Cassandra Church.
+showDate:             
+releaseDate:          "2017-02-08 08:15:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-214"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/231/214"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/248/example-1.png"
+#- "/assets/images/episodes/248/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/231/example-1.png"
-#- "/assets/images/episodes/231/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       231
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

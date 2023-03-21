@@ -1,28 +1,50 @@
 ---
-episodeNumber:        29
-title:                "Harmoncountry: Brooklyn, NY"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  New York's biggest borrough rolls out the longest red carpet in Harmoncountry yet. Jeff and Dan improvise a Black Mexican guest's screenplay. Jason Sudeikis drops by and jumps into D&D with astonishing vigor. Dan does a bad job of supporting Erin's PMS, then stage dives.
-showDate:             
-releaseDate:          "2013-01-17 17:27:00Z"
-duration:             "01:46:06"
+layout:               episode
+slug:                 "42"
+sequenceNumber:       55
+episodeNumber:        42
+title:                "Harmoncountry: San Francisco, CA"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2125874763.mp3?updated=1554322131"
+duration:             "01:24:59"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8916035221.mp3?updated=1560295539"
+external:
+  harmonCity:         "https://harmon.city/episode-42"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/55/42"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaoSUBA12pcTkkDu7UUtWut"
 
-venue:                "TBC, Brooklyn, NY"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The tour ends at the golden gate, where freedom to live is achieved by getting drunk, talking nonsense, meeting strangers and, well, you know the forumla.
+showDate:             
+releaseDate:          "2013-02-03 02:56:00Z"
+venue:                "TBC, San Francisco, CA"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-29"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/42/29"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZc3Q-mDiG3lG_Kv_VGrs8-"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Steve Agee"
+- "Greg Proops"
+- "Erin McGathy"
+
+audienceGuests:
+- "Brian"
+- "Lauren"
+- "Gabrielle"
+- "Martha"
+- "Charlotte"
+
+images:
+#- "/assets/images/episodes/055/example-1.png"
+#- "/assets/images/episodes/055/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,30 +68,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Jason Sudeikis"
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Maya"
-- "Noah"
-- "Lisa"
-- "Mark Hervey"
-- "Brett"
-
-images:
-#- "/assets/images/episodes/042/example-1.png"
-#- "/assets/images/episodes/042/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       42
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

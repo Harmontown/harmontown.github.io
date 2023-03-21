@@ -1,28 +1,45 @@
 ---
-episodeNumber:        107
-title:                "Clever Girl"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon perfects the apology, Erin McGathy runs an epic Game Corner and in D&D the gang encounter a black dragon.
-showDate:             
-releaseDate:          "2014-07-14 20:36:00Z"
-duration:             "02:07:01"
+layout:               episode
+slug:                 "122"
+sequenceNumber:       137
+episodeNumber:        122
+title:                "LIVE from The Roxie in San Francisco feat. Steve Agee"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9019948493.mp3?updated=1561582927"
+duration:             "01:58:47"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5867394719.mp3?updated=1556323770"
+external:
+  harmonCity:         "https://harmon.city/episode-122"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/137/122"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYTccLqROHY4q2ti5w7g7gT"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown begins an epic 4 days of non-stop podcasting starting in San Francisco with none other then comptroller Steve Agee!
+showDate:             
+releaseDate:          "2014-10-27 22:09:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Steve Agee"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-107"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/122/107"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb2ZKgpla6UnevU-aoWvdkl"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/137/example-1.png"
+#- "/assets/images/episodes/137/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/122/example-1.png"
-#- "/assets/images/episodes/122/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       122
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

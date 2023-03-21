@@ -1,28 +1,45 @@
 ---
-episodeNumber:        259
-title:                "Pajampion"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Rob Schrab returns as our comptroller with Eddie Pepitone dropping in to discuss comedy. Rob and Dan weigh in on biometrics, then the role playing gang shouts their way through an adventure.
-showDate:             
-releaseDate:          "2017-09-20 10:00:00Z"
-duration:             "02:05:30"
+layout:               episode
+slug:                 "276"
+sequenceNumber:       293
+episodeNumber:        276
+title:                "Cheapy Peepy"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4108191484.mp3?updated=1596784321"
+duration:             "02:03:23"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5061221157.mp3?updated=1596589169"
+external:
+  harmonCity:         "https://harmon.city/episode-276"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/293/276"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Steve Levy and Rob Schrab share an intimate physical moment, Dan shows off his Dave Matthews impression, and we discuss the hot button political issue on everyone's mind: Spiro Agnew.
+showDate:             
+releaseDate:          "2018-02-07 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-259"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/276/259"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Rob Schrab"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/293/example-1.png"
+#- "/assets/images/episodes/293/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Rob Schrab"
-- "Eddie Pepitone"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/276/example-1.png"
-#- "/assets/images/episodes/276/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       276
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

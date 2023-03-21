@@ -1,30 +1,45 @@
 ---
-episodeNumber:        262
-title:                "Porcelain Birds"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan and Rob talk about sexual harassment in the entertainment industry and the ramifications of a Rick & Morty porn parody being produced. Spencer reveals why people really buy iPads.
-
-  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Steve Levy.
-showDate:             
-releaseDate:          "2017-10-18 10:00:00Z"
-duration:             "02:07:35"
+layout:               episode
+slug:                 "279"
+sequenceNumber:       296
+episodeNumber:        279
+title:                "Oh Hitler, We Hardly Knew Ye"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8292607205.mp3?updated=1596762818"
+duration:             "02:07:30"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5330727073.mp3?updated=1596587371"
+external:
+  harmonCity:         "https://harmon.city/episode-279"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/296/279"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's Oscar night! Dan discusses the current political landscape, the value politicians are bringing to the table, and where we should go next. Also, Spencer thinks the NRA has some dank ass memes
+showDate:             
+releaseDate:          "2018-03-07 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-262"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/279/262"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/296/example-1.png"
+#- "/assets/images/episodes/296/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/279/example-1.png"
-#- "/assets/images/episodes/279/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       279
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

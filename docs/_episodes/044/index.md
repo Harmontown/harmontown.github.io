@@ -1,28 +1,45 @@
 ---
-episodeNumber:        31
-title:                "Harmoncountry: Providence, RI"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon used the country's smallest state to tackle the country's biggest issues – suicide and race – before remembering someone double booked the room so he has to leave.
-showDate:             
-releaseDate:          "2013-01-20 13:27:00Z"
-duration:             "01:19:40"
+layout:               episode
+slug:                 "44"
+sequenceNumber:       57
+episodeNumber:        44
+title:                "Dudes and Goo"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4652021328.mp3?updated=1554491927"
+duration:             "01:49:26"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4515436291.mp3?updated=1554331209"
+external:
+  harmonCity:         "https://harmon.city/episode-44"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/57/44"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYQbTvybdwP5un2_xq0JaoZ"
 
-venue:                "TBC, Providence, RI"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  After a few false starts, it turns out Mayor Harmon may be suffering from a show-threatening case of homecoming confidence, but when special guests D.C Pierson and Kumail Nanjiani join, the meeting erupts into an awesome discussion of drugs, religion, Spencer, Hannibal Lechter and octopus sex. In D&D: Sharpie and Mulraine seal the deal.
+showDate:             
+releaseDate:          "2013-02-14 15:21:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-31"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/44/31"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYgzvlVxD9oGT44j-NbfQRY"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "DC Pierson"
+- "Kumail Nanjiani"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/057/example-1.png"
+#- "/assets/images/episodes/057/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Erin McGathy"
-- "Spencer Crittenden"
-
-audienceGuests:
-- "Black Erin"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/044/example-1.png"
-#- "/assets/images/episodes/044/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       44
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

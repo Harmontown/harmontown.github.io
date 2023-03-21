@@ -1,28 +1,45 @@
 ---
-episodeNumber:        94
-title:                "Live From SXSW &#39;14 + Movie Q&amp;A"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  From Austin, TX, Harmontown is live from the Liberty Tavern and SXSW. Bonus audio from the Q & A following the premiere of the "Harmontown" documentary.
-showDate:             
-releaseDate:          "2014-03-10 22:26:00Z"
-duration:             "02:25:57"
+layout:               episode
+slug:                 "108"
+sequenceNumber:       123
+episodeNumber:        108
+title:                "I Make A 5 Stars"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9185241368.mp3?updated=1556325079"
+duration:             "01:50:04"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7536468874.mp3?updated=1556133349"
+external:
+  harmonCity:         "https://harmon.city/episode-108"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/123/108"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObORGwI5Lrg8cWgtv3nTO5Y"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Dan Harmon and Comptroller Duncan Trussell makes another sold out show at Nerdmelt Theater one for the ages!
+showDate:             
+releaseDate:          "2014-07-21 18:28:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Duncan Trussell"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-94"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/108/94"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYHBUC8_ob1mHSycTEOTNcr"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/123/example-1.png"
+#- "/assets/images/episodes/123/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/108/example-1.png"
-#- "/assets/images/episodes/108/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       108
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

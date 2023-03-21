@@ -1,28 +1,45 @@
 ---
-episodeNumber:        118
-title:                "LIVE from Seattle 2014 feat. Dino Stamatopoulos!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown kicks of its run of movie screenings followed by a live podcast in Seattle to a powerful crowd of Harmenians and is post lifted to new heights and derailed from its first guest comptrolling appearance from Dino Stamatopoulos!
-showDate:             
-releaseDate:          "2014-09-29 22:13:00Z"
-duration:             "01:49:02"
+layout:               episode
+slug:                 "133"
+sequenceNumber:       148
+episodeNumber:        133
+title:                "DeMorge Do You Know Jamal?"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6058998457.mp3"
+duration:             "02:13:40"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7041950481.mp3?updated=1560985770"
+external:
+  harmonCity:         "https://harmon.city/episode-133"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/148/133"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObM3_6gs_cXtRt-IGoZuxKE"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's sports corner for all you Superbowl heads, audience member Jamal sheds some light on race and ShadowRun is in full effect.
+showDate:             
+releaseDate:          "2015-02-04 19:53:00Z"
 venue:                
-comptroller:          "Dino Stamatopolous"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-118"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/133/118"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZWYuTP7Bfia7B_ATaSSutn"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/148/example-1.png"
+#- "/assets/images/episodes/148/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/133/example-1.png"
-#- "/assets/images/episodes/133/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       133
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

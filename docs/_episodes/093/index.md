@@ -1,28 +1,45 @@
 ---
-episodeNumber:        79
-title:                "Dangle, Dipping and Heel Popping"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  After some women demonstrate foot fetish techniques that audibly won't make any sense to you, dear listener, the enigmatic Brody Stevens joins Harmontown for the first time. Later, Mayor Harmon is inducted into a prestigious alliance and Kumail returns to D&D after a month long hiatus. It's a beautiful sprawling Harmontown, come on down.
-showDate:             
-releaseDate:          "2013-11-11 07:50:00Z"
-duration:             "02:07:28"
+layout:               episode
+slug:                 "93"
+sequenceNumber:       107
+episodeNumber:        93
+title:                "McConaissance"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7537699370.mp3?updated=1556134812"
+duration:             "01:57:05"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1565626686.mp3?updated=1560295827"
+external:
+  harmonCity:         "https://harmon.city/episode-93"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/107/93"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZMIoq38XXjI0ocbQ1g1clH"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon tearfully reflects on the passing of Harold Ramis and while the Academy Awards ceremony takes place mere blocks away, Harmontown hosts its own Oscars special.
+showDate:             
+releaseDate:          "2014-03-03 20:32:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-79"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/93/79"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYgPrvcbnB92qZUKgczqGGL"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/107/example-1.png"
+#- "/assets/images/episodes/107/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/093/example-1.png"
-#- "/assets/images/episodes/093/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       93
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

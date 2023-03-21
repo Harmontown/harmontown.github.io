@@ -1,28 +1,45 @@
 ---
-episodeNumber:        194
-title:                "Talk, Talk, Talk, Wounded"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Gigantic sweetheart and actor Derek Mears visits Harmontown, Dan doesn't trust when Rob says "I love you", music by Jeordie White.
-showDate:             
-releaseDate:          "2016-04-27 05:00:00Z"
-duration:             "02:03:14"
+layout:               episode
+slug:                 "210"
+sequenceNumber:       227
+episodeNumber:        210
+title:                "A Haunted House With A Glass Ceiling"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9537031624.mp3?updated=1559772408"
+duration:             "02:05:13"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3551674438.mp3?updated=1560211176"
+external:
+  harmonCity:         "https://harmon.city/episode-210"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/227/210"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  A 4 year old takes the stage, a 16 year old stage, Cameron Esposito and Rhea Butcher, The Bootzins, Casper Mattresses.
+showDate:             
+releaseDate:          "2016-08-24 05:49:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-194"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/210/194"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZwYlOdi332mkfS1XJvSRkJ"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/227/example-1.png"
+#- "/assets/images/episodes/227/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/210/example-1.png"
-#- "/assets/images/episodes/210/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       210
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

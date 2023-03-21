@@ -1,28 +1,45 @@
 ---
-episodeNumber:        158
-title:                "While in Stealth Mode Press ‘X&#39; to Kiss Your Wife"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Erin is out of the country and Harmon is playing a lot of video games and has strong opinions on them. Ryan Ridley comptrolls and the guys from Before You Were Funny make Harmon read one of his earliest short stories.
-showDate:             
-releaseDate:          "2015-08-12 07:30:00Z"
-duration:             "02:07:29"
+layout:               episode
+slug:                 "173"
+sequenceNumber:       189
+episodeNumber:        173
+title:                "LIVE at The Gramercy, NY Comedy Festival 2015: Night 2"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3793708845.mp3?updated=1561141113"
+duration:             "02:15:57"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7347511160.mp3?updated=1561416479"
+external:
+  harmonCity:         "https://harmon.city/episode-173"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/189/173"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZTRROmMclWyGHYUGYw1jHj"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Scott Adsit and Dino Stamatopoulos join Harmontown Night 2 at the Gramcery.
+showDate:             
+releaseDate:          "2015-11-21 21:44:00Z"
 venue:                
-comptroller:          "Ryan Ridley"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-158"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/173/158"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYsLqN8PLhZ2dPeBPs3p9x_"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/189/example-1.png"
+#- "/assets/images/episodes/189/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/173/example-1.png"
-#- "/assets/images/episodes/173/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       173
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

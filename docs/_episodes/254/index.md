@@ -1,28 +1,47 @@
 ---
-episodeNumber:        237
-title:                "Less Than White"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Tim Talbott.
-showDate:             
-releaseDate:          "2017-03-22 07:00:00Z"
-duration:             "01:54:35"
+layout:               episode
+slug:                 "254"
+sequenceNumber:       271
+episodeNumber:        254
+title:                "Down with Sighty"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2734591514.mp3?updated=1596592157"
+duration:             "01:50:10"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2046806980.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-254"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/271/254"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan explains his feelings on Nazis, The Game Grumps (Arin Hanson & Dan Avidan) visit the show, then the gang continues their role playing adventures.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Arin Hanson, Dan Avidan and Steve Levy.
+showDate:             
+releaseDate:          "2017-08-16 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-237"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/254/237"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/271/example-1.png"
+#- "/assets/images/episodes/271/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/254/example-1.png"
-#- "/assets/images/episodes/254/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       254
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

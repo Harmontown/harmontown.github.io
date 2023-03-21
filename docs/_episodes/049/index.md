@@ -1,28 +1,45 @@
 ---
-episodeNumber:        36
-title:                "Harmoncountry: Madison, WI"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Atonement turns to struggle within a dark cavern. Dan's friend loses an appendage. His Improv mentor is there, but Jeff is leaving?! The audience shouts weird things! Latinos are everywhere!
-showDate:             
-releaseDate:          "2013-01-26 19:25:00Z"
-duration:             "01:27:14"
+layout:               episode
+slug:                 "49"
+sequenceNumber:       62
+episodeNumber:        49
+title:                "Jock Jams and Pearl Jams"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8399808518.mp3?updated=1554494017"
+duration:             "01:59:31"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3478816529.mp3?updated=1554336943"
+external:
+  harmonCity:         "https://harmon.city/episode-49"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/62/49"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObAhmN208IZGF1H87b-k1ns"
 
-venue:                "TBC, Madison, WI"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Man versus lion, Space Jam versus Goonies, Leprechaun versus his own sexuality. Brian W. Collins retires his horror movie blog. Kumail Nanjiani and the rest of the D&D party finish their battle with specific parts of a dragon.
+showDate:             
+releaseDate:          "2013-03-23 10:06:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-36"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/49/36"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYe8b303yiRX8Yk67LoqZMj"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Kumail Nanjiani"
+- "Brian W. Collins"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/062/example-1.png"
+#- "/assets/images/episodes/062/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,32 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Dave Friedle"
-- "Spencer Crittenden"
-- "Bob Orvis"
-- "Morgan Grobe"
-- "Erin McGathy"
-
-audienceGuests:
-- "Ethan"
-- "Dave"
-- "Dan"
-- "Sara"
-- "Liana"
-
-images:
-#- "/assets/images/episodes/049/example-1.png"
-#- "/assets/images/episodes/049/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       49
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

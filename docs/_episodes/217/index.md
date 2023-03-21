@@ -1,28 +1,45 @@
 ---
-episodeNumber:        201
-title:                "Black Woman Against Over Here"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Spencer comptrolls, Dino stops by and it's hot as absolute Hell.
-showDate:             
-releaseDate:          "2016-06-22 05:00:00Z"
-duration:             "02:02:22"
+layout:               episode
+slug:                 "217"
+sequenceNumber:       234
+episodeNumber:        217
+title:                "I Wanna Shave With Me"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6091559969.mp3"
+duration:             "02:03:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6654036124.mp3?updated=1560193507"
+external:
+  harmonCity:         "https://harmon.city/episode-217"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/234/217"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Andy Dick and Dino Stamatopoulos return for some music, slide whistle and some feels. Your Mayor uses the pressure valve on his brain and lets off some steam.
+showDate:             
+releaseDate:          "2016-10-20 05:04:00Z"
 venue:                
-comptroller:          "Spencer Crittenden"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-201"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/217/201"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaHQ3S7CpiuijsfY3iKr1mo"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Andy Dick"
+- "Dino Stamatopoulos"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/234/example-1.png"
+#- "/assets/images/episodes/234/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/217/example-1.png"
-#- "/assets/images/episodes/217/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       217
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

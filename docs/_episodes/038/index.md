@@ -1,28 +1,47 @@
 ---
-episodeNumber:        25
-title:                "Harmoncountry: Austin, TX"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  What else would Mayor Harmon discuss in Austin other than Politics, Mexican food, Hey Yah by Outkast and pooping? In D&D: a friend's dark secret is revealed.
-showDate:             
-releaseDate:          "2013-01-13 08:53:00Z"
-duration:             "01:29:10"
+layout:               episode
+slug:                 "38"
+sequenceNumber:       51
+episodeNumber:        38
+title:                "Harmoncountry: Kansas City, KS"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4660628644.mp3?updated=1554398396"
+duration:             "01:15:01"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6409005607.mp3?updated=1554326191"
+external:
+  harmonCity:         "https://harmon.city/episode-38"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/51/38"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-b74EO7LTRzJHoy_W8E9y"
 
-venue:                "TBC, Austin, TX"
-comptroller:          "Jeff B. Davis"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Kansas finds itself at the center of the biggest disaster since Dorothy's twister when Mayor Harmon and Erin McGathy conduct the worst town meeting of the tour. This episode is unedited because I have no idea what I'd cut without cutting the entire thing.
+showDate:             
+releaseDate:          "2013-01-30 02:25:00Z"
+venue:                "TBC, Kansas City, KS"
+comptroller:          "Erin McGathy"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-25"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/38/25"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaW5YZQkM50AcgVLa-Guh7D"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+- "Kyle"
+- "Tim"
+- "Ryan Solomon"
+- "Darren"
+
+images:
+#- "/assets/images/episodes/051/example-1.png"
+#- "/assets/images/episodes/051/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Ray Pruitt"
-- "Jen Brown"
-- "Mars"
-
-images:
-#- "/assets/images/episodes/038/example-1.png"
-#- "/assets/images/episodes/038/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       38
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

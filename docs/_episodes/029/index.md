@@ -1,28 +1,49 @@
 ---
-episodeNumber:        16
-title:                "A Four Day March to the Butt&#39;s Expanse"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's a Jareth-palooza as Harmenians descend on Hollywood dressed as David Bowie in Labyrinth for Halloween. Other topics include almost nothing!
-showDate:             
-releaseDate:          "2012-11-09 20:37:00Z"
-duration:             "01:26:16"
+layout:               episode
+slug:                 "29"
+sequenceNumber:       42
+episodeNumber:        29
+title:                "Harmoncountry: Brooklyn, NY"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8916035221.mp3?updated=1560295539"
+duration:             "01:46:06"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8086031692.mp3?updated=1555704651"
+external:
+  harmonCity:         "https://harmon.city/episode-29"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/42/29"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZc3Q-mDiG3lG_Kv_VGrs8-"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  New York's biggest borrough rolls out the longest red carpet in Harmoncountry yet. Jeff and Dan improvise a Black Mexican guest's screenplay. Jason Sudeikis drops by and jumps into D&D with astonishing vigor. Dan does a bad job of supporting Erin's PMS, then stage dives.
+showDate:             
+releaseDate:          "2013-01-17 17:27:00Z"
+venue:                "TBC, Brooklyn, NY"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-16"
-  podcastDynamite:
-    hasMinutes:       true
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/29/16"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOanNReIwfgRmbHZyWzTKZ2p"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Jason Sudeikis"
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Maya"
+- "Noah"
+- "Lisa"
+- "Mark Hervey"
+- "Brett"
+
+images:
+#- "/assets/images/episodes/042/example-1.png"
+#- "/assets/images/episodes/042/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +67,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Erin McGathy"
-- "Spencer Crittenden"
-
-audienceGuests:
-- "Nti Aning"
-- "B.J."
-- "Michael"
-
-images:
-#- "/assets/images/episodes/029/example-1.png"
-#- "/assets/images/episodes/029/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       29
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

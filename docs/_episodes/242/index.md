@@ -1,28 +1,45 @@
 ---
-episodeNumber:        225
-title:                "Harmontownunder: Melbourne, Australia"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The Australian adventures of Harmontown continue with a sold out show in Melbourne, Australia!
-showDate:             
-releaseDate:          "2016-12-28 20:08:00Z"
-duration:             "02:03:18"
+layout:               episode
+slug:                 "242"
+sequenceNumber:       259
+episodeNumber:        242
+title:                "The Final Meltdown"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7562208359.mp3?updated=1596757730"
+duration:             "02:02:24"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1334561981.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-242"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/259/242"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The gang gives NerdMelt an emotional sendoff at our final show before moving to the Starburns Castle. Mitch Hurwitz, Rob Schrab, Ryan Ridley, Brandon Johnson, Dave Klein, Adam Goldberg and Dustin Marshall return to reminisce, role play and learn the secret life of executive assistants.
+showDate:             
+releaseDate:          "2017-04-26 08:03:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-225"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/242/225"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/259/example-1.png"
+#- "/assets/images/episodes/259/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/242/example-1.png"
-#- "/assets/images/episodes/242/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       242
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

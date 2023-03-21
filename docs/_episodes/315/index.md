@@ -1,30 +1,47 @@
 ---
-episodeNumber:        298
-title:                "Homeless Sapiens"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan explains dog intelligence and Canadian creepypasta, while Schrab and Jeff demonstrate the perfect stage walk-on. Spencer tries MeUndies for the first time, and Dan plays himself.
-
-  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis and Rob Schrab.
-showDate:             
-releaseDate:          "2018-08-09 10:00:00Z"
-duration:             "02:04:31"
+layout:               episode
+slug:                 "315"
+sequenceNumber:       332
+episodeNumber:        315
+title:                "Rocket My Face Into Another Guy&#39;s Face"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4268871207.mp3"
+duration:             "02:11:24"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2817009246.mp3?updated=1596836932"
+external:
+  harmonCity:         "https://harmon.city/episode-315"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/332/315"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Steven Conrad, writer/director of the TV Series 'Patriot' joins guest Comptroller Brandon Johnson. The Santa Clause 2, Have You Seen It?
+  
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Steve Conrad.
+showDate:             
+releaseDate:          "2018-12-20 11:00:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-298"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/315/298"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/332/example-1.png"
+#- "/assets/images/episodes/332/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/315/example-1.png"
-#- "/assets/images/episodes/315/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       315
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

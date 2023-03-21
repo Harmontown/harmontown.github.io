@@ -1,28 +1,45 @@
 ---
-episodeNumber:        205
-title:                "LIVE in San Diego 2016"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  There is no other Harmontown like this. In an effort to sell tickets Dan writes a Community Movie projected on screen.
-showDate:             
-releaseDate:          "2016-07-27 07:58:00Z"
-duration:             "01:52:07"
+layout:               episode
+slug:                 "221"
+sequenceNumber:       238
+episodeNumber:        221
+title:                "It Happened In Silverlake"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6470253579.mp3"
+duration:             "02:14:07"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3520710901.mp3?updated=1559944757"
+external:
+  harmonCity:         "https://harmon.city/episode-221"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/238/221"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  In the wake of an upsetting election and racial tension, Harmontown welcomes the Avenger's Elizabeth Olsen, Rick and Morty's Brandon Johnson and our first musical guest ever Babes to suss it all out. Ha-ha-ha ha-ha ha ha-ha.
+showDate:             
+releaseDate:          "2016-11-16 11:42:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-205"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/221/205"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOboTK2lpt_Vk-TvjLvPEvKw"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/238/example-1.png"
+#- "/assets/images/episodes/238/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "During A Comic Book Convention"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/221/example-1.png"
-#- "/assets/images/episodes/221/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       221
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

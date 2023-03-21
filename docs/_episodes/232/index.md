@@ -1,28 +1,45 @@
 ---
-episodeNumber:        215
-title:                "Amazing Blades"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Rapper Logic joins Harmontown and we continue our legacy of the greatest advertising money can buy.
-showDate:             
-releaseDate:          "2016-10-05 10:23:00Z"
-duration:             "02:01:01"
+layout:               episode
+slug:                 "232"
+sequenceNumber:       249
+episodeNumber:        232
+title:                "You&#39;re An Ant To My Cum"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5112786742.mp3?updated=1596825121"
+duration:             "02:00:52"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8945763572.mp3?updated=1559605758"
+external:
+  harmonCity:         "https://harmon.city/episode-232"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/249/232"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Richie Keen, Dino Stamatopoulos, Scott Adsit, Britta Phillips, Rob Schrab and Steve Levy.
+showDate:             
+releaseDate:          "2017-02-15 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-215"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/232/215"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/249/example-1.png"
+#- "/assets/images/episodes/249/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/232/example-1.png"
-#- "/assets/images/episodes/232/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       232
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

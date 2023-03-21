@@ -1,28 +1,52 @@
 ---
-episodeNumber:        17
-title:                "Grumblesnakes!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's election night fever when Dan and Jeff realize that the episode will air long after the election. Clearly a devout Democrat, Dan complains about his hired help before bringing up a real live woman to referee history's least informed Harry Potter trivia competition. Plus: transitional D&D! Freestyle rapping! Not knowing how to end the show!
-showDate:             
-releaseDate:          "2012-11-17 02:29:00Z"
-duration:             "01:30:23"
+layout:               episode
+slug:                 "30"
+sequenceNumber:       43
+episodeNumber:        30
+title:                "Harmoncountry: Sommerville, MA"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2988867057.mp3?updated=1554329784"
+duration:             "01:58:45"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4038433294.mp3?updated=1555704658"
+external:
+  harmonCity:         "https://harmon.city/episode-30"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/43/30"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaXxtFgBlHURu39fBmy6X9p"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon and Comptroller Davis begin the show like any other – discussing the city's auto theft statistics. What comes next is 80+ minutes of insanity, featuring Adam Goldberg's brothers, Erin and Dan's sex life and much, much, sooooo much more.
+showDate:             
+releaseDate:          "2013-01-19 09:04:00Z"
+venue:                "TBC, Sommerville, MA"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-17"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/30/17"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObYVGdjbfLyV8x3uWjpTxaH"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Erin McGathy"
+- "Spencer Crittenden"
+
+audienceGuests:
+- "Cara"
+- "Matt"
+- "Noah Goldberg"
+- "Harry Goldberg"
+- "Emma"
+- "Marissa"
+- "Marissa&#39;s Mom"
+- "Matt"
+- "&quot;Nic&quot;"
+
+images:
+#- "/assets/images/episodes/043/example-1.png"
+#- "/assets/images/episodes/043/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +70,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-#- "Example guest 2"
-
-audienceGuests:
-- "Adam Goldberg"
-- "Fedora"
-
-images:
-#- "/assets/images/episodes/030/example-1.png"
-#- "/assets/images/episodes/030/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       30
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

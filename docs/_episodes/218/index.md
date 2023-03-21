@@ -1,28 +1,45 @@
 ---
-episodeNumber:        202
-title:                "A Lady Who Is Famous For Killing Her Baby"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  An all-star hunk episode of Harmontown with humanitarian beefcake Daniel Gillies, the mouth watering Duncan Trussell and the cut from marble stone greek god Kumail Nanjiani.
-showDate:             
-releaseDate:          "2016-06-29 04:58:00Z"
-duration:             "01:58:33"
+layout:               episode
+slug:                 "218"
+sequenceNumber:       235
+episodeNumber:        218
+title:                "Walter Blanco"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6815451731.mp3"
+duration:             "02:06:47"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9504164677.mp3?updated=1560191838"
+external:
+  harmonCity:         "https://harmon.city/episode-218"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/235/218"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Drew Ackerman of the Sleep With Me podcast tries to test out his ability to put people to sleep on the Harmontown fan. Speaking of fans, one of the weirdest ones ever takes the stage.
+showDate:             
+releaseDate:          "2016-10-27 00:45:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-202"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/218/202"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaT5rAkggFgY3lfChxJ2XhI"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/235/example-1.png"
+#- "/assets/images/episodes/235/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/218/example-1.png"
-#- "/assets/images/episodes/218/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       218
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

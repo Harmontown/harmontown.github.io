@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #13"
+layout:               episode
+slug:                 "13"
+sequenceNumber:       26
+episodeNumber:        13
+title:                "Back To The Future Part Kush"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2299183434.mp3?updated=1555706170"
+duration:             "01:20:57"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-13"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/26/13"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObMPhTHhB42msc1OiLAp65l"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost episode from before the show was a podcast.
-showDate:             "2012-05-28 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  Dan complains about things he's not allowed to complain about, then outs himself as the world's laziest gay rights and medical marijuana advocate. Plus, in D&D world: nothing happens!
+showDate:             "2012-10-01 04:00:00Z"
+releaseDate:          "2012-10-22 10:19:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Nathaniel"
+- "Julieta Col&#225;s"
+
+images:
+#- "/assets/images/episodes/026/example-1.png"
+#- "/assets/images/episodes/026/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/013/example-1.png"
-#- "/assets/images/episodes/013/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       13
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

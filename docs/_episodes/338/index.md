@@ -1,30 +1,47 @@
 ---
-episodeNumber:        321
-title:                "Rise the Boats"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Comedian Mohanad Elshieky shares recent events in his life, while Dan shares relatable tales of house shopping. Brandon Johnson is back, filling in for Spencer.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Mohanad Elshieky.
-showDate:             
-releaseDate:          "2019-02-14 11:00:00Z"
-duration:             "01:57:38"
+layout:               episode
+slug:                 "338"
+sequenceNumber:       355
+episodeNumber:        338
+title:                "This Trident Has Four Dents"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4645360136.mp3"
+duration:             "02:06:47"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5039539011.mp3?updated=1596564385"
+external:
+  harmonCity:         "https://harmon.city/episode-338"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/355/338"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer's bees and pirate eye patches are on the agenda tonight!
+  
+  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Ryan Kraus.
+showDate:             
+releaseDate:          "2019-06-27 10:00:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Rob Schrab"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-321"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/338/321"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/355/example-1.png"
+#- "/assets/images/episodes/355/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/338/example-1.png"
-#- "/assets/images/episodes/338/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       338
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

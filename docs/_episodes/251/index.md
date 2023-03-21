@@ -1,28 +1,47 @@
 ---
-episodeNumber:        234
-title:                "The Patron Saint of Acid Wash"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jason Sklar, Randy Sklar and Brandon Johnson.
-showDate:             
-releaseDate:          "2017-03-01 17:16:00Z"
-duration:             "01:47:40"
+layout:               episode
+slug:                 "251"
+sequenceNumber:       268
+episodeNumber:        251
+title:                "Brothers Killing Brothers for Some Dank Memes"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5055069311.mp3?updated=1596764386"
+duration:             "02:08:04"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7386526526.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-251"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/268/251"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan dives into his writing process, we go deep into the meme wars, before wrapping the show up with some role playing.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
+showDate:             
+releaseDate:          "2017-07-12 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-234"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/251/234"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/268/example-1.png"
+#- "/assets/images/episodes/268/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/251/example-1.png"
-#- "/assets/images/episodes/251/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       251
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

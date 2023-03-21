@@ -1,28 +1,48 @@
 ---
-episodeNumber:        228
-title:                "I F_cking Love White Sh_t"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown is back in the states for the first show of 2017!
-showDate:             
-releaseDate:          "2017-01-12 09:30:00Z"
-duration:             "02:02:39"
+layout:               episode
+slug:                 "245"
+sequenceNumber:       262
+episodeNumber:        245
+title:                "Explain Your World View"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7038219060.mp3?updated=1596759709"
+duration:             "02:03:56"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3406345858.mp3?updated=1596834110"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-228"
+  harmonCity:         "https://harmon.city/episode-245"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/245/228"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/262/245"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mystery Science Theater's Joel Hodgson stops by, everyone's world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries.
+  
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Joel Hodgson, Robert Evans and Magenta Vaughn.
+showDate:             
+releaseDate:          "2017-05-24 06:43:00Z"
+venue:                
+comptroller:          "Brandon Johnson"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Joel Hodgson"
+- "Robert Evans"
+- "Magenta Vaughn"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/262/example-1.png"
+#- "/assets/images/episodes/262/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +66,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/245/example-1.png"
-#- "/assets/images/episodes/245/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       245
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

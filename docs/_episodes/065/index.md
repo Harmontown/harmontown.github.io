@@ -1,28 +1,45 @@
 ---
-episodeNumber:        52
-title:                "By the Power of Bored Audience Skull!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In which Mayor Harmon explores everything that's already been explored about the topics of Road House, Roger Ebert and Skeletor. Plus: Kumail Nanjiani, Drunk Spencer and the final word on nipple size.
-showDate:             
-releaseDate:          "2013-04-15 01:53:00Z"
-duration:             "01:39:25"
+layout:               episode
+slug:                 "65"
+sequenceNumber:       79
+episodeNumber:        65
+title:                "Tim Tums Are Where Cake and Vodka Go"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7540490285.mp3?updated=1555529172"
+duration:             "02:01:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7444258099.mp3?updated=1554500600"
+external:
+  harmonCity:         "https://harmon.city/episode-65"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/79/65"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaa-A5jhYPcmQVg1igKPY5f"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmon talks to Matt Dwyer about being a better interviewer than Mayor Harmon, who no longer needs to be good at anything because he survived an endoscopy. In D&D: Frost Giant politics.
+showDate:             
+releaseDate:          "2013-07-29 09:50:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-52"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/65/52"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObUvAXKqfuwgPNbUs6IvLXU"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/079/example-1.png"
+#- "/assets/images/episodes/079/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Kumail Nanjiani"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/065/example-1.png"
-#- "/assets/images/episodes/065/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       65
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

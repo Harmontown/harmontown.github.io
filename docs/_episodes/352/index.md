@@ -1,29 +1,47 @@
 ---
-episodeNumber:        335
-title:                "What If Dan Had Four Ears?"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  This week's a whopper, with conversation topics ranging from Spencer's hip surgery, Dan's much anticipated Game of Thrones take, and another underscoring of how unprepared our (Dan's) parents were for the advent of the internet. All that and THE RETURN OF D&D.
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
-showDate:             
-releaseDate:          "2019-05-30 10:00:00Z"
-duration:             "02:00:15"
+layout:               episode
+slug:                 "352"
+sequenceNumber:       369
+episodeNumber:        352
+title:                "Throw Me Under the Grassy Knoll"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9902733683.mp3?updated=1570723578"
+duration:             "01:57:47"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9970239376.mp3?updated=1596567775"
+external:
+  harmonCity:         "https://harmon.city/episode-352"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/369/352"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Guest comptroller Brandon Johnson, and the "Stuff They Don't Want You to Know" podcast guys (Matt Frederick, Ben Bowlin and Noel Brown) talk podcasts, Harmonspiracies, and Schrab's "Creepshow" episode.
+  
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Schrab, Matt Frederick, Ben Bowlin and Noel Brown.
+showDate:             
+releaseDate:          "2019-10-10 10:00:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-335"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/352/335"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/369/example-1.png"
+#- "/assets/images/episodes/369/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -47,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/352/example-1.png"
-#- "/assets/images/episodes/352/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       352
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

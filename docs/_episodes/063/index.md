@@ -1,28 +1,45 @@
 ---
-episodeNumber:        50
-title:                "Joe Jackson: Steppin&#39; Out"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In honor of the 50th episode, Harmon drinks too much five hour energy, Genevieve Pearson teaches us to fabricate reality and Kumail proposes to three-time-wife Emily. D&D is bunch of garbage, but then, and, admittedly, this is Harmon saying this, but: BEST RAP EVER. Enjoy.
-showDate:             
-releaseDate:          "2013-03-29 11:51:00Z"
-duration:             "01:39:55"
+layout:               episode
+slug:                 "63"
+sequenceNumber:       77
+episodeNumber:        63
+title:                "Everyone in the World is Stupid"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3783792489.mp3?updated=1555529288"
+duration:             "01:49:21"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8805102383.mp3?updated=1554500605"
+external:
+  harmonCity:         "https://harmon.city/episode-63"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/77/63"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ5ebQFKMFQX6txBfqj_cXq"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  New editions of Things Dan Can't Complain About and Connor's Conundrums, a chat with aneurysm survivor Siike and a violent fight with Spencer about "meta gaming."
+showDate:             
+releaseDate:          "2013-07-08 10:34:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-50"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/63/50"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZGS2aQIBMuCCXE5pEJZp2k"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/077/example-1.png"
+#- "/assets/images/episodes/077/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/063/example-1.png"
-#- "/assets/images/episodes/063/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       63
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

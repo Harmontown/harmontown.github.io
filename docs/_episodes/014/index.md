@@ -1,28 +1,47 @@
 ---
-episodeNumber:        1
-title:                "Achieve Weightlessness"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's a special night at Harmontown when Mayor Harmon decides the goal is to "achieve weightlessness" and establish Harmontown's real purpose. One hour, thirty tangents, two emails from Harmon's big brother and that goal remains unachieved, but a legendary theme park death does finally get its own theme song.
-showDate:             "2012-06-16 04:00:00Z"
-releaseDate:          "2012-07-04 08:20:00Z"
-duration:             "01:12:13"
+layout:               episode
+slug:                 "14"
+sequenceNumber:       27
+episodeNumber:        14
+title:                "Tyler Perry&#39;s Antisemitic Pickle Ziggurat"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9966987632.mp3?updated=1555705125"
+duration:             "01:26:36"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6968392779.mp3?updated=1554335997"
+external:
+  harmonCity:         "https://harmon.city/episode-14"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/27/14"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYrjWtqyFzuFXPxRlDvTXHs"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  An unflinching examination of Dan's mustache absorption becomes a flinching examination of Harmontown regular Adam Goldberg. Plus: special guest Steve Agee drops by for a discussion of airline food and the ridiculous infiltration of Admiral Darkstar's stronghold.
+showDate:             "2012-10-15 04:00:00Z"
+releaseDate:          "2012-10-26 06:48:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-1"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/14/1"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZSS-OZejKrzkRlpjHbfrfE"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Adam Goldberg"
+- "Spencer Crittenden"
+- "Steve Agee"
+- "Erin McGathy"
+
+audienceGuests:
+- "Nti Aning"
+- "Dennis"
+
+images:
+#- "/assets/images/episodes/027/example-1.png"
+#- "/assets/images/episodes/027/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-- "Adam Goldberg"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/014/example-1.png"
-#- "/assets/images/episodes/014/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       14
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

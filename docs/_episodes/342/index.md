@@ -1,30 +1,47 @@
 ---
-episodeNumber:        325
-title:                "Get Off My Lawn, Words"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down?
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Rob Schrab.
-showDate:             
-releaseDate:          "2019-03-14 10:00:00Z"
-duration:             "02:10:14"
+layout:               episode
+slug:                 "342"
+sequenceNumber:       359
+episodeNumber:        342
+title:                "Musk Balloons"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8654146349.mp3"
+duration:             "02:05:32"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1364711663.mp3?updated=1596658041"
+external:
+  harmonCity:         "https://harmon.city/episode-342"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/359/342"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Duncan Trussell is back! sporting an increasingly majestic beard. The show dives deep into America's hot button topics like prolapses, space travel and DNA filled balloons.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Duncan Trussell.
+showDate:             
+releaseDate:          "2019-07-25 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-325"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/342/325"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/359/example-1.png"
+#- "/assets/images/episodes/359/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/342/example-1.png"
-#- "/assets/images/episodes/342/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       342
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

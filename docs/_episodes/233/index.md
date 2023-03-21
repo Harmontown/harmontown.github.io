@@ -1,28 +1,45 @@
 ---
-episodeNumber:        216
-title:                "No On Prop 60"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The Michael Jordan of porn Riley Reid enlightens Harmenians and Californians why we need to vote NO on Prop 60. dontharassca.com Later military nerds enlighten us all on why not to join the military or get out.
-showDate:             
-releaseDate:          "2016-10-12 10:25:00Z"
-duration:             "01:58:25"
+layout:               episode
+slug:                 "233"
+sequenceNumber:       250
+episodeNumber:        233
+title:                "The Only Enemy is Stopping"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7187157677.mp3"
+duration:             "02:02:23"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8424537740.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-233"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/250/233"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Open Mike Eagle.
+showDate:             
+releaseDate:          "2017-02-22 20:39:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-216"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/233/216"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/250/example-1.png"
+#- "/assets/images/episodes/250/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/233/example-1.png"
-#- "/assets/images/episodes/233/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       233
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

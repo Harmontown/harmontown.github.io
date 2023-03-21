@@ -1,28 +1,45 @@
 ---
-episodeNumber:        171
-title:                "I Gymnastics Over To Her"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest comptroller Ryan Ridley and guest Aubrey Plaza forge their way through the pseudo socio-political intestinal tract of Harmontown!
-showDate:             
-releaseDate:          "2015-11-11 01:11:00Z"
-duration:             "02:18:10"
+layout:               episode
+slug:                 "187"
+sequenceNumber:       203
+episodeNumber:        187
+title:                "The Four Points Of The Triangle"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8942295485.mp3?updated=1560383937"
+duration:             "02:03:13"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6281409763.mp3?updated=1561144376"
+external:
+  harmonCity:         "https://harmon.city/episode-187"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/203/187"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObrK0akaYCShkJdgOHZkSdR"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan is stoned...Schrab too, the creator of The Stanley Parable randomly joins the stage and Spencer steals the show with some improv.
+showDate:             
+releaseDate:          "2016-03-09 04:39:00Z"
 venue:                
-comptroller:          "Ryan Ridley"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-171"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/187/171"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ5-HLhQf6DMl9oLGKkNL9r"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/203/example-1.png"
+#- "/assets/images/episodes/203/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/187/example-1.png"
-#- "/assets/images/episodes/187/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       187
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

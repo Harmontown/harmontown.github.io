@@ -1,30 +1,47 @@
 ---
-episodeNumber:        305
-title:                "Smiles Wider Than Their Faces"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Podcaster David Cummings, from The NoSleep Podcast, joins guest comptroller Brandon Johnson for a spooky evening of horror stories, cuckoo clocks and wholesome Canadian terror.
-
-  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and David Cummings.
-showDate:             
-releaseDate:          "2018-10-04 10:00:00Z"
-duration:             "01:56:23"
+layout:               episode
+slug:                 "322"
+sequenceNumber:       339
+episodeNumber:        322
+title:                "WOKE AF HASHTAG"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3365002042.mp3"
+duration:             "01:58:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5666200554.mp3?updated=1596580121"
+external:
+  harmonCity:         "https://harmon.city/episode-322"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/339/322"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Brandon Johnson is the guest Comptroller, Rob Schrab is at Spencer's desk, and our guest is Brian Wysol, creator of the Adult Swim series Hot Streets. Dan punishes Justin Roiland for missing the show.
+  
+  Featuring Dan Harmon, Brandon Johnson, Rob Schrab and Brian Wysol.
+showDate:             
+releaseDate:          "2019-02-21 11:30:00Z"
 venue:                
 comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-305"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/322/305"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/339/example-1.png"
+#- "/assets/images/episodes/339/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/322/example-1.png"
-#- "/assets/images/episodes/322/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       322
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

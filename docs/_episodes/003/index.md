@@ -1,28 +1,46 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #3"
+layout:               episode
+slug:                 "3"
+sequenceNumber:       16
+episodeNumber:        3
+title:                "If They Have Cubs, We&#39;re Already Dead"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3517247513.mp3?updated=1555699895"
+duration:             "01:14:08"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-3"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/16/3"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOawdpYr2espJPYTwEKyTWHU"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost episode from before the show was a podcast.
-showDate:             "2011-07-25 04:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  An unusually quiet night in Harmontown gives way to eruptions of arm wrestling, wolf hunting, dungeon mastering and child abuse.
+showDate:             "2012-07-23 04:00:00Z"
+releaseDate:          "2012-07-30 20:25:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+- "Max"
+- "B.J."
+- "Erin McGathy"
+
+images:
+#- "/assets/images/episodes/016/example-1.png"
+#- "/assets/images/episodes/016/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/003/example-1.png"
-#- "/assets/images/episodes/003/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       3
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

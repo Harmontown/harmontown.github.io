@@ -1,28 +1,45 @@
 ---
-episodeNumber:        140
-title:                "Hobos Don&#39;t Talk Back To Nobody"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Hear ye, hear ye, Harmontown is now in session. There's some talkin', there's some rappin', there's some shadow runnin'.
-showDate:             
-releaseDate:          "2015-03-25 02:10:00Z"
-duration:             "01:57:38"
+layout:               episode
+slug:                 "155"
+sequenceNumber:       170
+episodeNumber:        155
+title:                "LIVE from The Tin Roof in San Diego 2015"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1744918897.mp3?updated=1561580518"
+duration:             "02:11:14"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9194196176.mp3?updated=1562021477"
+external:
+  harmonCity:         "https://harmon.city/episode-155"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/170/155"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObmT9lg1DXJSKVIgrdVLv5W"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Hot off of ComicCon, Harmontown summons harmenians to San Diego's Tin Roof for a night of drinking, rapping, dinosaurs, bananas and more.
+showDate:             
+releaseDate:          "2015-07-15 07:30:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-140"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/155/140"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaSuDfDjQpnJrrTD4jh7ZSR"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/170/example-1.png"
+#- "/assets/images/episodes/170/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/155/example-1.png"
-#- "/assets/images/episodes/155/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       155
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

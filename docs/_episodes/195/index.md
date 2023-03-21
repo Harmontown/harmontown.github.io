@@ -1,28 +1,45 @@
 ---
-episodeNumber:        179
-title:                "LIVE at San Francisco Sketchfest 2016!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown returns to San Francisco Sketchfest for porn, adult diapers, breast cancer awareness and pure insanity.
-showDate:             
-releaseDate:          "2016-01-13 07:59:00Z"
-duration:             "01:51:49"
+layout:               episode
+slug:                 "195"
+sequenceNumber:       211
+episodeNumber:        195
+title:                "What Did You Do To Norman Lear?"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7272187326.mp3?updated=1560208635"
+duration:             "02:09:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5718170164.mp3?updated=1560812976"
+external:
+  harmonCity:         "https://harmon.city/episode-195"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/211/195"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYh7PJd0xcsKcAyLqVXHsSD"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The most legendary television writer and producer in all of history Norman Lear joins Harmontown, you'll never look at birthday candles the same way again.
+showDate:             
+releaseDate:          "2016-05-04 17:33:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-179"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/195/179"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYVcXGHRxZeKXmUxrkmWseb"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/211/example-1.png"
+#- "/assets/images/episodes/211/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/195/example-1.png"
-#- "/assets/images/episodes/195/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       195
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

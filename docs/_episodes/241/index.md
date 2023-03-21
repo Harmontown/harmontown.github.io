@@ -1,28 +1,50 @@
 ---
-episodeNumber:        224
-title:                "Harmontownunder: Brisbane, Australia"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown journeys to Australia! First stop, Brisbane.
-showDate:             
-releaseDate:          "2016-12-21 15:59:00Z"
-duration:             "01:59:06"
+layout:               episode
+slug:                 "241"
+sequenceNumber:       258
+episodeNumber:        241
+title:                "Kumanji"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5143422799.mp3?updated=1596757203"
+duration:             "01:57:39"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1350613279.mp3"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-224"
+  harmonCity:         "https://harmon.city/episode-241"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/241/224"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/258/241"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Kumail and Emily return to discuss Harmontown leaving NerdMelt, Spencer & Schrab provide color commentary while Brandon Johnson and Doug Benson get to meet Dan's newest rap character, Peanut Jones.
+  
+  Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden, Rob Schrab, Kumail Nanjiani, Emily V. Gordon, Brandon Johnson and Doug Benson.
+showDate:             
+releaseDate:          "2017-04-19 05:09:00Z"
+venue:                
+comptroller:          "Brandon Johnson"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Doug Benson"
+- "Kumail Nanjiani"
+- "Emily V. Gordon"
+- "Rob Schrab"
+- "Jeff B. Davis"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/258/example-1.png"
+#- "/assets/images/episodes/258/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +68,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/241/example-1.png"
-#- "/assets/images/episodes/241/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       241
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

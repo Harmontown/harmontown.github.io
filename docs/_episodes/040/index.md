@@ -1,28 +1,46 @@
 ---
-episodeNumber:        27
-title:                "Harmoncountry: Nashville, TN"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon chooses Music City, USA as the place to enter the "drunk Brian Wilson" phase of his podcasting career. Is his mistake the pre-show Jaggerbombs or the mid-show moonshine? In any case, let this episode stand as a cautionary tale.
-showDate:             
-releaseDate:          "2013-01-16 00:52:00Z"
-duration:             "01:20:18"
+layout:               episode
+slug:                 "40"
+sequenceNumber:       53
+episodeNumber:        40
+title:                "Harmoncountry: Salt Lake City, UT"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7901438098.mp3?updated=1554491095"
+duration:             "01:55:03"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1538092440.mp3?updated=1560294145"
+external:
+  harmonCity:         "https://harmon.city/episode-40"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/53/40"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZjwyzSSNIXwiTZ3SWwf87x"
 
-venue:                "TBC, Nashville, TN"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown is reborn in a strange land of complex liquor laws, polarized religion and Kevin Nealon photos. Plus: Sports Corner, Fart Corner, odor dating and weird rants!
+showDate:             
+releaseDate:          "2013-01-31 02:19:00Z"
+venue:                "TBC, Salt Lake City, UT"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-27"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/40/27"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYtoiVl3Jmf8LPvk4sHdNZ0"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Deuce"
+- "Craig"
+- "Taleetha"
+
+images:
+#- "/assets/images/episodes/053/example-1.png"
+#- "/assets/images/episodes/053/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,30 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Moonshine Josh"
-- "Mandy"
-- "Jim Lill"
-- "Ashley"
-- "Jen"
-- "Bob"
-
-images:
-#- "/assets/images/episodes/040/example-1.png"
-#- "/assets/images/episodes/040/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       40
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

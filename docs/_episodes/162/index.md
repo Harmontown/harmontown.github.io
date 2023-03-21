@@ -1,28 +1,45 @@
 ---
-episodeNumber:        147
-title:                "High Concept Humiliation"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Sen. Bernie Sanders pays a visit to Harmontown and talks the bottom 45 percent of the top 60 percent of the top 1 percent.
-showDate:             
-releaseDate:          "2015-05-20 03:18:00Z"
-duration:             "02:02:10"
+layout:               episode
+slug:                 "162"
+sequenceNumber:       177
+episodeNumber:        162
+title:                "Sperm Count"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9623823308.mp3?updated=1561404935"
+duration:             "02:14:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2993846717.mp3?updated=1562005100"
+external:
+  harmonCity:         "https://harmon.city/episode-162"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/177/162"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaGSlac6vdWsDUTZbJfp3-E"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Kumail returns! The Lil' Cuties drop by, Harmon questions his sperm count and MORE!
+showDate:             
+releaseDate:          "2015-09-09 07:09:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-147"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/162/147"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObM8JEiDe3u6gCDgjZNO_tI"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/177/example-1.png"
+#- "/assets/images/episodes/177/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/162/example-1.png"
-#- "/assets/images/episodes/162/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       162
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

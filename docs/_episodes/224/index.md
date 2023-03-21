@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #16"
+layout:               episode
+slug:                 "224"
+sequenceNumber:       241
+episodeNumber:        224
+title:                "Harmontownunder: Brisbane, Australia"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1350613279.mp3"
+duration:             "01:59:06"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-224"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/241/224"
+  hallOfRecords:      
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Harmontown at Outside Lands.  The episode is [lost to history](https://twitter.com/thesixler/status/762031703493718017).
+  Harmontown journeys to Australia! First stop, Brisbane.
 showDate:             
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
-venue:                "Outside Lands Festival, San Francisco, CA"
-comptroller:          
+releaseDate:          "2016-12-21 15:59:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/241/example-1.png"
+#- "/assets/images/episodes/241/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/224/example-1.png"
-#- "/assets/images/episodes/224/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       224
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

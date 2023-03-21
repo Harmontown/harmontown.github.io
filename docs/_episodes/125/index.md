@@ -1,28 +1,45 @@
 ---
-episodeNumber:        110
-title:                "Dana Carvey Has Never Done Anything Wrong"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon welcomes Dana Carvey to Harmontown who for some reason apologizes for Wayne's World two and out of nowhere, Tenacious D of www.festivalsupreme.com appear out of thin air! In D&D, someone dies.
-showDate:             
-releaseDate:          "2014-08-04 18:55:00Z"
-duration:             "01:54:20"
+layout:               episode
+slug:                 "125"
+sequenceNumber:       140
+episodeNumber:        125
+title:                "Lets Teach Duncan Trussell How To Be Mean feat. Joel McHale"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6087651486.mp3?updated=1561589861"
+duration:             "01:58:52"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2785277550.mp3?updated=1556750451"
+external:
+  harmonCity:         "https://harmon.city/episode-125"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/140/125"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObCT4x_aFuqKcLKyiSoR0Og"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  After 4 days of straight podcasting, the gang returns to LA with comptroller Duncan Trussell and a special drop in from Community's Joel McHale.
+showDate:             
+releaseDate:          "2014-11-03 22:16:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Duncan Trussell"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-110"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/125/110"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYOI9XmA8B9dqanOq-_StyS"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/140/example-1.png"
+#- "/assets/images/episodes/140/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "feat. Tenacious D"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/125/example-1.png"
-#- "/assets/images/episodes/125/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       125
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

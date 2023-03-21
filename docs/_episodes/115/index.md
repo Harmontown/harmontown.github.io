@@ -1,28 +1,45 @@
 ---
-episodeNumber:        100
-title:                "Boner-Hurt Kansas"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It is the Centepisodial Spectacular of Harmontown! Adam Goldberg runs a quiz against a super fan and your Mayor to see who knows more about Harmontown.
-showDate:             
-releaseDate:          "2014-05-19 20:36:00Z"
-duration:             "02:02:41"
+layout:               episode
+slug:                 "115"
+sequenceNumber:       130
+episodeNumber:        115
+title:                "Oh, the Blimpery!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4351991043.mp3"
+duration:             "02:06:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3107672992.mp3?updated=1556230790"
+external:
+  harmonCity:         "https://harmon.city/episode-115"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/130/115"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObg6Uo3Zi7dSciMx53DgBQy"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dolphins are bad, Jews are great as learn with comptroller, Rick & Morty writer Ryan Ridley! Then for the first time we welcome our hilarious friend Dave Horwitz to the stage who you all now can begin to fall for. In D&D, its really funny.
+showDate:             
+releaseDate:          "2014-09-08 19:50:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Ryan Ridley"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-100"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/115/100"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYBPC1hoju2vCHkkDbq2aQ3"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/130/example-1.png"
+#- "/assets/images/episodes/130/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/115/example-1.png"
-#- "/assets/images/episodes/115/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       115
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

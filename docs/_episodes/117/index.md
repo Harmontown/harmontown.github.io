@@ -1,28 +1,45 @@
 ---
-episodeNumber:        102
-title:                "Sleepy Canyoneer"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Tony Danza can read Dan's tweets; everyone shares crying stories and there is a sleepy canyoneer in the crowd.
-showDate:             
-releaseDate:          "2014-06-02 09:54:00Z"
-duration:             "02:01:20"
+layout:               episode
+slug:                 "117"
+sequenceNumber:       132
+episodeNumber:        117
+title:                "Debbie Request Permission To Do Dallas"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4345391070.mp3?updated=1560983632"
+duration:             "02:03:10"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4107649191.mp3?updated=1556325586"
+external:
+  harmonCity:         "https://harmon.city/episode-117"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/132/117"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYhgcVBJQ_jj5ADJ3xpbfYH"
 
+image:                "/assets/images/episodes/132/05.png"
+description: |-
+  Harmontown tests its live streaming capabilities, Alex Rubens comptrolls and instead of D&D the group goes on a sci-fi side quest.
+showDate:             
+releaseDate:          "2014-09-22 20:55:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Alex Rubens"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-102"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/117/102"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZxVwGZ-_2LrLWb9chMIIEB"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/132/example-1.png"
+#- "/assets/images/episodes/132/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/117/example-1.png"
-#- "/assets/images/episodes/117/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       117
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

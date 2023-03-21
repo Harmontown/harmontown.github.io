@@ -1,28 +1,45 @@
 ---
-episodeNumber:        175
-title:                "Princess Spencer Crittenden Nipples"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The guys make Siri do their bidding, an emotional moment with an audeince memeber, Rick and Morty writers playing Shadowrun. Be careful, cause there's snakes out here bitch!
-showDate:             
-releaseDate:          "2015-12-03 04:43:00Z"
-duration:             "02:16:27"
+layout:               episode
+slug:                 "191"
+sequenceNumber:       207
+episodeNumber:        191
+title:                "Monochromophiliacs"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5103402031.mp3?updated=1560377659"
+duration:             "02:01:56"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7705968922.mp3?updated=1560986309"
+external:
+  harmonCity:         "https://harmon.city/episode-191"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/207/191"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZeb_jMkW_ywWGJ9SKJyoiP"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's a whodunit with Paul F. Tompkins on Harmontown!
+showDate:             
+releaseDate:          "2016-04-06 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-175"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/191/175"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObTI8U8xGc_Q6EZf6zFHZus"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/207/example-1.png"
+#- "/assets/images/episodes/207/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/191/example-1.png"
-#- "/assets/images/episodes/191/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       191
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

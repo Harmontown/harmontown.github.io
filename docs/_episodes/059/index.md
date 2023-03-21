@@ -1,28 +1,45 @@
 ---
-episodeNumber:        46
-title:                "Neigh Means Yay"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  'Rick and Morty' writer Ryan Ridley drops by, 'Real Abed' Gheith pitches his insane restuarant and Kumail Nanjiani reveals secrets to brown acting. In D&D: the party climbs into a hole.
-showDate:             
-releaseDate:          "2013-03-01 02:03:00Z"
-duration:             "01:54:46"
+layout:               episode
+slug:                 "59"
+sequenceNumber:       73
+episodeNumber:        59
+title:                "Writing Tips From A Jerk"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7617164198.mp3?updated=1554506313"
+duration:             "01:50:36"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8748679485.mp3?updated=1554494005"
+external:
+  harmonCity:         "https://harmon.city/episode-59"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/73/59"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZDQHaBhVI87EzH_1b2Jham"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon tells us how to not write. Also discussed: Wikileaks, Disabilities, Ben Affleck and puppies.
+showDate:             
+releaseDate:          "2013-06-13 22:20:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-46"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/59/46"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYb1FGdRuDovmy6n2uJTNj7"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/073/example-1.png"
+#- "/assets/images/episodes/073/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Ryan Ridley"
-- "&quot;Real Abed&quot; Gheith"
-- "Kumail Nanjiani"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/059/example-1.png"
-#- "/assets/images/episodes/059/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       59
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

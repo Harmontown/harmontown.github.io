@@ -1,28 +1,45 @@
 ---
-episodeNumber:        218
-title:                "Walter Blanco"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Drew Ackerman of the Sleep With Me podcast tries to test out his ability to put people to sleep on the Harmontown fan. Speaking of fans, one of the weirdest ones ever takes the stage.
-showDate:             
-releaseDate:          "2016-10-27 00:45:00Z"
-duration:             "02:06:47"
+layout:               episode
+slug:                 "235"
+sequenceNumber:       252
+episodeNumber:        235
+title:                "LIVE from the Cherokee Casino in West Siloam Springs, OK"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8575453930.mp3"
+duration:             "02:07:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6815451731.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-235"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/252/235"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Jeff Bryan Davis, and Spencer Crittenden.
+showDate:             
+releaseDate:          "2017-03-08 07:30:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-218"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/235/218"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/252/example-1.png"
+#- "/assets/images/episodes/252/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/235/example-1.png"
-#- "/assets/images/episodes/235/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       235
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

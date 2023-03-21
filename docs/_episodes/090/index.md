@@ -1,28 +1,45 @@
 ---
-episodeNumber:        76
-title:                "Hug Me, Hug Me, Hug Me"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The room is packed with Communicon fans and two of them are asked by Mayor Harmon to come on stage and discuss a recent internet exchange about why they feel Dan should "stop talking." A lengthy game of D&D then ensues.
-showDate:             
-releaseDate:          "2013-10-21 15:25:00Z"
-duration:             "01:49:42"
+layout:               episode
+slug:                 "90"
+sequenceNumber:       104
+episodeNumber:        90
+title:                "CyberChrist and Stubnortz"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7028819427.mp3?updated=1555718145"
+duration:             "01:55:27"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8107073170.mp3?updated=1555623040"
+external:
+  harmonCity:         "https://harmon.city/episode-90"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/104/90"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObhQSM0gQDMGWK1vdzKlgwR"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon has some qualms with Uber, we check in with Adam Goldberg and SuperEgo's Matt Gourley settles a dispute during D&D.
+showDate:             
+releaseDate:          "2014-02-10 07:40:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-76"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/90/76"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObX6_sNKGu6UJ42Fq-WtyOv"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/104/example-1.png"
+#- "/assets/images/episodes/104/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/090/example-1.png"
-#- "/assets/images/episodes/090/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       90
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

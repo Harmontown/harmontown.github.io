@@ -1,29 +1,49 @@
 ---
-episodeNumber:        20
-title:                "Flesh Knife"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  More horrible rapping, a new character named Big Red, a phone call to Chevy Chase and a conversation with Adam Goldberg. In D&D: our heroes fall into a pit!
-  Note: the audience was not mic'd this episode.
-showDate:             
-releaseDate:          "2013-01-05 05:37:00Z"
-duration:             "01:34:32"
+layout:               episode
+slug:                 "33"
+sequenceNumber:       46
+episodeNumber:        33
+title:                "Harmoncountry: Pittsburgh, PA"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1438167606.mp3?updated=1554331766"
+duration:             "02:03:17"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2157303919.mp3?updated=1555703714"
+external:
+  harmonCity:         "https://harmon.city/episode-33"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/46/33"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZobqXx_hFsWcy_8FkDDQ_s"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The Harmontown tour "meets its goddess" in a featureless black box theatre, where Dan cries, arouses himself, tells a joke and gets in a fight with Erin. Unedited episode.
+showDate:             
+releaseDate:          "2013-01-22 03:20:00Z"
+venue:                "TBC, Pittsburgh, PA"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-20"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/33/20"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ-mIB1YjXYNaC32RiV8Hmu"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+- "Erin McGathy"
+
+audienceGuests:
+- "Justin"
+- "Jen"
+- "Mike"
+- "Ian"
+- "Dean"
+- "Joel the Usher"
+
+images:
+#- "/assets/images/episodes/046/example-1.png"
+#- "/assets/images/episodes/046/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -47,28 +67,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-#- "Example guest 2"
-
-audienceGuests:
-- "Kyle"
-- "Adam &quot;Big Red&quot;"
-- "Adam Goldberg"
-- "Jes&#250;s Diaz"
-
-images:
-#- "/assets/images/episodes/033/example-1.png"
-#- "/assets/images/episodes/033/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       33
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

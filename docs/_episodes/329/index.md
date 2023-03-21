@@ -1,30 +1,45 @@
 ---
-episodeNumber:        312
-title:                "Live from the New York Comedy Festival 2018"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown is live from the New York Comedy Festival!
-  
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
-showDate:             
-releaseDate:          "2018-11-29 11:00:00Z"
-duration:             "01:30:41"
+layout:               episode
+slug:                 "329"
+sequenceNumber:       346
+episodeNumber:        329
+title:                "Wolf Urine"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6249527848.mp3?updated=1596655383"
+duration:             "02:02:54"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2995642060.mp3?updated=1596578696"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-312"
+  harmonCity:         "https://harmon.city/episode-329"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/329/312"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/346/329"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The squad delves deep into the pros & cons of wolf piss. Schrab schrabs Dan into a crater, while Brandon holds the ship together upon re-entry.
+showDate:             
+releaseDate:          "2019-04-11 10:00:00Z"
+venue:                
+comptroller:          "Brandon Johnson"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/346/example-1.png"
+#- "/assets/images/episodes/346/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/329/example-1.png"
-#- "/assets/images/episodes/329/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       329
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

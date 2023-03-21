@@ -1,28 +1,45 @@
 ---
-episodeNumber:        167
-title:                "Confirmed By A Well Respected Arborist"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan and Erin get a divorce, The Bootsins return and are torn up about a dying eucalyptus tree, Curtis Armstrong comptrolls, Colin Hanks guests... buckle up.
-showDate:             
-releaseDate:          "2015-10-14 18:03:00Z"
-duration:             "02:11:57"
+layout:               episode
+slug:                 "183"
+sequenceNumber:       199
+episodeNumber:        183
+title:                "Disproportionate"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3971065366.mp3?updated=1560547150"
+duration:             "01:55:08"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7661325042.mp3?updated=1561155997"
+external:
+  harmonCity:         "https://harmon.city/episode-183"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/199/183"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY4rUYY85yRexhP5ABjPMjD"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Our friend Colin joins us to fill us in what it's like to be a little person. Brought to you by Balls, it's whats for dinner.
+showDate:             
+releaseDate:          "2016-02-03 06:00:00Z"
 venue:                
-comptroller:          "Curtis Armstrong"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-167"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/183/167"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaH6Co3ixFc900a8dktMdla"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/199/example-1.png"
+#- "/assets/images/episodes/199/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/183/example-1.png"
-#- "/assets/images/episodes/183/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       183
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

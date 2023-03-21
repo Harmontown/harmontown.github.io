@@ -1,28 +1,47 @@
 ---
-episodeNumber:        280
-title:                "Let&#39;s Talk About Prostate Massage"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The show takes a decidedly weird turn from the start. Guests Rob Schrab and DeMorge Brown talk with Dan, Jeff and Spencer about enemas, prostate massage and more. Steve Levy shares Diarrhea Junior's real life origin story.
-showDate:             
-releaseDate:          "2018-03-14 10:00:00Z"
-duration:             "02:02:58"
+layout:               episode
+slug:                 "297"
+sequenceNumber:       314
+episodeNumber:        297
+title:                "You Got That Baby To Tell The Truth"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9867072715.mp3?updated=1596840362"
+duration:             "01:54:07"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4247006774.mp3?updated=1596756872"
+external:
+  harmonCity:         "https://harmon.city/episode-297"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/314/297"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan, Jeff, Spencer, Brandon, Schrab and Steve all try to get to the bottom of some deep Harmontown mysteries. Is Spencer's desk backwards? What does Steve Levy do with silly putty? Can Schrab reboot Sanford and Son?
+  
+  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis, Rob Schrab and Steve Levy.
+showDate:             
+releaseDate:          "2018-08-02 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-280"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/297/280"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/314/example-1.png"
+#- "/assets/images/episodes/314/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/297/example-1.png"
-#- "/assets/images/episodes/297/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       297
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

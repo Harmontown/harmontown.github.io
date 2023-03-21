@@ -1,28 +1,45 @@
 ---
-episodeNumber:        4
-title:                "The Technology Of N-Words"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  A discussion of something the Scottish call a "Wizard Sleeve" is ever-so-briefly interrupted by racism, robots, and a visit from something Erin McGathy calls a "game corner."
-showDate:             "2012-07-31 04:00:00Z"
-releaseDate:          "2012-08-04 02:29:00Z"
-duration:             "01:15:37"
+layout:               episode
+slug:                 "17"
+sequenceNumber:       30
+episodeNumber:        17
+title:                "Grumblesnakes!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4038433294.mp3?updated=1555704658"
+duration:             "01:30:23"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2303221881.mp3?updated=1555700005"
+external:
+  harmonCity:         "https://harmon.city/episode-17"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/30/17"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObYVGdjbfLyV8x3uWjpTxaH"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  It's election night fever when Dan and Jeff realize that the episode will air long after the election. Clearly a devout Democrat, Dan complains about his hired help before bringing up a real live woman to referee history's least informed Harry Potter trivia competition. Plus: transitional D&D! Freestyle rapping! Not knowing how to end the show!
+showDate:             
+releaseDate:          "2012-11-17 02:29:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-4"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/17/4"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObPXDf9RnOKccpUDJQGcIha"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+- "Adam Goldberg"
+- "Fedora"
+
+images:
+#- "/assets/images/episodes/030/example-1.png"
+#- "/assets/images/episodes/030/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,29 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Erin McGathy"
-#- "Example guest 2"
-
-audienceGuests:
-- "Anthony"
-- "Justin"
-- "&quot;Terminator: Sarah Connor Chronicles&quot; guy"
-- "&quot;God Is a Moog&quot; guy"
-- "Nti Aning"
-
-images:
-#- "/assets/images/episodes/017/example-1.png"
-#- "/assets/images/episodes/017/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       17
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        170
-title:                "We Will Be There To Service The Aquarium"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Back by popular demand, Rob Schrab returns to the show even to Harmon's detriment.
-showDate:             
-releaseDate:          "2015-11-03 23:59:00Z"
-duration:             "02:08:06"
+layout:               episode
+slug:                 "186"
+sequenceNumber:       202
+episodeNumber:        186
+title:                "Auld Lang Schrab"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1911269215.mp3?updated=1560538069"
+duration:             "01:59:42"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6205817424.mp3?updated=1561146922"
+external:
+  harmonCity:         "https://harmon.city/episode-186"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/202/186"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZVfCfdXS3MOYLWkqz2ipXx"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmon loses an Oscar, Phil and Mike of HBO's Animals, Abed Geith returns and Schrab is extra disruptive on HARMONTOWN!
+showDate:             
+releaseDate:          "2016-03-02 06:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-170"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/186/170"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZyiKo6_qMKDjPRd_zHH0FA"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/202/example-1.png"
+#- "/assets/images/episodes/202/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/186/example-1.png"
-#- "/assets/images/episodes/186/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       186
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

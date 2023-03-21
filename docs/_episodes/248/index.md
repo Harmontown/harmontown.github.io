@@ -1,28 +1,47 @@
 ---
-episodeNumber:        231
-title:                "Pacman Versus Garfield"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab and Cassandra Church.
-showDate:             
-releaseDate:          "2017-02-08 08:15:00Z"
-duration:             "02:05:28"
+layout:               episode
+slug:                 "248"
+sequenceNumber:       265
+episodeNumber:        248
+title:                "Come Out and Fight Like a Ghost"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6164762105.mp3?updated=1596762494"
+duration:             "02:01:53"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2483494367.mp3?updated=1596826350"
+external:
+  harmonCity:         "https://harmon.city/episode-248"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/265/248"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan and Jeff take their brand new role playing characters out for a spin. Christina Oh talks movies with Dan.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Christina Oh.
+showDate:             
+releaseDate:          "2017-06-21 12:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-231"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/248/231"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/265/example-1.png"
+#- "/assets/images/episodes/265/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/248/example-1.png"
-#- "/assets/images/episodes/248/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       248
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        40
-title:                "Harmoncountry: Salt Lake City, UT"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown is reborn in a strange land of complex liquor laws, polarized religion and Kevin Nealon photos. Plus: Sports Corner, Fart Corner, odor dating and weird rants!
-showDate:             
-releaseDate:          "2013-01-31 02:19:00Z"
-duration:             "01:55:03"
+layout:               episode
+slug:                 "53"
+sequenceNumber:       66
+episodeNumber:        53
+title:                "National Tragedy Special"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8733810661.mp3?updated=1554501252"
+duration:             "01:59:55"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7901438098.mp3?updated=1554491095"
+external:
+  harmonCity:         "https://harmon.city/episode-53"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/66/53"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZBzN_nZCWRHBz47AHKCvBl"
 
-venue:                "TBC, Salt Lake City, UT"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon finds out about terrorism after everyone else. Plus: cake making, tentanus, Kumail, and making love to spiders!
+showDate:             
+releaseDate:          "2013-04-16 10:08:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-40"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/53/40"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZjwyzSSNIXwiTZ3SWwf87x"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Kumail Nanjiani"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/066/example-1.png"
+#- "/assets/images/episodes/066/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Deuce"
-- "Craig"
-- "Taleetha"
-
-images:
-#- "/assets/images/episodes/053/example-1.png"
-#- "/assets/images/episodes/053/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       53
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        200
-title:                "Simulation"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever.
-showDate:             
-releaseDate:          "2016-06-08 05:00:00Z"
-duration:             "02:13:36"
+layout:               episode
+slug:                 "216"
+sequenceNumber:       233
+episodeNumber:        216
+title:                "No On Prop 60"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8424537740.mp3"
+duration:             "01:58:25"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6676936577.mp3?updated=1560195531"
+external:
+  harmonCity:         "https://harmon.city/episode-216"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/233/216"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The Michael Jordan of porn Riley Reid enlightens Harmenians and Californians why we need to vote NO on Prop 60. dontharassca.com Later military nerds enlighten us all on why not to join the military or get out.
+showDate:             
+releaseDate:          "2016-10-12 10:25:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-200"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/216/200"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYt7LhndjmITqJKpHNpXu0a"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/233/example-1.png"
+#- "/assets/images/episodes/233/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/216/example-1.png"
-#- "/assets/images/episodes/216/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       216
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

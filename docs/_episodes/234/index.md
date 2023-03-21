@@ -1,28 +1,45 @@
 ---
-episodeNumber:        217
-title:                "I Wanna Shave With Me"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Andy Dick and Dino Stamatopoulos return for some music, slide whistle and some feels. Your Mayor uses the pressure valve on his brain and lets off some steam.
-showDate:             
-releaseDate:          "2016-10-20 05:04:00Z"
-duration:             "02:03:00"
+layout:               episode
+slug:                 "234"
+sequenceNumber:       251
+episodeNumber:        234
+title:                "The Patron Saint of Acid Wash"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7386526526.mp3"
+duration:             "01:47:40"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6091559969.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-234"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/251/234"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jason Sklar, Randy Sklar and Brandon Johnson.
+showDate:             
+releaseDate:          "2017-03-01 17:16:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Brandon Johnson"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-217"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/234/217"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/251/example-1.png"
+#- "/assets/images/episodes/251/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Andy Dick"
-- "Dino Stamatopoulos"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/234/example-1.png"
-#- "/assets/images/episodes/234/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       234
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,47 @@
 ---
-episodeNumber:        233
-title:                "The Only Enemy is Stopping"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Open Mike Eagle.
-showDate:             
-releaseDate:          "2017-02-22 20:39:00Z"
-duration:             "02:02:23"
+layout:               episode
+slug:                 "250"
+sequenceNumber:       267
+episodeNumber:        250
+title:                "I Don&#39;t Want to Ghostsplain"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6996533152.mp3?updated=1596763711"
+duration:             "02:03:40"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7187157677.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-250"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/267/250"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Role playing & Ghostsplaining through our 250th episode! A medical emergency is averted after Jeff gets a nose bleed from laughing.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
+showDate:             
+releaseDate:          "2017-07-06 01:43:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-233"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/250/233"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/267/example-1.png"
+#- "/assets/images/episodes/267/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/250/example-1.png"
-#- "/assets/images/episodes/250/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       250
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

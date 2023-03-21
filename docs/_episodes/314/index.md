@@ -1,30 +1,47 @@
 ---
-episodeNumber:        297
-title:                "You Got That Baby To Tell The Truth"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan, Jeff, Spencer, Brandon, Schrab and Steve all try to get to the bottom of some deep Harmontown mysteries. Is Spencer's desk backwards? What does Steve Levy do with silly putty? Can Schrab reboot Sanford and Son?
-
-  Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis, Rob Schrab and Steve Levy.
-showDate:             
-releaseDate:          "2018-08-02 10:00:00Z"
-duration:             "01:54:07"
+layout:               episode
+slug:                 "314"
+sequenceNumber:       331
+episodeNumber:        314
+title:                "You&#39;re the Good Kind of Fat"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8064478533.mp3"
+duration:             "02:11:49"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9867072715.mp3?updated=1596840362"
+external:
+  harmonCity:         "https://harmon.city/episode-314"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/331/314"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Comedian and fellow podcaster Pete Holmes joins Dan, Jeff and Spencer to answer: What Hurts Pete Holmes?
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Pete Holmes.
+showDate:             
+releaseDate:          "2018-12-13 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-297"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/314/297"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/331/example-1.png"
+#- "/assets/images/episodes/331/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/314/example-1.png"
-#- "/assets/images/episodes/314/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       314
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

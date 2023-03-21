@@ -1,28 +1,49 @@
 ---
-episodeNumber:        10
-title:                "A Tuppence or a Shilling for Your Wainscotting"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon and Guest Comptroller Erin McGathy discuss Knight Rider, Alf and anxiety, then play a quick round of Dungeons and Dragons before getting into a huge fight about movies and breaking up.
-showDate:             "2012-09-10 04:00:00Z"
-releaseDate:          "2012-09-21 01:45:00Z"
-duration:             "01:17:08"
+layout:               episode
+slug:                 "23"
+sequenceNumber:       36
+episodeNumber:        23
+title:                "Turtle Panties"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2507815919.mp3?updated=1554325109"
+duration:             "02:00:47"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4509016283.mp3?updated=1555697297"
+external:
+  harmonCity:         "https://harmon.city/episode-23"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/36/23"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObZP-_CSxZLB6OPFjju-4qi"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown's last show before the tour becomes a star studded bon voyage. Eric Idle teaches Dan to write songs, Patton Oswalt teaches him the meaning of fear and Ryan Stiles teaches him that fighting displacer beasts takes 45 minutes.
+showDate:             
+releaseDate:          "2013-01-10 05:42:00Z"
 venue:                "NerdMelt"
-comptroller:          "Erin McGathy"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-10"
-  podcastDynamite:
-    hasMinutes:       true
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/23/10"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ9uXTrAkDHmldmOhrkH4lT"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Eric Idle"
+- "Patton Oswalt"
+- "Erin McGathy"
+- "Spencer Crittenden"
+- "Ryan Stiles"
+
+audienceGuests:
+- "Rob Schrab"
+- "Nti Aning"
+- "Adam Goldberg"
+
+images:
+#- "/assets/images/episodes/036/example-1.png"
+#- "/assets/images/episodes/036/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +67,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-#- "Example guest 2"
-
-audienceGuests:
-- "Adam Goldberg"
-- "David"
-
-images:
-#- "/assets/images/episodes/023/example-1.png"
-#- "/assets/images/episodes/023/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       23
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

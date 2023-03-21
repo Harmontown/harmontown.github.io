@@ -1,30 +1,45 @@
 ---
-episodeNumber:        256
-title:                "Dan Harmon&#39;s Top Five Shoe Jokes"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Rob Schrab is back! Dan sports a new look, tells his top 5 shoe jokes, then takes the role playing team on a wild adventure.
-
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Rob Schrab.
-showDate:             
-releaseDate:          "2017-08-30 10:00:00Z"
-duration:             "02:04:13"
+layout:               episode
+slug:                 "273"
+sequenceNumber:       290
+episodeNumber:        273
+title:                "How Much D Do I T?"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6455473615.mp3"
+duration:             "02:13:34"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8483761964.mp3?updated=1596591092"
+external:
+  harmonCity:         "https://harmon.city/episode-273"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/290/273"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  What's a Bellman Joke? Does it have anything to do with Casablanca and the Thundercats? How do the Smurfs fit into all of this? Rob Schrab returns to give Dan some much needed therapy. then takes over for Diarrhea Jr. who makes eye contact during a very intense moment.
+showDate:             
+releaseDate:          "2018-01-17 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-256"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/273/256"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/290/example-1.png"
+#- "/assets/images/episodes/290/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/273/example-1.png"
-#- "/assets/images/episodes/273/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       273
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

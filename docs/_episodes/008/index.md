@@ -1,28 +1,50 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #8"
+layout:               episode
+slug:                 "8"
+sequenceNumber:       21
+episodeNumber:        8
+title:                "Cleft In Twain!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3426767880.mp3?updated=1555697811"
+duration:             "01:24:19"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-8"
+  podcastDynamite:
+    hasMinutes:       true
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/21/8"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb8zUN-W2wn6kVCU2eNE6P2"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Guests Gillian Jacobs and Dana DeArmond
-showDate:             "2011-12-09 05:00:00Z"
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+  Mayor Harmon grapples with fame and exposes The Family Feud; Comptroller Davis grapples with and exposes Harmon's shocking inability to tell jokes and the roleplaying Adventures of Sharpie and Quark begin.
+showDate:             "2012-08-27 04:00:00Z"
+releaseDate:          "2012-09-07 06:33:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               false
+hasDnD:               true
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Spencer Crittenden"
+#- "Example guest 2"
+
+audienceGuests:
+- "Nti Aning"
+- "Jennifer"
+- "Sean &quot;SnapTheJap&quot; Sakimae"
+- "Erin McGathy"
+- "Adam Goldberg"
+- "Doug"
+- "Colin"
+
+images:
+#- "/assets/images/episodes/021/example-1.png"
+#- "/assets/images/episodes/021/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +68,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/008/example-1.png"
-#- "/assets/images/episodes/008/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       8
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

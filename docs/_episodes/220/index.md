@@ -1,28 +1,45 @@
 ---
-episodeNumber:        204
-title:                "I&#39;m Drunk And High And Shouldn&#39;t Have A Podcast"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  What would seem like a classic episode format, becomes weird. Weird af. A great weird episode.
-showDate:             
-releaseDate:          "2016-07-13 08:55:00Z"
-duration:             "02:13:35"
+layout:               episode
+slug:                 "220"
+sequenceNumber:       237
+episodeNumber:        220
+title:                "Night 2 At The 2016 New York City Comedy Festival!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3937338382.mp3"
+duration:             "01:46:30"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6084753233.mp3?updated=1559947902"
+external:
+  harmonCity:         "https://harmon.city/episode-220"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/237/220"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  For the first time EVER it's Spencer and Dan. Two stools, one show runner, one game master.
+showDate:             
+releaseDate:          "2016-11-11 07:10:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-204"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/220/204"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYbkAhSFicY_BYX4FDNQU3l"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/237/example-1.png"
+#- "/assets/images/episodes/237/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/220/example-1.png"
-#- "/assets/images/episodes/220/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       220
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

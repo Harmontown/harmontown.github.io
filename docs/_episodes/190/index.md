@@ -1,28 +1,49 @@
 ---
-episodeNumber:        174
-title:                "Crazy Gums"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Thomas Middleditch joins Harmontown for some full body scrubbing, Shadow Run and possibly some deeply offensiveness.
-showDate:             
-releaseDate:          "2015-11-26 03:43:00Z"
-duration:             "02:07:18"
+layout:               episode
+slug:                 "190"
+sequenceNumber:       206
+episodeNumber:        190
+title:                "Pineapple"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3342011339.mp3?updated=1560378932"
+duration:             "01:59:45"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5840030065.mp3?updated=1560987817"
+external:
+  harmonCity:         "https://harmon.city/episode-190"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/206/190"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ2oPl82soQs3r4d3z0t81J"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  A packed episode leads to three Robs and the roast of Jimmy Carrane. 
+  
+  Opening music by Titanic Sinclair!
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Rob Corddry, Jimmy Carrane, Cameron Esposito and DeMorge Brown.
+showDate:             
+releaseDate:          "2016-03-30 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-174"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/190/174"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-43uRb1g5C3W0WH612n6U"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/206/example-1.png"
+#- "/assets/images/episodes/206/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +67,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/190/example-1.png"
-#- "/assets/images/episodes/190/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       190
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

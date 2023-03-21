@@ -1,28 +1,45 @@
 ---
-episodeNumber:        267
-title:                "We Killed Charles Manson"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest Comptroller Brandon Johnson and actor Rob Huebel return to the show. Rob gives us the inside information about his new show, while Brandon introduces us to Tiny Brandon. Dan's worried he might have played a role in Charles Manson's death
-showDate:             
-releaseDate:          "2017-11-22 16:45:00Z"
-duration:             "02:16:50"
+layout:               episode
+slug:                 "284"
+sequenceNumber:       301
+episodeNumber:        284
+title:                "They&#39;re Coming to Get You Barbara"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5654595688.mp3?updated=1596664632"
+duration:             "02:01:11"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3770942281.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-284"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/301/284"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Duncan Trussell is this weeks guest comptroller, who brings a sense of spirituality that could only be countered by Rob Schrab's chair noises.
+showDate:             
+releaseDate:          "2018-04-18 10:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-267"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/284/267"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Duncan Trussell"
+- "Rob Schrab"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/301/example-1.png"
+#- "/assets/images/episodes/301/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/284/example-1.png"
-#- "/assets/images/episodes/284/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       284
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

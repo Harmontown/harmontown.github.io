@@ -1,28 +1,47 @@
 ---
-episodeNumber:        282
-title:                "The Christmas with No Underwear"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The show breaks new ground with a cold open ad, Dan introduces the show's latest lovable sponsored character M.C. Gun Control, we explore Dan's therapy revelations and Jeff hatches a cunning plan turning himself into a tree.
-showDate:             
-releaseDate:          "2018-03-28 10:00:00Z"
-duration:             "02:06:46"
+layout:               episode
+slug:                 "299"
+sequenceNumber:       316
+episodeNumber:        299
+title:                "Rock Me Homo Deus"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6341944220.mp3?updated=1596833912"
+duration:             "01:58:14"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3969094748.mp3?updated=1630440104"
+external:
+  harmonCity:         "https://harmon.city/episode-299"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/316/299"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Dan's trainer, Dave Klein, returns to take the audience through a workout session. Jeff returns as comptroller, and Schrab shows Dan what it would be like to live next to a Neanderthal.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Dave Klein and Rob Schrab.
+showDate:             
+releaseDate:          "2018-08-16 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-282"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/299/282"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/316/example-1.png"
+#- "/assets/images/episodes/316/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/299/example-1.png"
-#- "/assets/images/episodes/299/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       299
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

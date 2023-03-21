@@ -1,28 +1,45 @@
 ---
-episodeNumber:        134
-title:                "Dogs, Cats and Danny DeVito"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan solicits black audience members to join the show and organically, not by force or anything, they engage in a rap battle. Guest Greg Proops returns and adds a nice layer of insanity to our Shadow Run campaign.
-showDate:             
-releaseDate:          "2015-02-11 21:53:00Z"
-duration:             "01:59:17"
+layout:               episode
+slug:                 "149"
+sequenceNumber:       164
+episodeNumber:        149
+title:                "LIVE from Everything Is Festival 2015"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9554704726.mp3?updated=1561763799"
+duration:             "01:28:17"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8793200116.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-149"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/164/149"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb4iA0NASSh1ARcWLf4Ar3C"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Harmontown is back in Portland for Everything Is Terrible! Penis size is questioned and two well dressed audio members take the brunt of it, Dan is accused of sh*tting his pants and ends up revealing his balls.
+showDate:             
+releaseDate:          "2015-06-02 23:29:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-134"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/149/134"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZTjp7WCyOV7mTVoAi8IiIa"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/164/example-1.png"
+#- "/assets/images/episodes/164/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/149/example-1.png"
-#- "/assets/images/episodes/149/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       149
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

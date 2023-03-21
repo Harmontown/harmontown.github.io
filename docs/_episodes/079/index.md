@@ -1,28 +1,45 @@
 ---
-episodeNumber:        65
-title:                "Tim Tums Are Where Cake and Vodka Go"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmon talks to Matt Dwyer about being a better interviewer than Mayor Harmon, who no longer needs to be good at anything because he survived an endoscopy. In D&D: Frost Giant politics.
-showDate:             
-releaseDate:          "2013-07-29 09:50:00Z"
-duration:             "02:01:35"
+layout:               episode
+slug:                 "79"
+sequenceNumber:       93
+episodeNumber:        79
+title:                "Dangle, Dipping and Heel Popping"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1565626686.mp3?updated=1560295827"
+duration:             "02:07:28"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7540490285.mp3?updated=1555529172"
+external:
+  harmonCity:         "https://harmon.city/episode-79"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/93/79"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYgPrvcbnB92qZUKgczqGGL"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  After some women demonstrate foot fetish techniques that audibly won't make any sense to you, dear listener, the enigmatic Brody Stevens joins Harmontown for the first time. Later, Mayor Harmon is inducted into a prestigious alliance and Kumail returns to D&D after a month long hiatus. It's a beautiful sprawling Harmontown, come on down.
+showDate:             
+releaseDate:          "2013-11-11 07:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-65"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/79/65"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaa-A5jhYPcmQVg1igKPY5f"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/093/example-1.png"
+#- "/assets/images/episodes/093/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/079/example-1.png"
-#- "/assets/images/episodes/079/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       79
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

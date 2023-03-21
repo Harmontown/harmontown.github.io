@@ -1,30 +1,48 @@
 ---
-episodeNumber:        230
-title:                "LIVE From SF Sketchfest 2017"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Fascism comes to America and Harmontown susses it out with the city of San Francisco.
-
-  Original music made for Harmontown by Titanic Sinclair.
-showDate:             
-releaseDate:          "2017-02-02 06:45:00Z"
-duration:             "01:56:36"
+layout:               episode
+slug:                 "247"
+sequenceNumber:       264
+episodeNumber:        247
+title:                "Everything is Sexy When You Trust Someone"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3321103982.mp3?updated=1596761750"
+duration:             "02:04:47"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7033395606.mp3?updated=1596827132"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-230"
+  harmonCity:         "https://harmon.city/episode-247"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/247/230"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/264/247"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Jeff Davis returns with a fantastic reprise of the classic "Pringles Dick". Brandon Johnson passes the comptroller torch back to Jeff. Dan, Jeff, Spencer and Steve Levy create characters for their new D&D campaign!
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Brandon Johnson, Steve Agee and Steve Levy.
+showDate:             
+releaseDate:          "2017-06-07 13:50:00Z"
+venue:                
+comptroller:          "Brandon Johnson"
+gameMaster:           "Spencer Crittenden"
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Steve Agee"
+- "Steve Levy"
+- "Jeff B. Davis"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/264/example-1.png"
+#- "/assets/images/episodes/264/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +66,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/247/example-1.png"
-#- "/assets/images/episodes/247/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       247
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,47 @@
 ---
-episodeNumber:        236
-title:                "LIVE from Esther&#39;s Follies at SXSW&#39;17 in Austin, TX"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest Doug Benson and audience members discuss movies, Dan & Spencer do some feminist role playing, and Dan gets complimented on his beer choice.
-showDate:             
-releaseDate:          "2017-03-16 07:00:00Z"
-duration:             "01:16:22"
+layout:               episode
+slug:                 "253"
+sequenceNumber:       270
+episodeNumber:        253
+title:                "No Church People Got No Hortches"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3016743362.mp3?updated=1596764788"
+duration:             "02:06:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3174263783.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-253"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/270/253"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Comedian Jamali Maddix comes by to discuss his project exploring extremism. While role playing, Steve Levy discovers the most beautiful horses he's ever seen. Dan closes the show with a rap about West Virginia.
+  
+  Featuring Dan Harmon, Jeff Davis, Spencer.
+showDate:             
+releaseDate:          "2017-08-09 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-236"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/253/236"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/270/example-1.png"
+#- "/assets/images/episodes/270/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/253/example-1.png"
-#- "/assets/images/episodes/253/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       253
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

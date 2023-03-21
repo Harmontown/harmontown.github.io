@@ -1,28 +1,45 @@
 ---
-episodeNumber:        51
-title:                "Bikers Without Bikes"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Bobcat Goldthwait returns with his friend Robin Williams and an amazingly sad story from a very dark carnival. Then, Robin and Bobcat leave, and it's kind of hard to follow them, so Mayor Harmon plays D&D and talks to a girl about sexism or something.
-showDate:             
-releaseDate:          "2013-04-08 03:57:00Z"
-duration:             "02:01:56"
+layout:               episode
+slug:                 "64"
+sequenceNumber:       78
+episodeNumber:        64
+title:                "I Would Be Mega Black"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5285436060.mp3?updated=1555529807"
+duration:             "02:04:01"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7440364615.mp3?updated=1554501262"
+external:
+  harmonCity:         "https://harmon.city/episode-64"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/78/64"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaOM7Ugd8qBFcinV1o3Vm5e"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon strives to understand whether or not he's a 9/11 conspiracy theorist with special guest James Urbaniak. Also: race and stuff.
+showDate:             
+releaseDate:          "2013-07-15 10:18:00Z"
 venue:                "NerdMelt"
-comptroller:          "Bobcat Goldthwait"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-51"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/64/51"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObKfo-D3a29bb2tEC0q1KlN"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "James Urbaniak"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/078/example-1.png"
+#- "/assets/images/episodes/078/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Robin Williams"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/064/example-1.png"
-#- "/assets/images/episodes/064/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       64
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        8
-title:                "Cleft In Twain!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon grapples with fame and exposes The Family Feud; Comptroller Davis grapples with and exposes Harmon's shocking inability to tell jokes and the roleplaying Adventures of Sharpie and Quark begin.
-showDate:             "2012-08-27 04:00:00Z"
-releaseDate:          "2012-09-07 06:33:00Z"
-duration:             "01:24:19"
+layout:               episode
+slug:                 "21"
+sequenceNumber:       34
+episodeNumber:        21
+title:                "Adventurtunity Mobisode!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5087783962.mp3?updated=1554322675"
+duration:             "01:41:00"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3426767880.mp3?updated=1555697811"
+external:
+  harmonCity:         "https://harmon.city/episode-21"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/34/21"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOak4AFuR43XEEZbahmhmAnu"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon does his Bane impression and practices getting booed in various cities for the upcoming tour. In D&D: the heroes finally encounter Sharpie's dad.
+showDate:             
+releaseDate:          "2013-01-06 06:10:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               true
+hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-8"
-  podcastDynamite:
-    hasMinutes:       true
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/21/8"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb8zUN-W2wn6kVCU2eNE6P2"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Erin McGathy"
+- "Spencer Crittenden"
+
+audienceGuests:
+- "Neil Berkeley"
+- "Adam Goldberg"
+
+images:
+#- "/assets/images/episodes/034/example-1.png"
+#- "/assets/images/episodes/034/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,31 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-#- "Example guest 2"
-
-audienceGuests:
-- "Nti Aning"
-- "Jennifer"
-- "Sean &quot;SnapTheJap&quot; Sakimae"
-- "Erin McGathy"
-- "Adam Goldberg"
-- "Doug"
-- "Colin"
-
-images:
-#- "/assets/images/episodes/021/example-1.png"
-#- "/assets/images/episodes/021/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       21
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        180
-title:                "Your Boobs Are Sick"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Guest comptroller Rhea Butcher joins your Mayor through the world of politics, gay weddings and mannequin legs.
-showDate:             
-releaseDate:          "2016-01-18 08:26:00Z"
-duration:             "02:01:11"
+layout:               episode
+slug:                 "196"
+sequenceNumber:       212
+episodeNumber:        196
+title:                "Problematizing"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7740080157.mp3?updated=1560206588"
+duration:             "02:09:10"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4126889238.mp3?updated=1560556056"
+external:
+  harmonCity:         "https://harmon.city/episode-196"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/212/196"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYikXjKMUT0U2HAkmUOm3OJ"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The Doughboys drop by Harmontown on Mother's Day and some insane improv ensues.
+showDate:             
+releaseDate:          "2016-05-11 05:00:00Z"
 venue:                
-comptroller:          "Rhea Butcher"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-180"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/196/180"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOatZQlJOdaqk5y7C92YQed4"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/212/example-1.png"
+#- "/assets/images/episodes/212/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/196/example-1.png"
-#- "/assets/images/episodes/196/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       196
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,28 +1,45 @@
 ---
-episodeNumber:        169
-title:                "A Little Handicap"
-image:                "/assets/images/episodes/185/03.png"
-description: |-
-  We welcome the great Andy Kindler back to Harmontown and Dan goes to the haunted hayride and something incredibly offensive happens.
-showDate:             
-releaseDate:          "2015-10-28 04:26:00Z"
-duration:             "02:04:33"
+layout:               episode
+slug:                 "185"
+sequenceNumber:       201
+episodeNumber:        185
+title:                "LIVE in Chicago 2016 at Park West!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8739285076.mp3?updated=1560540027"
+duration:             "01:56:18"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1112536018.mp3?updated=1561153550"
+external:
+  harmonCity:         "https://harmon.city/episode-185"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/201/185"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZkKVnpY8iY0rcqt-jv8rVg"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  A game changing sold out show in Chicago's beautiful Park West theatre! Music by Babes.
+showDate:             
+releaseDate:          "2016-02-24 02:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-169"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/185/169"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZoeHDBXIMxHYIFSEuE4oly"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/201/example-1.png"
+#- "/assets/images/episodes/201/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/185/example-1.png"
-#- "/assets/images/episodes/185/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       185
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

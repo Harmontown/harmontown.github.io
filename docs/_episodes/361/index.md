@@ -1,28 +1,46 @@
 ---
-episodeNumber:        344
-title:                "God Bless, But God Damn"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown finally gets down to business in a Jeff-less Episode. Brandon Johnson comptrols as we do the important, and timely, work of tearing down Billy Joel. Plus a dive into Dan's deep past unearths a hyper-detailed account of open mics as they existed in a pre-karaoke America, and a frankly shocking experience with a...
-showDate:             
-releaseDate:          "2019-08-08 10:00:00Z"
-duration:             "02:03:54"
+layout:               episode
+slug:                 "361"
+sequenceNumber:       378
+episodeNumber:        361
+title:                "Ad Nauseam"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8409497200.mp3?updated=1613577170"
+duration:             "00:45:41"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1003592093.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-361"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/361"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Bonus Episode! All the ad songs. Happy Holidays from Harmontown.
+  Featuring Jeff B Davis, Spencer Crittenden, Dan Harmon, Church, and music by unsung hero Brendan Lynch-Salamon.
+showDate:             
+releaseDate:          "2019-12-25 11:00:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-344"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/361/344"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/378/example-1.png"
+#- "/assets/images/episodes/378/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +64,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/361/example-1.png"
-#- "/assets/images/episodes/361/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       361
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

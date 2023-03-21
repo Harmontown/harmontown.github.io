@@ -1,28 +1,45 @@
 ---
-episodeNumber:        41
-title:                "Harmoncountry: Portland, OR"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayoral Master Harmon strides boldly across the return threshold and declares Spencer God. Then he raps and dicks around with people in the audience. It doesn't sound like much on paper but it's a pretty great episode.
-showDate:             
-releaseDate:          "2013-02-01 20:55:00Z"
-duration:             "01:42:27"
+layout:               episode
+slug:                 "54"
+sequenceNumber:       67
+episodeNumber:        54
+title:                "Go, Marbles, Go!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5026135164.mp3?updated=1554504114"
+duration:             "01:57:18"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8634366520.mp3?updated=1554491351"
+external:
+  harmonCity:         "https://harmon.city/episode-54"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/67/54"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObrz9sXIPzHEzsURW-TWUv1"
 
-venue:                "TBC, Portland, OR"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon, sore from softball practice, enlists the aid of Duncan Trussell and Greg Proops to keep the meeting moving. Topics include virtual reality, dead mothers and Jaws 4. In Dungeons and Dragons, Erin summons her first monkey.
+showDate:             
+releaseDate:          "2013-04-23 10:29:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-41"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/54/41"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYklF-EgQkFSVzWsZmQTlHe"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Duncan Trussell"
+- "Greg Proops"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/067/example-1.png"
+#- "/assets/images/episodes/067/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,30 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Alma"
-- "Megan"
-- "Ryan"
-- "Megan"
-- "Amanda"
-- "Fianna"
-
-images:
-#- "/assets/images/episodes/054/example-1.png"
-#- "/assets/images/episodes/054/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       54
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

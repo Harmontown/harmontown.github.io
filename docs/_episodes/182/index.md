@@ -1,28 +1,45 @@
 ---
-episodeNumber:        
-title:                "Lost Episode #15"
+layout:               episode
+slug:                 "182"
+sequenceNumber:       198
+episodeNumber:        182
+title:                "Sociopolitical Anal Beads"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4403673610.mp3?updated=1560551812"
+duration:             "02:00:31"
+isLostEpisode:        false
+isTrailer:            false
+external:
+  harmonCity:         "https://harmon.city/episode-182"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/198/182"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObR7nULqIws8v3e5z3gnlLr"
+
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  Lost Episode #15
+  Fallout Shelter racism, Rob Schrab has bags on his feet and wonders, how come we haven't gone down?
 showDate:             
-releaseDate:          
-duration:             
-isLostEpisode:        true
-isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            
-
+releaseDate:          "2016-01-28 19:13:00Z"
 venue:                
-comptroller:          
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         
-  podcastDynamite:
-    hasMinutes:       false
-    url:              
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/198/example-1.png"
+#- "/assets/images/episodes/198/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/182/example-1.png"
-#- "/assets/images/episodes/182/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       182
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

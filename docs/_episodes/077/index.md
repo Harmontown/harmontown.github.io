@@ -1,28 +1,45 @@
 ---
-episodeNumber:        63
-title:                "Everyone in the World is Stupid"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  New editions of Things Dan Can't Complain About and Connor's Conundrums, a chat with aneurysm survivor Siike and a violent fight with Spencer about "meta gaming."
-showDate:             
-releaseDate:          "2013-07-08 10:34:00Z"
-duration:             "01:49:21"
+layout:               episode
+slug:                 "77"
+sequenceNumber:       91
+episodeNumber:        77
+title:                "Carpool Diem"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8257519142.mp3?updated=1555624819"
+duration:             "02:00:38"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3783792489.mp3?updated=1555529288"
+external:
+  harmonCity:         "https://harmon.city/episode-77"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/91/77"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaI-GUkr8_BpzFtzCfgodZ8"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  In the wake of Lou Reed's passing, in which this episode is dedicated to; a sad, stripped down, sleepy and introspective Velvet Harmontown. Plus, the introduction of Harmontown's new character "Johnny Jackhammer." In DnD, the gang is helpless to watch Yearch "less than zero."
+showDate:             
+releaseDate:          "2013-10-28 08:39:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-63"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/77/63"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ5ebQFKMFQX6txBfqj_cXq"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/091/example-1.png"
+#- "/assets/images/episodes/091/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/077/example-1.png"
-#- "/assets/images/episodes/077/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       77
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

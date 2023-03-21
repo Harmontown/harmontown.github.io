@@ -1,28 +1,45 @@
 ---
-episodeNumber:        141
-title:                "The Jews Abide"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  It's HarmonBlock 2015, some of us really had ADD and we adhere to the wisdom of Sam Elliot on HARMONTOWN!
-showDate:             
-releaseDate:          "2015-04-01 05:17:00Z"
-duration:             "01:59:53"
+layout:               episode
+slug:                 "156"
+sequenceNumber:       171
+episodeNumber:        156
+title:                "Poop Is Temporary, Money Is Forever"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2985013051.mp3?updated=1561579030"
+duration:             "02:11:14"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2096923357.mp3?updated=1562019708"
+external:
+  harmonCity:         "https://harmon.city/episode-156"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/171/156"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ7k2Y_LQXkEFE0e3y9kLgP"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  How big is a bulls urethra? Dan has a video game romance he's guilty about and the gang tries to initiate some butt chuggin'.
+showDate:             
+releaseDate:          "2015-07-22 06:24:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-141"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/156/141"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZA42Epzh1YDKxGKqZHNTSU"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/171/example-1.png"
+#- "/assets/images/episodes/171/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/156/example-1.png"
-#- "/assets/images/episodes/156/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       156
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

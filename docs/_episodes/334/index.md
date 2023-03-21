@@ -1,30 +1,47 @@
 ---
-episodeNumber:        317
-title:                "Rich Man&#39;s NASCAR"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan listened to last week's show while sober and with some comments and clarifications, along with the return of Jesse Camp.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Jesse Camp.
-showDate:             
-releaseDate:          "2019-01-17 11:00:00Z"
-duration:             "02:09:32"
+layout:               episode
+slug:                 "334"
+sequenceNumber:       351
+episodeNumber:        334
+title:                "The MacArthur Park Handjobber"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6011347392.mp3?updated=1596570113"
+duration:             "02:04:44"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6567122292.mp3"
+external:
+  harmonCity:         "https://harmon.city/episode-334"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/351/334"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Ryan Kraus from "Cold Case Murder Mysteries" deconstructs true crime and horror and what it means to be the perfect crime, and how one day we're all going to be robots. Also, Spencer's balls are too big.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Ryan Kraus.
+showDate:             
+releaseDate:          "2019-05-23 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-317"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/334/317"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/351/example-1.png"
+#- "/assets/images/episodes/351/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/334/example-1.png"
-#- "/assets/images/episodes/334/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       334
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

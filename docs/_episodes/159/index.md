@@ -1,28 +1,45 @@
 ---
-episodeNumber:        144
-title:                "Operation Metalbeast"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmon hates muppets. We meet a guy named Skuta and shortly after, the most intense fan in the show's history.
-showDate:             
-releaseDate:          "2015-04-29 08:32:00Z"
-duration:             "02:00:09"
+layout:               episode
+slug:                 "159"
+sequenceNumber:       174
+episodeNumber:        159
+title:                "Firetruck"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9884448786.mp3?updated=1561415215"
+duration:             "01:50:29"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9452351749.mp3?updated=1562009622"
+external:
+  harmonCity:         "https://harmon.city/episode-159"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/174/159"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYtfLrqV8D6yjZ5ebgRnypk"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Our friends Bobcat Goldthwait and Curtis Armstrong return to the show with plenty of insane stories to share.
+showDate:             
+releaseDate:          "2015-08-19 06:13:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-144"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/159/144"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObgpjhjT2pSkoeR3G1Kw5hP"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/174/example-1.png"
+#- "/assets/images/episodes/174/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/159/example-1.png"
-#- "/assets/images/episodes/159/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       159
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

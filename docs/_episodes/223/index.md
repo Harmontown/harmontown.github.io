@@ -1,28 +1,45 @@
 ---
-episodeNumber:        207
-title:                "LIVE from Just for Laughs Montreal 2016"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmontown is welcomed by a warm crowd and a sold out show in Montreal for another gut spilling and heart wrenching episode steeped in comedy and loving kindness.
-showDate:             
-releaseDate:          "2016-08-03 08:53:00Z"
-duration:             "01:35:37"
+layout:               episode
+slug:                 "223"
+sequenceNumber:       240
+episodeNumber:        223
+title:                "Charles Manson Shark Tank"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7831819096.mp3?updated=1596675652"
+duration:             "02:02:46"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6991577370.mp3?updated=1559931827"
+external:
+  harmonCity:         "https://harmon.city/episode-223"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/240/223"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Ptolemy Slocum.
+showDate:             
+releaseDate:          "2016-12-07 20:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-207"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/223/207"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa1oizSqy5eQ1ilRDHq_YsJ"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/240/example-1.png"
+#- "/assets/images/episodes/240/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/223/example-1.png"
-#- "/assets/images/episodes/223/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       223
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

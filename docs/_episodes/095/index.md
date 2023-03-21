@@ -1,28 +1,45 @@
 ---
-episodeNumber:        81
-title:                "Hot Dog With Lettuce"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon jumps right into a drop in from original Saturday Night Live cast member Laraine Newman which merges into a visit from controversial author Dr. Chris Ryan to delves into polygamy and the very nature of our sexuality. In D&D, Spencer gives up.
-showDate:             
-releaseDate:          "2013-11-25 19:36:00Z"
-duration:             "02:04:11"
+layout:               episode
+slug:                 "95"
+sequenceNumber:       109
+episodeNumber:        95
+title:                "Bill Martigans"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4041552340.mp3?updated=1556133291"
+duration:             "02:02:43"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3049044663.mp3?updated=1555626131"
+external:
+  harmonCity:         "https://harmon.city/episode-95"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/109/95"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYq_HDIedn9G4vOh3KNBKrz"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  The Harmontown dream team; Dan Harmon, Jeff Bryan Davis, Erin McGathy, Mitch Hurwitz and Kumail Nanjiani recap SXSW; Fred Phelps death bed and later, Spencer returns for a roaring session of D&D!
+showDate:             
+releaseDate:          "2014-03-17 18:41:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-81"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/95/81"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-cdIYFOkguYtm8_a6P__a"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/109/example-1.png"
+#- "/assets/images/episodes/109/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Laraine Newman"
-- "Dr. Chris Ryan"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/095/example-1.png"
-#- "/assets/images/episodes/095/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       95
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

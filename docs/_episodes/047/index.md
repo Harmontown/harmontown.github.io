@@ -1,28 +1,45 @@
 ---
-episodeNumber:        34
-title:                "Harmoncountry: Bloomington, IN"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  In honor of his Midwestern heritage, The Mayor puts a town meeting straight up the middle and over the plate, with sports talk, a cosmic meditation and an in depth discussion of science and religion with some of Indiana's greatest, drunkest minds!
-showDate:             
-releaseDate:          "2013-01-23 19:39:00Z"
-duration:             "02:13:46"
+layout:               episode
+slug:                 "47"
+sequenceNumber:       60
+episodeNumber:        47
+title:                "Procrasturbation"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6342558089.mp3?updated=1554494666"
+duration:             "01:41:55"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2533895752.mp3?updated=1560295861"
+external:
+  harmonCity:         "https://harmon.city/episode-47"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/60/47"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaEooxgy6ezIhCfp8uhax6Q"
 
-venue:                "TBC, Bloomington, IN"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon suggests a new, fecal approach to morality. Other topics include Halle Berry, Superman and accents. In D&D, the gang runs afoul of snake men and each other.
+showDate:             
+releaseDate:          "2013-03-08 09:51:00Z"
+venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-34"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/47/34"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYVQKeNqoZkfAj_L6bF7Apr"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/060/example-1.png"
+#- "/assets/images/episodes/060/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,28 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Spencer Crittenden"
-- "Erin McGathy"
-
-audienceGuests:
-- "Ruth"
-- "Matt"
-- "Caiman"
-- "Bland IV"
-
-images:
-#- "/assets/images/episodes/047/example-1.png"
-#- "/assets/images/episodes/047/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       47
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

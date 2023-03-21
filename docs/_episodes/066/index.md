@@ -1,28 +1,45 @@
 ---
-episodeNumber:        53
-title:                "National Tragedy Special"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Harmon finds out about terrorism after everyone else. Plus: cake making, tentanus, Kumail, and making love to spiders!
-showDate:             
-releaseDate:          "2013-04-16 10:08:00Z"
-duration:             "01:59:55"
+layout:               episode
+slug:                 "66"
+sequenceNumber:       80
+episodeNumber:        66
+title:                "Frequently I Am A Woman In My Dreams"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5400422615.mp3?updated=1555545411"
+duration:             "01:53:19"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8733810661.mp3?updated=1554501252"
+external:
+  harmonCity:         "https://harmon.city/episode-66"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/80/66"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOajEqi9G67Hz6bLTSJbmsd8"
 
-venue:                "NerdMelt"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon has got nothing. This prompts Kumail and Erin to join the stage for some dream interpretation and penis trauma. In D&D, Sharpie dies.
+showDate:             
+releaseDate:          "2013-08-05 09:56:00Z"
+venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-53"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/66/53"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZBzN_nZCWRHBz47AHKCvBl"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/080/example-1.png"
+#- "/assets/images/episodes/080/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Kumail Nanjiani"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/066/example-1.png"
-#- "/assets/images/episodes/066/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       66
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

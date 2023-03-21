@@ -1,28 +1,45 @@
 ---
-episodeNumber:        99
-title:                "Live From Bridgetown 2014!"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Live from The Bridgetown Festival in Portland, Oregon; Harmontown is now in session!
-showDate:             
-releaseDate:          "2014-05-11 19:27:00Z"
-duration:             "01:45:26"
+layout:               episode
+slug:                 "114"
+sequenceNumber:       129
+episodeNumber:        114
+title:                "Slick Rick &amp; The Batman"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8358410382.mp3?updated=1556734794"
+duration:             "01:59:32"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4114340673.mp3?updated=1556230371"
+external:
+  harmonCity:         "https://harmon.city/episode-114"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/129/114"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObWOffcHOKO-GEArWuSfhA-"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon pays an Australian in the audience 100 bucks to serve them cups of ice. We get to the bottom of Schrabbing with Internet Trolling Sensation Rob Schrab and later, Rob provides all sound effects for D&D.
+showDate:             
+releaseDate:          "2014-09-01 18:25:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-99"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/114/99"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOao9FZ6en-pqeUwmQdeD8Gt"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/129/example-1.png"
+#- "/assets/images/episodes/129/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/114/example-1.png"
-#- "/assets/images/episodes/114/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       114
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

@@ -1,30 +1,45 @@
 ---
-episodeNumber:        264
-title:                "Cheese Stain"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan and Jeff solve the Ron Jeremy banana mystery, even stranger things happen with Dan's girlfriend, and the gang jumps back in to roleplaying.
-
-  Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Steve Levy.
-showDate:             
-releaseDate:          "2017-11-01 17:24:00Z"
-duration:             "02:07:26"
+layout:               episode
+slug:                 "281"
+sequenceNumber:       298
+episodeNumber:        281
+title:                "If I Need a Gas Mask, I&#39;d Rather Be Dead"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6760230398.mp3?updated=1596761450"
+duration:             "01:58:18"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3204180936.mp3?updated=1596585934"
+external:
+  harmonCity:         "https://harmon.city/episode-281"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/298/281"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  This week's guest is Kara Brown, staff writer for the Black-ish spinoff, Grown-ish. Dan shares how a social media interaction with a fan lead to questions about Rick and Morty's future. Schrab tells tales of his small hometown, and Spencer tries to get to the bottom of what's going on with DeMorge sexually.
+showDate:             
+releaseDate:          "2018-03-21 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-264"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/281/264"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/298/example-1.png"
+#- "/assets/images/episodes/298/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/281/example-1.png"
-#- "/assets/images/episodes/281/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       281
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

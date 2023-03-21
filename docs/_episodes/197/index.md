@@ -1,28 +1,45 @@
 ---
-episodeNumber:        181
-title:                "LIVE From Magic City Comic Con"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  The now infamous episode of Harmontown from Miami with guest comptroller Dino Stamatopoulos takes a turn when some uncool violence goes down.
-showDate:             
-releaseDate:          "2016-01-26 02:17:00Z"
-duration:             "01:58:58"
+layout:               episode
+slug:                 "197"
+sequenceNumber:       213
+episodeNumber:        197
+title:                "Stop Singing And Make A Chair"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5627385465.mp3?updated=1560204642"
+duration:             "02:03:26"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4930919055.mp3?updated=1560553950"
+external:
+  harmonCity:         "https://harmon.city/episode-197"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/213/197"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYy3pMVtFaS2KAi9QQzJyDr"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Your Mayor poops his pants again, flat earth theory and pulling the plug on Rob Schrab.
+showDate:             
+releaseDate:          "2016-05-18 05:15:00Z"
 venue:                
-comptroller:          "Dino Stamatopolous"
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-181"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/197/181"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZrh3_lC49_EkdEFO4-1iFo"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/213/example-1.png"
+#- "/assets/images/episodes/213/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/197/example-1.png"
-#- "/assets/images/episodes/197/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       197
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

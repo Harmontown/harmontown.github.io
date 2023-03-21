@@ -1,28 +1,45 @@
 ---
-episodeNumber:        61
-title:                "USS Hubris"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Titanic Sinclair and Mars Argo help examine the internet's war on the self. Comptroller McGathy refs a game of "Spencer or Goldberg" between Mayor Harmon and Kumail.
-showDate:             
-releaseDate:          "2013-06-24 20:49:00Z"
-duration:             "01:50:58"
+layout:               episode
+slug:                 "75"
+sequenceNumber:       89
+episodeNumber:        75
+title:                "Selling Like Hot Snakes"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6599196205.mp3?updated=1560295820"
+duration:             "01:47:36"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6792775903.mp3?updated=1560295734"
+external:
+  harmonCity:         "https://harmon.city/episode-75"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/89/75"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYzMdiBuhqOGI47U5spiNdI"
 
-venue:                "NerdMelt"
-comptroller:          "Erin McGathy"
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon is joined once again by guest Rob Schrab and Erin McGathy plays the role of Comptroller. Spontaneous combustion, peeing your pants and letters from reddit await you in this weeks Harmontown!
+showDate:             
+releaseDate:          "2013-10-08 00:08:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-61"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/75/61"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOahBViPCHPUmbZrH6XQB9hU"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/089/example-1.png"
+#- "/assets/images/episodes/089/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/075/example-1.png"
-#- "/assets/images/episodes/075/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       75
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

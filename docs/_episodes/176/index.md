@@ -1,28 +1,45 @@
 ---
-episodeNumber:        161
-title:                "Pink Mist"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Harmon experiences true virtual reality and makes soup, Paul Scheer and Rob Huebel join us for the first time, chimpanzees are monsters and ideal ways to die.
-showDate:             
-releaseDate:          "2015-09-02 17:31:00Z"
-duration:             "01:59:18"
+layout:               episode
+slug:                 "176"
+sequenceNumber:       192
+episodeNumber:        176
+title:                "I Don&#39;t Want To Die!"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA9840576740.mp3?updated=1560982593"
+duration:             "02:23:22"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6994483720.mp3?updated=1561406218"
+external:
+  harmonCity:         "https://harmon.city/episode-176"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/192/176"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYsobZsqwq8xysXZg4ZmJxN"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Kyle, heart transplant survivor joins the stage and Rob Schrab guest comptrolls and makes Dan feel bad about not hanging out with him more.
+showDate:             
+releaseDate:          "2015-12-08 11:38:00Z"
 venue:                
-comptroller:          "Jeff B. Davis"
+comptroller:          "Rob Schrab"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-161"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/176/161"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYSEO6EQwMVgcavUBDiYHyU"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/192/example-1.png"
+#- "/assets/images/episodes/192/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/176/example-1.png"
-#- "/assets/images/episodes/176/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       176
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

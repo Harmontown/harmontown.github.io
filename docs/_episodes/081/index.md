@@ -1,28 +1,45 @@
 ---
-episodeNumber:        67
-title:                "Click Here For Bacardi"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Mayor Pet psychology is discussed. Then the usual topics of race and terrorism. Then crap gets real about anarchy on the moon.
-showDate:             
-releaseDate:          "2013-08-12 11:35:00Z"
-duration:             "01:47:26"
+layout:               episode
+slug:                 "81"
+sequenceNumber:       95
+episodeNumber:        81
+title:                "Hot Dog With Lettuce"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3049044663.mp3?updated=1555626131"
+duration:             "02:04:11"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3539909450.mp3?updated=1555545291"
+external:
+  harmonCity:         "https://harmon.city/episode-81"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/95/81"
+  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-cdIYFOkguYtm8_a6P__a"
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Mayor Harmon jumps right into a drop in from original Saturday Night Live cast member Laraine Newman which merges into a visit from controversial author Dr. Chris Ryan to delves into polygamy and the very nature of our sexuality. In D&D, Spencer gives up.
+showDate:             
+releaseDate:          "2013-11-25 19:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-67"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/81/67"
-  hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZe7VJhd6BjDamrlM7hCXYN"
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+- "Laraine Newman"
+- "Dr. Chris Ryan"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/095/example-1.png"
+#- "/assets/images/episodes/095/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,26 +63,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/081/example-1.png"
-#- "/assets/images/episodes/081/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       81
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

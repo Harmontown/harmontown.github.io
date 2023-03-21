@@ -1,30 +1,47 @@
 ---
-episodeNumber:        336
-title:                "Mon the Perim"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  This Harmontown has everything: A baby kicker, a handshake before sex, Squeezy Steve Levy, and one hundred pounds of beef jerky.
-
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
-showDate:             
-releaseDate:          "2019-06-06 10:00:00Z"
-duration:             "02:04:00"
+layout:               episode
+slug:                 "353"
+sequenceNumber:       370
+episodeNumber:        353
+title:                "Nice Dunking, Cool Swishing"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3280237383.mp3?updated=1596574812"
+duration:             "02:01:53"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7247245993.mp3?updated=1596677055"
+external:
+  harmonCity:         "https://harmon.city/episode-353"
+  podcastDynamite:
+    hasMinutes:       false
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/370/353"
+  hallOfRecords:      
 
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Actor/Comedian Flula Borg astounds Jeff with his sports knowledge and 1980's American pop culture references, teaches us his favorite German words, and helps Dan become the best hype man he can be.
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Flula Borg.
+showDate:             
+releaseDate:          "2019-10-17 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
 hasDnD:               
 
-external:
-  harmonCity:         "https://harmon.city/episode-336"
-  podcastDynamite:
-    hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/353/336"
-  hallOfRecords:      
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/370/example-1.png"
+#- "/assets/images/episodes/370/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -48,26 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/353/example-1.png"
-#- "/assets/images/episodes/353/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       353
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->

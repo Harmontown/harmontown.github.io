@@ -6,7 +6,7 @@
 const string Output = "../../../data/chronology.json";
 const string Input = "../../../data/thetvdb.json";
 
-var episodes = new FrontMatterExtractor().GetEpisodes().ToList();
+var episodes = new FrontMatterExtractor().GetEpisodes().OrderBy(item => item.SequenceNumber).ToList();
 // MergeTheTVDB(episodes);
 
 File.WriteAllText(Output, JsonSerializer.Serialize(episodes, new JsonSerializerOptions { WriteIndented = true }));

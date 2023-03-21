@@ -1,28 +1,47 @@
 ---
-episodeNumber:        286
-title:                "All the Shingle Ladies"
-image:                "/assets/images/episode-placeholder.jpg"
-description: |-
-  Dan reacts to being diagnosed with Shingles by bringing a bed on stage and eating eggs. Fellow podcasters Keith Malley and Chemda Khalili join Jeff and Schrab in Dan's bed to discuss infectious diseases.
-showDate:             
-releaseDate:          "2018-05-02 10:00:00Z"
-duration:             "01:59:15"
+layout:               episode
+slug:                 "303"
+sequenceNumber:       320
+episodeNumber:        303
+title:                "Frog Complex"
+soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6521287811.mp3?updated=1596581570"
+duration:             "02:15:35"
 isLostEpisode:        false
 isTrailer:            false
-hasExplicitLanguage:  false
-soundFile:            "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA4379813941.mp3"
-
-venue:                
-comptroller:          "Jeff B. Davis"
-gameMaster:           "Spencer Crittenden"
-hasDnD:               
-
 external:
-  harmonCity:         "https://harmon.city/episode-286"
+  harmonCity:         "https://harmon.city/episode-303"
   podcastDynamite:
     hasMinutes:       false
-    url:              "https://podcastdynamite.com/#/p/Harmontown/e/303/286"
+    url:              "https://podcastdynamite.com/#/p/Harmontown/e/320/303"
   hallOfRecords:      
+
+image:                "/assets/images/episode-placeholder.jpg"
+description: |-
+  Is it morally right to eat Gillian Anderson's sandwiches? Why are Ron Perlman's hands so soft? What's really going on with Predator?
+  
+  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
+showDate:             
+releaseDate:          "2018-09-20 10:00:00Z"
+venue:                
+comptroller:          "Jeff B. Davis"
+gameMaster:           
+hasDnD:               
+
+# Note: Consult the "Tips" lower down the page for info on how to edit
+#       the guest, audienceGuests, and images lists.
+
+guests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+audienceGuests:
+#- "Example guest 1"
+#- "Example guest 2"
+
+images:
+#- "/assets/images/episodes/320/example-1.png"
+#- "/assets/images/episodes/320/example-2.jpeg"
+
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Tip!
@@ -46,27 +65,6 @@ external:
 #   To start using them remove the # symbol from the start of the line.
 #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-
-guests:
-- "Keith Malley"
-- "Chemda Khalili"
-- "Rob Schrab"
-
-audienceGuests:
-#- "Example guest 1"
-#- "Example guest 2"
-
-images:
-#- "/assets/images/episodes/303/example-1.png"
-#- "/assets/images/episodes/303/example-2.jpeg"
-
-##############################
-# Generated.  Do not change! #
-##############################
-layout:               episode
-sequenceNumber:       303
-hasPrevious:          True
-hasNext:              True
 ---
 
 <!-- The episode description will be rendered here -->
