@@ -11,7 +11,7 @@ module Harmontown
       @name     =  @basename + @ext
 
       @data = {
-        'sequenceNumbers' => sequenceNumbers,
+        'sequenceNumbers' => sequenceNumbers.sort,
         'layout' => 'episode-list',
         'title' => title,
         'field' => field,

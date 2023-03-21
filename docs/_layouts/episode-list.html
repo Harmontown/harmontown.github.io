@@ -7,7 +7,7 @@ layout: default
 <table class="episode-list row-highlight">
   <thead>
     <tr>
-      <th>Id</th>
+      <th>#</th>
       <th>Title</th>
       <th class="mobile-hidden">Venue</th>
       <th class="mobile-hidden">Show Date</th>
@@ -20,7 +20,7 @@ layout: default
   {% assign i = seqNum | minus: 1 %}
   {% assign ep = sorted[i] %}
   <tr>
-    <td>{{ ep.id }}</td>
+    <td>{{ ep.slug }}</td>
     <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>
     <td class="mobile-hidden">{{ ep.venue | default: 'TBC' }}</td>
     <td class="mobile-hidden">{{ ep.showDate | date: "%Y-%m-%d" | default: 'TBC' }}</td>

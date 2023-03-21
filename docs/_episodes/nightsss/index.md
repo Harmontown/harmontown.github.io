@@ -1,6 +1,6 @@
 ---
 layout:               episode
-slug:                 "nightsssss"
+slug:                 "nightsss"
 sequenceNumber:       112
 episodeNumber:        
 title:                "HARMONTOWN NIGHTS PREVIEW"

@@ -55,7 +55,7 @@ module Harmontown
         MissingValue.new('List of audience members who participated.', 'audienceGuests', 
           getSequenceNumbers('audienceGuests')),
         MissingValue.new('Custom episode image.', 'image', 
-          @episodes.select { |ep| ep['image'] == 'episode-placeholder.jpg' }.map { |ep| ep['sequenceNumber']}),
+          @episodes.select { |ep| ep['image'] == '/assets/images/episode-placeholder.jpg' }.map { |ep| ep['sequenceNumber']}),
       ]
     end
   end

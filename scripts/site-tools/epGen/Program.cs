@@ -13,7 +13,7 @@ void GenerateEpisodeStubs()
   var episodes = JsonSerializer.Deserialize<IEnumerable<Episode>>(File.ReadAllText(ChronologyInput));
 
   // debugging...
-  // episodes = episodes.Skip(0).Take(100).ToList();
+  // episodes = episodes.Skip(0).Take(20).ToList();
 
   var first = episodes.First();
   var last = episodes.Last();
