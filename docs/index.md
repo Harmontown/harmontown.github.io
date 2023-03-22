@@ -10,7 +10,7 @@ This is an online encyclopedia for the Harmontown podcast that anyone is free to
 {% include progress.html %}
 
 ## About
-This wiki attempts to aggreagte various efforts to documentation the Harmontown podcast.
+This wiki attempts to aggregate the various fan efforts to document the Harmontown podcast.
 
 The initial episode data was sourced from the podcast RSS feed, the [Podcast Dynamite](https://podcastdynamite.com) website (guest lists, episode minutes, and lost episodes), and the [Harmoncity](http://harmon.city) website (auto-transcripts and some episode descriptions).
 
