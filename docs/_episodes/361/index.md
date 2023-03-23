@@ -24,7 +24,7 @@ releaseDate:          "2019-12-25 11:00:00Z"
 venue:                
 comptroller:          
 gameMaster:           
-hasDnD:               
+hasDnD:               false
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.

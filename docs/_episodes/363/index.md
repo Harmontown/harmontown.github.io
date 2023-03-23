@@ -17,20 +17,21 @@ external:
 
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
-  The gang gets back together one more time to catch up on everything since the show's finale. Special guests: Rob Schrab, Kumail Nanjiani and Emily V. Gordon!
+  The gang gets back together one more time to catch up on everything since the show's finale.
 showDate:             
 releaseDate:          "2021-03-18 07:00:00Z"
 venue:                
-comptroller:          
-gameMaster:           
+comptroller:          "Jeff B. Davis"
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Rob Schrab"
+- "Kumail Nanjiani"
+- "Emily V. Gordon"
 
 audienceGuests:
 #- "Example guest 1"
