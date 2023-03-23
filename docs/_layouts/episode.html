@@ -55,6 +55,7 @@ layout: default
         <td>{{ page.venue | default: "TBC" }}</td>
       </tr>
 
+      {% if page.comptroller or page.gameMaster or page.guests or page.audienceGuests %}
       <tr class="section-header">
         <th colspan="2">
           <div>People</div>
@@ -64,17 +65,19 @@ layout: default
         <td colspan="2">
           <table>
             <tbody>
+              {% if page.comptroller %}
               <tr>
                 <th>Comptroller</th>
                 <td>{{ page.comptroller }}</td>
               </tr>
-              {% if page.gameMaster != nil %}
+              {% endif %}
+              {% if page.gameMaster %}
               <tr>
                 <th title="Game Master">GM</th>
                 <td>{{ page.gameMaster }}</td>
               </tr>
               {% endif %}
-              {% if page.guests.size > 0 %}
+              {% if page.guests %}
               <tr>
                 <th>Guests</th>
                 <td>
@@ -86,7 +89,7 @@ layout: default
                 </td>
               </tr>
               {% endif %}
-              {% if page.audienceGuests.size > 0 %}
+              {% if page.audienceGuests %}
               <tr>
                 <th>Audience</th>
                 <td>
@@ -102,6 +105,7 @@ layout: default
           </table>
         </td>
       </tr>
+      {% endif %}
 
       {% if page.isLostEpisode == false %}
       <tr class="section-header">
@@ -131,6 +135,7 @@ layout: default
       </tr>
       {% endif %}
 
+      {% if page.external.harmonCity or page.external.podcastDynamite.hasMinutes or page.external.hallOfRecords or page.soundFile %}
       <tr class="section-header">
         <th colspan="2">
           <div>External <span class="material-icons">open_in_new</span></div>
@@ -174,6 +179,7 @@ layout: default
           </table>
         </td>
       </tr>
+      {% endif %}
 
     </tbody>
 
