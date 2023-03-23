@@ -22,15 +22,17 @@ showDate:
 releaseDate:          "2017-03-01 17:16:00Z"
 venue:                
 comptroller:          "Brandon Johnson"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Rob Schrab"
+- "Jason Sklar"
+- "Randy Sklar"
+
 
 audienceGuests:
 #- "Example guest 1"

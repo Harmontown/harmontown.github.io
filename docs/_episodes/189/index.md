@@ -20,20 +20,21 @@ description: |-
   The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens.
   
   Opening song by Babes.
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Andrew Weinberg, Steve Levy and DeMorge Brown
 showDate:             
 releaseDate:          "2016-03-23 04:28:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Rob Schrab"
+- "Andrew Weinberg"
+- "Steve Levy"
+- "DeMorge Brown"
 
 audienceGuests:
 #- "Example guest 1"

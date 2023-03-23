@@ -20,21 +20,22 @@ description: |-
   A packed episode leads to three Robs and the roast of Jimmy Carrane. 
   
   Opening music by Titanic Sinclair!
-  
-  Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Rob Corddry, Jimmy Carrane, Cameron Esposito and DeMorge Brown.
 showDate:             
 releaseDate:          "2016-03-30 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Rob Schrab"
+- "Rob Corddry"
+- "Jimmy Carrane"
+- "Cameron Esposito"
+- "DeMorge Brown"
 
 audienceGuests:
 #- "Example guest 1"

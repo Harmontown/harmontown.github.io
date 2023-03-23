@@ -22,14 +22,14 @@ showDate:
 releaseDate:          "2017-02-22 20:39:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
+- "Open Mike Eagle"
 #- "Example guest 2"
 
 audienceGuests:

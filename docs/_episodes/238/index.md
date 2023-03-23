@@ -29,8 +29,8 @@ hasDnD:
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Rob Schrab"
+- "Brandon Johnson"
 
 audienceGuests:
 #- "Example guest 1"

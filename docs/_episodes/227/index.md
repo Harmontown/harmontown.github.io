@@ -18,13 +18,11 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Night 2 of Harmontown's historic performances at the Sydney Opera House has a true opera unfold.
-  
-  Featuring Dan Harmon, Jeff Davis and Spencer Crittenden.
 showDate:             
 releaseDate:          "2017-01-10 01:09:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit

@@ -22,15 +22,19 @@ showDate:
 releaseDate:          "2017-02-15 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Richie Keen"
+- "Dino Stamatopoulos"
+- "Scott Adsit"
+- "Britta Phillips"
+- "Rob Schrab"
+- "Steve Levy"
 
 audienceGuests:
 #- "Example guest 1"

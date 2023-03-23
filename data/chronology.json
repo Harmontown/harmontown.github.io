@@ -2155,7 +2155,7 @@
     "EpisodeNumber": 48,
     "Title": "Felicity Wackamole",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "Topics include Gene Hackman, emphysema, sharks, cereal, Thalidomide, Wreck it Ralph, burn victims, Dracula, Special Olympics, regular Olympics, Bruce Villanch, missing electronics and law enforcement. The D\u0026D party flirts with sleep studies, then fights a dragon.\nFeaturing Doug Benson and Kumail Nanjiani.",
+    "Description": "Topics include Gene Hackman, emphysema, sharks, cereal, Thalidomide, Wreck it Ralph, burn victims, Dracula, Special Olympics, regular Olympics, Bruce Villanch, missing electronics and law enforcement. The D\u0026D party flirts with sleep studies, then fights a dragon.",
     "ShowDate": null,
     "ReleaseDate": "2013-03-15 06:57:00Z",
     "Duration": "01:53:36",
@@ -4312,7 +4312,7 @@
     "SequenceNumber": 132,
     "EpisodeNumber": 117,
     "Title": "Debbie Request Permission To Do Dallas",
-    "Image": "/assets/images/episodes/132/05.png",
+    "Image": "/assets/images/episodes/117/05.png",
     "Description": "Harmontown tests its live streaming capabilities, Alex Rubens comptrolls and instead of D\u0026D the group goes on a sci-fi side quest.",
     "ShowDate": null,
     "ReleaseDate": "2014-09-22 20:55:00Z",
@@ -5902,7 +5902,7 @@
     "SequenceNumber": 185,
     "EpisodeNumber": 169,
     "Title": "A Little Handicap",
-    "Image": "/assets/images/episodes/185/03.png",
+    "Image": "/assets/images/episodes/169/03.png",
     "Description": "We welcome the great Andy Kindler back to Harmontown and Dan goes to the haunted hayride and something incredibly offensive happens.",
     "ShowDate": null,
     "ReleaseDate": "2015-10-28 04:26:00Z",
@@ -6503,7 +6503,7 @@
     "EpisodeNumber": 189,
     "Title": "Monster Man",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens.\n\nOpening song by Babes.\nFeaturing Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Andrew Weinberg, Steve Levy and DeMorge Brown",
+    "Description": "The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens.\n\nOpening song by Babes.",
     "ShowDate": null,
     "ReleaseDate": "2016-03-23 04:28:00Z",
     "Duration": "02:05:01",
@@ -6513,7 +6513,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8911442095.mp3?updated=1560380738",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-189",
@@ -6523,7 +6523,12 @@
       },
       "HallOfRecords": "https://www.youtube.com/playlist?list=PLqxM5x81hNOYyFa_78n4cnTEQzG_fZi1N"
     },
-    "Guests": null,
+    "Guests": [
+      "Rob Schrab",
+      "Andrew Weinberg",
+      "Steve Levy",
+      "DeMorge Brown"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -6533,7 +6538,7 @@
     "EpisodeNumber": 190,
     "Title": "Pineapple",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "A packed episode leads to three Robs and the roast of Jimmy Carrane. \n\nOpening music by Titanic Sinclair!\n\nFeaturing Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab, Rob Corddry, Jimmy Carrane, Cameron Esposito and DeMorge Brown.",
+    "Description": "A packed episode leads to three Robs and the roast of Jimmy Carrane. \n\nOpening music by Titanic Sinclair!",
     "ShowDate": null,
     "ReleaseDate": "2016-03-30 05:00:00Z",
     "Duration": "01:59:45",
@@ -6543,7 +6548,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3342011339.mp3?updated=1560378932",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-190",
@@ -6553,7 +6558,13 @@
       },
       "HallOfRecords": "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ2oPl82soQs3r4d3z0t81J"
     },
-    "Guests": null,
+    "Guests": [
+      "Rob Schrab",
+      "Rob Corddry",
+      "Jimmy Carrane",
+      "Cameron Esposito",
+      "DeMorge Brown"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -7568,7 +7579,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7831819096.mp3?updated=1596675652",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-223",
@@ -7578,7 +7589,9 @@
       },
       "HallOfRecords": null
     },
-    "Guests": null,
+    "Guests": [
+      "Ptolemy Slocum"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -7678,7 +7691,7 @@
     "EpisodeNumber": 227,
     "Title": "Harmontownunder: Sydney Opera House Night 2",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "Night 2 of Harmontown\u0027s historic performances at the Sydney Opera House has a true opera unfold.\n\nFeaturing Dan Harmon, Jeff Davis and Spencer Crittenden.",
+    "Description": "Night 2 of Harmontown\u0027s historic performances at the Sydney Opera House has a true opera unfold.",
     "ShowDate": null,
     "ReleaseDate": "2017-01-10 01:09:00Z",
     "Duration": "02:00:38",
@@ -7688,7 +7701,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3964757791.mp3?updated=1596787200",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-227",
@@ -7808,7 +7821,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2483494367.mp3?updated=1596826350",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-231",
@@ -7818,7 +7831,10 @@
       },
       "HallOfRecords": null
     },
-    "Guests": null,
+    "Guests": [
+      "Rob Schrab",
+      "Cassandra Church"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -7838,7 +7854,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5112786742.mp3?updated=1596825121",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-232",
@@ -7848,7 +7864,14 @@
       },
       "HallOfRecords": null
     },
-    "Guests": null,
+    "Guests": [
+      "Richie Keen",
+      "Dino Stamatopoulos",
+      "Scott Adsit",
+      "Britta Phillips",
+      "Rob Schrab",
+      "Steve Levy"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -7868,7 +7891,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7187157677.mp3",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-233",
@@ -7878,7 +7901,9 @@
       },
       "HallOfRecords": null
     },
-    "Guests": null,
+    "Guests": [
+      "Open Mike Eagle"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -7898,7 +7923,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7386526526.mp3",
     "Venue": null,
     "Comptroller": "Brandon Johnson",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-234",
@@ -7908,7 +7933,11 @@
       },
       "HallOfRecords": null
     },
-    "Guests": null,
+    "Guests": [
+      "Rob Schrab",
+      "Jason Sklar",
+      "Randy Sklar"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -7928,7 +7957,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA8575453930.mp3",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-235",
@@ -7988,7 +8017,7 @@
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA2046806980.mp3",
     "Venue": null,
     "Comptroller": "Jeff B. Davis",
-    "GameMaster": null,
+    "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
       "HarmonCity": "https://harmon.city/episode-237",
@@ -7998,7 +8027,9 @@
       },
       "HallOfRecords": null
     },
-    "Guests": null,
+    "Guests": [
+      "Tim Talbott"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -8028,7 +8059,10 @@
       },
       "HallOfRecords": null
     },
-    "Guests": null,
+    "Guests": [
+      "Rob Schrab",
+      "Brandon Johnson"
+    ],
     "AudienceGuests": null,
     "Images": null
   },
@@ -8071,7 +8105,7 @@
     "EpisodeNumber": 240,
     "Title": "Blackest Friend in the World",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "Creator of the documentary \u0022Accidental Courtesy: Daryl Davis, Race \u0026 America\u0022 Matt Ornstein drops by to discuss his new film with guests Brandon Johnson and Steve Agee. Steve Levy does a quick Jew and A.\n\nFeaturing Dan Harmon, Jeff B. Davis, Spencer Crittenden, Matt Ornstein, Brandon Johnson, Steve Agee, and Steve Levy.",
+    "Description": "Creator of the documentary \u0022Accidental Courtesy: Daryl Davis, Race \u0026 America\u0022 Matt Ornstein drops by to discuss his new film with guests Brandon Johnson and Steve Agee. Steve Levy does a quick Jew and A.",
     "ShowDate": null,
     "ReleaseDate": "2017-04-12 13:51:00Z",
     "Duration": "02:05:01",
@@ -8080,7 +8114,7 @@
     "HasExplicitLanguage": null,
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA6664172127.mp3",
     "Venue": null,
-    "Comptroller": "Brandon Johnson",
+    "Comptroller": "Jeff B. Davis",
     "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
@@ -8093,6 +8127,7 @@
     },
     "Guests": [
       "Matt Ornstein",
+      "Brandon Johnson",
       "Steve Agee",
       "Steve Levy"
     ],
@@ -8105,7 +8140,7 @@
     "EpisodeNumber": 241,
     "Title": "Kumanji",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "Kumail and Emily return to discuss Harmontown leaving NerdMelt, Spencer \u0026 Schrab provide color commentary while Brandon Johnson and Doug Benson get to meet Dan\u0027s newest rap character, Peanut Jones.\n\nFeaturing Dan Harmon, Jeff B. Davis, Spencer Crittenden, Rob Schrab, Kumail Nanjiani, Emily V. Gordon, Brandon Johnson and Doug Benson.",
+    "Description": "Kumail and Emily return to discuss Harmontown leaving NerdMelt, Spencer \u0026 Schrab provide color commentary while Brandon Johnson and Doug Benson get to meet Dan\u0027s newest rap character, Peanut Jones.",
     "ShowDate": null,
     "ReleaseDate": "2017-04-19 05:09:00Z",
     "Duration": "01:57:39",
@@ -8114,7 +8149,7 @@
     "HasExplicitLanguage": null,
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA5143422799.mp3?updated=1596757203",
     "Venue": null,
-    "Comptroller": "Brandon Johnson",
+    "Comptroller": "Jeff B. Davis",
     "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
     "External": {
@@ -8126,11 +8161,11 @@
       "HallOfRecords": null
     },
     "Guests": [
-      "Doug Benson",
+      "Rob Schrab",
       "Kumail Nanjiani",
       "Emily V. Gordon",
-      "Rob Schrab",
-      "Jeff B. Davis"
+      "Brandon Johnson",
+      "Doug Benson"
     ],
     "AudienceGuests": null,
     "Images": null
@@ -8171,7 +8206,7 @@
     "EpisodeNumber": 243,
     "Title": "Adult Onset Pyromania",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "Our first show after moving to the Starburns Castle with Brandon Johnson as the guest comptroller! Dan finds a giant surprise gift on stage then shows off his latest Minecraft creations then we hear the history of America as a rap.\n\nFeaturing Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.",
+    "Description": "Our first show after moving to the Starburns Castle with Brandon Johnson as the guest comptroller! Dan finds a giant surprise gift on stage then shows off his latest Minecraft creations then we hear the history of America as a rap.",
     "ShowDate": null,
     "ReleaseDate": "2017-05-03 13:52:00Z",
     "Duration": "01:59:08",
@@ -8179,7 +8214,7 @@
     "IsTrailer": false,
     "HasExplicitLanguage": null,
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA3847603239.mp3?updated=1596758479",
-    "Venue": null,
+    "Venue": "Starburns Castle",
     "Comptroller": "Brandon Johnson",
     "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
@@ -8203,7 +8238,7 @@
     "EpisodeNumber": 244,
     "Title": "God Made Us To Kill Us",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "Dan explores new interactive options for the show, Rob Corddry and Rob Schrab weigh in on Dan\u0027s writing methods, while Guest Comptroller Brandon Johnson becomes Dan\u0027s angry writing coach.\n\nFeaturing Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Corddry and Rob Schrab.",
+    "Description": "Dan explores new interactive options for the show, Rob Corddry and Rob Schrab weigh in on Dan\u0027s writing methods, while Guest Comptroller Brandon Johnson becomes Dan\u0027s angry writing coach.",
     "ShowDate": null,
     "ReleaseDate": "2017-05-10 08:00:00Z",
     "Duration": "01:58:22",
@@ -8211,7 +8246,7 @@
     "IsTrailer": false,
     "HasExplicitLanguage": null,
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA1256494511.mp3?updated=1596759091",
-    "Venue": null,
+    "Venue": "Starburns Castle",
     "Comptroller": "Brandon Johnson",
     "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
@@ -8236,7 +8271,7 @@
     "EpisodeNumber": 245,
     "Title": "Explain Your World View",
     "Image": "/assets/images/episode-placeholder.jpg",
-    "Description": "Mystery Science Theater\u0027s Joel Hodgson stops by, everyone\u0027s world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries.\n\nFeaturing Dan Harmon, Brandon Johnson, Spencer Crittenden, Joel Hodgson, Robert Evans and Magenta Vaughn.",
+    "Description": "Mystery Science Theater\u0027s Joel Hodgson stops by, everyone\u0027s world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries.",
     "ShowDate": null,
     "ReleaseDate": "2017-05-24 06:43:00Z",
     "Duration": "02:03:56",
@@ -8244,7 +8279,7 @@
     "IsTrailer": false,
     "HasExplicitLanguage": null,
     "SoundFile": "https://chtbl.com/track/E2288/traffic.megaphone.fm/STA7038219060.mp3?updated=1596759709",
-    "Venue": null,
+    "Venue": "Starburns Castle",
     "Comptroller": "Brandon Johnson",
     "GameMaster": "Spencer Crittenden",
     "HasDnD": null,
@@ -10471,7 +10506,7 @@
     "SequenceNumber": 335,
     "EpisodeNumber": 318,
     "Title": "MC Non-Binary Chicken",
-    "Image": "/assets/images/episodes/335/05.png",
+    "Image": "/assets/images/episodes/318/05.png",
     "Description": "Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer.\n\nFeaturing Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Open Mike Eagle.",
     "ShowDate": null,
     "ReleaseDate": "2019-01-24 11:00:00Z",

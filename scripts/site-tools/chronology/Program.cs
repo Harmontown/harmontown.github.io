@@ -21,10 +21,11 @@ static void MergeTheTVDB(List<Episode> episodes)
   {
     int epNum = item.GetProperty("episodeNumber").GetInt32();
     DateTimeOffset date = item.GetProperty("date").GetDateTimeOffset();
-    var title = item.GetProperty("date").GetString();
+    var title = item.GetProperty("title").GetString();
     var description = item.GetProperty("description").GetString();
 
-    epsByNumber[epNum] = epsByNumber[epNum] with { Description = description };
+    // epsByNumber[epNum] = epsByNumber[epNum] with { Description = description };
+    epsByNumber[epNum] = epsByNumber[epNum] with { ShowDate = date };
   }
 
   episodes = episodes.Select(item => !item.EpisodeNumber.HasValue ? item : epsByNumber[item.EpisodeNumber.Value]).ToList();

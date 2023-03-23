@@ -18,7 +18,6 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Topics include Gene Hackman, emphysema, sharks, cereal, Thalidomide, Wreck it Ralph, burn victims, Dracula, Special Olympics, regular Olympics, Bruce Villanch, missing electronics and law enforcement. The D&D party flirts with sleep studies, then fights a dragon.
-  Featuring Doug Benson and Kumail Nanjiani.
 showDate:             
 releaseDate:          "2013-03-15 06:57:00Z"
 venue:                "NerdMelt"
