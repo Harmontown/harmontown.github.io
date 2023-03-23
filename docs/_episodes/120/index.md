@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown visits Toronto for a massive show with comptroller Bobcat Goldthwait! Later, our friend Jane comes on stage to talk transgenderism.
-showDate:             
+showDate:             "2014-10-10 00:00:00Z"
 releaseDate:          "2014-10-10 21:37:00Z"
 venue:                
 comptroller:          "Bobcat Goldthwait"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's HarmonBlock 2015, some of us really had ADD and we adhere to the wisdom of Sam Elliot on HARMONTOWN!
-showDate:             
+showDate:             "2015-03-29 00:00:00Z"
 releaseDate:          "2015-04-01 05:17:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

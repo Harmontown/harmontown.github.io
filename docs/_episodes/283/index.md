@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We have a lot of questions about Necrophilia. Dan answers a lot of questions about his underwear and debates the morality and accuracy of veterinary medicine, while Jeff has a creative solution for man boobs.
-showDate:             
+showDate:             "2018-04-08 00:00:00Z"
 releaseDate:          "2018-04-11 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

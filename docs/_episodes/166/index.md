@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Comptroller Rob Schrab comes out of the gate yelling, an over zealous fan brings hot sauce to the stage and guest Amy Berg and Wil Wheaton play a game of Werewolf!
-showDate:             
+showDate:             "2015-10-04 00:00:00Z"
 releaseDate:          "2015-10-07 02:33:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

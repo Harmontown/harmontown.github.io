@@ -20,7 +20,7 @@ description: |-
   Dan and Jeff take their brand new role playing characters out for a spin. Christina Oh talks movies with Dan.
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Christina Oh.
-showDate:             
+showDate:             "2017-06-18 00:00:00Z"
 releaseDate:          "2017-06-21 12:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

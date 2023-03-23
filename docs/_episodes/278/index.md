@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The Walking Dead creator, Robert Kirkman, joins Rob Schrab on stage to talk comics, writing and more. Dan tries putting things on blast, to varying success. Jeff plays a listener submitted remix of Schrab's dog's freakout.
-showDate:             
+showDate:             "2018-02-25 00:00:00Z"
 releaseDate:          "2018-02-28 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Doug Benson and audience members discuss movies, Dan & Spencer do some feminist role playing, and Dan gets complimented on his beer choice.
-showDate:             
+showDate:             "2017-03-13 00:00:00Z"
 releaseDate:          "2017-03-16 07:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

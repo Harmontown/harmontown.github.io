@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown invades The New York Television festival for the launch of Seeso, a new comedy streaming service and the home of our upcoming show Harmonquest!
-showDate:             
+showDate:             "2015-10-19 00:00:00Z"
 releaseDate:          "2015-10-21 23:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

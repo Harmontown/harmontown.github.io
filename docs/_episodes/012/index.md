@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Special guest Greg Proops returns! The question of what happens after you die remains unanswered, but tangents include mental illness, poverty and misunderstood Van Halen lyrics. Meanwhile, in D&D world, Sharpie and Quark claim their Embermauler bounty, buy horses and do improv in a forest with an old unicorn friend.
-showDate:             
+showDate:             "2012-10-19 00:00:00Z"
 releaseDate:          "2012-10-19 02:09:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan reacts to being diagnosed with Shingles by bringing a bed on stage and eating eggs. Fellow podcasters Keith Malley and Chemda Khalili join Jeff and Schrab in Dan's bed to discuss infectious diseases.
-showDate:             
+showDate:             "2018-04-29 00:00:00Z"
 releaseDate:          "2018-05-02 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

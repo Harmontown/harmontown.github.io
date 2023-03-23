@@ -20,7 +20,7 @@ description: |-
   We learn some shocking truths about Spencer while Steve Levy fills in for him, Fred Stoller delves deep into the writing process of Seinfeld, Dan suspects our guest comptroller (Brandon Johnson) is a time traveler.
   
   Featuring Dan Harmon, Brandon Johnson, Steve Levy and Fred Stoller.
-showDate:             
+showDate:             "2017-05-28 00:00:00Z"
 releaseDate:          "2017-05-31 05:47:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

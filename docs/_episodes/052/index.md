@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In which Mayor Harmon explores everything that's already been explored about the topics of Road House, Roger Ebert and Skeletor. Plus: Kumail Nanjiani, Drunk Spencer and the final word on nipple size.
-showDate:             
+showDate:             "2013-04-15 00:00:00Z"
 releaseDate:          "2013-04-15 01:53:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

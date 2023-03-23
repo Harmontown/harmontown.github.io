@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We hear about the drunk driver that hit Dan's house, plus Jeff's trip to India. Everyone questions Steve Levy's doctor's qualifications, but is glad he's alive. While roleplaying, the gang stakes out an in-use restroom for a very, very long time.
-showDate:             
+showDate:             "2018-01-07 00:00:00Z"
 releaseDate:          "2018-01-10 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

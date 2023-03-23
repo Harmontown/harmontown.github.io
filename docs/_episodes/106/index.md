@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan Harmon, Jeff Davis, Greg Proops, Kumail Nanjiani, Erin McGathy and Spencer Crittenden perform for another sold out HARMONTOWN and FINALLY, necrophillia is discussed at great length.
-showDate:             
+showDate:             "2014-07-07 00:00:00Z"
 releaseDate:          "2014-07-07 20:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -20,7 +20,7 @@ description: |-
   Suruthi and Hannah from the RedHanded podcast are this week's guests. They share their true crime expertise, including some crime role playing!
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Suruthi Bala and Hannah Maguire.
-showDate:             
+showDate:             "2019-03-25 00:00:00Z"
 releaseDate:          "2019-03-28 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

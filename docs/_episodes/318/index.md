@@ -20,7 +20,7 @@ description: |-
   Open Mike Eagle returns to talk about dog heaven, babies and bird poop with Dan, Jeff and Spencer.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Open Mike Eagle.
-showDate:             
+showDate:             "2019-01-21 00:00:00Z"
 releaseDate:          "2019-01-24 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Founders of Reductress, Beth Newell and Sarah Pappalardo join Harmontown to promote their podcast Mouth Time and Dan tries to gain a feminist perspective, our friend Brandon Johnson returns and more!
-showDate:             
+showDate:             "2017-01-15 00:00:00Z"
 releaseDate:          "2017-01-18 17:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan can see more colors than the average person and doesn't care because colors are dumb. Curtis Armstrong comptrolls.
-showDate:             
+showDate:             "2015-06-07 00:00:00Z"
 releaseDate:          "2015-06-09 23:30:00Z"
 venue:                
 comptroller:          "Curtis Armstrong"

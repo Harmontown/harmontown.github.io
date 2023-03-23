@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's election night fever when Dan and Jeff realize that the episode will air long after the election. Clearly a devout Democrat, Dan complains about his hired help before bringing up a real live woman to referee history's least informed Harry Potter trivia competition. Plus: transitional D&D! Freestyle rapping! Not knowing how to end the show!
-showDate:             
+showDate:             "2012-11-17 00:00:00Z"
 releaseDate:          "2012-11-17 02:29:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

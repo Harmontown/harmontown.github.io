@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Richie Keen, Dino Stamatopoulos, Scott Adsit, Britta Phillips, Rob Schrab and Steve Levy.
-showDate:             
+showDate:             "2017-02-12 00:00:00Z"
 releaseDate:          "2017-02-15 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

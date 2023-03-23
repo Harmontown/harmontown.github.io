@@ -20,7 +20,7 @@ description: |-
   Our march into oblivion continues! No guests! No role playing! Nothing to lose! It's worth mentioning Spencer is feeling pretty sassy this episode and it shows.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.
-showDate:             
+showDate:             "2019-10-28 00:00:00Z"
 releaseDate:          "2019-10-31 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

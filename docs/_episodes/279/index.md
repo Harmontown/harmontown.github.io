@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's Oscar night! Dan discusses the current political landscape, the value politicians are bringing to the table, and where we should go next. Also, Spencer thinks the NRA has some dank ass memes
-showDate:             
+showDate:             "2018-03-04 00:00:00Z"
 releaseDate:          "2018-03-07 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

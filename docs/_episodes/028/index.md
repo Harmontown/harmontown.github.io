@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A quiet military bunker in Charlotte known as The Comedy Zone is the site of a kinder, gentler town meeting than Nashville's booze-drenched hootenanny. Mayor Harmon attempts to write a constitution and learns about the deep seated, low-stakes conflict between the Carolinas. In D&D, the band reunites aboard a spaceship and Erin shames a loud lady.
-showDate:             
+showDate:             "2013-01-15 00:00:00Z"
 releaseDate:          "2013-01-16 23:29:00Z"
 venue:                "TBC, Charlotte, NC"
 comptroller:          "Jeff B. Davis"

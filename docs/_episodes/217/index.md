@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Andy Dick and Dino Stamatopoulos return for some music, slide whistle and some feels. Your Mayor uses the pressure valve on his brain and lets off some steam.
-showDate:             
+showDate:             "2016-10-16 00:00:00Z"
 releaseDate:          "2016-10-20 05:04:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

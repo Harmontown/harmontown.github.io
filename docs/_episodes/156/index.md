@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   How big is a bulls urethra? Dan has a video game romance he's guilty about and the gang tries to initiate some butt chuggin'.
-showDate:             
+showDate:             "2015-07-19 00:00:00Z"
 releaseDate:          "2015-07-22 06:24:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

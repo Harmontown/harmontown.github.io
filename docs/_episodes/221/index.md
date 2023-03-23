@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In the wake of an upsetting election and racial tension, Harmontown welcomes the Avenger's Elizabeth Olsen, Rick and Morty's Brandon Johnson and our first musical guest ever Babes to suss it all out. Ha-ha-ha ha-ha ha ha-ha.
-showDate:             
+showDate:             "2016-11-13 00:00:00Z"
 releaseDate:          "2016-11-16 11:42:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmon loses an Oscar, Phil and Mike of HBO's Animals, Abed Geith returns and Schrab is extra disruptive on HARMONTOWN!
-showDate:             
+showDate:             "2016-02-28 00:00:00Z"
 releaseDate:          "2016-03-02 06:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

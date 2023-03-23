@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The great Andy Kindler finally visits Harmontown!!!
-showDate:             
+showDate:             "2015-05-24 00:00:00Z"
 releaseDate:          "2015-05-27 07:53:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

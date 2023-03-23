@@ -20,7 +20,7 @@ description: |-
   Author of the new book "It Came from Something Awful", Dale Beran teaches us the history 4chan and 8chan. How did simple websites transform into centers of white nationalism, violence and tools of politics?
   
   Featuring Dan Harmon, Brandon Johnson and Dale Beran.
-showDate:             
+showDate:             "2019-08-19 00:00:00Z"
 releaseDate:          "2019-08-22 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

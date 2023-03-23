@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Sean Clements and Hayes Davenport.
-showDate:             
+showDate:             "2019-05-06 00:00:00Z"
 releaseDate:          "2019-05-09 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

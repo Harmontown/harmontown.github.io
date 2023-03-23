@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon pays an Australian in the audience 100 bucks to serve them cups of ice. We get to the bottom of Schrabbing with Internet Trolling Sensation Rob Schrab and later, Rob provides all sound effects for D&D.
-showDate:             
+showDate:             "2014-09-01 00:00:00Z"
 releaseDate:          "2014-09-01 18:25:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A discussion of something the Scottish call a "Wizard Sleeve" is ever-so-briefly interrupted by racism, robots, and a visit from something Erin McGathy calls a "game corner."
-showDate:             "2012-07-31 04:00:00Z"
+showDate:             "2012-07-31 00:00:00Z"
 releaseDate:          "2012-08-04 02:29:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

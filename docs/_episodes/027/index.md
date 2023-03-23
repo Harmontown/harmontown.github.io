@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon chooses Music City, USA as the place to enter the "drunk Brian Wilson" phase of his podcasting career. Is his mistake the pre-show Jaggerbombs or the mid-show moonshine? In any case, let this episode stand as a cautionary tale.
-showDate:             
+showDate:             "2013-01-14 00:00:00Z"
 releaseDate:          "2013-01-16 00:52:00Z"
 venue:                "TBC, Nashville, TN"
 comptroller:          "Jeff B. Davis"

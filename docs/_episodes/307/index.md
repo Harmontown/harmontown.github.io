@@ -20,7 +20,7 @@ description: |-
   Guest Comptroller Brandon Johnson and Dan discover French Spencer, and learn that sometimes applause hurts.
   
   Featuring Dan Harmon, Brandon Johnson and Spencer Crittenden.
-showDate:             
+showDate:             "2018-10-15 00:00:00Z"
 releaseDate:          "2018-10-18 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

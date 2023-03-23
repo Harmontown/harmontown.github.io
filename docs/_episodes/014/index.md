@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An unflinching examination of Dan's mustache absorption becomes a flinching examination of Harmontown regular Adam Goldberg. Plus: special guest Steve Agee drops by for a discussion of airline food and the ridiculous infiltration of Admiral Darkstar's stronghold.
-showDate:             "2012-10-15 04:00:00Z"
+showDate:             "2012-10-15 00:00:00Z"
 releaseDate:          "2012-10-26 06:48:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

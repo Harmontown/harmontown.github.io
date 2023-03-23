@@ -20,7 +20,7 @@ description: |-
   Rob Corddry visits Harmontown for the first time and is a die-hard fan, everyone falls in love with him. Later we meet Rob Schrab's parents!
   
   Outro music: "Lonely Forever" by Babes
-showDate:             
+showDate:             "2016-03-13 00:00:00Z"
 releaseDate:          "2016-03-16 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

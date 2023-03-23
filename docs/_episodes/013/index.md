@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan complains about things he's not allowed to complain about, then outs himself as the world's laziest gay rights and medical marijuana advocate. Plus, in D&D world: nothing happens!
-showDate:             "2012-10-01 04:00:00Z"
+showDate:             "2012-10-01 00:00:00Z"
 releaseDate:          "2012-10-22 10:19:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

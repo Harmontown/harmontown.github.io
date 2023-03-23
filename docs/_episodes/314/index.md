@@ -20,7 +20,7 @@ description: |-
   Comedian and fellow podcaster Pete Holmes joins Dan, Jeff and Spencer to answer: What Hurts Pete Holmes?
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Pete Holmes.
-showDate:             
+showDate:             "2018-12-10 00:00:00Z"
 releaseDate:          "2018-12-13 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

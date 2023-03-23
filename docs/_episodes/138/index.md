@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We meet the laziest rapper, Curtis Armstrong becomes the latest member of the Harmontown family and the plot in Shadowrun thickens.
-showDate:             
+showDate:             "2015-03-08 00:00:00Z"
 releaseDate:          "2015-03-11 22:37:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   There is no other Harmontown like this. In an effort to sell tickets Dan writes a Community Movie projected on screen.
-showDate:             
+showDate:             "2016-07-23 00:00:00Z"
 releaseDate:          "2016-07-27 07:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

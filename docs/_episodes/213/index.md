@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   SCHRAB IS HERE. And the best improvised scene ever ensues.
-showDate:             
+showDate:             "2016-09-18 00:00:00Z"
 releaseDate:          "2016-09-21 23:45:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

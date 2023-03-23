@@ -20,7 +20,7 @@ description: |-
   We finally get to the bottom of the story about Spencer's bees, why The Golden Girls owned mink, what a Jeff Golem would look like, Rob Schrab, and bagels.
   
   Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Jeff Bryan Davis.
-showDate:             
+showDate:             "2019-07-15 00:00:00Z"
 releaseDate:          "2019-07-18 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

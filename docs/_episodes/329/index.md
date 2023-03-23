@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The squad delves deep into the pros & cons of wolf piss. Schrab schrabs Dan into a crater, while Brandon holds the ship together upon re-entry.
-showDate:             
+showDate:             "2019-04-08 00:00:00Z"
 releaseDate:          "2019-04-11 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

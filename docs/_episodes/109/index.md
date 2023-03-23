@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon discusses ComicCon, we enter the Animal Corner, finds out Rogaine will kill your cat and Kumail returns just in time for a rousing round of D&D.
-showDate:             
+showDate:             "2014-07-28 00:00:00Z"
 releaseDate:          "2014-07-28 19:52:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

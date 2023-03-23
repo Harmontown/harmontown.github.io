@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A game changing sold out show in Chicago's beautiful Park West theatre! Music by Babes.
-showDate:             
+showDate:             "2016-02-20 00:00:00Z"
 releaseDate:          "2016-02-24 02:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

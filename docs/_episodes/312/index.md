@@ -20,7 +20,7 @@ description: |-
   Harmontown is live from the New York Comedy Festival!
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
-showDate:             
+showDate:             "2018-11-19 00:00:00Z"
 releaseDate:          "2018-11-29 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

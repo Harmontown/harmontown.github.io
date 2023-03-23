@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episodes/117/05.png"
 description: |-
   Harmontown tests its live streaming capabilities, Alex Rubens comptrolls and instead of D&D the group goes on a sci-fi side quest.
-showDate:             
+showDate:             "2014-09-21 00:00:00Z"
 releaseDate:          "2014-09-22 20:55:00Z"
 venue:                
 comptroller:          "Alex Rubens"

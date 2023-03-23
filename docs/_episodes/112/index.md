@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is not ready to say goodbye to our friend Robin WIlliams; Jeff & Dan write a new song, an Emmy award winning special effects editor makes their way to the stage, Ferguson and the current paramilitary police state are discussed at length. You ready? Lets do this.
-showDate:             
+showDate:             "2014-08-18 00:00:00Z"
 releaseDate:          "2014-08-18 15:18:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

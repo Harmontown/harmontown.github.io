@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Back by popular demand, Rob Schrab returns to the show even to Harmon's detriment.
-showDate:             
+showDate:             "2015-11-01 00:00:00Z"
 releaseDate:          "2015-11-03 23:59:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

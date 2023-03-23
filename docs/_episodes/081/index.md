@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon jumps right into a drop in from original Saturday Night Live cast member Laraine Newman which merges into a visit from controversial author Dr. Chris Ryan to delves into polygamy and the very nature of our sexuality. In D&D, Spencer gives up.
-showDate:             
+showDate:             "2013-11-25 00:00:00Z"
 releaseDate:          "2013-11-25 19:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -20,7 +20,7 @@ description: |-
   Live from The Cradle of Aviation Museum in Long Island, NY.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Steve Levy.
-showDate:             
+showDate:             "2018-06-23 00:00:00Z"
 releaseDate:          "2018-07-05 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

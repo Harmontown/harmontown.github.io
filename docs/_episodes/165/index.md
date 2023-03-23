@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Steve Agee comptrolls, Felicia Day guests, Shadowrun kicks ass.
-showDate:             
+showDate:             "2015-09-27 00:00:00Z"
 releaseDate:          "2015-09-30 00:21:00Z"
 venue:                
 comptroller:          "Steve Agee"

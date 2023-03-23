@@ -20,7 +20,7 @@ description: |-
   Graham Linehan returns to Harmontown! Dan discovers what an "omega virgin" is by a dramatic reading of an incident involving creepy soup.
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Graham Linehan and Steve Levy.
-showDate:             
+showDate:             "2017-08-19 00:00:00Z"
 releaseDate:          "2017-08-23 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

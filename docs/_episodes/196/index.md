@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The Doughboys drop by Harmontown on Mother's Day and some insane improv ensues.
-showDate:             
+showDate:             "2016-05-08 00:00:00Z"
 releaseDate:          "2016-05-11 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

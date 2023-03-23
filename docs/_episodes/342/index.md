@@ -20,7 +20,7 @@ description: |-
   Duncan Trussell is back! sporting an increasingly majestic beard. The show dives deep into America's hot button topics like prolapses, space travel and DNA filled balloons.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Duncan Trussell.
-showDate:             
+showDate:             "2019-07-22 00:00:00Z"
 releaseDate:          "2019-07-25 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

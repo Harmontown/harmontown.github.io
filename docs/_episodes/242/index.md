@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The gang gives NerdMelt an emotional sendoff at our final show before moving to the Starburns Castle. Mitch Hurwitz, Rob Schrab, Ryan Ridley, Brandon Johnson, Dave Klein, Adam Goldberg and Dustin Marshall return to reminisce, role play and learn the secret life of executive assistants.
-showDate:             
+showDate:             "2017-04-23 00:00:00Z"
 releaseDate:          "2017-04-26 08:03:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

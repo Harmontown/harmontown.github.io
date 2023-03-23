@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Looking back on his tour, non-heroic Mayjor Harmon asks what have I learned (spoiler: he doesn't know) with friends Bobcat Goldthwait, Marc Maron and Duncan Trussell in an epic show at L.A's Egyptian Theater.
-showDate:             
+showDate:             "2013-02-04 00:00:00Z"
 releaseDate:          "2013-02-08 09:24:00Z"
 venue:                "Egyptian Theatre, Los Angeles, CA"
 comptroller:          "Jeff B. Davis"

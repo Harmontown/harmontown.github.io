@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan riffs on what happens when Michael Winslow goes to war with Radiohead. Later on, transgender back rubs.
-showDate:             
+showDate:             "2016-08-07 00:00:00Z"
 releaseDate:          "2016-08-10 20:52:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Classic Harmontown is back! The return of role playing with Steve Levy, the iHarmon and all the potatoes you could ever want.
-showDate:             
+showDate:             "2019-10-21 00:00:00Z"
 releaseDate:          "2019-10-24 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

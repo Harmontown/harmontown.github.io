@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon starts Atoning With The Father when he presents a day in his fantasy TV writer life, confronts a drunk Darth Vader, then adopts a 15 year old version of himself. The night ends with an impromptu rap battle before new Harmenian Kahleel takes the throne.
-showDate:             
+showDate:             "2013-01-22 00:00:00Z"
 releaseDate:          "2013-01-24 23:47:00Z"
 venue:                "TBC, Chicago, IL"
 comptroller:          "Jeff B. Davis"

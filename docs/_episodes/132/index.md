@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Kumail comptrolls, Dan tries to cover the zeitgeist and is joined by David Cross! Who sits in while the gang begin their Shadow Run campaign. Music by YACHT.
-showDate:             
+showDate:             "2015-01-25 00:00:00Z"
 releaseDate:          "2015-01-28 20:43:00Z"
 venue:                
 comptroller:          "Kumail Nanjiani"

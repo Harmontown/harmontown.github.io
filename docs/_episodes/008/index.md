@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon grapples with fame and exposes The Family Feud; Comptroller Davis grapples with and exposes Harmon's shocking inability to tell jokes and the roleplaying Adventures of Sharpie and Quark begin.
-showDate:             "2012-08-27 04:00:00Z"
+showDate:             "2012-08-27 00:00:00Z"
 releaseDate:          "2012-09-07 06:33:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

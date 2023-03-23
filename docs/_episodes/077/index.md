@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In the wake of Lou Reed's passing, in which this episode is dedicated to; a sad, stripped down, sleepy and introspective Velvet Harmontown. Plus, the introduction of Harmontown's new character "Johnny Jackhammer." In DnD, the gang is helpless to watch Yearch "less than zero."
-showDate:             
+showDate:             "2013-10-28 00:00:00Z"
 releaseDate:          "2013-10-28 08:39:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

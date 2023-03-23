@@ -20,7 +20,7 @@ description: |-
   Dan and the gang kick off 2019 with everyone's expanded feelings on airlines, Dan's engagement, charitable giving and Paul Rudd.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Kevin Day and Jesse Camp.
-showDate:             
+showDate:             "2019-01-07 00:00:00Z"
 releaseDate:          "2019-01-10 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

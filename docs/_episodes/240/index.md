@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Creator of the documentary "Accidental Courtesy: Daryl Davis, Race & America" Matt Ornstein drops by to discuss his new film with guests Brandon Johnson and Steve Agee. Steve Levy does a quick Jew and A.
-showDate:             
+showDate:             "2017-04-09 00:00:00Z"
 releaseDate:          "2017-04-12 13:51:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

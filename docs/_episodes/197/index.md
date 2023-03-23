@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Your Mayor poops his pants again, flat earth theory and pulling the plug on Rob Schrab.
-showDate:             
+showDate:             "2016-05-15 00:00:00Z"
 releaseDate:          "2016-05-18 05:15:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Don Cheatle's speech at the Emmys leaves Mayor Harmon pondering. Also, spider monsters, the Beef Fungus Bill game and co-creator of Channel 101 Rob Schrab sits in on D&D!
-showDate:             
+showDate:             "2013-09-24 00:00:00Z"
 releaseDate:          "2013-09-24 08:24:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

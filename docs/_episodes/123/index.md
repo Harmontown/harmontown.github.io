@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown goes to Austin and holy sh*t, LeVar Burton is the comptroller.
-showDate:             
+showDate:             "2014-10-29 00:00:00Z"
 releaseDate:          "2014-10-29 10:45:00Z"
 venue:                
 comptroller:          "LeVar Burton"

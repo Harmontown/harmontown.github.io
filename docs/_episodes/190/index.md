@@ -20,7 +20,7 @@ description: |-
   A packed episode leads to three Robs and the roast of Jimmy Carrane. 
   
   Opening music by Titanic Sinclair!
-showDate:             
+showDate:             "2016-03-27 00:00:00Z"
 releaseDate:          "2016-03-30 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

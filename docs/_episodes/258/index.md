@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rapper B. Squid and Dan sing about a thousand winters, we question "What if a guy had long arms?" and "Who really stole Steve Levy's roommate's car?" before realizing we're entering Harmageddon.
-showDate:             
+showDate:             "2017-09-09 00:00:00Z"
 releaseDate:          "2017-09-13 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

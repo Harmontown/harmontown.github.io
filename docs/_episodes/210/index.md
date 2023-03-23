@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A 4 year old takes the stage, a 16 year old stage, Cameron Esposito and Rhea Butcher, The Bootzins, Casper Mattresses.
-showDate:             
+showDate:             "2016-08-21 00:00:00Z"
 releaseDate:          "2016-08-24 05:49:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

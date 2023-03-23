@@ -20,7 +20,7 @@ description: |-
   Dan explains his feelings on Nazis, The Game Grumps (Arin Hanson & Dan Avidan) visit the show, then the gang continues their role playing adventures.
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Arin Hanson, Dan Avidan and Steve Levy.
-showDate:             
+showDate:             "2017-08-12 00:00:00Z"
 releaseDate:          "2017-08-16 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

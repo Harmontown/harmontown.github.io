@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon perfects the apology, Erin McGathy runs an epic Game Corner and in D&D the gang encounter a black dragon.
-showDate:             
+showDate:             "2014-07-14 00:00:00Z"
 releaseDate:          "2014-07-14 20:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

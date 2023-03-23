@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   New editions of Things Dan Can't Complain About and Connor's Conundrums, a chat with aneurysm survivor Siike and a violent fight with Spencer about "meta gaming."
-showDate:             
+showDate:             "2013-07-08 00:00:00Z"
 releaseDate:          "2013-07-08 10:34:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

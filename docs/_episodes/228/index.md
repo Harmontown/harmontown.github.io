@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is back in the states for the first show of 2017!
-showDate:             
+showDate:             "2017-01-08 00:00:00Z"
 releaseDate:          "2017-01-12 09:30:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

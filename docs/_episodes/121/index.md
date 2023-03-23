@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Comptroller Gilbert Gottfried warms up Harmontown's biggest crowd yet at New York City's 92y!
-showDate:             
+showDate:             "2014-10-14 00:00:00Z"
 releaseDate:          "2014-10-14 20:03:00Z"
 venue:                
 comptroller:          "Gilbert Gottfried"

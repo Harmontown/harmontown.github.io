@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown LIVE from SXSW at the Yahoo! Community premiere party feat. Chris McKenna and a very loud bar!
-showDate:             
+showDate:             "2015-03-14 00:00:00Z"
 releaseDate:          "2015-03-17 22:22:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

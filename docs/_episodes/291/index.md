@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's back in the Rick & Morty writer's room, James Adomian and Rob Schrab face off with cartoon voices doing unspeakable things, Spencer says Binkis a lot.
-showDate:             
+showDate:             "2018-06-18 00:00:00Z"
 releaseDate:          "2018-06-21 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

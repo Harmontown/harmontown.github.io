@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episodes/169/03.png"
 description: |-
   We welcome the great Andy Kindler back to Harmontown and Dan goes to the haunted hayride and something incredibly offensive happens.
-showDate:             
+showDate:             "2015-10-25 00:00:00Z"
 releaseDate:          "2015-10-28 04:26:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

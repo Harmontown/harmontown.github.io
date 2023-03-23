@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rejoice! Kumail is back and joins Dan and Jeff on stage along with comedians John Roy, James Adomian and the entire front row.
-showDate:             
+showDate:             "2013-09-16 00:00:00Z"
 releaseDate:          "2013-09-16 19:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

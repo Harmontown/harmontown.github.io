@@ -20,7 +20,7 @@ description: |-
   Dan, Jeff and Spencer dig deep into genitals of unusual size, bats, giraffes, dolphins and Paul Newman.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Steve Levy.
-showDate:             
+showDate:             "2017-12-03 00:00:00Z"
 releaseDate:          "2017-12-07 00:11:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

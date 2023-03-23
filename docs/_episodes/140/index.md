@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Hear ye, hear ye, Harmontown is now in session. There's some talkin', there's some rappin', there's some shadow runnin'.
-showDate:             
+showDate:             "2015-03-22 00:00:00Z"
 releaseDate:          "2015-03-25 02:10:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

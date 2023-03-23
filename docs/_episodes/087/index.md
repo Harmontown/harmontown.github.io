@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Comptroller Mitch Hurwitz does his best to help Mayor Harmon and Kumail Nanjiani ridicule Rob Schrab as he tries to celebrate 20 years of his comic book SCUD: The Disposable Assassin. In D&D, Sharpie and Laan-ev go to blows.
-showDate:             
+showDate:             "2014-01-27 00:00:00Z"
 releaseDate:          "2014-01-27 19:11:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

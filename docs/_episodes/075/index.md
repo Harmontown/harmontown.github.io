@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon is joined once again by guest Rob Schrab and Erin McGathy plays the role of Comptroller. Spontaneous combustion, peeing your pants and letters from reddit await you in this weeks Harmontown!
-showDate:             
+showDate:             "2013-10-08 00:00:00Z"
 releaseDate:          "2013-10-08 00:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

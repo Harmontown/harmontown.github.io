@@ -19,7 +19,7 @@ image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Bonus Episode! All the ad songs. Happy Holidays from Harmontown.
   Featuring Jeff B Davis, Spencer Crittenden, Dan Harmon, Church, and music by unsung hero Brendan Lynch-Salamon.
-showDate:             
+showDate:             "2021-03-10 00:00:00Z"
 releaseDate:          "2019-12-25 11:00:00Z"
 venue:                
 comptroller:          

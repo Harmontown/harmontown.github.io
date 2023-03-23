@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Tim Talbott.
-showDate:             
+showDate:             "2017-03-19 00:00:00Z"
 releaseDate:          "2017-03-22 07:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

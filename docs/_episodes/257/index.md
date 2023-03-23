@@ -20,7 +20,7 @@ description: |-
   Dan gets Christian dating tips from a ride-sharing driver and explores what various Scottish dogs might sound like. The gang's role playing characters level up and face a new foe!
   
   Featuring Dan Harmon, Jeff Davis and Spencer Crittenden.
-showDate:             
+showDate:             "2017-09-02 00:00:00Z"
 releaseDate:          "2017-09-06 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

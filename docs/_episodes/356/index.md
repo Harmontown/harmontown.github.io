@@ -20,7 +20,7 @@ description: |-
   Dan gets stuck in traffic, but the episode is redeemed by meeting a multi-talented audience member UMNIA and her singer/doctor mom! Improv, jazz and rap meet on this week's Harmontown!
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
-showDate:             
+showDate:             "2019-11-04 00:00:00Z"
 releaseDate:          "2019-11-07 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

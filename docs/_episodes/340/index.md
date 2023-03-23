@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Schrab is comptrolling to prepare for his upcoming role as moderator of the Comic-Con Rick & Morty Panel. But Jeff's still here, and without a podium, not-quite fitting into the seats on the stage. Listen now and gain the inside track on such topics as Jaws 4, Bees, and people who shower excessively: probably...
-showDate:             
+showDate:             "2019-07-08 00:00:00Z"
 releaseDate:          "2019-07-11 10:00:00Z"
 venue:                
 comptroller:          "Rob Schrab"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Man versus lion, Space Jam versus Goonies, Leprechaun versus his own sexuality. Brian W. Collins retires his horror movie blog. Kumail Nanjiani and the rest of the D&D party finish their battle with specific parts of a dragon.
-showDate:             
+showDate:             "2013-03-23 00:00:00Z"
 releaseDate:          "2013-03-23 10:06:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

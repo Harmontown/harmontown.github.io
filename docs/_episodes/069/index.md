@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon issues an edict to wait staff, proclaims his eternal love for Erin and signs off on gay weddings.
-showDate:             
+showDate:             "2013-08-26 00:00:00Z"
 releaseDate:          "2013-08-26 08:10:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Aisha Tyler visits Harmontown along with Hour Of Goon's Jeordie White and Fred Sablan for some complete insanity.
-showDate:             
+showDate:             "2016-04-10 00:00:00Z"
 releaseDate:          "2016-04-13 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

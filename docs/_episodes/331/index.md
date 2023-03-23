@@ -20,7 +20,7 @@ description: |-
   Dan dives deep into balls. Before the show Dan gets a little too high, which is perfect for our guest Gabriel Sunday, creator and star of the new cannabis inspired TV series Dope State.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Gabriel Sunday.
-showDate:             
+showDate:             "2019-04-22 00:00:00Z"
 releaseDate:          "2019-04-25 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

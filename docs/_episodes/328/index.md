@@ -20,7 +20,7 @@ description: |-
   Jeff Davis's joke corner! A walrus walks into a whorehouse... Also, the return of roleplaying with guest Steve Levy!
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
-showDate:             
+showDate:             "2019-04-01 00:00:00Z"
 releaseDate:          "2019-04-04 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

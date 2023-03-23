@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rob Schrab questions Lord Of The Ring(s), depression and someone dies in Shadow Run!
-showDate:             
+showDate:             "2015-12-13 00:00:00Z"
 releaseDate:          "2015-12-16 01:11:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

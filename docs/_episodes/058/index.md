@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon explains why an episode was lost; soon to be uncontextually quoted frivolity ensues. Jeff reveals he's psychic; Kumail's resultant bewilderment preempts D&D.
-showDate:             
+showDate:             "2013-06-08 00:00:00Z"
 releaseDate:          "2013-06-08 19:45:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

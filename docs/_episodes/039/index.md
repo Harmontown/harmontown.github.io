@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   High atop the nation, in Omlette Country, Comptroller Davis returns. Topics include cheese sticks, sports, beat boxing, dungeons, dragons and crazy people.
-showDate:             
+showDate:             "2013-01-27 00:00:00Z"
 releaseDate:          "2013-01-30 03:07:00Z"
 venue:                "TBC, Denver, CO"
 comptroller:          "Jeff B. Davis"

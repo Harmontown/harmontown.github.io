@@ -20,7 +20,7 @@ description: |-
   Comedian Jamali Maddix comes by to discuss his project exploring extremism. While role playing, Steve Levy discovers the most beautiful horses he's ever seen. Dan closes the show with a rap about West Virginia.
   
   Featuring Dan Harmon, Jeff Davis, Spencer.
-showDate:             
+showDate:             "2017-08-05 00:00:00Z"
 releaseDate:          "2017-08-09 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

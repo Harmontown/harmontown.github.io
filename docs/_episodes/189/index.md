@@ -20,7 +20,7 @@ description: |-
   The gang tries to come up with a song and Weird Al each other then an instant Harmontown classic moment happens.
   
   Opening song by Babes.
-showDate:             
+showDate:             "2016-03-20 00:00:00Z"
 releaseDate:          "2016-03-23 04:28:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

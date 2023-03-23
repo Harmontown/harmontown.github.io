@@ -22,7 +22,7 @@ description: |-
   Clips include Open Mike Eagle, Mitch Hurwitz, Curtis Armstrong, DeMorge Brown, Erin McGathy, Bobcat Goldthwait, John Mayer and Jonah Ray.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Emily V. Gordon, Kumail Nanjiani, Rob Schrab, Brandon Johnson and Steve Agee. 
-showDate:             
+showDate:             "2018-08-20 00:00:00Z"
 releaseDate:          "2018-08-23 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

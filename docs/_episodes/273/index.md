@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   What's a Bellman Joke? Does it have anything to do with Casablanca and the Thundercats? How do the Smurfs fit into all of this? Rob Schrab returns to give Dan some much needed therapy. then takes over for Diarrhea Jr. who makes eye contact during a very intense moment.
-showDate:             
+showDate:             "2018-01-14 00:00:00Z"
 releaseDate:          "2018-01-17 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

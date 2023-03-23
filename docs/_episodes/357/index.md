@@ -20,7 +20,7 @@ description: |-
   Brandon Johnson is comptrolling, Nick Rutherford is and isn't our guest. Dan talks a bit about Community. ED-209 makes a cameo appearance. There's a lot to unpack in this episode.
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Nick Rutherford.
-showDate:             
+showDate:             "2019-11-11 00:00:00Z"
 releaseDate:          "2019-11-14 11:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

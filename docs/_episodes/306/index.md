@@ -20,7 +20,7 @@ description: |-
   Omar Camacho from the hit YouTube series "Cholos Try" teaches Dan, Spencer and Brandon what it means to be a Cholo.
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and Omar Camacho.
-showDate:             
+showDate:             "2018-10-08 00:00:00Z"
 releaseDate:          "2018-10-11 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

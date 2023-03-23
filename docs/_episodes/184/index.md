@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown meets Zoe Lister Jones then turns into an hour of improv and complete chaos!
-showDate:             
+showDate:             "2016-02-07 00:00:00Z"
 releaseDate:          "2016-02-10 06:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

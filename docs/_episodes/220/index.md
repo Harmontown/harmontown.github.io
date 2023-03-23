@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   For the first time EVER it's Spencer and Dan. Two stools, one show runner, one game master.
-showDate:             
+showDate:             "2016-11-06 00:00:00Z"
 releaseDate:          "2016-11-11 07:10:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

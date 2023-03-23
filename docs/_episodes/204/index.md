@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   What would seem like a classic episode format, becomes weird. Weird af. A great weird episode.
-showDate:             
+showDate:             "2016-07-10 00:00:00Z"
 releaseDate:          "2016-07-13 08:55:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

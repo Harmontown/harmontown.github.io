@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon, Jeff Davis, Erin McGathy and Spencer Crittenden discover a Belgian fan in the audience, but when a Londoner from the crowd
-showDate:             
+showDate:             "2014-08-11 00:00:00Z"
 releaseDate:          "2014-08-11 18:38:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

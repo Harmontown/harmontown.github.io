@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Our friends Bobcat Goldthwait and Curtis Armstrong return to the show with plenty of insane stories to share.
-showDate:             
+showDate:             "2015-08-16 00:00:00Z"
 releaseDate:          "2015-08-19 06:13:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

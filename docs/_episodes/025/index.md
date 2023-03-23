@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   What else would Mayor Harmon discuss in Austin other than Politics, Mexican food, Hey Yah by Outkast and pooping? In D&D: a friend's dark secret is revealed.
-showDate:             
+showDate:             "2013-01-11 00:00:00Z"
 releaseDate:          "2013-01-13 08:53:00Z"
 venue:                "TBC, Austin, TX"
 comptroller:          "Jeff B. Davis"

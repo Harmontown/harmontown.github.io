@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Spencer comptrolls, Dino stops by and it's hot as absolute Hell.
-showDate:             
+showDate:             "2016-06-19 00:00:00Z"
 releaseDate:          "2016-06-22 05:00:00Z"
 venue:                
 comptroller:          "Spencer Crittenden"

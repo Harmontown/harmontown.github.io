@@ -20,7 +20,7 @@ description: |-
   Adam Conover, from Adam Ruins Everything and CollegeHumor, ruins herpes, hymens and Harmontown. Brandon Johnson is our guest comptroller, and Schrab is back with another new chair.
   
   Featuring Dan Harmon, Brandon Johnson, Rob Schrab and Adam Conover.
-showDate:             
+showDate:             "2019-02-25 00:00:00Z"
 releaseDate:          "2019-02-28 11:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

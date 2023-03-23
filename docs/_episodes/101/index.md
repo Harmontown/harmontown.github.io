@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   A hungover stroll through such topics as bumper stickers, misogyny, Wolfenstein and how horrifying that game must be for Germans. Kumail Nanjiani's back and we welcome DeMorge Brown to the stage!
-showDate:             
+showDate:             "2014-05-26 00:00:00Z"
 releaseDate:          "2014-05-26 07:47:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

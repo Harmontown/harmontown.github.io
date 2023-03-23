@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Author of the quintessential book on autism, "NeuroTribes", Steven Silberman joins Harmontown for an in depth conversation on the history of and hyper-intelligent nature of autism.
-showDate:             
+showDate:             "2015-09-13 00:00:00Z"
 releaseDate:          "2015-09-16 07:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

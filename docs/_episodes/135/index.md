@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Post Valentine's Day Harmon is burnt out and declares it to be a bad show, then throws to Twitter and takes us along a musical journey. This is episode is so wide.
-showDate:             
+showDate:             "2015-02-15 00:00:00Z"
 releaseDate:          "2015-02-18 18:49:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

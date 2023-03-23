@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown turns 200 with Rob Schrab and Rob Corddry, some Harmontown regulars return including Adam Goldberg and Harmon lays down the greatest rap ever.
-showDate:             
+showDate:             "2016-06-05 00:00:00Z"
 releaseDate:          "2016-06-08 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

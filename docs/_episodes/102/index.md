@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Tony Danza can read Dan's tweets; everyone shares crying stories and there is a sleepy canyoneer in the crowd.
-showDate:             
+showDate:             "2014-06-02 00:00:00Z"
 releaseDate:          "2014-06-02 09:54:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The Harmontown tour "meets its goddess" in a featureless black box theatre, where Dan cries, arouses himself, tells a joke and gets in a fight with Erin. Unedited episode.
-showDate:             
+showDate:             "2013-01-20 00:00:00Z"
 releaseDate:          "2013-01-22 03:20:00Z"
 venue:                "TBC, Pittsburgh, PA"
 comptroller:          "Jeff B. Davis"

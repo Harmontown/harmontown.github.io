@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon has got nothing. This prompts Kumail and Erin to join the stage for some dream interpretation and penis trauma. In D&D, Sharpie dies.
-showDate:             
+showDate:             "2013-08-05 00:00:00Z"
 releaseDate:          "2013-08-05 09:56:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

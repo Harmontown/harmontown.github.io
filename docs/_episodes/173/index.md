@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Scott Adsit and Dino Stamatopoulos join Harmontown Night 2 at the Gramcery.
-showDate:             
+showDate:             "2015-11-14 00:00:00Z"
 releaseDate:          "2015-11-21 21:44:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

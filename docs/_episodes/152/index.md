@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan, Jeff and Spencer start out the show, World Cup sports corner and lots of privilege and guilt.
-showDate:             
+showDate:             "2015-06-21 00:00:00Z"
 releaseDate:          "2015-06-24 01:29:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

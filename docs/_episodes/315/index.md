@@ -20,7 +20,7 @@ description: |-
   Steven Conrad, writer/director of the TV Series 'Patriot' joins guest Comptroller Brandon Johnson. The Santa Clause 2, Have You Seen It?
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Steve Conrad.
-showDate:             
+showDate:             "2018-12-17 00:00:00Z"
 releaseDate:          "2018-12-20 11:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

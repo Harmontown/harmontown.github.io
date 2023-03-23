@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's Easter. Jeff does not understand Chain Zingers. Like, really doesn't get it. Curtis Armstrong returns for Shadowrun and there is a lot of testicle play.
-showDate:             
+showDate:             "2015-04-05 00:00:00Z"
 releaseDate:          "2015-04-07 23:28:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

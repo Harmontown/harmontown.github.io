@@ -20,7 +20,7 @@ description: |-
   Dan and Rob talk about sexual harassment in the entertainment industry and the ramifications of a Rick & Morty porn parody being produced. Spencer reveals why people really buy iPads.
   
   Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Steve Levy.
-showDate:             
+showDate:             "2017-10-15 00:00:00Z"
 releaseDate:          "2017-10-18 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

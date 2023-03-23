@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Rob Schrab, Spencer Crittenden, Jason Sklar, Randy Sklar and Brandon Johnson.
-showDate:             
+showDate:             "2017-02-26 00:00:00Z"
 releaseDate:          "2017-03-01 17:16:00Z"
 venue:                
 comptroller:          "Brandon Johnson"
@@ -32,7 +32,6 @@ guests:
 - "Rob Schrab"
 - "Jason Sklar"
 - "Randy Sklar"
-
 
 audienceGuests:
 #- "Example guest 1"

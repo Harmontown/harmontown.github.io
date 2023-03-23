@@ -20,7 +20,7 @@ description: |-
   Dan problematizes things that don't need to be problematized, listens to audio porn and gets to the bottom of The Flash with Brandon and Schrab.
   
   Featuring Dan Harmon, Brandon Johnson and Rob Schrab.
-showDate:             
+showDate:             "2019-03-04 00:00:00Z"
 releaseDate:          "2019-03-07 11:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

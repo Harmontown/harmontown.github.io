@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Meet Taye Brigston the world's Littlest Show Promoter of Tiny You!
-showDate:             
+showDate:             "2015-07-05 00:00:00Z"
 releaseDate:          "2015-07-07 04:12:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

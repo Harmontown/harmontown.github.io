@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   King of all nerds, Curtis Armstrong, AKA "Booger" visits Harmontown and apparently never has played a role-playing game before and then completely crushes it in Shadowrun.
-showDate:             
+showDate:             "2015-03-01 00:00:00Z"
 releaseDate:          "2015-03-04 03:34:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

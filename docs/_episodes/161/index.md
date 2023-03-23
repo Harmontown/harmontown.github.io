@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmon experiences true virtual reality and makes soup, Paul Scheer and Rob Huebel join us for the first time, chimpanzees are monsters and ideal ways to die.
-showDate:             
+showDate:             "2015-08-30 00:00:00Z"
 releaseDate:          "2015-09-02 17:31:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

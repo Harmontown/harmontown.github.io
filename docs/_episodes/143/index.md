@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rick and Morty's Justin Roiland makes a revelation to Curtis Armstrong. Harmon longs for the cold war and its Shadow Run, not Shadow Picnic! Brought to you by Doritos and Honda!
-showDate:             
+showDate:             "2015-04-12 00:00:00Z"
 releaseDate:          "2015-04-15 02:16:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We Need A Pool Dietician For The Internet, and the milkman is an albino. With special guests Brandon Johnson and Steve Levy!
-showDate:             
+showDate:             "2019-07-29 00:00:00Z"
 releaseDate:          "2019-08-01 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Our friend Colin joins us to fill us in what it's like to be a little person. Brought to you by Balls, it's whats for dinner.
-showDate:             
+showDate:             "2016-01-31 00:00:00Z"
 releaseDate:          "2016-02-03 06:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

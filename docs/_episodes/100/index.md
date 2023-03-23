@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It is the Centepisodial Spectacular of Harmontown! Adam Goldberg runs a quiz against a super fan and your Mayor to see who knows more about Harmontown.
-showDate:             
+showDate:             "2014-05-19 00:00:00Z"
 releaseDate:          "2014-05-19 20:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

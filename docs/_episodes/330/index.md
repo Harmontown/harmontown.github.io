@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Despite walking on stage sick as a dog, audience adoration miraculously heals Dan in real time. Francophile Jeff can't help but dissolve into a sentimental jelly thinking about Notre-dame, and Spencer continues to amaze with hitherto unprecedented levels of enthusiasm.
-showDate:             
+showDate:             "2019-04-15 00:00:00Z"
 releaseDate:          "2019-04-18 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

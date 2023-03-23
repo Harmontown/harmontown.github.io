@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Spencer shares his adventures in jogging, needles and cupping. The Ron Jeremy banana mystery continues to perplex Jeff. Dan records an introduction video for Rob Schrab and spends a little extra time making sure it's perfect.
-showDate:             
+showDate:             "2017-11-12 00:00:00Z"
 releaseDate:          "2017-11-15 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

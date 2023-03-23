@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon used the country's smallest state to tackle the country's biggest issues – suicide and race – before remembering someone double booked the room so he has to leave.
-showDate:             
+showDate:             "2013-01-18 00:00:00Z"
 releaseDate:          "2013-01-20 13:27:00Z"
 venue:                "TBC, Providence, RI"
 comptroller:          "Jeff B. Davis"

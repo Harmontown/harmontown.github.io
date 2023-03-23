@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest comptroller Ryan Ridley and guest Aubrey Plaza forge their way through the pseudo socio-political intestinal tract of Harmontown!
-showDate:             
+showDate:             "2015-11-08 00:00:00Z"
 releaseDate:          "2015-11-11 01:11:00Z"
 venue:                
 comptroller:          "Ryan Ridley"

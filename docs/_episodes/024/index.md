@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon begins his tour feeling way more insecure than the kind-hearted heroes of a new city. A Harmontown theme with an awesome hook starts getting workshopped. In D&D, the heroes fight cylinders.
-showDate:             
+showDate:             "2013-01-10 00:00:00Z"
 releaseDate:          "2013-01-12 00:50:00Z"
 venue:                "TBC, Phoenix, AZ"
 comptroller:          "Jeff B. Davis"

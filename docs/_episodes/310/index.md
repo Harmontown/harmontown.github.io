@@ -22,7 +22,7 @@ description: |-
   Dan and Spencer dig deep into the how's and why's of their Red Dead Redemption 2 addictions, Jeff is sober. Crescendoing in a panel of three audience members talking shop with Dan, therapy shop.
   
   Featuring Dan Harmon, Jeff Bryan Davis and Spencer Crittenden.
-showDate:             
+showDate:             "2018-11-09 00:00:00Z"
 releaseDate:          "2018-11-15 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

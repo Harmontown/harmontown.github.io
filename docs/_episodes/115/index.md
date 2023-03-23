@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dolphins are bad, Jews are great as learn with comptroller, Rick & Morty writer Ryan Ridley! Then for the first time we welcome our hilarious friend Dave Horwitz to the stage who you all now can begin to fall for. In D&D, its really funny.
-showDate:             
+showDate:             "2014-09-08 00:00:00Z"
 releaseDate:          "2014-09-08 19:50:00Z"
 venue:                
 comptroller:          "Ryan Ridley"

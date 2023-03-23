@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Night 1 of Harmontown at the historic Sydney Opera House in Sydney Australia!
-showDate:             
+showDate:             "2016-12-17 00:00:00Z"
 releaseDate:          "2017-01-05 00:22:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

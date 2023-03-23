@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's in New York for a project and Harmontown does a small intimate show at Upright Citizens Brigade Theater East. Daily Show writer Rory Albanese swings by, Absinth is drank. Drunk? Dranken? Whatever!
-showDate:             
+showDate:             "2015-08-02 00:00:00Z"
 releaseDate:          "2015-08-05 02:23:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

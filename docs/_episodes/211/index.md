@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   My Favorite Murder meets Harmontown.
-showDate:             
+showDate:             "2016-08-28 00:00:00Z"
 releaseDate:          "2016-08-31 09:57:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

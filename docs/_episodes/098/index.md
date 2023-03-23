@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Hot off the Renaissance Faire, the whole gang is back from hiatus... and very drunk. Kumail Nanjiani and Matt Gourley join the stage while Mayor Harmon proposes a new religion.
-showDate:             
+showDate:             "2014-05-05 00:00:00Z"
 releaseDate:          "2014-05-05 08:06:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

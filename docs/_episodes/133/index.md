@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's sports corner for all you Superbowl heads, audience member Jamal sheds some light on race and ShadowRun is in full effect.
-showDate:             
+showDate:             "2015-02-01 00:00:00Z"
 releaseDate:          "2015-02-04 19:53:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

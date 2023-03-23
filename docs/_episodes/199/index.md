@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Jeff trip balls and your Mayor has a message from the Void. Jason Sudeikis returns for the first time since the movie tour along with first time guest Will Forte!
-showDate:             
+showDate:             "2016-05-29 00:00:00Z"
 releaseDate:          "2016-06-01 08:07:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

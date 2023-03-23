@@ -20,7 +20,7 @@ description: |-
   Deadbeat's Tyler Labine plus the return of Kumail Nanjiani with Rob Schrab, Spencer and Jeff all on stage at once!
   
   Music by Jeordie White
-showDate:             
+showDate:             "2016-04-17 00:00:00Z"
 releaseDate:          "2016-04-20 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Jeff discuss airliner pooping and Elon Musk stories. Judd Apatow explains how his casting style has changed over his career. How much self loathing goes into being a show creator?
-showDate:             
+showDate:             "2018-06-11 00:00:00Z"
 releaseDate:          "2018-06-14 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

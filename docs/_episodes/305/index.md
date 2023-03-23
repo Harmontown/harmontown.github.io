@@ -20,7 +20,7 @@ description: |-
   Podcaster David Cummings, from The NoSleep Podcast, joins guest comptroller Brandon Johnson for a spooky evening of horror stories, cuckoo clocks and wholesome Canadian terror.
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, and David Cummings.
-showDate:             
+showDate:             "2018-10-01 00:00:00Z"
 releaseDate:          "2018-10-04 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

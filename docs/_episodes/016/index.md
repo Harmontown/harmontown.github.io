@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's a Jareth-palooza as Harmenians descend on Hollywood dressed as David Bowie in Labyrinth for Halloween. Other topics include almost nothing!
-showDate:             
+showDate:             "2012-11-09 00:00:00Z"
 releaseDate:          "2012-11-09 20:37:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

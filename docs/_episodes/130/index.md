@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's the last Harmontown of 2014 and the first time we've had the whole gang together in a while. Dan Harmon, Jeff Davis, Kumail Nanjiani, Erin McGathy, Spencer Crittenden and guest John Roy talk sniffers.
-showDate:             
+showDate:             "2014-12-14 00:00:00Z"
 releaseDate:          "2014-12-16 01:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

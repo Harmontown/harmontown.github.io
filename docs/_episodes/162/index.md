@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Kumail returns! The Lil' Cuties drop by, Harmon questions his sperm count and MORE!
-showDate:             
+showDate:             "2015-09-06 00:00:00Z"
 releaseDate:          "2015-09-09 07:09:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

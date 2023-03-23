@@ -20,7 +20,7 @@ description: |-
   Jeff Davis returns with a fantastic reprise of the classic "Pringles Dick". Brandon Johnson passes the comptroller torch back to Jeff. Dan, Jeff, Spencer and Steve Levy create characters for their new D&D campaign!
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Brandon Johnson, Steve Agee and Steve Levy.
-showDate:             
+showDate:             "2017-06-04 00:00:00Z"
 releaseDate:          "2017-06-07 13:50:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

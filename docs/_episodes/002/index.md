@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   While Jeff Davis works abroad, Guest Comptroller Erin McGathy ("This Feels Terrible") joins Mayor Harmon for an in depth look at overrated masterpieces, passive aggressive text messages and how to destroy someone else's relationship on stage.
-showDate:             "2012-07-16 04:00:00Z"
+showDate:             "2012-07-16 00:00:00Z"
 releaseDate:          "2012-07-20 04:22:00Z"
 venue:                "NerdMelt"
 comptroller:          "Erin McGathy"

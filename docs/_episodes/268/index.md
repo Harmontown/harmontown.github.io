@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Josh Androsky educates us about the Democratic Socialists of America, Schrab enjoys an office chair, Church sings and shares her political side, and Jeff claims an exception to the "smelt it, dealt it" rule. We all learn how to dance like Spencer.
-showDate:             
+showDate:             "2017-11-26 00:00:00Z"
 releaseDate:          "2017-11-29 10:30:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

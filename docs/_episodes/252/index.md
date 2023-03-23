@@ -20,7 +20,7 @@ description: |-
   Kaitlin Byrd from the Citizen Zero Project stops by to talk politics, then the gang explores their inner cow while role playing.
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, and Steve Levy.
-showDate:             
+showDate:             "2017-07-16 00:00:00Z"
 releaseDate:          "2017-07-19 19:36:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

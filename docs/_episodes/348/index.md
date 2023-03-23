@@ -20,7 +20,7 @@ description: |-
   Heather Anne Campbell is back! Dan demonstrates dog barks, shares some goat facts, interrupts Schrab, and sadly announces the end of the podcast.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab and Heather Anne Campbell.
-showDate:             
+showDate:             "2019-09-09 00:00:00Z"
 releaseDate:          "2019-09-12 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

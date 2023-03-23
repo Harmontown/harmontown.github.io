@@ -20,7 +20,7 @@ description: |-
   Harmontown visits San Fransisco Sketchfest for a live show with stories about Dan's grandpa, an interview with the developer of iBone, and more.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.
-showDate:             
+showDate:             "2018-01-21 00:00:00Z"
 releaseDate:          "2018-01-24 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

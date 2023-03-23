@@ -20,7 +20,7 @@ description: |-
   Andy Kindler and Brandon Johnson join us to discuss their feelings on Kombucha and social media. Dan explores a career as a cover song musician.
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Andy Kindler.
-showDate:             
+showDate:             "2018-07-09 00:00:00Z"
 releaseDate:          "2018-07-12 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

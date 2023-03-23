@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   For the second time in Harmontown history a bottle of moonshine appears. It's Integrity vs. dishonesty, Baby Boomers vs. Gen X'ers vs. Millennials, it's Mayor Harmon vs. the bathroom at Meltdown Comics, it's Adam vs. Levi, it's Harmontown vs. the world!
-showDate:             
+showDate:             "2013-11-05 00:00:00Z"
 releaseDate:          "2013-11-05 01:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

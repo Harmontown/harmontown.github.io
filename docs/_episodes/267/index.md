@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Comptroller Brandon Johnson and actor Rob Huebel return to the show. Rob gives us the inside information about his new show, while Brandon introduces us to Tiny Brandon. Dan's worried he might have played a role in Charles Manson's death
-showDate:             
+showDate:             "2017-11-19 00:00:00Z"
 releaseDate:          "2017-11-22 16:45:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

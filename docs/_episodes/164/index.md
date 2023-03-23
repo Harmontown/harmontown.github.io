@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Senator Bernie Sanders returns, Harmon thinks of the most insulting thing to tattoo above your penis and Shadowrun is faced with a newfound time limit.
-showDate:             
+showDate:             "2015-09-20 00:00:00Z"
 releaseDate:          "2015-09-23 05:32:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon finds out about terrorism after everyone else. Plus: cake making, tentanus, Kumail, and making love to spiders!
-showDate:             
+showDate:             "2013-04-16 00:00:00Z"
 releaseDate:          "2013-04-16 10:08:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

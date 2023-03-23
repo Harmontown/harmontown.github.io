@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon does his Bane impression and practices getting booed in various cities for the upcoming tour. In D&D: the heroes finally encounter Sharpie's dad.
-showDate:             
+showDate:             "2013-01-06 00:00:00Z"
 releaseDate:          "2013-01-06 06:10:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The show breaks new ground with a cold open ad, Dan introduces the show's latest lovable sponsored character M.C. Gun Control, we explore Dan's therapy revelations and Jeff hatches a cunning plan turning himself into a tree.
-showDate:             
+showDate:             "2018-03-25 00:00:00Z"
 releaseDate:          "2018-03-28 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

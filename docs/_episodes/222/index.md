@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Erin McGathy makes a triumphant return to Harmontown as the role of Spencer and brings the sounded of 20 sided die back to Harmontown! Bonus track: an all new song originally made for Harmontown by Colleen Green!
-showDate:             
+showDate:             "2016-11-20 00:00:00Z"
 releaseDate:          "2016-11-24 03:01:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Sometimes it happens. Sometimes an innocent story about junior high proceeds down a road of perversion straight to where the sun doesn't shine. Also: Spencer collects info for Harmon and Davis' D&D characters, and special guest Rob Schrab tells a story...about his butt.
-showDate:             "2012-08-16 04:00:00Z"
+showDate:             "2012-08-16 00:00:00Z"
 releaseDate:          "2012-08-24 07:40:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

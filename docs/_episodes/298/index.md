@@ -20,7 +20,7 @@ description: |-
   Dan explains dog intelligence and Canadian creepypasta, while Schrab and Jeff demonstrate the perfect stage walk-on. Spencer tries MeUndies for the first time, and Dan plays himself.
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Jeff Bryan Davis and Rob Schrab.
-showDate:             
+showDate:             "2018-08-06 00:00:00Z"
 releaseDate:          "2018-08-09 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

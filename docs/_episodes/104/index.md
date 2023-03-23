@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Its just Mayor Harmon, Jeff and Spencer and Dan catches you up in World Cup corner and later, Dan improvises his own Superman movie. In D&D, the gang becomes a literal gang and finally loots.
-showDate:             
+showDate:             "2014-06-23 00:00:00Z"
 releaseDate:          "2014-06-23 19:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

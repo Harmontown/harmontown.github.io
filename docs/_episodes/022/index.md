@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An impromptu Fellowship of the Nerds is assembled to explain how to break The Hobbit into three movies. Jury duty stories! Adam Goldberg's roommate!
-showDate:             
+showDate:             "2013-01-07 00:00:00Z"
 releaseDate:          "2013-01-07 03:33:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

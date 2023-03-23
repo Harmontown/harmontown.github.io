@@ -20,7 +20,7 @@ description: |-
   Mitch Hurwitz is back! Mitch and Dan talk Arrested Development, Golden Girls, upcoming projects and the future of network TV. Singer/songwriter Robbie Fulks joins in with some tales told via country music.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Mitch Hurwitz, Robbie Fulks and Rob Schrab.
-showDate:             
+showDate:             "2019-09-30 00:00:00Z"
 releaseDate:          "2019-10-03 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

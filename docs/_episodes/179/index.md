@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown returns to San Francisco Sketchfest for porn, adult diapers, breast cancer awareness and pure insanity.
-showDate:             
+showDate:             "2016-01-09 00:00:00Z"
 releaseDate:          "2016-01-13 07:59:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

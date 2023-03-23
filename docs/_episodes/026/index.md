@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon regales the "Paris of Georgia" with historic knowledge, general trivia and mad rapping science. Topics include his armpits and race.
-showDate:             
+showDate:             "2013-01-13 00:00:00Z"
 releaseDate:          "2013-01-14 19:51:00Z"
 venue:                "TBC, Atlanta, GA"
 comptroller:          "Jeff B. Davis"

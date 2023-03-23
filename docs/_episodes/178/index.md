@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Its the last Harmontown of 2015. Plenty of Schrabbing, mannequin leg fetishes, cartoon pornography and we meet Fred, a video game instruction manual artist. Thanks for listening everyone! We will see you in 2016!
-showDate:             
+showDate:             "2015-12-20 00:00:00Z"
 releaseDate:          "2015-12-23 07:42:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

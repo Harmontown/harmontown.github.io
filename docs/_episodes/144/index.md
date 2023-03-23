@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmon hates muppets. We meet a guy named Skuta and shortly after, the most intense fan in the show's history.
-showDate:             
+showDate:             "2015-04-26 00:00:00Z"
 releaseDate:          "2015-04-29 08:32:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

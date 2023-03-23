@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon strives to understand whether or not he's a 9/11 conspiracy theorist with special guest James Urbaniak. Also: race and stuff.
-showDate:             
+showDate:             "2013-07-15 00:00:00Z"
 releaseDate:          "2013-07-15 10:18:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

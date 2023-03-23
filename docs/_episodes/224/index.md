@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown journeys to Australia! First stop, Brisbane.
-showDate:             
+showDate:             "2016-12-15 00:00:00Z"
 releaseDate:          "2016-12-21 15:59:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Spencer swap roles, with Dan taking the role of Dungeon Master. Spencer auto-tunes himself, becoming a robot from a magical land. Jeff immerses himself in a Vietnam era character.
-showDate:             
+showDate:             "2018-11-12 00:00:00Z"
 releaseDate:          "2018-11-22 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

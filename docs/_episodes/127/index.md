@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Comproller Dave Horwitz makes his first appearance. A Russian travels the world to ask Dan one question, and Spencer devises a way to get off of an island if stranded.
-showDate:             
+showDate:             "2014-11-09 00:00:00Z"
 releaseDate:          "2014-11-11 22:46:00Z"
 venue:                
 comptroller:          "Dave Horwitz"

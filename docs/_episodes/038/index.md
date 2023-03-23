@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Kansas finds itself at the center of the biggest disaster since Dorothy's twister when Mayor Harmon and Erin McGathy conduct the worst town meeting of the tour. This episode is unedited because I have no idea what I'd cut without cutting the entire thing.
-showDate:             
+showDate:             "2013-01-26 00:00:00Z"
 releaseDate:          "2013-01-30 02:25:00Z"
 venue:                "TBC, Kansas City, KS"
 comptroller:          "Erin McGathy"

@@ -20,7 +20,7 @@ description: |-
   Cold Case Murder Mysteries podcaster Ryan Kraus returns to dive deep into the crime podcast genre, with Rob Schrab at the comptroller helm. Spencer's bees and pirate eye patches are on the agenda tonight!
   
   Featuring Dan Harmon, Rob Schrab, Spencer Crittenden and Ryan Kraus.
-showDate:             
+showDate:             "2019-06-24 00:00:00Z"
 releaseDate:          "2019-06-27 10:00:00Z"
 venue:                
 comptroller:          "Rob Schrab"

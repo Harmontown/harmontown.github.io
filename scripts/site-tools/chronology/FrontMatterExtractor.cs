@@ -58,8 +58,8 @@ public record Episode
   string? title,
   string? image,
   string? description,
-  DateTimeOffset? showDate,
-  DateTimeOffset? releaseDate,
+  string? showDate,
+  string? releaseDate,
   TimeSpan? duration,
   bool isLostEpisode,
   bool? isTrailer,
@@ -103,8 +103,8 @@ public record Episode
   public string? Title { get; init; }
   public string? Image { get; init; }
   public string? Description { get; init; }
-  public DateTimeOffset? ShowDate { get; init; }
-  public DateTimeOffset? ReleaseDate { get; init; }
+  public string? ShowDate { get; init; }
+  public string? ReleaseDate { get; init; }
   public TimeSpan? Duration { get; init; }
   public bool IsLostEpisode { get; init; }
   public bool? IsTrailer { get; init; }

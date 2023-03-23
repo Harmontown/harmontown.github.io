@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   After some women demonstrate foot fetish techniques that audibly won't make any sense to you, dear listener, the enigmatic Brody Stevens joins Harmontown for the first time. Later, Mayor Harmon is inducted into a prestigious alliance and Kumail returns to D&D after a month long hiatus. It's a beautiful sprawling Harmontown, come on down.
-showDate:             
+showDate:             "2013-11-11 00:00:00Z"
 releaseDate:          "2013-11-11 07:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

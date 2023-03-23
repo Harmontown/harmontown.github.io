@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In our final episode at the Starburns Castle before moving to our new home, we welcome actor and fellow Podcaster Johnny Pemberton. Dan & Jeff's hot button issues this week include squeakers, cold cases, Kanye and the logistics of a human centipede.
-showDate:             
+showDate:             "2018-05-20 00:00:00Z"
 releaseDate:          "2018-05-23 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

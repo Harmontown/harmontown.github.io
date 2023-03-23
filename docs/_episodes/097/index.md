@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Preparing for its first month hiatus, Harmontown goes for a big blow out that tackles the usual; racism, censorship, health, mortality etc. Spencer returns for D&D to promote Friendship & Cigarettes.
-showDate:             
+showDate:             "2014-03-31 00:00:00Z"
 releaseDate:          "2014-03-31 19:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

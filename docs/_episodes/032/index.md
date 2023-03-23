@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The mayor and comptroller spend their night in the X Files capitol investigating ghosts, aliens, incest and 9-11 before playing D&D with all black people.
-showDate:             
+showDate:             "2013-01-19 00:00:00Z"
 releaseDate:          "2013-01-22 01:53:00Z"
 venue:                "TBC, Arlington, VA"
 comptroller:          "Jeff B. Davis"

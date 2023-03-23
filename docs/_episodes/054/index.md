@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon, sore from softball practice, enlists the aid of Duncan Trussell and Greg Proops to keep the meeting moving. Topics include virtual reality, dead mothers and Jaws 4. In Dungeons and Dragons, Erin summons her first monkey.
-showDate:             
+showDate:             "2013-04-23 00:00:00Z"
 releaseDate:          "2013-04-23 10:29:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

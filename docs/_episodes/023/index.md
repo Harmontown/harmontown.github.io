@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown's last show before the tour becomes a star studded bon voyage. Eric Idle teaches Dan to write songs, Patton Oswalt teaches him the meaning of fear and Ryan Stiles teaches him that fighting displacer beasts takes 45 minutes.
-showDate:             
+showDate:             "2013-01-10 00:00:00Z"
 releaseDate:          "2013-01-10 05:42:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

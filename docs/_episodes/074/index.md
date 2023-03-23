@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon tries to examine our ethical boundaries, but when that sounds too much like going to bat for pedophiles, everyone starts high fiving themselves for not wanting to do it with babies
-showDate:             
+showDate:             "2013-09-30 00:00:00Z"
 releaseDate:          "2013-09-30 09:04:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

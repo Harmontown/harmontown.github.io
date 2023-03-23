@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown welcomes the return of comptroller Jeff Davis, Mayor Harmon wants you off his lawn and creator of The IT Crowd, Graham Linehan, meets Dan on stage for the first time and they exchange their transcontinental show runner blues.
-showDate:             
+showDate:             "2014-12-07 00:00:00Z"
 releaseDate:          "2014-12-08 21:05:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

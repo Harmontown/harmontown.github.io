@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   "Great Minds with Dan Harmon" director Heath Cullens tells the tale of how he accidentally convinced Dan that he's Dan's father. Brandon Johnson is our comptroller and Steve Levy joins for a return to role playing.
-showDate:             
+showDate:             "2018-07-16 00:00:00Z"
 releaseDate:          "2018-07-19 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

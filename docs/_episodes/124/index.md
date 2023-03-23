@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is in Aust...no wait Houston and the gang discusses weddings, Erin hosts a game corner and producer Dustin shares stories about cum.
-showDate:             
+showDate:             "2014-10-30 00:00:00Z"
 releaseDate:          "2014-10-30 23:33:00Z"
 venue:                
 comptroller:          "Erin McGathy"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The room is packed with Communicon fans and two of them are asked by Mayor Harmon to come on stage and discuss a recent internet exchange about why they feel Dan should "stop talking." A lengthy game of D&D then ensues.
-showDate:             
+showDate:             "2013-10-21 00:00:00Z"
 releaseDate:          "2013-10-21 15:25:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

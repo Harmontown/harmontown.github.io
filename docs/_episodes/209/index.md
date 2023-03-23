@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Of the FeralAudio.com podcast Obsessed, Joseph Scrimshaw talks Obsession with the Harmontown gang and your Mayor dives into his pantyhose fetish.
-showDate:             
+showDate:             "2016-08-14 00:00:00Z"
 releaseDate:          "2016-08-17 03:32:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

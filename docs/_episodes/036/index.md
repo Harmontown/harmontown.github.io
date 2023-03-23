@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Atonement turns to struggle within a dark cavern. Dan's friend loses an appendage. His Improv mentor is there, but Jeff is leaving?! The audience shouts weird things! Latinos are everywhere!
-showDate:             
+showDate:             "2013-01-23 00:00:00Z"
 releaseDate:          "2013-01-26 19:25:00Z"
 venue:                "TBC, Madison, WI"
 comptroller:          "Jeff B. Davis"

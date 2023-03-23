@@ -20,7 +20,7 @@ description: |-
   Brandon Johnson is the guest Comptroller, Rob Schrab is at Spencer's desk, and our guest is Brian Wysol, creator of the Adult Swim series Hot Streets. Dan punishes Justin Roiland for missing the show.
   
   Featuring Dan Harmon, Brandon Johnson, Rob Schrab and Brian Wysol.
-showDate:             
+showDate:             "2019-02-18 00:00:00Z"
 releaseDate:          "2019-02-21 11:30:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

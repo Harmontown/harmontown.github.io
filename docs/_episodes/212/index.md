@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Skull Juice's Dino Stamatopoulos and Andy Dick and the creators of "Stranger Things" The Duffer Brothers all in one episode.
-showDate:             
+showDate:             "2016-09-11 00:00:00Z"
 releaseDate:          "2016-09-14 22:54:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

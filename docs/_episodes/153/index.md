@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The reason Harmontown exists, Emily Gordon, guest for the first time. Kumail drops in, feminists are responsible for 99.9% of blowjobs and sperm is like a slushy.
-showDate:             
+showDate:             "2015-06-28 00:00:00Z"
 releaseDate:          "2015-06-30 23:40:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

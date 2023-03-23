@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Comptroller Brandon Johnson and Josh Androsky return to discuss the current state of higher education with Ben Nelson from the Minerva Project. Everyone plays Balderdash while Andy Dick entertains everyone.
-showDate:             
+showDate:             "2017-12-10 00:00:00Z"
 releaseDate:          "2017-12-13 11:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

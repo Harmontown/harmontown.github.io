@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan explores new interactive options for the show, Rob Corddry and Rob Schrab weigh in on Dan's writing methods, while Guest Comptroller Brandon Johnson becomes Dan's angry writing coach.
-showDate:             
+showDate:             "2017-05-07 00:00:00Z"
 releaseDate:          "2017-05-10 08:00:00Z"
 venue:                "Starburns Castle"
 comptroller:          "Brandon Johnson"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   After a well meaning stranger poisons the audience with beef fungus, Chinese Ironman, Eddie Murphy, John Landis and Yakov Smirnoff are discussed. In D&D, everyone dies.
-showDate:             
+showDate:             "2013-05-10 00:00:00Z"
 releaseDate:          "2013-05-10 06:55:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

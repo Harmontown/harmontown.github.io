@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We're back at New York's Gramercy Theater and meet comedian and artist Mary Houlihan as well as Evan Shapiro, the Founder SeeSo, the home of Harmonquest!
-showDate:             
+showDate:             "2016-11-05 00:00:00Z"
 releaseDate:          "2016-11-09 00:05:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Self destructive writer Dan Harmon claims he will one day found a colony of like-minded misfits. He's appointed suit-clad gadabout Jeff Davis as his Comptroller and bearded dreamboat Spencer Crittenden as his Dungeon Master. It's like a neurotic town hall meeting, often with alcohol and famous people.
-showDate:             
+showDate:             "2018-12-03 00:00:00Z"
 releaseDate:          "2018-12-06 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

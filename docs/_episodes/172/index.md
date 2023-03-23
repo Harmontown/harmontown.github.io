@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Get ready for two nights of the craziest Harmontowns ever.
-showDate:             
+showDate:             "2015-11-11 00:00:00Z"
 releaseDate:          "2015-11-18 04:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

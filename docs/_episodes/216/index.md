@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The Michael Jordan of porn Riley Reid enlightens Harmenians and Californians why we need to vote NO on Prop 60. dontharassca.com Later military nerds enlighten us all on why not to join the military or get out.
-showDate:             
+showDate:             "2016-10-10 00:00:00Z"
 releaseDate:          "2016-10-12 10:25:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

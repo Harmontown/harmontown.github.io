@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   From Austin, TX, Harmontown is live from the Liberty Tavern and SXSW. Bonus audio from the Q & A following the premiere of the "Harmontown" documentary.
-showDate:             
+showDate:             "2014-03-10 00:00:00Z"
 releaseDate:          "2014-03-10 22:26:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

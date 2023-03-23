@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The guys make Siri do their bidding, an emotional moment with an audeince memeber, Rick and Morty writers playing Shadowrun. Be careful, cause there's snakes out here bitch!
-showDate:             
+showDate:             "2015-11-29 00:00:00Z"
 releaseDate:          "2015-12-03 04:43:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

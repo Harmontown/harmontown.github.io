@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An unusually quiet night in Harmontown gives way to eruptions of arm wrestling, wolf hunting, dungeon mastering and child abuse.
-showDate:             "2012-07-23 04:00:00Z"
+showDate:             "2012-07-23 00:00:00Z"
 releaseDate:          "2012-07-30 20:25:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Host of the podcast "How Did This Get Played?", Heather Anne Campbell joins "Rick and Morty" writer Nick Rutherford to discuss their shared experiences writing for, regrettable video games, cancer, and their personal experiences with religion.
-showDate:             
+showDate:             "2019-08-26 00:00:00Z"
 releaseDate:          "2019-08-29 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

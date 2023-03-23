@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Comptroller Brandon Johnson and Spencer question Dan's retirement requirements. Singer-songwriter John Mayer comes on to really get inside Dan's wonderland of a mind. Dan and John debate the pros and cons of Googling yourself. The show wraps up by answering the question on everyone's mind: Can John Mayer rap?
-showDate:             
+showDate:             "2018-01-28 00:00:00Z"
 releaseDate:          "2018-01-31 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

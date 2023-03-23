@@ -20,7 +20,7 @@ description: |-
   Harmontown is honored to welcome Conflict Journalist Robert Evans to the show. With topics ranging from Syria to 8chan, Robert has done all the homework, and takes us through, with stunning detail, the conflicts that will define the era we live in.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Robert Evans.
-showDate:             
+showDate:             "2019-08-12 00:00:00Z"
 releaseDate:          "2019-08-15 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

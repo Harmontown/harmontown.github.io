@@ -20,7 +20,7 @@ description: |-
   Dan is baffled by an Emmy seat filler, Schrab has a new favorite TV show, and what happened to Wicker Man?
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden and Rob Schrab.
-showDate:             
+showDate:             "2018-09-10 00:00:00Z"
 releaseDate:          "2018-09-13 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

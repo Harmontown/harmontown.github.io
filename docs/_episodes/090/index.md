@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon has some qualms with Uber, we check in with Adam Goldberg and SuperEgo's Matt Gourley settles a dispute during D&D.
-showDate:             
+showDate:             "2014-02-10 00:00:00Z"
 releaseDate:          "2014-02-10 07:40:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

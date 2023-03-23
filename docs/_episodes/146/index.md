@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown goes back to Portland for Bridgetown 2015 and it gets squatchy, bro!
-showDate:             
+showDate:             "2015-05-10 00:00:00Z"
 releaseDate:          "2015-05-13 01:02:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

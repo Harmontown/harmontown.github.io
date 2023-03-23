@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon's neighbor posts an elitist sign in their neighborhood and he loses it. There's rants, bits, baby talk, Shadownrun. Spencer, Curtis, Erin and DeMorge.
-showDate:             
+showDate:             "2015-05-03 00:00:00Z"
 releaseDate:          "2015-05-06 02:31:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

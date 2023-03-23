@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In what has become an instant classic episode of Harmontown, Mayor Harmon is joined by Paget Brewster, Curtis Armstrong, Jeff Davis, Erin McGathy, Spencer Crittenden, Demorge Brown and more for a non-stop insane episode.
-showDate:             
+showDate:             "2015-06-14 00:00:00Z"
 releaseDate:          "2015-06-17 09:06:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

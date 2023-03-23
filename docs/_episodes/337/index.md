@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown welcomes its most charming guest to date: Yeardley Smith to the show. The star of Maximum Overdrive, Hermans' Head, and nothing else, is revealed to be a font of charisma, wisdom, and behind-the-scenes stories that enrapture the mayor himself. Also, we've got TWO COMPTROLLERS. That's right, Jeff and Brandon: Pandamonium at the Podium...
-showDate:             
+showDate:             "2019-06-17 00:00:00Z"
 releaseDate:          "2019-06-20 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

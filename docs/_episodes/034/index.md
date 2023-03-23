@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In honor of his Midwestern heritage, The Mayor puts a town meeting straight up the middle and over the plate, with sports talk, a cosmic meditation and an in depth discussion of science and religion with some of Indiana's greatest, drunkest minds!
-showDate:             
+showDate:             "2013-01-21 00:00:00Z"
 releaseDate:          "2013-01-23 19:39:00Z"
 venue:                "TBC, Bloomington, IN"
 comptroller:          "Jeff B. Davis"

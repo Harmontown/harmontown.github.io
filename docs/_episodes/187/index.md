@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan is stoned...Schrab too, the creator of The Stanley Parable randomly joins the stage and Spencer steals the show with some improv.
-showDate:             
+showDate:             "2016-03-06 00:00:00Z"
 releaseDate:          "2016-03-09 04:39:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

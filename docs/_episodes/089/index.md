@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown does the 13th annual San Francisco Sketchfest, gets a drop in from Mystery Science Theater 3000's Joel Hodgson and later on, the show goes straight Maury Povich.
-showDate:             
+showDate:             "2014-02-07 00:00:00Z"
 releaseDate:          "2014-02-07 19:28:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

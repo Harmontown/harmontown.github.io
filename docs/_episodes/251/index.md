@@ -20,7 +20,7 @@ description: |-
   Dan dives into his writing process, we go deep into the meme wars, before wrapping the show up with some role playing.
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
-showDate:             
+showDate:             "2017-07-09 00:00:00Z"
 releaseDate:          "2017-07-12 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

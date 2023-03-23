@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   After 4 days of straight podcasting, the gang returns to LA with comptroller Duncan Trussell and a special drop in from Community's Joel McHale.
-showDate:             
+showDate:             "2014-11-03 00:00:00Z"
 releaseDate:          "2014-11-03 22:16:00Z"
 venue:                
 comptroller:          "Duncan Trussell"

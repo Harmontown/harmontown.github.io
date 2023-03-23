@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon suggests a new, fecal approach to morality. Other topics include Halle Berry, Superman and accents. In D&D, the gang runs afoul of snake men and each other.
-showDate:             
+showDate:             "2013-03-08 00:00:00Z"
 releaseDate:          "2013-03-08 09:51:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

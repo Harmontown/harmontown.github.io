@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Hot off of ComicCon, Harmontown summons harmenians to San Diego's Tin Roof for a night of drinking, rapping, dinosaurs, bananas and more.
-showDate:             
+showDate:             "2015-07-12 00:00:00Z"
 releaseDate:          "2015-07-15 07:30:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

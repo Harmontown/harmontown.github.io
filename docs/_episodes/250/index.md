@@ -20,7 +20,7 @@ description: |-
   Role playing & Ghostsplaining through our 250th episode! A medical emergency is averted after Jeff gets a nose bleed from laughing.
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Steve Levy.
-showDate:             
+showDate:             "2017-07-02 00:00:00Z"
 releaseDate:          "2017-07-06 01:43:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

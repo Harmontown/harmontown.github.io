@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon is possibly a bit jealous of Spencer and Real Abed's budding friendship, and later we welcome Demorge Brown to the mix which spawns a TV pilot pitch, "FlagCop".
-showDate:             
+showDate:             "2014-08-25 00:00:00Z"
 releaseDate:          "2014-08-25 20:32:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

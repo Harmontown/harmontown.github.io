@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown begins an epic 4 days of non-stop podcasting starting in San Francisco with none other then comptroller Steve Agee!
-showDate:             
+showDate:             "2014-10-27 00:00:00Z"
 releaseDate:          "2014-10-27 22:09:00Z"
 venue:                
 comptroller:          "Steve Agee"

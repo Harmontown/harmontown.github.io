@@ -20,7 +20,7 @@ description: |-
   This Harmontown has everything: A baby kicker, a handshake before sex, Squeezy Steve Levy, and one hundred pounds of beef jerky.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Steve Levy.
-showDate:             
+showDate:             "2019-06-03 00:00:00Z"
 releaseDate:          "2019-06-06 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

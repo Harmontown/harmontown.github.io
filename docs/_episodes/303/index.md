@@ -20,7 +20,7 @@ description: |-
   Is it morally right to eat Gillian Anderson's sandwiches? Why are Ron Perlman's hands so soft? What's really going on with Predator?
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Schrab.
-showDate:             
+showDate:             "2018-09-17 00:00:00Z"
 releaseDate:          "2018-09-20 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

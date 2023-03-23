@@ -20,7 +20,7 @@ description: |-
   Dan listened to last week's show while sober and with some comments and clarifications, along with the return of Jesse Camp.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Jesse Camp.
-showDate:             
+showDate:             "2019-01-14 00:00:00Z"
 releaseDate:          "2019-01-17 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

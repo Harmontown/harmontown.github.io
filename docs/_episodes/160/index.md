@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   As we learned last week, the movie Boat Trip is insane, and a surprise drop in from Horatio Sanz discusses just how strange working on it really was. Later, the audiences awwws.
-showDate:             
+showDate:             "2015-08-23 00:00:00Z"
 releaseDate:          "2015-08-25 22:34:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

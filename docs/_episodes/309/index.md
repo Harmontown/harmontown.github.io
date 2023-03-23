@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Spencer welcome our latest sponsor "MeOnesie" to the show, and our favorite socialist Josh Androsky pops in to explain Measure B. Antonio Banderas also premiers his latest musical, and is not to be missed.
-showDate:             
+showDate:             "2018-11-05 00:00:00Z"
 releaseDate:          "2018-11-08 11:00:00Z"
 venue:                
 comptroller:          "Spencer Crittenden"

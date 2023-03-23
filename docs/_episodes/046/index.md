@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   'Rick and Morty' writer Ryan Ridley drops by, 'Real Abed' Gheith pitches his insane restuarant and Kumail Nanjiani reveals secrets to brown acting. In D&D: the party climbs into a hole.
-showDate:             
+showDate:             "2013-03-01 00:00:00Z"
 releaseDate:          "2013-03-01 02:03:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

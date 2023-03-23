@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden, Rob Schrab and Cassandra Church.
-showDate:             
+showDate:             "2017-02-05 00:00:00Z"
 releaseDate:          "2017-02-08 08:15:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon, now equipped with his trusty new invention, is joined by Johnny Pemberton to break down prank phone calls. Afterwards a visit from "The Tumor Lady" and then later on, the topic of fishing for compliments becomes a major issue for everyone on stage. Mostly Erin, who challenges Spencer in this nearly lost episode.
-showDate:             
+showDate:             "2013-09-03 00:00:00Z"
 releaseDate:          "2013-09-03 00:04:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

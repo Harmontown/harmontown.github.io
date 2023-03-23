@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan solicits black audience members to join the show and organically, not by force or anything, they engage in a rap battle. Guest Greg Proops returns and adds a nice layer of insanity to our Shadow Run campaign.
-showDate:             
+showDate:             "2015-02-08 00:00:00Z"
 releaseDate:          "2015-02-11 21:53:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

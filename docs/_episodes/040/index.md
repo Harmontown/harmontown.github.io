@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is reborn in a strange land of complex liquor laws, polarized religion and Kevin Nealon photos. Plus: Sports Corner, Fart Corner, odor dating and weird rants!
-showDate:             
+showDate:             "2013-01-28 00:00:00Z"
 releaseDate:          "2013-01-31 02:19:00Z"
 venue:                "TBC, Salt Lake City, UT"
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Thomas Middleditch joins Harmontown for some full body scrubbing, Shadow Run and possibly some deeply offensiveness.
-showDate:             
+showDate:             "2015-11-22 00:00:00Z"
 releaseDate:          "2015-11-26 03:43:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

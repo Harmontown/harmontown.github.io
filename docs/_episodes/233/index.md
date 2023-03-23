@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Open Mike Eagle.
-showDate:             
+showDate:             "2017-02-19 00:00:00Z"
 releaseDate:          "2017-02-22 20:39:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

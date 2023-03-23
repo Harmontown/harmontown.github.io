@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's a special night at Harmontown when Mayor Harmon decides the goal is to "achieve weightlessness" and establish Harmontown's real purpose. One hour, thirty tangents, two emails from Harmon's big brother and that goal remains unachieved, but a legendary theme park death does finally get its own theme song.
-showDate:             "2012-06-16 04:00:00Z"
+showDate:             "2012-06-16 00:00:00Z"
 releaseDate:          "2012-07-04 08:20:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

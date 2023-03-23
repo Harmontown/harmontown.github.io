@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Dan Harmon and Comptroller Duncan Trussell makes another sold out show at Nerdmelt Theater one for the ages!
-showDate:             
+showDate:             "2014-07-21 00:00:00Z"
 releaseDate:          "2014-07-21 18:28:00Z"
 venue:                
 comptroller:          "Duncan Trussell"

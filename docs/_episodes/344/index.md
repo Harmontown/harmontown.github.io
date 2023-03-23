@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown finally gets down to business in a Jeff-less Episode. Brandon Johnson comptrols as we do the important, and timely, work of tearing down Billy Joel. Plus a dive into Dan's deep past unearths a hyper-detailed account of open mics as they existed in a pre-karaoke America, and a frankly shocking experience with a...
-showDate:             
+showDate:             "2019-08-05 00:00:00Z"
 releaseDate:          "2019-08-08 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

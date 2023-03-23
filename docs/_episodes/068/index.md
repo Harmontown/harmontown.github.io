@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In the middle of working on Community 501, a very tired Mayor Harmon takes to a crowd of Harmenians and revels in their eccentricities. In D&D, an Ogre cums.
-showDate:             
+showDate:             "2013-08-19 00:00:00Z"
 releaseDate:          "2013-08-19 22:57:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

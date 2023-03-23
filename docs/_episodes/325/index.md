@@ -20,7 +20,7 @@ description: |-
   Jeff Davis returns! We dive into the top five flat earth questions, and what would happen if a tree grew upside down?
   
   Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Rob Schrab.
-showDate:             
+showDate:             "2019-03-11 00:00:00Z"
 releaseDate:          "2019-03-14 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

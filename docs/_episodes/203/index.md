@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Power trio Dan Harmon, Jeff Davis and Spencer Crittenden lay down another classic episode of Harmon.
-showDate:             
+showDate:             "2016-07-03 00:00:00Z"
 releaseDate:          "2016-07-06 20:37:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

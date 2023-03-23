@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Erin is out of the country and Harmon is playing a lot of video games and has strong opinions on them. Ryan Ridley comptrolls and the guys from Before You Were Funny make Harmon read one of his earliest short stories.
-showDate:             
+showDate:             "2015-08-09 00:00:00Z"
 releaseDate:          "2015-08-12 07:30:00Z"
 venue:                
 comptroller:          "Ryan Ridley"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown 2015 is here! Back To The Future 2 conspiracies, Ireland and D&D goes on hiatus as the gang begins a 2015 ShadowRun campaign.
-showDate:             
+showDate:             "2015-01-11 00:00:00Z"
 releaseDate:          "2015-01-14 21:24:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

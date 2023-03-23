@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon has nothing to discuss so he opens it to the floor. Super powers are debated. Gifts are given. A special guest returns to D&D.
-showDate:             
+showDate:             "2013-07-01 00:00:00Z"
 releaseDate:          "2013-07-01 20:34:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

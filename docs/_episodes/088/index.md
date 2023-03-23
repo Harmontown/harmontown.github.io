@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown commemorates Phillip Seymour Hoffman, discusses happiness, takes a Sports Corner break and in Pathfinder, Laan-Ev introduces the gang to his friends.
-showDate:             
+showDate:             "2014-02-03 00:00:00Z"
 releaseDate:          "2014-02-03 21:41:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

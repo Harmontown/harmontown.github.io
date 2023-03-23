@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan and Erin get a divorce, The Bootsins return and are torn up about a dying eucalyptus tree, Curtis Armstrong comptrolls, Colin Hanks guests... buckle up.
-showDate:             
+showDate:             "2015-10-11 00:00:00Z"
 releaseDate:          "2015-10-14 18:03:00Z"
 venue:                
 comptroller:          "Curtis Armstrong"

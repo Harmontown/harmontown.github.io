@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An all-star hunk episode of Harmontown with humanitarian beefcake Daniel Gillies, the mouth watering Duncan Trussell and the cut from marble stone greek god Kumail Nanjiani.
-showDate:             
+showDate:             "2016-06-26 00:00:00Z"
 releaseDate:          "2016-06-29 04:58:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

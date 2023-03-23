@@ -20,7 +20,7 @@ description: |-
   Dan's future mother-in-law tells an absolute shocker of a story about a scarf. Spencer is gone, Dan fails a polygraph regarding his potential role in the murder.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab, Randee Heller, Bob Garrett and Cody Heller.
-showDate:             
+showDate:             "2019-01-28 00:00:00Z"
 releaseDate:          "2019-01-31 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

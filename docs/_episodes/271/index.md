@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's Christmas, and this show has something for everyone! Our traditional holiday events include: The return of DeMorge Brown, Dan and Brandon discussing net neutrality, Josh Androsky stopping in again to play some games, and Spencer studying for his ham radio exam.
-showDate:             
+showDate:             "2017-12-17 00:00:00Z"
 releaseDate:          "2017-12-20 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

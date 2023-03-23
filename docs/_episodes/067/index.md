@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Pet psychology is discussed. Then the usual topics of race and terrorism. Then crap gets real about anarchy on the moon.
-showDate:             
+showDate:             "2013-08-12 00:00:00Z"
 releaseDate:          "2013-08-12 11:35:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In conjunction with Adult Swim and Starburns Industries, HARMONTOWN Live at Largo Coronet Theatre! Featuring Justin Roiland, John Oliver and Sarah Chalke! (Presented in 128kbps Stereo)
-showDate:             
+showDate:             "2013-11-18 00:00:00Z"
 releaseDate:          "2013-11-18 10:20:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

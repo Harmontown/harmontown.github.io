@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is welcomed by a warm crowd and a sold out show in Montreal for another gut spilling and heart wrenching episode steeped in comedy and loving kindness.
-showDate:             
+showDate:             "2016-07-30 00:00:00Z"
 releaseDate:          "2016-08-03 08:53:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest Comptroller Brandon Johnson joins Dan and Spencer to lay down some beats and serve up the best role playing snacks we've ever tasted.
-showDate:             
+showDate:             "2017-11-05 00:00:00Z"
 releaseDate:          "2017-11-08 11:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

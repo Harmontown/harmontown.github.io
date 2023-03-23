@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Duncan Trussell wants us all to try Nitrous Oxide and start a cult, Dan is unapologetic about last week's show, and everyone shares their favorite stories about Steve Levy's anatomy.
-showDate:             
+showDate:             "2017-09-23 00:00:00Z"
 releaseDate:          "2017-09-27 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

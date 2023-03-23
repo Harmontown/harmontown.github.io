@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's a whodunit with Paul F. Tompkins on Harmontown!
-showDate:             
+showDate:             "2016-04-03 00:00:00Z"
 releaseDate:          "2016-04-06 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

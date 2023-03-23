@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In conjunction with Cinefamily and Starburns Industries, enjoy Harmontown, LIVE from the Vista theater with a special Q&A for the HARMONTOWN movie, now at harmontown.com!
-showDate:             
+showDate:             "2014-10-05 00:00:00Z"
 releaseDate:          "2014-10-05 17:52:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

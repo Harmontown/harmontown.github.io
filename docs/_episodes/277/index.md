@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan has some strong opinions on being chased by bees and what goes on in the mind of dogs. Jeff tells his career defining joke. Schrab isn't happy with the title of last week's show, but joins Dan and Steve in another intimate moment on the stage floor.
-showDate:             
+showDate:             "2018-02-11 00:00:00Z"
 releaseDate:          "2018-02-14 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

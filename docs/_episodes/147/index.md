@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Sen. Bernie Sanders pays a visit to Harmontown and talks the bottom 45 percent of the top 60 percent of the top 1 percent.
-showDate:             
+showDate:             "2015-05-17 00:00:00Z"
 releaseDate:          "2015-05-20 03:18:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

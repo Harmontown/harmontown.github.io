@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Jeff blows the whistle on NASA's secret agenda and Dan blows surprise guest Chris Hardwick!
-showDate:             "2012-08-07 04:00:00Z"
+showDate:             "2012-08-07 00:00:00Z"
 releaseDate:          "2012-08-17 02:51:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

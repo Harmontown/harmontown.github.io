@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Ptolemy Slocum.
-showDate:             
+showDate:             "2016-12-04 00:00:00Z"
 releaseDate:          "2016-12-07 20:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

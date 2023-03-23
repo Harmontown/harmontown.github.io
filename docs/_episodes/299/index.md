@@ -20,7 +20,7 @@ description: |-
   Dan's trainer, Dave Klein, returns to take the audience through a workout session. Jeff returns as comptroller, and Schrab shows Dan what it would be like to live next to a Neanderthal.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Dave Klein and Rob Schrab.
-showDate:             
+showDate:             "2018-08-13 00:00:00Z"
 releaseDate:          "2018-08-16 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

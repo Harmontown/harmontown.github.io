@@ -20,7 +20,7 @@ description: |-
   Rob Schrab fills in for Spencer with special guest Ron Funches, and a one man show about plumbing.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ron Funches.
-showDate:             
+showDate:             "2019-02-04 00:00:00Z"
 releaseDate:          "2019-02-07 10:37:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

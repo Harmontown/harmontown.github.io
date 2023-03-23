@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The most legendary television writer and producer in all of history Norman Lear joins Harmontown, you'll never look at birthday candles the same way again.
-showDate:             
+showDate:             "2016-05-01 00:00:00Z"
 releaseDate:          "2016-05-04 17:33:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

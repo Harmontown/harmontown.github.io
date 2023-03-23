@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Gigantic sweetheart and actor Derek Mears visits Harmontown, Dan doesn't trust when Rob says "I love you", music by Jeordie White.
-showDate:             
+showDate:             "2016-04-24 00:00:00Z"
 releaseDate:          "2016-04-27 05:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon tells us how to not write. Also discussed: Wikileaks, Disabilities, Ben Affleck and puppies.
-showDate:             
+showDate:             "2013-06-13 00:00:00Z"
 releaseDate:          "2013-06-13 22:20:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

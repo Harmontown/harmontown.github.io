@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayoral Master Harmon strides boldly across the return threshold and declares Spencer God. Then he raps and dicks around with people in the audience. It doesn't sound like much on paper but it's a pretty great episode.
-showDate:             
+showDate:             "2013-01-30 00:00:00Z"
 releaseDate:          "2013-02-01 20:55:00Z"
 venue:                "TBC, Portland, OR"
 comptroller:          "Jeff B. Davis"

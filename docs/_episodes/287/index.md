@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan's still in bed recovering from shingles, but Schrab wants to know why Dan won't go to a movie with him. Rob Schrab almost lists his top four Infinity Wars spoilers, Spencer shares history of the incel movement, and Dan explains why his brain is gendered like a battleship.
-showDate:             
+showDate:             "2018-05-06 00:00:00Z"
 releaseDate:          "2018-05-09 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

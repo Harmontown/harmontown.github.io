@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The show takes a decidedly weird turn from the start. Guests Rob Schrab and DeMorge Brown talk with Dan, Jeff and Spencer about enemas, prostate massage and more. Steve Levy shares Diarrhea Junior's real life origin story.
-showDate:             
+showDate:             "2018-03-11 00:00:00Z"
 releaseDate:          "2018-03-14 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

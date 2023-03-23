@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The Harmontown dream team; Dan Harmon, Jeff Bryan Davis, Erin McGathy, Mitch Hurwitz and Kumail Nanjiani recap SXSW; Fred Phelps death bed and later, Spencer returns for a roaring session of D&D!
-showDate:             
+showDate:             "2014-03-17 00:00:00Z"
 releaseDate:          "2014-03-17 18:41:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

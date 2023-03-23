@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Duncan Trussell is this weeks guest comptroller, who brings a sense of spirituality that could only be countered by Rob Schrab's chair noises.
-showDate:             
+showDate:             "2018-04-15 00:00:00Z"
 releaseDate:          "2018-04-18 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

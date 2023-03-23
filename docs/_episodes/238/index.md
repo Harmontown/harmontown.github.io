@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Featuring Dan Harmon, Jeff B. Davis, Rob Schrab and Brandon Johnson
-showDate:             
+showDate:             "2017-03-26 00:00:00Z"
 releaseDate:          "2017-03-29 05:48:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

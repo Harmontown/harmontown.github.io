@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Titanic Sinclair and Mars Argo help examine the internet's war on the self. Comptroller McGathy refs a game of "Spencer or Goldberg" between Mayor Harmon and Kumail.
-showDate:             
+showDate:             "2013-06-24 00:00:00Z"
 releaseDate:          "2013-06-24 20:49:00Z"
 venue:                "NerdMelt"
 comptroller:          "Erin McGathy"

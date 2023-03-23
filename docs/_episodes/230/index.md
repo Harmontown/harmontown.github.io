@@ -20,7 +20,7 @@ description: |-
   Fascism comes to America and Harmontown susses it out with the city of San Francisco.
   
   Original music made for Harmontown by Titanic Sinclair.
-showDate:             
+showDate:             "2017-01-26 00:00:00Z"
 releaseDate:          "2017-02-02 06:45:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

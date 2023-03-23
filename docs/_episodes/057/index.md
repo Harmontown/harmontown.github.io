@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon and Guest Comptroller Goldthwait examine their own bodies, Dan's drinking, Jeremy Piven, Bigfoot and their likely deaths by significant other. In D&D, the heroes continue to fight their shadow selves.
-showDate:             
+showDate:             "2013-05-21 00:00:00Z"
 releaseDate:          "2013-05-21 18:11:00Z"
 venue:                "NerdMelt"
 comptroller:          "Bobcat Goldthwait"

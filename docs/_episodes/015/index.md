@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Dan has nothing, so he answers twitter questions. Adam Goldberg takes over the show, then, Dan interviews ethnic people. Plus: in D&D world: the party levels up!
-showDate:             
+showDate:             "2012-11-02 00:00:00Z"
 releaseDate:          "2012-11-02 17:31:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

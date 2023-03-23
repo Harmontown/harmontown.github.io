@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An all around provocapalooza surrounding language, race, religion, science, bugs, moms and fake dinosaurs. In D&D, the characters awake in Ye Olde Arena Milieu.
-showDate:             
+showDate:             "2013-05-13 00:00:00Z"
 releaseDate:          "2013-05-13 17:30:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

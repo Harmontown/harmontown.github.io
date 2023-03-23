@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In an in-studio episode, Jeff tells a mysterious story about Ron Jeremy and Dan discusses the tragedy in Las Vegas as well as the effect of easily-available smut on the web on today's youth. Then the role playing gang ventures forth in their exploits.
-showDate:             
+showDate:             "2017-10-07 00:00:00Z"
 releaseDate:          "2017-10-11 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

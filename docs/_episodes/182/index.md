@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Fallout Shelter racism, Rob Schrab has bags on his feet and wonders, how come we haven't gone down?
-showDate:             
+showDate:             "2016-01-24 00:00:00Z"
 releaseDate:          "2016-01-28 19:13:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

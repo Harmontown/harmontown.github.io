@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon and his Comptroller Jeff Davis return from Scotland where Dan proposed to Erin McGathy. Then, uhh, Mitch Hurwitz, Harris Wittels, Kumail Nanjiani and Steve Agee join the stage... stop reading and get in here!
-showDate:             
+showDate:             "2014-01-07 00:00:00Z"
 releaseDate:          "2014-01-07 00:33:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

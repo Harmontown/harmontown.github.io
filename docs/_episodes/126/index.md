@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is live from Chicago, with Dino, Spencer, a guy with gout , a racism specialist and a live organist!
-showDate:             
+showDate:             "2014-11-01 00:00:00Z"
 releaseDate:          "2014-11-06 05:08:00Z"
 venue:                
 comptroller:          "Dino Stamatopolous"

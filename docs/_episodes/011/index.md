@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The first appearance of Greg Proops provokes a fit of Mayor Harmon's pointless political rants and a D&D adventure that shall forever be remembered as involving unicorn pee.
-showDate:             "2012-09-17 04:00:00Z"
+showDate:             "2012-09-17 00:00:00Z"
 releaseDate:          "2012-09-28 02:30:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

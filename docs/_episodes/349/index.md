@@ -20,7 +20,7 @@ description: |-
   Dan makes a sweater out of cum, and debates with Jeff the pros of being a stander wiper. Dave Foley joins in with tales from The Kids in the Hall and NewsRadio. Who wants a pocket shaman now?
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Dave Foley.
-showDate:             
+showDate:             "2019-09-16 00:00:00Z"
 releaseDate:          "2019-09-19 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

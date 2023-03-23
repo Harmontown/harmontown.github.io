@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown comes to Toronto along with Emily Gordon and Kumail Nanjiani to perform some weird improv in front of a lot of people.
-showDate:             
+showDate:             "2016-09-27 00:00:00Z"
 releaseDate:          "2016-09-30 05:04:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

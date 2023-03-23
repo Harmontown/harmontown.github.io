@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Kyle, heart transplant survivor joins the stage and Rob Schrab guest comptrolls and makes Dan feel bad about not hanging out with him more.
-showDate:             
+showDate:             "2015-12-06 00:00:00Z"
 releaseDate:          "2015-12-08 11:38:00Z"
 venue:                
 comptroller:          "Rob Schrab"

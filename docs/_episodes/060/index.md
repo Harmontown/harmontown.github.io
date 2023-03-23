@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   In which it asserted by Harmontown, that Fathers are important. Guest starring Spencer's Dad.
-showDate:             
+showDate:             "2013-06-17 00:00:00Z"
 releaseDate:          "2013-06-17 10:14:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

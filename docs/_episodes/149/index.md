@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown is back in Portland for Everything Is Terrible! Penis size is questioned and two well dressed audio members take the brunt of it, Dan is accused of sh*tting his pants and ends up revealing his balls.
-showDate:             
+showDate:             "2015-05-31 00:00:00Z"
 releaseDate:          "2015-06-02 23:29:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

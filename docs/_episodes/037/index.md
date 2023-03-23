@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon and Guest Comptroller McGathy interface with Twin Town from injured tendon to badly placed sound effect. Former Dead Alewives member Sean McKenna raps. Joyfully unedited episode.
-showDate:             
+showDate:             "2013-01-24 00:00:00Z"
 releaseDate:          "2013-01-27 20:30:00Z"
 venue:                "TBC, Minneapolis, MN"
 comptroller:          "Erin McGathy"

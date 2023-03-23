@@ -20,7 +20,7 @@ description: |-
   Rob Corddry is back! Dan tells us how to break into his house, Rob talks about his time at The Daily Show, and mountain lions do what they do.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Rob Corddry.
-showDate:             
+showDate:             "2019-07-01 00:00:00Z"
 releaseDate:          "2019-07-04 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

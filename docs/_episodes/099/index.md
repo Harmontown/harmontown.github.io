@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Live from The Bridgetown Festival in Portland, Oregon; Harmontown is now in session!
-showDate:             
+showDate:             "2014-05-11 00:00:00Z"
 releaseDate:          "2014-05-11 19:27:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

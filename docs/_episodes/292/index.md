@@ -20,7 +20,7 @@ description: |-
   Live from the Wilbur in Boston, MA. Special guest Aaron Mahnke from the Lore podcast.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Aaron Mahnke and Steve Levy.
-showDate:             
+showDate:             "2018-06-22 00:00:00Z"
 releaseDate:          "2018-06-28 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

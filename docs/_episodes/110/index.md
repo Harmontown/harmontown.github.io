@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon welcomes Dana Carvey to Harmontown who for some reason apologizes for Wayne's World two and out of nowhere, Tenacious D of www.festivalsupreme.com appear out of thin air! In D&D, someone dies.
-showDate:             
+showDate:             "2014-08-04 00:00:00Z"
 releaseDate:          "2014-08-04 18:55:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

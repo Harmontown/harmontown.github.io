@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon brings Arrested Development's creator Mitch Hurwitz on stage to talk shop about TV. Later Kumail returns and the whole thing ends with an epic D&D session. Quit reading already and press play!
-showDate:             
+showDate:             "2013-12-02 00:00:00Z"
 releaseDate:          "2013-12-02 23:08:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

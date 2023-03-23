@@ -20,7 +20,7 @@ description: |-
   Comedian Mohanad Elshieky shares recent events in his life, while Dan shares relatable tales of house shopping. Brandon Johnson is back, filling in for Spencer.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Brandon Johnson and Mohanad Elshieky.
-showDate:             
+showDate:             "2019-02-11 00:00:00Z"
 releaseDate:          "2019-02-14 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

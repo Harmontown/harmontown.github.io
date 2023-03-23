@@ -20,7 +20,7 @@ description: |-
   Guest comptroller Brandon Johnson, and the "Stuff They Don't Want You to Know" podcast guys (Matt Frederick, Ben Bowlin and Noel Brown) talk podcasts, Harmonspiracies, and Schrab's "Creepshow" episode.
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Schrab, Matt Frederick, Ben Bowlin and Noel Brown.
-showDate:             
+showDate:             "2019-10-07 00:00:00Z"
 releaseDate:          "2019-10-10 10:00:00Z"
 venue:                
 comptroller:          "Brandon Johnson"

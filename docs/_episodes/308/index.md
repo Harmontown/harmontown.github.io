@@ -20,7 +20,7 @@ description: |-
   Actor/Comedian Brett Gelman and Dan talk about constipation, Dan's new abs, Buck Rogers, and Hitler.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brett Gelman.
-showDate:             
+showDate:             "2018-10-22 00:00:00Z"
 releaseDate:          "2018-10-25 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

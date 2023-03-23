@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Happy Birthday to all the Fathers out there, Kumail is comptrolling, Erin runs her best game yet and D&D is sizzling. Come get your Harmontown!
-showDate:             
+showDate:             "2014-06-16 00:00:00Z"
 releaseDate:          "2014-06-16 20:27:00Z"
 venue:                
 comptroller:          "Kumail Nanjiani"

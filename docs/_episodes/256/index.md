@@ -20,7 +20,7 @@ description: |-
   Rob Schrab is back! Dan sports a new look, tells his top 5 shoe jokes, then takes the role playing team on a wild adventure.
   
   Featuring Dan Harmon, Jeff Davis, Spencer Crittenden and Rob Schrab.
-showDate:             
+showDate:             "2017-08-26 00:00:00Z"
 releaseDate:          "2017-08-30 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmontown kicks of its run of movie screenings followed by a live podcast in Seattle to a powerful crowd of Harmenians and is post lifted to new heights and derailed from its first guest comptrolling appearance from Dino Stamatopoulos!
-showDate:             
+showDate:             "2014-09-29 00:00:00Z"
 releaseDate:          "2014-09-29 22:13:00Z"
 venue:                
 comptroller:          "Dino Stamatopolous"

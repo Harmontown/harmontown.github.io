@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Harmon talks to Matt Dwyer about being a better interviewer than Mayor Harmon, who no longer needs to be good at anything because he survived an endoscopy. In D&D: Frost Giant politics.
-showDate:             
+showDate:             "2013-07-29 00:00:00Z"
 releaseDate:          "2013-07-29 09:50:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

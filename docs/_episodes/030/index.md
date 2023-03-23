@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon and Comptroller Davis begin the show like any other – discussing the city's auto theft statistics. What comes next is 80+ minutes of insanity, featuring Adam Goldberg's brothers, Erin and Dan's sex life and much, much, sooooo much more.
-showDate:             
+showDate:             "2013-01-17 00:00:00Z"
 releaseDate:          "2013-01-19 09:04:00Z"
 venue:                "TBC, Sommerville, MA"
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Rapper Logic joins Harmontown and we continue our legacy of the greatest advertising money can buy.
-showDate:             
+showDate:             "2016-10-02 00:00:00Z"
 releaseDate:          "2016-10-05 10:23:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

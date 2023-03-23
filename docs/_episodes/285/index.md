@@ -20,7 +20,7 @@ description: |-
   Dan, Rob and Spencer share embarrassing celebrity encounters, hotel room trashing and poop stories. Steve has a problem with the violence in shellfish.
   
   Featuring Dan Harmon, Brandon Johnson, Spencer Crittenden, Rob Schrab, DeMorge Brown and Steve Levy.
-showDate:             
+showDate:             "2018-04-22 00:00:00Z"
 releaseDate:          "2018-04-25 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Of Search Party and Arrested Development Alia Shawkat stops by self-imposed sleepy Harmontown with a historical 30 minute MeUndies commercial.
-showDate:             
+showDate:             "2016-07-24 00:00:00Z"
 releaseDate:          "2016-07-30 04:18:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

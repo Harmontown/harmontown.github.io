@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   It's Oscar night and Dino almost had a three way. There's a new Adam Goldberg, Erin McGathy's acceptance speech game corner, Shadow Run and more. RIP Harris Wittels, we miss you. End music "Lisa" by Don't Stop Or We'll Die.
-showDate:             
+showDate:             "2015-02-22 00:00:00Z"
 releaseDate:          "2015-02-25 03:02:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

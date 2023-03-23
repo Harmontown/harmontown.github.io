@@ -20,7 +20,7 @@ description: |-
   Dan and Jeff solve the Ron Jeremy banana mystery, even stranger things happen with Dan's girlfriend, and the gang jumps back in to roleplaying.
   
   Featuring Dan Harmon, Jeff B. Davis, Spencer Crittenden and Steve Levy.
-showDate:             
+showDate:             "2017-10-29 00:00:00Z"
 releaseDate:          "2017-11-01 17:24:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

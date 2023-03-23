@@ -20,7 +20,7 @@ description: |-
   The return of Spencer Crittenden! Jeff helps Dan get his singing groove back. Crab alert!
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Brandon Johnson.
-showDate:             
+showDate:             "2019-03-18 00:00:00Z"
 releaseDate:          "2019-03-21 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

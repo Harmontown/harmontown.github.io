@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mystery Science Theater's Joel Hodgson stops by, everyone's world view gets questioned, then Mid-East journalists Robert Evans and Magenta Vaughn share stories of visiting war torn countries.
-showDate:             
+showDate:             "2017-05-21 00:00:00Z"
 releaseDate:          "2017-05-24 06:43:00Z"
 venue:                "Starburns Castle"
 comptroller:          "Brandon Johnson"

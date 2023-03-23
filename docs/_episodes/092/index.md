@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Mayor Harmon becomes label mates with Ice-T, which spurs Comptroller Jeff Davis into having Dan rattle off all his impressions. Mitch Hurwitz joins the group and when Spencer is out for the week, an abstract game of D&D ensues.
-showDate:             
+showDate:             "2014-02-24 00:00:00Z"
 releaseDate:          "2014-02-24 20:27:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

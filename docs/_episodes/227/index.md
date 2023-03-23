@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Night 2 of Harmontown's historic performances at the Sydney Opera House has a true opera unfold.
-showDate:             
+showDate:             "2016-12-18 00:00:00Z"
 releaseDate:          "2017-01-10 01:09:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

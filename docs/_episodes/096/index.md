@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Following the 826LA charity event, Mayor Harmon is met by an agent of compromise when a psychologist takes the stage. Later, Erin McGathy attempts her first Dungeon Mastering in D&D!
-showDate:             
+showDate:             "2014-03-24 00:00:00Z"
 releaseDate:          "2014-03-24 21:53:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

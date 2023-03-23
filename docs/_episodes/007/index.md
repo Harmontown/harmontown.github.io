@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   An especially antsy crowd turns Harmontown's meeting into a flippin' town meeting, pushing our fearless leader from musings on infidelity to contemplations of suicide. Plus: Dungeonmaster Spencer unveils the boys' characters!
-showDate:             "2012-08-20 04:00:00Z"
+showDate:             "2012-08-20 00:00:00Z"
 releaseDate:          "2012-08-30 06:13:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

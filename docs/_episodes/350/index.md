@@ -20,7 +20,7 @@ description: |-
   Dan shares his feelings about the loss of a friend and coworker, then brings on Ed Neumeier – writer of genre defining movies like RoboCop and Starship Troopers to dive deep into their history and trivia.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Rob Schrab and Ed Neumeier.
-showDate:             
+showDate:             "2019-09-23 00:00:00Z"
 releaseDate:          "2019-09-26 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

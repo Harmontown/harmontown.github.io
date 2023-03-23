@@ -19,7 +19,7 @@ image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   More horrible rapping, a new character named Big Red, a phone call to Chevy Chase and a conversation with Adam Goldberg. In D&D: our heroes fall into a pit!
   Note: the audience was not mic'd this episode.
-showDate:             
+showDate:             "2013-01-05 00:00:00Z"
 releaseDate:          "2013-01-05 05:37:00Z"
 venue:                "NerdMelt"
 comptroller:          "Jeff B. Davis"

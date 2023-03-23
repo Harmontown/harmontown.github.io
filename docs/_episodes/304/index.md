@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Is Schrab getting too comfortable in his comfy chair, and what is he doing with his microphone? The role playing gang pivots to being potato farmers, but they get stuck on naming. Steve Levy is like a Lego.
-showDate:             
+showDate:             "2018-09-24 00:00:00Z"
 releaseDate:          "2018-09-27 10:00:00Z"
 venue:                
 comptroller:          "Rob Schrab"

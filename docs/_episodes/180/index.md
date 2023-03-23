@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Guest comptroller Rhea Butcher joins your Mayor through the world of politics, gay weddings and mannequin legs.
-showDate:             
+showDate:             "2016-01-10 00:00:00Z"
 releaseDate:          "2016-01-18 08:26:00Z"
 venue:                
 comptroller:          "Rhea Butcher"

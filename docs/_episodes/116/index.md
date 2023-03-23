@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Technology! Industry! Vodka! Harmontown live in Portland from the XOXO Festival with Spencer as your humble comptroller!
-showDate:             
+showDate:             "2014-09-15 00:00:00Z"
 releaseDate:          "2014-09-15 07:40:00Z"
 venue:                
 comptroller:          "Spencer Crittenden"

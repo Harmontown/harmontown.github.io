@@ -20,7 +20,7 @@ description: |-
   Ryan Kraus from "Cold Case Murder Mysteries" deconstructs true crime and horror and what it means to be the perfect crime, and how one day we're all going to be robots. Also, Spencer's balls are too big.
   
   Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden and Ryan Kraus.
-showDate:             
+showDate:             "2019-05-20 00:00:00Z"
 releaseDate:          "2019-05-23 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
