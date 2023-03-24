@@ -15,7 +15,7 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/190/174"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-43uRb1g5C3W0WH612n6U"
 
-image:                "/assets/images/episode-placeholder.jpg"
+image:                "/assets/images/episodes/174/02.png"
 description: |-
   Thomas Middleditch joins Harmontown for some full body scrubbing, Shadow Run and possibly some deeply offensiveness.
 showDate:             "2015-11-22 00:00:00Z"
