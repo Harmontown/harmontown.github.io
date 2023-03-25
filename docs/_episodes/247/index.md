@@ -23,7 +23,7 @@ description: |-
 showDate:             "2017-06-04 00:00:00Z"
 releaseDate:          "2017-06-07 13:50:00Z"
 venue:                
-comptroller:          "Brandon Johnson"
+comptroller:          "Jeff B. Davis"
 gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
@@ -31,9 +31,9 @@ hasDnD:
 #       the guest, audienceGuests, and images lists.
 
 guests:
+- "Brandon Johnson"
 - "Steve Agee"
 - "Steve Levy"
-- "Jeff B. Davis"
 
 audienceGuests:
 #- "Example guest 1"
