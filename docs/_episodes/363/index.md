@@ -18,7 +18,7 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   The gang gets back together one more time to catch up on everything since the show's finale.
-showDate:             
+showDate:             "2021-02-21 17:00:00-08:00"
 releaseDate:          "2021-03-18 07:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
