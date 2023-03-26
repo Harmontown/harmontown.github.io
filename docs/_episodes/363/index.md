@@ -15,7 +15,7 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/363"
   hallOfRecords:      
 
-image:                "/assets/images/episode-placeholder.jpg"
+image:                "/assets/images/episodes/363/imdb.jpg"
 description: |-
   The gang gets back together one more time to catch up on everything since the show's finale.
 showDate:             "2021-02-21 17:00:00-08:00"
