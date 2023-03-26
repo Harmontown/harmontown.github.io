@@ -2,12 +2,20 @@ name: Build and deploy jekyll site
 
 on:
   push:
-    branches: []
-#      - main
-#      - actions-testing
+    branches: ["main"]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+  
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   jekyll-build:
@@ -31,10 +39,18 @@ jobs:
         with:
           compose-file: "docker-compose.yml"
           up-flags: --abort-on-container-exit
-
-      - name: 🚀 deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/_site
-          enable_jekyll: false
+          
+      - name: 🔼 upload artifact
+        uses: actions/upload-pages-artifact@v1
+          
+  # Deployment job
+#   deploy:
+#     environment:
+#       name: github-pages
+#       url: ${{ steps.deployment.outputs.page_url }}
+#     runs-on: ubuntu-latest
+#     needs: jekyll-build
+#     steps:
+#       - name: 🚀 deploy
+#         id: deployment
+#         uses: actions/deploy-pages@v1
