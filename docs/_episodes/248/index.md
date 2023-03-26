@@ -15,7 +15,7 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/265/248"
   hallOfRecords:      
 
-image:                "/assets/images/episode-placeholder.jpg"
+image:                "/assets/images/episodes/248/03.png"
 description: |-
   Dan and Jeff take their brand new role playing characters out for a spin. Christina Oh talks movies with Dan.
   
@@ -25,13 +25,13 @@ releaseDate:          "2017-06-21 12:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
 gameMaster:           
-hasDnD:               
+hasDnD:               true
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
+- "Christina Oh"
 #- "Example guest 2"
 
 audienceGuests:

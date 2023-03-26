@@ -3,7 +3,7 @@ layout:               episode
 slug:                 "lost-9"
 sequenceNumber:       9
 episodeNumber:        
-title:                "Lost Episode #9 (Live at San Francisco Sketchfest 2012)"
+title:                "Lost Episode #9"
 soundFile:            
 duration:             
 isLostEpisode:        true
