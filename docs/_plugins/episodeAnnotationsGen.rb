@@ -1,6 +1,7 @@
 module Harmontown
   class EpisodeAnnotationsGen < Jekyll::Generator
     def generate(site)
+      Jekyll.logger.info "EpisodeAnnotGen:", "Starting..."
 
       episodes = site.collections['episodes'].docs.sort_by { |ep| ep.data['sequenceNumber'] }
       

@@ -1,6 +1,7 @@
 module Harmontown
   class ToDoGenerator < Jekyll::Generator
     def generate(site)
+      Jekyll.logger.info "ToDoGen:", "Starting..."
 
       progress =  Progress.new(site)
 
@@ -11,7 +12,7 @@ module Harmontown
             subDir: 'missing',
             field: missing.field,
             key: nil, 
-            title: "Episodes Missing " + missing.field,
+            title: "Episodes Missing ",
             sequenceNumbers: missing.sequenceNumbers,
             type: 'missing') }
       )

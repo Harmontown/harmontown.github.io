@@ -1,6 +1,7 @@
 module Harmontown
   class EpisodeListGenerator < Jekyll::Generator
     def generate(site)
+      Jekyll.logger.info "EpisodeListGen:", "Starting..."
 
       episodes = site.collections['episodes'].docs
       def toGrouping (k, v)
