@@ -34,21 +34,21 @@ module Harmontown
     end
 
     def missingValues
-      def getSequenceNumbers(field)
-        @episodes.select { |ep| ep[field] == nil }.map { |ep| ep['sequenceNumber']}
+      def getSequenceNumbers(field, unset:nil, except:[])
+        @episodes.select { |ep| ep[field] == unset && except.include?(ep['slug']) == false }.map { |ep| ep['sequenceNumber']}
       end
 
       [
         MissingValue.new('Date of live performance.', 'showDate',
-          getSequenceNumbers('showDate')),
+          getSequenceNumbers('showDate', except:['nightsss', '361', '362'])),
         MissingValue.new('Location of live performance.', 'venue', 
-          getSequenceNumbers('venue')),
+          getSequenceNumbers('venue', except:['361', '362'])),
         MissingValue.new('Episode description.', 'description', 
           @episodes.select { |ep| ep['description'].strip.end_with? '...' }.map { |ep| ep['sequenceNumber']}),
         MissingValue.new('Comptroller', 'comptroller',
-          getSequenceNumbers('comptroller')),
+          getSequenceNumbers('comptroller', except:['nightsss', '361', '362'])),
         MissingValue.new('Game Master', 'gameMaster',
-          getSequenceNumbers('gameMaster')),
+          getSequenceNumbers('gameMaster', except:['nightsss', '361', '362'])),
         MissingValue.new('Whether episode has D&amp;D, Pathfinder, Shadowrun, or any other roleplaying session', 'hasDnD',
           getSequenceNumbers('hasDnD')),
         MissingValue.new('List of guests.', 'guests', 
@@ -56,7 +56,7 @@ module Harmontown
         MissingValue.new('List of audience members who participated.', 'audienceGuests', 
           getSequenceNumbers('audienceGuests')),
         MissingValue.new('Custom episode image.', 'image', 
-          @episodes.select { |ep| ep['image'] == '/assets/images/episode-placeholder.jpg' }.map { |ep| ep['sequenceNumber']}),
+          getSequenceNumbers('image', unset: '/assets/images/episode-placeholder.jpg', except:['nightsss', '361', '362'])),
       ]
     end
   end
