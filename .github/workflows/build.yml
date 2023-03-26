@@ -43,7 +43,7 @@ jobs:
       - name: 🔼 upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: '/srv/jekyll/_site'
+          path: "./docs/_site"
           
   # Deployment job
 #   deploy:
