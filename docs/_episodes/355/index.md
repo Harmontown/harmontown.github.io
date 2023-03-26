@@ -18,21 +18,19 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   Our march into oblivion continues! No guests! No role playing! Nothing to lose! It's worth mentioning Spencer is feeling pretty sassy this episode and it shows.
-  
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Steve Levy, and Rob Schrab.
 showDate:             "2019-10-28 00:00:00Z"
 releaseDate:          "2019-10-31 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Steve Levy"
+- "Rob Schrab"
 
 audienceGuests:
 #- "Example guest 1"

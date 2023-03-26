@@ -15,23 +15,21 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/370/353"
   hallOfRecords:      
 
-image:                "/assets/images/episode-placeholder.jpg"
+image:                "/assets/images/episodes/353/03.png"
 description: |-
   Actor/Comedian Flula Borg astounds Jeff with his sports knowledge and 1980's American pop culture references, teaches us his favorite German words, and helps Dan become the best hype man he can be.
-  
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, and Flula Borg.
 showDate:             "2019-10-14 00:00:00Z"
 releaseDate:          "2019-10-17 10:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
+- "Flula Borg"
 #- "Example guest 2"
 
 audienceGuests:

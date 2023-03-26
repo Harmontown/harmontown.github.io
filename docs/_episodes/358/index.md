@@ -18,21 +18,20 @@ external:
 image:                "/assets/images/episode-placeholder.jpg"
 description: |-
   We're counting down the last few episodes of Harmontown, and to celebrate we're counting down the top ten funniest things. Nick Rutherford is back, it's Church's birthday, and Schrab sees how far he can push the show off the rails.
-  
-  Featuring Dan Harmon, Jeff Bryan Davis, Spencer Crittenden, Rob Schrab, Nick Rutherford and Church.
 showDate:             "2019-11-18 00:00:00Z"
 releaseDate:          "2019-11-21 11:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"
-gameMaster:           
+gameMaster:           "Spencer Crittenden"
 hasDnD:               
 
 # Note: Consult the "Tips" lower down the page for info on how to edit
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Rob Schrab"
+- "Nick Rutherford"
+- "Church"
 
 audienceGuests:
 #- "Example guest 1"
