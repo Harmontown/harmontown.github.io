@@ -9,7 +9,7 @@ duration:             "02:06:21"
 isLostEpisode:        false
 isTrailer:            false
 external:
-  harmonCity:         "https://harmon.city/episode-363"
+  harmonCity:         
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/363"
