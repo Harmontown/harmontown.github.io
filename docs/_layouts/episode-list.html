@@ -15,10 +15,8 @@ layout: default
     </tr>
   </thead>
 
-  {% assign sorted = site.episodes | sort: 'sequenceNumber' %}
   {% for seqNum in page.sequenceNumbers %}
-  {% assign i = seqNum | minus: 1 %}
-  {% assign ep = sorted[i] %}
+  {% assign ep = site.episodes | where: 'sequenceNumber', seqNum | first %}
   <tr>
     <td>{{ ep.slug }}</td>
     <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>

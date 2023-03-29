@@ -191,4 +191,8 @@ table {
   border-radius: 4px;
   box-shadow: inset 2px black;
   box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.125) inset;
+
+  h1 > & {
+    font-size: 90%;
+  }
 }

@@ -12,8 +12,7 @@ layout: default
       <th class="mobile-hidden">Release Date</th>
     </tr>
   </thead>
-  {% assign sorted = site.episodes | sort: 'sequenceNumber' %}
-  {% for ep in sorted %}
+  {% for ep in site.episodes %}
   <tr>
     <td>{{ ep.slug }}</td>
     <td><a href="{{ ep.url }}">{{ ep.title }}</a></td>
