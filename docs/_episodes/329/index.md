@@ -15,7 +15,7 @@ external:
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/346/329"
   hallOfRecords:      
 
-image:                "/assets/images/episode-placeholder.jpg"
+image:                "/assets/images/episodes/329/01.png"
 description: |-
   The squad delves deep into the pros & cons of wolf piss. Schrab schrabs Dan into a crater, while Brandon holds the ship together upon re-entry.
 showDate:             "2019-04-08 00:00:00Z"
@@ -29,7 +29,7 @@ hasDnD:
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
+- "Rob Schrab"
 #- "Example guest 2"
 
 audienceGuests:
