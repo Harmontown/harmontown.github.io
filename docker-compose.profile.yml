@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  jekyll:
+    container_name: devEnv
+    entrypoint:
+      - jekyll
+      - build
+      - --profile

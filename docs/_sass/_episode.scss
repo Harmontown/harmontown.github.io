@@ -22,6 +22,12 @@
   display: none;
 }
 
+.episode-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
 .episode-top-navigation, .episode-bottom-navigation {
   width: calc(100% + 16px);
   display: flex;
@@ -53,10 +59,16 @@
   margin-bottom: 16px;
 }
 
+.episode-content {
+  flex: 1;
+}
 
 .episode-bottom-navigation {
   margin: 0 -8px;
   margin-top: 20px;
+}
+
+.info-box-wrapper {
 }
 
 .info-box {

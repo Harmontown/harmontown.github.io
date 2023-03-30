@@ -29,14 +29,15 @@ module Harmontown
       comptrollers = episodes.map { |ep| ep['comptroller']}.uniq
       gameMasters = episodes.map { |ep| ep['gameMaster']}.uniq
       guests = episodes.flat_map { |ep| ep['guests']}.uniq
-      audienceGuests = episodes.flat_map { |ep| ep['audienceGuests']}.uniq
-      people = comptrollers.chain(gameMasters).chain(guests).chain(audienceGuests).uniq
+      # audienceGuests = episodes.flat_map { |ep| ep['audienceGuests']}.uniq
+      # people = comptrollers.chain(gameMasters).chain(guests).chain(audienceGuests).uniq
+      people = comptrollers.chain(gameMasters).chain(guests).uniq
       
       byPerson = people.map { |person| toGrouping(person || 'TBC', episodes.select { |ep| 
         ep['comptroller'] == person || 
         ep['gameMaster'] == person ||
-        (ep['guests'] != nil && ep['guests'].include?(person)) ||
-        (ep['audienceGuests'] != nil && ep['audienceGuests'].include?(person))
+        (ep['guests'] != nil && ep['guests'].include?(person)) #||
+        # (ep['audienceGuests'] != nil && ep['audienceGuests'].include?(person))
       }) }.sort_by { |i| relevance(i) }
 
 
@@ -87,12 +88,6 @@ module Harmontown
             title: "Episodes with D&D: " + formatYesNoTbc(grouping.by),
             sequenceNumbers: grouping.items) }
       )
-
-      # targetPage = site.pages.find { |page| page.path == 'episodes/index.html' }
-      # targetPage.data['byComptroller'] = byComptroller
-      # targetPage.data['byVenue'] = byVenue
-      # targetPage.data['byPerson'] = byPerson
-      # targetPage.data['byDnD'] = byDnD
 
       Jekyll.logger.info "EpisodeListGen:", "Done."
     end

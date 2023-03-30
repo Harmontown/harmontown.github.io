@@ -15,12 +15,6 @@ module Harmontown
           site.static_files
             .select { |file| file.relative_path.start_with?(images_path) }
             .map { |file| file.relative_path }
-        
-        previousEp = episodes[ep.data['sequenceNumber'] - 2]
-        nextEp = episodes[ep.data['sequenceNumber']]
-
-        ep.data['previousUrl'] = previousEp&.url
-        ep.data['nextUrl'] = nextEp&.url
       }
 
       Jekyll.logger.info "EpisodeAnnotGen:", "Done."

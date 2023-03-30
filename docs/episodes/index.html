@@ -54,7 +54,7 @@ layout: default
   {% assign byPerson = site.pages | where: 'type', 'group' | where: 'field', 'person' %}
   {% for page in byPerson %}
   <tr>
-    <td><a href="{{page.url}}">{{ page.key | default: "TBC" }}</a></td>
+    <td><a href="{{page.url}}">{{ page.key }}</a></td>
     <td>{{ page.sequenceNumbers | size }}</td>
   </tr>
   {% endfor %}

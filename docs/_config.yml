@@ -1,8 +1,7 @@
 repository: Harmontown/harmontown.github.io
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: jekyll-theme-leap-day
 url: https://harmontown.github.io
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-sitemap
 - jekyll-seo-tag
 incremental: true

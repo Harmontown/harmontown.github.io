@@ -15,4 +15,6 @@ services:
       - --livereload-port
       - '35729'
       - --force_polling
+      - --incremental
       # - --verbose
+      # - --trace
