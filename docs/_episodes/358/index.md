@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/375/358"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E358.vtt.zip"
+    keywords:         "ardvark, oedvok, pizookie, sardinia, skillets, vien, wreaths, gregory, meep, yum, batmobile, linda, saddle, chrome, countdown, sail, swedes, bailing, screwing, funniest, kali, psst, bj's, temp, dinkum"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/136/121"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E121.vtt.zip"
+    keywords:         "ashkenazi, hillis, tingler, buchanan, godfrey, gottfried, cinemax, gilbert's, subways, gilbert, storch, cine, ebola, lynn, pens, alliteration, nicholson, elemental, rory, gayness, floss, cato, gremlins, sinister, swamp"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObob-bg5HsJ1SW_pd2qFbOg"
 
 image:                "/assets/images/episode-placeholder.jpg"

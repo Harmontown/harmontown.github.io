@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/194/178"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E178.vtt.zip"
+    keywords:         "aleeva, door-dash, e-surance, f217, oliva, qa, redberry, redbury, zoinks, jerome, dev, snapchatting, troubleshooting, boar, emu, velma, snapchat, promotional, shaggy, scooby, carol, dmx, reenact, trainers, allure"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYlY-xjObhrEhEMpC8ayEdB"
 
 image:                "/assets/images/episode-placeholder.jpg"

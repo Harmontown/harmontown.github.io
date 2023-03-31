@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/217/201"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E201.vtt.zip"
+    keywords:         "bournman, chocolat, duck-sized, frankos, horpo, isla, juliana, phoneers, horse-sized, prestigeing, greenspan, pineapples, bourne, abomination, mammogram, arby's, stenosis, apex, affirmative, prestige, blue-collar, savory, magicians, arthritis, flint"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaHQ3S7CpiuijsfY3iKr1mo"
 
 image:                "/assets/images/episode-placeholder.jpg"

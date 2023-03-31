@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/144/129"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E129.vtt.zip"
+    keywords:         "cane-shaking, clem, crick-felusie, fugler, grasio, hagerty, porton, cazoo, fandango, zippo, cali, lovecraft, roadrunner, le, tweety, pew, eyelashes, pepe, dublin, doodles, highland, bulldog, faulty, raptors, yummy"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb2iz00ou8Lt-0YNTm-q1Xy"
 
 image:                "/assets/images/episode-placeholder.jpg"

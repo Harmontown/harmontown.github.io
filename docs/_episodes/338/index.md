@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/355/338"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E338.vtt.zip"
+    keywords:         "antiseptic, cordless, fasting, glutes, joist, trident, rinds, intermittent, minnie, riders, peppa, quantum, uti, cinder, bleach, gills, whistler, splash, ashy, keaton, blasting, stall, lion's, smoker, abled"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

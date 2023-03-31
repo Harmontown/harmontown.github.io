@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/60/47"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E047.vtt.zip"
+    keywords:         "litany, mclaren, multi-colour, tudors, vieros, cabo, fatties, immortals, mclean, cabot, evade, gaith, tugging, stealthily, half-life, watchman, noam, burghh, fist-sized, ruby, bows, hackman, afterlife, omelet, tug"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaEooxgy6ezIhCfp8uhax6Q"
 
 image:                "/assets/images/episode-placeholder.jpg"

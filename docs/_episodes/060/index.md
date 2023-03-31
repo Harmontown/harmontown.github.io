@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/74/60"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E060.vtt.zip"
+    keywords:         "c-section, duplication, father-son, vcrs, wee-wee, thankless, woodgrowth, slug, wikileaks, seagull, voicemail, father's, stoic, nebraska, bill's, cults, foes, armlet, testicle, copper, pastor, rudy, murray, beans"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOacBdD8_SwG-Qn-ADNibJQN"
 
 image:                "/assets/images/episode-placeholder.jpg"

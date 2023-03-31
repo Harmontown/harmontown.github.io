@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/151/136"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E136.vtt.zip"
+    keywords:         "carnation, nph, lana, winfrey, dimarch, meshack, nichols, junkies, boyhood, clomp, dakota, malkovich, pics, junkie, presenters, meg, comlink, totem, fanning, pic, zipped, seam, oprah, trophy, glitter"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYq_7zPeN7UDvuA1M-4R8bD"
 
 image:                "/assets/images/episode-placeholder.jpg"

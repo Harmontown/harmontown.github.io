@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/302/285"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E285.vtt.zip"
+    keywords:         "burl, covney, kuchner, nutsauce, dolan's, shellfish, bu, punked, lebron, proton, capes, zorro, milton, apron, romans, saturdays, condolences, brando, majors, mckinney, reduction, cork, quip, vereen, boil"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

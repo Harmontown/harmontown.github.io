@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/28/15"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E015.vtt.zip"
+    keywords:         "rea, burma, 1830, doo-wop, piper, five-hour, hutton, ashy, entitlement, goldbright, mace, wallpaper, rican, empowerment, nt, porpoise, thunderdome, prejudice, broadleaf, coral, redheads, celestial, enti, berserker, taint"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYjLRpjKSvoGx565_U-f0vh"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/80/66"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E066.vtt.zip"
+    keywords:         "aphiuchus, colesla, javier, jembo's, riek, enclave, jarl, miranda, thelma, astrology, berlin, zipper, hamburgers, crater, interpreting, giants, craps, fornheim, dictionary, erection, pasadena, doorway, interpret, hamburger"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOajEqi9G67Hz6bLTSJbmsd8"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/276/259"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E259.vtt.zip"
+    keywords:         "cantori, chapo, pajampion, peppitone, pychampion, pyjameon, umberhulk, vidal, biometrics, coppola, bandidos, ender's, stargate, bidet, fidget, pepitone, minty, sicilian, starburnscastle, spinner, cot, beeps, tack, amnesia, utensil"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

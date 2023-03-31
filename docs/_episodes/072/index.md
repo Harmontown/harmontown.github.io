@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/86/72"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E072.vtt.zip"
+    keywords:         "carbuncle, gagarin, ludes, splats, squeab, yuri, sistine, mona, bashes, davinci, half-finished, fxx, samoan, jabs, pinkberry, louvre, sculpting, squab, chapel, callous, bj's, samoans, zevon, rodney, theology"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZbsDYyen-k1twLwcGDINnr"
 
 image:                "/assets/images/episode-placeholder.jpg"

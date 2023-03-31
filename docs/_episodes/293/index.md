@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/310/293"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E293.vtt.zip"
+    keywords:         "booblets, bublitz, calo, chordbot, isabelle, stanky, zabelle, dialysis, sheehan, uranus, zapped, bayo, isabel, nebula, 96, treehouse, planetarium, 71, shalely, garageband, navigator, frankie, buffy, nassau, quiver"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

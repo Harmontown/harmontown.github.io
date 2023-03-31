@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/259/242"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E242.vtt.zip"
+    keywords:         "aiden, bosch, dinks, doss, fo-fi, harranger, grudge, carman, marlo, fletch, defenseless, twinkie, implant, rom, roiland's, dab, o'reilly, wipers, 54, combative, andromeda, alyssa, plum, rover, stallone"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

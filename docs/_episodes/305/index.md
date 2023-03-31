@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/322/305"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E305.vtt.zip"
+    keywords:         "baffin, frobisher, frobisher's, goldeneye, goondocks, pickaxes, timothy's, re-release, locke, expedition, cummings, cuckoo, moose, fumes, steed, lids, pronouns, bradley, immigrant, timothy, warnings, coal, canadian, scotch, whiny"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

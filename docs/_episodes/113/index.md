@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/128/113"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E113.vtt.zip"
+    keywords:         "darmfond, shipwood, spisball, taquitos, blackbeard, spaz, ba, cayenne, centrum, fitty, argh, sackcloth, takei, constabulary, darvon, timbers, mutiny, tinder's, caribbean, nickelodeon, smite, paranormal, flag, betsy, abad"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObtYvvKMeoeHC6xHfVY3h75"
 
 image:                "/assets/images/episode-placeholder.jpg"

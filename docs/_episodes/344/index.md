@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/361/344"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E344.vtt.zip"
+    keywords:         "aoc, brinkley, cella, nephra, pzotomy, spoonerism, peacocks, gaye, condescend, preferences, emoticons, crows, peacock, unfurnished, marvin, christie, gymnast, pshh, translating, finder, crow, indigenous, emoji, cent, autopsy"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

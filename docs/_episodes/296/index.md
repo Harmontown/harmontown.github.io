@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/313/296"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E296.vtt.zip"
+    keywords:         "dorff, fontius, fussin', hoosin', nickelback, conehead, pennywise, raya, jamestown, weighted, coneheads, kaelin, handsomeness, hamill, albinism, colonoscopy, cannonball, hammerhead, langoliers, mats, spores, pea, stardew, tomlin, lorraine"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

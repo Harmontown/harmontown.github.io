@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/57/44"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E044.vtt.zip"
+    keywords:         "aima, branque, farnette, fennett, maddie, fap, octopi, checker, pre-order, cushy, rumored, quran, leopards, pearson, prequel, novelist, lecter, suction, confetti, rebecca, octopus, traps, hannibal, goo, burghh"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYQbTvybdwP5un2_xq0JaoZ"
 
 image:                "/assets/images/episode-placeholder.jpg"

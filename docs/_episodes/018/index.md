@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/31/18"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E018.vtt.zip"
+    keywords:         "hairball, southeast, artfall, seuss, clifford, corvette, drilling, monotonous, tammy, 1990, entries, maxwell, unavoidable, operas, journal, journals, melancholy, julieta, oats, encampment, wit, spaceships, apathy, creatives, sedona"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObFaEuR2E2PLwOM34YTV5Iy"
 
 image:                "/assets/images/episode-placeholder.jpg"

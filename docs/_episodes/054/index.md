@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/67/54"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E054.vtt.zip"
+    keywords:         "anorexics, fyrom, hagiographic, little's, proof-of-file, proof-of-files, steimer, tellin', tuscany, feeders, fondant, marcy, peebles, clang, croatian, roomba, starcraft, inflection, astride, cheesecake, prance, starsky, doves, fibes, macedonia"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObrz9sXIPzHEzsURW-TWUv1"
 
 image:                "/assets/images/episode-placeholder.jpg"

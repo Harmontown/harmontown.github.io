@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/90/76"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E076.vtt.zip"
+    keywords:         "baaah, breffy's, brefi's, brephy, earworm, sighing, aerodynamics, julieta, ornament, undermining, likeable, monterey, communicon, playstation, crusty, lava, solely, unresolved, vulture, brefi, catherine, krista, fandom, inspector, suspended"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObX6_sNKGu6UJ42Fq-WtyOv"
 
 image:                "/assets/images/episode-placeholder.jpg"

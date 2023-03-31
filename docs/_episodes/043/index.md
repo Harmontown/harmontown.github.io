@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/56/43"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E043.vtt.zip"
+    keywords:         "mccheese, plutonic, ronald's, starfucker, nirvana, booyah, badger, bel, walters, trot, hirsch, woe, mel, billiards, radiation, goldthwaite, butler, dion, goldway, ravens, tivo, cobain, celine, testicular, fellas"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObokiYvPPxoplQwDItH96fg"
 
 image:                "/assets/images/episode-placeholder.jpg"

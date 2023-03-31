@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/107/93"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E093.vtt.zip"
+    keywords:         "botstein, django, hubble, pageantry, rickon, rooney's, mcconaughey's, leto, foist, noop, caddy, nominee, wept, ramis, nominees, 1971, mumble, meatballs, harold, stardom, chang, hustle, sparkles, acceptance, mourn"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZMIoq38XXjI0ocbQ1g1clH"
 
 image:                "/assets/images/episode-placeholder.jpg"

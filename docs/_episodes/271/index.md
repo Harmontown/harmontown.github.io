@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/288/271"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E271.vtt.zip"
+    keywords:         "eat24, eno, kissinger, lookalikes, materially, mouthwash, nolyn, porgs, roymor, skinnered, sozzled, technicality, rsvp, hussein, schraba, southie, tulips, voltage, taiko, merlin, mueller, tulip, quadrants, saddam, apologist"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/206/190"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E190.vtt.zip"
+    keywords:         "carran, roastmaster, schaal, roasts, snarling, tig, corraine, mimi, robbs, esposito, rebuttal, affleck, stacy, cordray, garner, corddry, leonardo, cordy, roasted, stacey, rebecca, roast, pineapple, voyage, long-form"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ2oPl82soQs3r4d3z0t81J"
 
 image:                "/assets/images/episode-placeholder.jpg"

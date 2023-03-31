@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/208/192"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E192.vtt.zip"
+    keywords:         "aisha, ayesha, chamberlain's, dameron, geordi, handleman, lobot, lobot's, myron, twiz, zootopia, simons, jordy, dreadlock, hillier, awakens, kombucha, mimosa, fedex, gracie, brunch, lando, simmons, po, palmer"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYYy-fQDCkPD9Au8aiwUuPC"
 
 image:                "/assets/images/episode-placeholder.jpg"

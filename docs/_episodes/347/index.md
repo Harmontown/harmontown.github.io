@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/364/347"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E347.vtt.zip"
+    keywords:         "christened, clickity, baptism, obituary, viola, peele, funt, catholics, playwright, sweatshirts, choo, mammogram, baptized, marie, orthodox, baptist, methodist, praying, confirmed, carrier, prank, heather, twilight, hahahaha, lutheran"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

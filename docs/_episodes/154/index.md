@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/169/154"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E154.vtt.zip"
+    keywords:         "amel, coors-like, damorge, epsom, peckerwood, realsies, t-a-y-e, caesars, whopper, encrypted, all-black, intestine, cologne, peyote, caesar's, klux, ku, promoter, ty, darcy, peele, nibble, confessions, dehumanization, kung"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaZfA8iI50Hst5TRPsj-5gl"
 
 image:                "/assets/images/episode-placeholder.jpg"

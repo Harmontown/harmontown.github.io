@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/371/354"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E354.vtt.zip"
+    keywords:         "chilele, coggera, condors, croix, fro-y, kogara, ocarina, oink, seedling, hogs, kagura, bathhouse, wick, lacroix, sprite, pigs, fifteen, dreadlocks, hog, floorboards, incestuous, tambourine, grenades, grenade, instruments"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

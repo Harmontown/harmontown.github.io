@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/65/52"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E052.vtt.zip"
+    keywords:         "areola, atv, bruffy, lissette, locke's, mccarris, mele, merman, ram-man, squish, skeletor, faze, swayze's, grayskull, eternia, funguses, residing, beastiality, tracker, chi, roadhouse, wanderer, columns, swayze, tai"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObUvAXKqfuwgPNbUs6IvLXU"
 
 image:                "/assets/images/episode-placeholder.jpg"

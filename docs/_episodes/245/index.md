@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/262/245"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E245.vtt.zip"
+    keywords:         "braf, braf's, fixers, mst, skydivers, yazidis, mosul, ypg, backers, ivan, iraqi, photographing, worldview, crowdfunding, firefight, tulum, militia, magenta, kurdistan, veronica, divert, journalists, pistons, syrian, iraq"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

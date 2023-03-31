@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/178/163"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E163.vtt.zip"
+    keywords:         "aspergian, cavendish, hashanah, lorna, rosh, clinicians, busking, neurotypicals, seamus, autistics, cadbury, prods, euthanasia, bestseller, blarney, concessions, facetime, neurotypical, silberman, autism, asperger, autistic, masking, eugenics, bubbles"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa6e1YaJtrUYLsPjPTEvc7N"
 
 image:                "/assets/images/episode-placeholder.jpg"

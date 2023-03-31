@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/248/231"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E231.vtt.zip"
+    keywords:         "bilicheck, facism, garcetti, hannai, mar-, protestor, rashida, shayguvara, smatter, detainees, analytical, gaga's, protester, arterial, detained, dill, aclu, garment, buds, patriots, pickles, protest, cashew, crosswalk, protesting"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

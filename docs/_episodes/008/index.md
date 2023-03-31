@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/21/8"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E008.vtt.zip"
+    keywords:         "cata, dreamweaver, walder's, pendulums, fissure, goblin's, mercurial, prism, divot, weaver, masked, chasm, feud, scholarship, beams, whore, whores, cleft, jab, crossbow, dawson, nt, beam, flips, goblins"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb8zUN-W2wn6kVCU2eNE6P2"
 
 image:                "/assets/images/episode-placeholder.jpg"

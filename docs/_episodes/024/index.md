@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/37/24"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E024.vtt.zip"
+    keywords:         "breanna, breanne, brianne, mesa, scrabble, tucson, $22, dratch, nugent, thuds, shawshank, cylinders, dandy, cylinder, fused, phoenix, slow-mo, skins, dustin's, gallagher, siren, inspect, arizona, encampment, fleet"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ1sqMDANvfxWftoL62GMN4"
 
 image:                "/assets/images/episode-placeholder.jpg"

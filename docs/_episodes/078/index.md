@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/92/78"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E078.vtt.zip"
+    keywords:         "lysol, loder, daria, cultist, homebrew, moustache, warped, thalidomide, xers, moderator, minion, prominent, self-contained, yurch, integrity, boomers, ban, hamlet, subreddit, disgusted, minions, tahiti, kurt, tentacles, lorraine"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY_tQDi8McICVzFexBTRXT-"
 
 image:                "/assets/images/episode-placeholder.jpg"

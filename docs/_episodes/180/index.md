@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/196/180"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E180.vtt.zip"
+    keywords:         "asahi, downgrade, gaydar, homobile, midrash, scrappers, splooges, watt, equivocate, fulcrum, parkinson's, lilith, tangy, articulation, doorways, delta, discrimination, salesman, left-wing, overalls, showtime, denzel, mayonnaise, 15%, tampons"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOatZQlJOdaqk5y7C92YQed4"
 
 image:                "/assets/images/episode-placeholder.jpg"

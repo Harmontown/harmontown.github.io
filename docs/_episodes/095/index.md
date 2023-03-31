@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/109/95"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E095.vtt.zip"
+    keywords:         "anti-irish, engorgement, faganabler, potterville, malaysian, horseshoes, restitution, phelps, excommunicated, martigans, salsa, mardigan's, escalates, hoax, mcgee, gnomish, fizz, pinched, rolly, beardy, falk, dew, diploma, funerals, riddles"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYq_HDIedn9G4vOh3KNBKrz"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/309/292"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E292.vtt.zip"
+    keywords:         "1408, mahnke, schwits, schwitz, mankey, rah, bearney, 1492, barony, lindbergh, lore, gourd, vending, huey, wipers, revere, fallout, mack, folklore, quincy, salem, shamblin', shrove's, palmer, libtard"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

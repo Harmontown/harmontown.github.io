@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/40/27"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E027.vtt.zip"
+    keywords:         "lill, nashville-style, tanika, viv, artillery, for-, kurdistan, kurds, percussion, nashville, moonshine, francis, ashley, cannons, nash, slimy, garth, i-, intimidate, hospitality"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYtoiVl3Jmf8LPvk4sHdNZ0"
 
 image:                "/assets/images/episode-placeholder.jpg"

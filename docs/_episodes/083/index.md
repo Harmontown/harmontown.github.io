@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/97/83"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E083.vtt.zip"
+    keywords:         "amanita, garaldi, gnostics, ladas, mid-neck, mingle, muddle, muscaria, winces, solstice, fates, morose, buggy, topaz, communion, fairfax, mccartney, crosby, sizzle, gong, mating, reviewer, ringo, xbox, monitored"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObKJdCiHHSabO6dQmxFIJ-o"
 
 image:                "/assets/images/episode-placeholder.jpg"

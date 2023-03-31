@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/120/105"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E105.vtt.zip"
+    keywords:         "conveying, hadrian's, helder, heldor, o'hare, raziplas, dharma, 9am, 10am, granny, bids, firebird, maroon, gnats, trachea, tumors, frito, barbershop, cantaloupe, donahue, condom, netherlands, tundra, clunky, heartburn"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYKWtAEmvK-sFEuSqQmzMHY"
 
 image:                "/assets/images/episode-placeholder.jpg"

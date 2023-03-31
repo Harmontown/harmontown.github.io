@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/289/272"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E272.vtt.zip"
+    keywords:         "charamara, gadsukamuka, gadzooka, yurt, sting's, fleischer, cortisone, procedural, malaria, aurora, doornester, leaky, lightsabers, understudies, gretel, igloo, muka, synopsis, courtney, dornester, lightsaber, pooper, india, calcium, saints"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/106/92"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E092.vtt.zip"
+    keywords:         "a26la, duchovama, ice-t's, layla, non-secular, ooglots, shale, warburg, ocelot, ice-t, dwp, kcrw, mcclintock, ogres, hoopa, 5-0, harrelson, loki, painters, spongebob's, mitchell, coffins, chunky, storch, hobbits"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaj5ireqFMAXQlybKnI_tkC"
 
 image:                "/assets/images/episode-placeholder.jpg"

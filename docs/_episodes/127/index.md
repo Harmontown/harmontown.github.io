@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/142/127"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E127.vtt.zip"
+    keywords:         "beedlejuice, blige, blik, mackerel, moscow, remixes, venomous, zhenya, nuptials, slurpee, benz, peer-to-peer, widows, clones, impending, zealand, bergen, eight-year-old, eugene, putin, cloning, grizzly, aussie, eyelids, remix"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObFsbJCu_ufBE8-CYG9xCb7"
 
 image:                "/assets/images/episode-placeholder.jpg"

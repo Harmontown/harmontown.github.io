@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/96/82"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E082.vtt.zip"
+    keywords:         "fooie, jameson's, belushi's, dwindles, bacardi, emission, macy's, onus, belushi, hong, talons, sawing, bayou, gasp, pecs, nip, peck, mitch, filtered, robot's, salon, shrunk, mockery, osama, grasping"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaISpIncNv30--5a-np52_q"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/345/328"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E328.vtt.zip"
+    keywords:         "b1, bixby, citronella, heraldry, high-def, reince, tusks, quacks, four-line, dreamcatcher, whorehouse, borscht, baggle, crossword, walrus, tonsils, backspace, cersei, wright, thor, mayo, norton, lloyd, hulk, cleaners"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

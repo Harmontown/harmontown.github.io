@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/239/222"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E222.vtt.zip"
+    keywords:         "braise, figurine, figurines, hendersons, mummy's, tallness, undee's, proportionate, meundee's, grinchmas, martians, bandanas, cannes, tracksuit, waterworld, tombstone, coasters, violating, aw, lucas, spongebob, housekeeper, 6'4, sophia, captains"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

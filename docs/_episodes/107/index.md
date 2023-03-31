@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/122/107"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E107.vtt.zip"
+    keywords:         "1-0, bioinformatics, bookmobiles, flurbos, kubla-con, mandated, multi-attack, oran, patinkin, sepulon, oren, abdul, kamell, timberlake's, draconic, ramones, timberlake, contiguous, cold-blooded, flagstone, saline, tylenol's, tipsy, mandy, roundup"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb2ZKgpla6UnevU-aoWvdkl"
 
 image:                "/assets/images/episode-placeholder.jpg"

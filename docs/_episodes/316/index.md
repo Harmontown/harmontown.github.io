@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/333/316"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E316.vtt.zip"
+    keywords:         "hachoo, multi-level, torrey, blub, sentencing, dh, vj, charities, competed, duff, ernie, amos, yahweh, revolver, collins, morrison, sneezing, posh, jesse, proposed, tahiti, mtv, icloud, autonomy, amy"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/366/349"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E349.vtt.zip"
+    keywords:         "arigato, beneficent, fecundity, ibsen, mumus, stand-away, garfield's, dmt, dollhouse, susu, segal, ropey, hipity, menstruation, insomniac, shaman, ellis, foley, zen, floppy, lorne, ayahuasca, 1812, casserole, mckinney"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

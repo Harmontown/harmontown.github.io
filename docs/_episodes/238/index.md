@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/255/238"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E238.vtt.zip"
+    keywords:         "armorani, lavished, pleats, varvatos, vovados, 75th, c'mon, avocados, clicky, irons, shrek, moonlight, brook, dow, iced, lenses, leggings, mosque, eyesight, beanstalk, snip, malls, testicular, lavish, hosiery"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

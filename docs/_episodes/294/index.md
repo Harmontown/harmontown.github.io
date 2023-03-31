@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/311/294"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E294.vtt.zip"
+    keywords:         "arreals, outliving, punnum, schlamisle, 60-year-old, skidoo, medallion, asmr, halen's, mash-up, esther, quarts, schmendrick, muller, seeger, acquitted, submarines, 1968, walsh, back's, foo, blake, citrus, dreading, diggity"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

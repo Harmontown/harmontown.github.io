@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/350/333"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E333.vtt.zip"
+    keywords:         "conair, donal, g6, keech, scooty, fiennes, matthow, harmonica, breckheimer, logue, petco, varick, audi, manhunter, angie, glick, itinerary, jiminy, hayes, chappelle, convict, convicts, e-scooters, hands-free, tiger's"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

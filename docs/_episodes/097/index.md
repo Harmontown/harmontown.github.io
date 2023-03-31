@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/111/97"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E097.vtt.zip"
+    keywords:         "day-day, pathan, paton, patons, renovation, salvadorans, shih, spitzbob's, strawbass, sui, whizball, matron, beacons, 1030, fizzbulb, sizzler, patan, cartons, guinness, tzu, hashtags, baiting, coiling, d-day, hiking"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb7STQSAQu3kDkWksO7kYEc"
 
 image:                "/assets/images/episode-placeholder.jpg"

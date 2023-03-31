@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/85/71"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E071.vtt.zip"
+    keywords:         "fizzling, leftmost, chuchu, pendulum, immerse, premium, gabe, theft, tutor, blitzer, pioneers, immersed, auto, immersion, porcupine, amish, polo, schrodinger's, syria, tar, jeopardy, scramble, fudge, sandy, griffin"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaTW0fvBVB4QH9wcoZVWsha"
 
 image:                "/assets/images/episode-placeholder.jpg"

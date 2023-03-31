@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/141/126"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E126.vtt.zip"
+    keywords:         "kazakhstan, split-second, zerpack, gout, farrell, feta, dee, n-bomb, vamp, sprint, sap, gnolls, neurology, organ, tim, lennon"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOabRQBfL00HYMHAoe6F9zI0"
 
 image:                "/assets/images/episode-placeholder.jpg"

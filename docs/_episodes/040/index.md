@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/53/40"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E040.vtt.zip"
+    keywords:         "brigham, duce, gobler's, neelan, neland, slimes, talitha, malone, melph, mending, melph's, seasoning, utah, knob, mormon, marriott, slime, mormons, mormonism, bibles, deuce, vests, authorized, bo, doubles"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZjwyzSSNIXwiTZ3SWwf87x"
 
 image:                "/assets/images/episode-placeholder.jpg"

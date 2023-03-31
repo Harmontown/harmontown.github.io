@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/69/55"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E055.vtt.zip"
+    keywords:         "kedafel, teriyaki, cheruz, falafel, tentpole, yakov, smirnov, bash, shrews, packaged, shahruz, almond-eyed, golfers, impaled, landis, falk, branson, guru, jerky, circled, colombo, fungus, shipped, strangled, shaken"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObri-ojoNZzSNWIkqXuayGa"
 
 image:                "/assets/images/episode-placeholder.jpg"

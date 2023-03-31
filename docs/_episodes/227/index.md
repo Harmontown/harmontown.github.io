@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/244/227"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E227.vtt.zip"
+    keywords:         "adelaide, chukas, desdemona, irwin's, josh's, reaver, pam, lotto, pam's, pecked, othello, seagulls, poppy, seagull, peck, frogs, archery, passport, flaccid, oncoming, quentin, exchanged, crisp, brisbane, boomerang"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

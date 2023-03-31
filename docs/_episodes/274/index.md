@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/291/274"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E274.vtt.zip"
+    keywords:         "001%, shamblin, henner, juvenileity, sousaphone, trombone, kelsey, capping, litigation, operated, trumpet, shambles, perp, oakland, grievance, seatbelt, claimed, brass, belmont, shambling, trumpets, 2011, marine, enthusiast, alleyway"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/183/167"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E167.vtt.zip"
+    keywords:         "192, dur-re-gur, arborist, perfunctory, melodies, tacoma, bittersweet, emoticon, grohl, napster, russ, bootsons, cds, singles, eucalyptus, snobbery, euro, decay, workshops, fargo, elliot, beth, records, mp3s, trees"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaH6Co3ixFc900a8dktMdla"
 
 image:                "/assets/images/episode-placeholder.jpg"

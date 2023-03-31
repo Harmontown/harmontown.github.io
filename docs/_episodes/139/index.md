@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/154/139"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E139.vtt.zip"
+    keywords:         "11-9, 37%, creamsicle, creamsicles, floral, gile, rebar, upton, grandin, grubhub, purell, balding, germ, cardigan, jordan's, hump, q-tip, collapsing, sinclair, penn, taser, germs, goatee, toot, gillian"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa33FWL_J3fO3ziUjCm79bm"
 
 image:                "/assets/images/episode-placeholder.jpg"

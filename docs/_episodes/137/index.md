@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/152/137"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E137.vtt.zip"
+    keywords:         "booger's, darby, lambda, qzack, sybil, tapeheads, truckload, nimoy, 12k, cusack's, shepard, sherwood, manimal, moonlighting, cred, phantasm, yin, grit, attribute, risky, kuzak, tootsie, cusack, eugene, agility"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY4I7nOWL5E7nb8cx7JMs8g"
 
 image:                "/assets/images/episode-placeholder.jpg"

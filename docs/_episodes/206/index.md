@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/222/206"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E206.vtt.zip"
+    keywords:         "ez, sasso, smake, snirson, alia, smacked, baghdad, lording, elites, romano, elmo, meundies, hoverboard, modal, cuckold, tbs, ew, webbed, forte, lewis, workaholics, frisbee, hater, holocaust, 37"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZUDMurUCTuhvPGB2Bsltqd"
 
 image:                "/assets/images/episode-placeholder.jpg"

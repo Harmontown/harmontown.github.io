@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/353/336"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E336.vtt.zip"
+    keywords:         "dossboot, escrow, lav, pietta, huebner, pelor, stugatz, beatle, ideals, fry's, yams, macbook, mcdowell, raider, ios, calgary, closets, prawn, rad, bonds, cato, lawnmower, autograph, relics, 5th"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

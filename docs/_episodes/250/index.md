@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/267/250"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E250.vtt.zip"
+    keywords:         "friar, fulcher, huckabee, ruiz, alchemist, alchemy, stand-in, callie, cellulose, fontecchio, impasse, nestle, trident, arrowhead, archer, selma, roommates, water's, pitchfork, tom's, veterinarian, roan, x-rays, emanating, moss"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

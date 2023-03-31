@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/261/244"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E244.vtt.zip"
+    keywords:         "cory, wiki, lam, re-break, putin's, napkins, cordry, boardroom, derogatory, shotguns, leaks, prilosec, structurally, elliptical, ridge, alzheimer's, heller, cocoon, structural, vitamins, instructor"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

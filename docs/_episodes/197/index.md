@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/213/197"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E197.vtt.zip"
+    keywords:         "dupes, firm-ass, glurp, namatron, toobie, under-roofs, under-roos, underoos, walgreens, sur, venezuela, batmobile, indiegogo, briefs, chomp, superheroes, alfred, two-hour, squint, mcguire, awkward, curved, radioactive, enhance, etiquette"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYy3pMVtFaS2KAi9QQzJyDr"
 
 image:                "/assets/images/episode-placeholder.jpg"

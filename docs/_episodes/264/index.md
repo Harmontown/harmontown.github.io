@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/281/264"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E264.vtt.zip"
+    keywords:         "grandmas, manant, spenny, stube, zele, lamb's, crone, shlubby, absalom, pachens, alphas, foo, lounges, passions, appealing, commissary, schrader, stain, squinting, peel, ron, cheddar, honda, stains, chew"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/172/157"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E157.vtt.zip"
+    keywords:         "cabrese, clobbering, dominicans, eastside, falklands, fawkes, gulag, hines, kazarinsky, leapers, pocciangi, xenu, zip-line, unicef, zipline, koi, chiklis, jumpers, ebersol, 1921, albanese, falkland, fuji, piazza, dimes"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaZlOQ7Um1_p4Egsgc9LmII"
 
 image:                "/assets/images/episode-placeholder.jpg"

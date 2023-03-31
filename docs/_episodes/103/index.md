@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/118/103"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E103.vtt.zip"
+    keywords:         "loog, mccalls, smulder, suri, teethy, shalube, bethany, escondido, smudge, vogue, lebanese, dilated, maids, ufos, shalu, top-down, blowjob, turn-based, sudoku, staples, barnes, swish, blowjobs, unfinished, sulu"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb-UTDxBrN1btuZJ4yE9Pt-"
 
 image:                "/assets/images/episode-placeholder.jpg"

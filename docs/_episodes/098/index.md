@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/113/98"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E098.vtt.zip"
+    keywords:         "allah's, hailey, harmonology, scraaaah, elrond, oblong, prophet, effigy, enhances, proposals, toledo, mead, irs, renaissance, three-foot, grinch, haley, hubbard, buddha, parrot, scientology, allah, wrath, luke, prom"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYX08380Y9gQFcIPt2G_sAO"
 
 image:                "/assets/images/episode-placeholder.jpg"

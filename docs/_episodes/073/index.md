@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/87/73"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E073.vtt.zip"
+    keywords:         "455, farnsworth, fasbucci, ferrera, oboe, philo, sax, two-faced, amerigo, bacula, four-legged, migraines, pez, proletariat, adamantium, glint, parakeets, dispensers, libel, bungee, fiddler, contrivance, kits, belle, insidious"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaNEeg-ihhUYkVPxPt9WXDE"
 
 image:                "/assets/images/episode-placeholder.jpg"

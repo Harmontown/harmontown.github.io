@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/140/125"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E125.vtt.zip"
+    keywords:         "ackright, rhinocerai, liverpool, chet, rhinos, barlow, weasels, portcullis, puffer, rhino, gogh, sabbath, snm, unicorns, communicon, mikhail, mimic, vengeance, armulet, purity, tame, danielle, illuminati, costello, pooty"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObCT4x_aFuqKcLKyiSoR0Og"
 
 image:                "/assets/images/episode-placeholder.jpg"

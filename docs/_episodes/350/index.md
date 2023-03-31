@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/367/350"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E350.vtt.zip"
+    keywords:         "bucca, davison, deathlock, directives, ed2o9, newmire, orion, penurious, rabotin, robertine, robocup, rubanzi, tippett, verhoeven, showgirls, swappable, vp, davidson, neumeyer, salvador, brechtian, weller, robocop, creepshow, starship"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

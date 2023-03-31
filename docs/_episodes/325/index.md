@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/342/325"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E325.vtt.zip"
+    keywords:         "funtz, gyroscope, lightskins, lona, man-a-war, schmarch-ment, woman-a-war, xena, briggs, earthers, earther, tink, gerbil, play-doh, gerbils, logician, rockwell, lopez, jean-claude, aquaman, bots, lawns, boiler, anonymity, meyer"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

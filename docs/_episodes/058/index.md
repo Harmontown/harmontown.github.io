@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/72/58"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E058.vtt.zip"
+    keywords:         "cahn, chechnya, smush, serling, scimitar, bur, honduras, paramilitary, judas, ay, submitted, hawaii, chapman, puss, islands, psychic, lars, destined, brace, tracy, alexander, kindergarten, illinois, deja, heist"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYPpHt1YsJzkNjAsV0hiq9O"
 
 image:                "/assets/images/episode-placeholder.jpg"

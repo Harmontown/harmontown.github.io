@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/323/306"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E306.vtt.zip"
+    keywords:         "cholo's, gun-shaped, hermanos, honeys, keester, payaso, tat, toco, toko, latinx, cholos, cholo, tilde, homie, garvey, pedicure, camacho, preston, taj, omar, retrospect, flirt, homies, compton, freestyles"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

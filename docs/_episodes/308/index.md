@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/325/308"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E308.vtt.zip"
+    keywords:         "a-lister, amelonitrate, dottaro, gerber's, huton, quailudes, rubric, snuggity, supersteam, supersteen, superstine, susanite, tweaky, vinicio, woogity, dishroom, tuchas, boogity, capra, popo, goebbels, benicio, rubik, odor, cock-sucking"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

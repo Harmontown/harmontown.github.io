@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/81/67"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E067.vtt.zip"
+    keywords:         "amadeez, armadice, mega-afghanistan, terabang, one-sixth, punjab, terraformed, ladybug, wristband, wristbands, uncool, hierarchies, infantile, fiv, spencers, enforce, licked, hierarchy, summit, cloaks, wallace, moon, anarchy, gnats, terrorism"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZe7VJhd6BjDamrlM7hCXYN"
 
 image:                "/assets/images/episode-placeholder.jpg"

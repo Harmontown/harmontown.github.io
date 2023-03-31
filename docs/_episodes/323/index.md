@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/340/323"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E323.vtt.zip"
+    keywords:         "acp, colvin, polosi, polymath, claudette, broadest, murph, backfire, beakman's, senator's, rosa, circumcise, lumbar, withers, bundy, jokers, runaway, salvage, hymen, circumcision, housing, circumcised, digits, mice, complexity"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/209/193"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E193.vtt.zip"
+    keywords:         "dobrokov, e-jack, edging, ejaculation, epididymis, juicicle, laff, laffy, pinsky, uncelled, wobba-jobba, chibo, gobbledygook, unicycle, deadbeat, unsullied, castration, mommas, harmonious, jura, molar, vacuuming, calves, couches, exam"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa_tw_XX9jRm7r-1_5oDMWD"
 
 image:                "/assets/images/episode-placeholder.jpg"

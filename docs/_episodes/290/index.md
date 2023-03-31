@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/307/290"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E290.vtt.zip"
+    keywords:         "pofig, reshoot, first-class, farley, apatow, slipper, ilan, dyke, geeks, judd, jetblue, stiller, ben's, cancelled, captain's, fraud, abs, barney, autograph, larry, psychic, freaks"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

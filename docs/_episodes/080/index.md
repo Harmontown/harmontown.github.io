@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/94/80"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E080.vtt.zip"
+    keywords:         "almond-shaped, garberator, interbreeding, parsons, largo, provinces, 2nd, almond-eyed, animatics, flanagan, enslave, oliver, schizophrenic, philippines, almond, aliens"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObdfxl3IiROmw_QlqHOmnqw"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/351/334"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E334.vtt.zip"
+    keywords:         "handjobber, profiler, sweetwater, redirection, shorewood, surgered, borden, psychopath, gus, cbd, dispatch, coloring, 911, alibi, socket, sociopath, inducing, lizzie, macarthur, unsolved, four-year-old, mysteries, nihilistic, abuser, contacted"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

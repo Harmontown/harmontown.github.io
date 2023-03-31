@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/176/161"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E161.vtt.zip"
+    keywords:         "habibi, salu, spenogl, swechert, baboon, vimeo, schrober, oyster, milo, macs, sensations, haiti, i'm-, jodie, y'all's, shadowrunners, shocker, five-year-old, voodoo, fucking-, kraken, chimp, hank, gorilla, dudley"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYSEO6EQwMVgcavUBDiYHyU"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/233/216"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E216.vtt.zip"
+    keywords:         "437, bleaching, lloyds, pendleton, pornstar, readmylips, tapehead, ua, deployment, sardos, reeve, riley, contracted, deployed, insured, stationed, corps, uso, hiv, planner, afghanistan, gonzo, misleading, anal, infantry"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

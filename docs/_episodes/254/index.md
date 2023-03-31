@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/271/254"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E254.vtt.zip"
+    keywords:         "dez, guam, herp, linwood, sidi, derp, juilliard, esports, des, grumps, sanctuary, oatmeal, marbles, stair, regards, tiki, dresser, wither, courtyard, 30th, nazi, bathtub, feedback, library"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

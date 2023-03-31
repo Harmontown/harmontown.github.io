@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/277/260"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E260.vtt.zip"
+    keywords:         "bronner's, do-dard, do-tard, gremlining, kornfield, oym, phelan, terabytes, nitrous, birdhouse, jong-un, oxide, snapple, yahtzee, lockout, raspberry, austen, teflon, desmond, indianapolis, stocks, antichrist, refractory, antifa, rewatch"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

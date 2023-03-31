@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/75/61"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E061.vtt.zip"
+    keywords:         "blink-182, bluffet, deen, ellipsis, enterobang, taskrabbit, rove, handyman, levitan, lumpy, uss, argo, entrapped, two-man, reals, affirmative, transcript, doggie, hubris, gyllenhaal, abraham, titanic"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOahBViPCHPUmbZrH6XQB9hU"
 
 image:                "/assets/images/episode-placeholder.jpg"

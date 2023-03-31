@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/180/165"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E165.vtt.zip"
+    keywords:         "brayd, hastings, mcmurray, sheba, supermoon, tejano, dewey, luminol, felicia, warcraft, homeschooled, oculus, franks, newhart, selena, skinning, well-, gamer, gamers, mckenna's, mp3, gaming, frankie, melissa, bowling"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaMLIffK2PzWoQ8AAsppLle"
 
 image:                "/assets/images/episode-placeholder.jpg"

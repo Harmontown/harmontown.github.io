@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/321/304"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E304.vtt.zip"
+    keywords:         "archaeologist, bellach, heil, shinto, cornelius, al's, dl, spud, reassigned, fluidity, tater, shire, sluts, hefner, ark, brotherhood, cis, thug, hamill, alphabetical, cultists, potatoes, parachute, atoms, toughest"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

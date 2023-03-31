@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/127/112"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E112.vtt.zip"
+    keywords:         "azad, bluto, cosetta, growler, half-ubiquitous, po-cast, vagged, wheatgrass, pitard, aladdin, roadside, idealism, darm, malta, node, hoisted, parisian, von, nodes, ubiquitous, popeye, poopy, juicery, taps, yesterday's"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaJYcd55DUX_fuueElbp8Ig"
 
 image:                "/assets/images/episode-placeholder.jpg"

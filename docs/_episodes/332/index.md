@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/349/332"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E332.vtt.zip"
+    keywords:         "delta's, erwan, margolis, smelta, t-pain, winterfell, cravello's, subatomic, morristown, snog, recompense, gutters, overheard, aria, verve, sergio, jura, walkers, d20, yale, submission, dork, gargoyle, geeks, icicle"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

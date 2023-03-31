@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/285/268"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E268.vtt.zip"
+    keywords:         "mozz, speeders, hu, neoliberalism, dsa, divest, androwski, dollywood, neoliberal, hua, choo-choo, maddow, balder, locally, beefing, self-interest, franken, comforter, diggity, wells, shiver, gridlock, davros, marx, medicare"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

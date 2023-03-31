@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/70/56"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E056.vtt.zip"
+    keywords:         "abbie, anti-religion, commentators, gruel, no-wire, porridge, ants', lookalike, pro-choice, pro-life, denise, cus, rica, lovin', urdu, costa, cock-a-doodle-doo, mandible, breathy, ceramic, grits, widows, brontosaurus, streisand, spidery"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZMIpuEV_KZ2FTNfHO5rL3F"
 
 image:                "/assets/images/episode-placeholder.jpg"

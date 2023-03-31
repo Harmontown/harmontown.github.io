@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/45/32"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E032.vtt.zip"
+    keywords:         "soffigial, van's, gnashing, arlington, verdun, wifi, casey, ivory, mediate, pancakes, spears, spat, sworn, virginia, abduction, fleshy, forge, pancake, goldthwaite, attic, infinifish, nation's, rail, curtain, aggression"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObC6dWJVcwLHJwMn53e6bWR"
 
 image:                "/assets/images/episode-placeholder.jpg"

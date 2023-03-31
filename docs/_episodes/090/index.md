@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/104/90"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E090.vtt.zip"
+    keywords:         "artisans, recesses, robbo, stubnort, englishmen, stubnortz, artisan, varna, marjorie, siphon, hiccups, vereen, zevon, critters, mack, birdie, quincy, anesthesia, bandit, ubers, folds, defendant, hyperbolic, hooded, evernote"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObhQSM0gQDMGWK1vdzKlgwR"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/296/279"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E279.vtt.zip"
+    keywords:         "godzillas, itanya, ladybird, nr, rudoff, shitface, doran, levers, brawl, defo, nominations, rims, youtube's, nester, oldman, churchill, kidnap, cisgender, fdr, selma, apathy, entropy, worshiping, crank, lowering"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

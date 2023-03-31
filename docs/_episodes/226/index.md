@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/243/226"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E226.vtt.zip"
+    keywords:         "orang, ortega, poopy-doo, rooflow, safes, siders, splasher, turnball, wollongong, pout, flit, cappuccino, wrangler, wales, sydney, swirly, tots, wyoming, immaculate, crux, physicist, kenny, dundee, retail, physics"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/254/237"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E237.vtt.zip"
+    keywords:         "crudup, talbot, zimbardo, stanford, blacklist, cartman, chowder, waldo, screenwriting, aviator, 1971, millennium, individuality, abu, sundance, trey, whittier, bitty, handcuffed, prisoner, fragility, ethics, retreat, warden, falcon"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/186/170"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E170.vtt.zip"
+    keywords:         "boggy, bup, buttock, caulfield, duffelbag, renee's, riddance, tarkington, renee, belleville, underbrush, fran, maggot, autoimmune, skellington, triplets, golan, brake, croissants, hospitalized, sciatic, celery, epcot, invitations, danish"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZyiKo6_qMKDjPRd_zHH0FA"
 
 image:                "/assets/images/episode-placeholder.jpg"

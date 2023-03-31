@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/38/25"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E025.vtt.zip"
+    keywords:         "ihop, ramekin, cabana, stockton, shuffleboard, tito's, tome, pixie, tito, outcast, refrain, jen, burrito, zeppelin, confederate, daniels"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaW5YZQkM50AcgVLa-Guh7D"
 
 image:                "/assets/images/episode-placeholder.jpg"

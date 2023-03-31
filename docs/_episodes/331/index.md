@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/348/331"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E331.vtt.zip"
+    keywords:         "coraline, gabe's, cannabis, 420, mockumentary, intoxicated, citadel, crayfish, ouija, ralph's, gabe, prevention, supermarket, plantation, gratification, gelsons, salami, shoplifting, pluto, alligators, burglary, baskin, unemployment, predictions, demo"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

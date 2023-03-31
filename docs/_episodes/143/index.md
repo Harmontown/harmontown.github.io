@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/158/143"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E143.vtt.zip"
+    keywords:         "gasworks, hodegard, narcole, psycholinguistics, retardinal, sociolinguistics, t-k, doritos, reiland, turrets, misspoke, painkillers, reincarnated, honda, spaguli, cooks, gyllenhaal, hemorrhoid, gifted, gosling, specialist, are-, dorm, lymph, triangles"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-W2CUyR-hF5wngNVHf7Is"
 
 image:                "/assets/images/episode-placeholder.jpg"

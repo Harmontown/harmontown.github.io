@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/146/131"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E131.vtt.zip"
+    keywords:         "adepts, dunkels, napoleon's, porta's, rodin, versailles, emigrate, octo, outfield, bobbitt, rigor, beret, linkedin, sorcerer, decker, gargamel, samurai, adept, sorcerers, lucifer, selfie, weller, touristy, venice, implants"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZLL6Cu0EAtf3F303VLfhEr"
 
 image:                "/assets/images/episode-placeholder.jpg"

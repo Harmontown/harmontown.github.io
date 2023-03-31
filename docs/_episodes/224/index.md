@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/241/224"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E224.vtt.zip"
+    keywords:         "brisbagus, cheesier, herbal, tox, jeffed, starfish, budgie, turmeric, walkabout, huntsman, struth, thorns, queensland, darcy, g's, chlamydia, koalas, hanson, nacho, pauline, louise, serenity, hamo, australia's, flaps"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

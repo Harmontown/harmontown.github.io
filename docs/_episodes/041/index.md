@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/54/41"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E041.vtt.zip"
+    keywords:         "alma's, lamppost, lampposts, slackliner, sounders, volstead, alma, rapp, flabby, pancreatic, cartwheel, dawned, motherfuckin', sasquatch, beavers, timbers, slack, megan, manufacturing, sphincter, cluster, embers, goldfish, northwest, liner"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYklF-EgQkFSVzWsZmQTlHe"
 
 image:                "/assets/images/episode-placeholder.jpg"

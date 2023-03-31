@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/155/140"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E140.vtt.zip"
+    keywords:         "callosum, coxswain, du-flicky, gooboo, kato's, quittenden, spagullis, tootsie's, zuckerman, bullwhip, prosecution, blackmailing, celia, imperfect, rapper's, rowing, corpus, sit-down, hobos, kato, durst, placeholders, ransom, spagulli, clyde"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaSuDfDjQpnJrrTD4jh7ZSR"
 
 image:                "/assets/images/episode-placeholder.jpg"

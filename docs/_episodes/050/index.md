@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/63/50"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E050.vtt.zip"
+    keywords:         "dunford, hobbycon, humford, kirkland, poochie, genevieve, costner, peabody, enigma, sarcophagus, coffins, lute, sob, kumeil, horrors, pearson, orb, horns, weddings, potions, diem, survivor, treasures, dragon's, calf"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZGS2aQIBMuCCXE5pEJZp2k"
 
 image:                "/assets/images/episode-placeholder.jpg"

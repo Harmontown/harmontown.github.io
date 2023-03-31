@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/156/141"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E141.vtt.zip"
+    keywords:         "gail, sparklepants, ginny, one-act, concourse, ay, generators, wooed, nielsen, viewership, tyrant, barcelona, honeypot, meats, looting, proclivities, julia, firefighter, jeans, fades, firefighters, comlink, arturo, annie, wardrobe"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZA42Epzh1YDKxGKqZHNTSU"
 
 image:                "/assets/images/episode-placeholder.jpg"

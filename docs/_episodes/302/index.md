@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/319/302"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E302.vtt.zip"
+    keywords:         "cryotherapy, 315, forehims, saruman, vapes, filler, dah, rambo, spoof, costco, cher, clientele, roundup, gummy, tampons, wicker, pleading, horse's, levar, bonded, nicholas, hart, wrapper, $70, burton"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

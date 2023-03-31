@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/212/196"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E196.vtt.zip"
+    keywords:         "barnaby's, keros, sambo's, schwarzman, smoke-pussied, monorail, problematize, problematizing, problematization, academics, doe, cardinal, tycoon, dumbo, monterey, tony's, incremental, walt, lauren, mother's, canceling, tapped, transform, problematic, speculate"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYikXjKMUT0U2HAkmUOm3OJ"
 
 image:                "/assets/images/episode-placeholder.jpg"

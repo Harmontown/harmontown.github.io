@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/287/270"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E270.vtt.zip"
+    keywords:         "bentham, m-i-n-e-r-v-a, minerva, preserved, undergraduate, overpass, universities, balderdash, andraski, midterm, phallus, duh, ta, curriculum, athena, fs, regressive, philosopher, rican, tuition, primed, university, harvard, andy's, institutions"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

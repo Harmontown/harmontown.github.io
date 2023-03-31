@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/242/225"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E225.vtt.zip"
+    keywords:         "bodie, capsicum, counterweight, describer, filtor, gifed, hammo, jeffs, purifier, sansara, shaza, smorf, ute, utes, roadblock, boldface, wheeler, owen, bishops, kangaroos, jenna, kangaroo, hamo, pharmaceutical, ipswich"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

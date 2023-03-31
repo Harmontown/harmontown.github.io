@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/266/249"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E249.vtt.zip"
+    keywords:         "comey's, leaker, meeseek, edm, armisen, trapdoor, stormtroopers, inquisitors, meeseeks, hardwick, nicks, tambourine, chewy, charred, stevie, harming, maple, ashes, fest, waters"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

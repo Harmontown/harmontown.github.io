@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/34/21"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E021.vtt.zip"
+    keywords:         "amstels, freestylin', mobisode, mobisodes, noles, tallahassee, webinar, xcrabaganza, neal, spooktacular, nole, menorah, saskatchewan, tutu, sultan, webisodes, goldbug, mindless, rappin', matthews, journals, shahruz, knolls, snitch, ferry"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOak4AFuR43XEEZbahmhmAnu"
 
 image:                "/assets/images/episode-placeholder.jpg"

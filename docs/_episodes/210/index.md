@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/227/210"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E210.vtt.zip"
+    keywords:         "flamenco, sinex, bitsy, itsy, timor, sphincters, casper, timor's, timur, madeline, friendsforbenefits, pumpkins, timmer, cul-de-sac, scaring, escort, celine, stumps, maze, haunted, donations, burt, chipotle, duffer, leaf"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

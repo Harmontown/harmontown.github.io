@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/195/179"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E179.vtt.zip"
+    keywords:         "harrumphing, keegan, swedish-american, nikki, safari, mastectomy, vasectomy, lindsay, chemtrails, cuckold, funches, chemo, extraction, nicky, diapers, hoverboard, tumbler, sag, diaper, posh, amber, hyman, pissing, tactical, spice"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYVcXGHRxZeKXmUxrkmWseb"
 
 image:                "/assets/images/episode-placeholder.jpg"

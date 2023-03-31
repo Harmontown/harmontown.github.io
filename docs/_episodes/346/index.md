@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/363/346"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E346.vtt.zip"
+    keywords:         "chans, hacktivist, otaku, hn, mockingbird, watkins, discord, replication, imported, leftist, radicalized, tic, founder, 4chan, judicial, stockpiling, durden, moot, oversight, 2008, philippines, profitable, dynamics, 8chan, anonymous"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

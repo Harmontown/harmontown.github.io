@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/308/291"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E291.vtt.zip"
+    keywords:         "alfredo, binkus, dinobots, grimlock, mingus, uncola, debuted, snarl, scabies, rrr, boykin, button's, mauled, starscream, slag, grains, nods, beep, adomian, crosswalk, undercover, slime, cobra, outrageous, transformers"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

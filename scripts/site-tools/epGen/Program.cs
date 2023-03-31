@@ -26,6 +26,7 @@ void GenerateEpisodeStubs()
 
     return string.Join("\n", itemLines);
   }
+  // string? FormatArray(string[]? list) => list == null ? null : $"[{string.Join(", ", list.Select(item => FormatString(item)))}]";
   string FormatBool(bool? value) => value?.ToString().ToLower() ?? "";
   string? FormatString(string? value) => value == null ? null : $"\"{value}\"";
   string? FormatDateString(string? value) => value == null ? null : FormatString(DateTimeOffset.Parse(value).ToString("u"));
@@ -51,6 +52,9 @@ external:
   podcastDynamite:
     hasMinutes:       {{{FormatBool(ep.External.PodcastDynamite.HasMinutes)}}}
     url:              {{{FormatString(ep.External.PodcastDynamite.Url)}}}
+  transcription:
+    filename:         {{{FormatString(ep.External.Transcription?.VttZipFilename)}}}
+    keywords:         {{{FormatString(ep.External.Transcription?.Keywords)}}}
   hallOfRecords:      {{{FormatString(ep.External.HallOfRecords)}}}
 
 image:                {{{FormatString(ep.Image)}}}
@@ -228,18 +232,23 @@ public record External
 {
   public External() { }
 
-  public External(string harmonCity, PDEntry podcastDynamite, string hallOfRecords)
+  public External(
+    string harmonCity,
+    PDEntry podcastDynamite,
+    TranscriptionEntry transcription,
+    string hallOfRecords)
   {
     HarmonCity = harmonCity;
     PodcastDynamite = podcastDynamite;
+    Transcription = transcription;
     HallOfRecords = hallOfRecords;
   }
 
   public string HarmonCity { get; init; }
   public PDEntry PodcastDynamite { get; init; }
+  public TranscriptionEntry Transcription { get; init; }
   public string HallOfRecords { get; init; }
 }
-
 public record PDEntry
 {
   public PDEntry() { }
@@ -251,4 +260,16 @@ public record PDEntry
 
   public bool HasMinutes { get; init; }
   public string? Url { get; init; }
+}
+public record TranscriptionEntry
+{
+  public TranscriptionEntry() { }
+  public TranscriptionEntry(string? vttZipFilename, string? keywords)
+  {
+    VttZipFilename = vttZipFilename;
+    Keywords = keywords;
+  }
+
+  public string? VttZipFilename { get; init; }
+  public string? Keywords { get; init; }
 }

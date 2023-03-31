@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/58/45"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E045.vtt.zip"
+    keywords:         "gulfwight, sophie, dum, pecans, germane, galvatron, soak, moaning, smear, baths, showers, shampoo, showering, downton, bath, combo, songwriter, fiendish, shower, bathing, linguistic, omar, stings, zombies, entangle"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOacFU_j251WjfRuPtpwAKbV"
 
 image:                "/assets/images/episode-placeholder.jpg"

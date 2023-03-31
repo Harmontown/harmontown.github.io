@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/126/111"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E111.vtt.zip"
+    keywords:         "acre, bavarois, bristol's, chabs, cracow, megalodon, pietro, runts, sarsgar, soared, toshiba, vathros, wankers, flemish, belgium, kuchen, wanker, pms, sumner, belgian, levitated, bmw, guardsmen, levitation, pastry"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObZVa-0U5I7JEVnMvH6r52_"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/234/217"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E217.vtt.zip"
+    keywords:         "deville, verboten, gillette, zayn, designated, knox, pessimist, acoustic, razors, quicksand, timmer, dina, periscoping, rustic, dreamed, santa's, oral, 5th, stickers, 4th, tambourine, november, conjuring, periscope, shave"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

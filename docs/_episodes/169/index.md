@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/185/169"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E169.vtt.zip"
+    keywords:         "foxworthy, greenberg, habada, hayride, nesmith, ramo, richardson, rommel, shelby, strobe, kindler's, implemented, tractor, paced, owens, motown, pt, 1940, pele, hay, hicks, synergy, mussolini, downfall, cross-legged"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZoeHDBXIMxHYIFSEuE4oly"
 
 image:                "/assets/images/episodes/169/03.png"

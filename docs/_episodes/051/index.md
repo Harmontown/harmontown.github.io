@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/64/51"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E051.vtt.zip"
+    keywords:         "fago, ferrigno, outhouse, smallish, susie's, javelin, canoga, lupus, bryant, pruitt, fool's, coachella, cola, shrews, strengthen, kobe, bikers, ornate, roadhouse, seaworld, softball, mobius, gobble, cocoa, tightrope"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObKfo-D3a29bb2tEC0q1KlN"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/214/198"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E198.vtt.zip"
+    keywords:         "beyoncé, caiman, popchips, otters, limbaugh, murder's, hexagonal, cullen, introvert, en, extrovert, wronged, suite, aqua, mcnuggets, urinals, nugget, certainty, otter, nuggets, ginger, indicates, picasso, ria, rhea"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZXc_wxmq8VPaH2TyNudkr4"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/356/339"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E339.vtt.zip"
+    keywords:         "c-spans, harper, p129, strutigo, warm-ups, wimbledon, barbara's, stratigo, chernobyl, checkbook, venmo, grumps, airpods, koala, gymnastics, ballers, explosives, skunk, symphony, wheelhouse, fx, erotic, skunks, bats, doorbell"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

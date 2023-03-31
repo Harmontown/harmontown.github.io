@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/314/297"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E297.vtt.zip"
+    keywords:         "bengay, brom, renford, savor, sabertooth, renfield, putty, hur, sanford, roaches, bam, sustained, drawers, pasta, departments, jell-o, maggie, stump, $300, refractory, pies, roach, cockroaches, colon, cafeteria"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

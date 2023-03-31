@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/36/23"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E023.vtt.zip"
+    keywords:         "allusion, harmony's, lafsalat, slammer, displacer, olaf, eidl, hummer, grandmaster, beasts, portable, pendant, mum, quirky, shard, delightfully, kale, swarm, bikini, tentacles, fiendish, patton, poof, uncanny, monstrous"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObZP-_CSxZLB6OPFjju-4qi"
 
 image:                "/assets/images/episode-placeholder.jpg"

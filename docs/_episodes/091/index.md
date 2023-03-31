@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/105/91"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E091.vtt.zip"
+    keywords:         "comm-, jont, kaedev, karev, nanu, weir, degenerate, dsl, one-year-old, fcc, lobbying, petitions, minotaur, comcast, torque, wreath, stomped, walkman, cheeses, marsh, nfl, coaches, petition, rappin', televarna"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaVvXWgFPN0Tps1vA6wdxSh"
 
 image:                "/assets/images/episode-placeholder.jpg"

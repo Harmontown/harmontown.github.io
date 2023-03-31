@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/23/10"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E010.vtt.zip"
+    keywords:         "amadeus, chacha's, meringues, shittles, gaiman, potassium, appetite, light-headed, smurf, disco, smurfs, deficiency, trove, adjectives, greatness, tavern, comedies, fragment, ooze, omega, urinal, zoo, sprite"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ9uXTrAkDHmldmOhrkH4lT"
 
 image:                "/assets/images/episode-placeholder.jpg"

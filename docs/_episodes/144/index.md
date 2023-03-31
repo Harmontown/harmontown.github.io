@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/159/144"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E144.vtt.zip"
+    keywords:         "colorator, copycat, spiguli, zaba, alisa, compost, s-k-u-t-a, hammond, caesarean, soprano, sinatra, alyssa, bleep, vetted, landfill, dervish, scooter, monroe, milton, nineties, walt, sammy, values, crosby, apocryphal"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObgpjhjT2pSkoeR3G1Kw5hP"
 
 image:                "/assets/images/episode-placeholder.jpg"

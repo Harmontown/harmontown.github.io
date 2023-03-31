@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/197/181"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E181.vtt.zip"
+    keywords:         "4b, 5b, empanadas, freakin', graciella, hortigrad, 5a, caitlin, supercon, tourette's, gowns, thyroid, gown, yeehaw, zoolander, motel, ricks, immunity, tactical, orlando, ty, scientologist, vent, crohn's, battered"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZrh3_lC49_EkdEFO4-1iFo"
 
 image:                "/assets/images/episode-placeholder.jpg"

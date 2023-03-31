@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/133/118"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E118.vtt.zip"
+    keywords:         ""
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZWYuTP7Bfia7B_ATaSSutn"
 
 image:                "/assets/images/episode-placeholder.jpg"

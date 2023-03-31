@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/265/248"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E248.vtt.zip"
+    keywords:         "fuckbucket, hamana, oakja, ulcer, duracell, ak, carlo, af, stapler, handmaid's, ammunition, bong, conflicting, dystopia, farmhouse, julius, rowan, bonnie, christina, patriarchy, nuns, roan, peabody, pitt, brightly"
   hallOfRecords:      
 
 image:                "/assets/images/episodes/248/03.png"

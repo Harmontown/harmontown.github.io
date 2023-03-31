@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/282/265"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E265.vtt.zip"
+    keywords:         "catwalk, demagoguery, yokel, ghostface, epileptics, pacifist, jiffy, demagogue, criminalize, dandelion, nester, brenda, bison, fellowship, lube, oswalt, providence, growl, freestyling, shootings, suited, factions, manhood, ockerman, flyers"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

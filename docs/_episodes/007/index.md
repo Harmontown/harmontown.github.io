@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/20/7"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E007.vtt.zip"
+    keywords:         "diller, horshack, mccracken, umbrage, infidelity, compartmentalizes, phyllis, untied, polaroids, aspergers, party's, christina, pullman, angrily, cheated, insisted, adidas, levi, attributes, conceit, heckling, husband's, prius"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaRVCngsVJqLkyjXrzyCckP"
 
 image:                "/assets/images/episode-placeholder.jpg"

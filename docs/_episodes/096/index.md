@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/110/96"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E096.vtt.zip"
+    keywords:         "durg-a-durg, flatterty, hyper-graphic, swan's, zoe's, go-kart, jungian, shania, nosferatu, 826, deja, sinbad, vu, 826la, tutoring, forrest, superiority, swan, lively, gump, diagnoses, gurney, sullivan, amber, spinach"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOal6Wf6vIe10MR_vraUlb8L"
 
 image:                "/assets/images/episode-placeholder.jpg"

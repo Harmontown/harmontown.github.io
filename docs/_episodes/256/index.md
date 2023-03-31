@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/273/256"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E256.vtt.zip"
+    keywords:         "cuatro, fakawi, petler, shoe-joke, slashback, t-swift, iguana, cinco, murphy's, shoo, cakewalk, frog's, pamela, welly, full-blown, mcdowell's, monte, neuroplasticity, beaches, sideburns, nachos, dakota, eponymous, arden, priors"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

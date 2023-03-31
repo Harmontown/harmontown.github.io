@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/232/215"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E215.vtt.zip"
+    keywords:         "2065, 7-7-1-8-1-3, rumblers, shug, wop-wop-doo, passcode, sneaks, extremists, fappening, dollarshaveclub, dawg, snail, crumb, drugstore, passwords, shakira, snails, milkshakes, doo-wop, adobe, swag, def, maryland, dolly, nigga"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

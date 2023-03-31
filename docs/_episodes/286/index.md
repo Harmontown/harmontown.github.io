@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/303/286"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E286.vtt.zip"
+    keywords:         "backboard, celestine, chickenpox, hemda, high-low, hymda, zoster, lysine, malley, shingles, landmark, venetian, rattlesnake, blinds, ducts, shingle, hymns, pox, lotus, diagonal, 2005, lows, herpes, prophecy, bulb"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

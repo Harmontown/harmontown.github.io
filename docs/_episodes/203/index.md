@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/219/203"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E203.vtt.zip"
+    keywords:         "eidzen, lumbersexual, vying, gordo, savannah, pewdiepie, migrate, strangler, balboa, phantasm, chute, pubic, $24, alopecia, biome, prizes, doop, amaze, vacuumed, walk-in, peoples, migration, praising, hairs, snapchat"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY7WKfzSEdOxjYt-8KqZtRe"
 
 image:                "/assets/images/episode-placeholder.jpg"

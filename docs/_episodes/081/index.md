@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/95/81"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E081.vtt.zip"
+    keywords:         "anthropologists, gash's, papua, pinker, polygamy, hammocks, aristocrats, morris's, snoring, bonobos, hunter-gatherer, monogram, agricultural, gaseous, bonobo, lorne, females, promiscuous, agriculture, desmond, paternity, societies, guinea, chimps, groundlings"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-cdIYFOkguYtm8_a6P__a"
 
 image:                "/assets/images/episode-placeholder.jpg"

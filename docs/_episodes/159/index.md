@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/174/159"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E159.vtt.zip"
+    keywords:         "arianism, booga, barracuda, tasha, bestiality, arsenio, gooding, aol, goldthwait, barry, cusack, d'morge, takei, cleveland, cuba, sulu, sundance, bobcat, agony"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYtfLrqV8D6yjZ5ebgRnypk"
 
 image:                "/assets/images/episode-placeholder.jpg"

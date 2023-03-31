@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/79/65"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E065.vtt.zip"
+    keywords:         "cinefamily, dwyer, has-, tanzania, toley, viash, yarrow, monsanto, krasner, greaves, lucian, anatoli, viage, westboro, cyst, trumped, farnheim, satanists, pimple, polyp, sass, jarl, jeep, underway, chit"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaa-A5jhYPcmQVg1igKPY5f"
 
 image:                "/assets/images/episode-placeholder.jpg"

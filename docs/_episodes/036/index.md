@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/49/36"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E036.vtt.zip"
+    keywords:         "ars, liana, phalanges, unstick, blister, latinos, orvis, friedel's, lattice, ramon, guadalcanal, ethan, friedel, strands, loins, mcseinfeld, taliban, swordsman, madison, sparks, kidney, frito, toe, rubik, harvintown"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYe8b303yiRX8Yk67LoqZMj"
 
 image:                "/assets/images/episode-placeholder.jpg"

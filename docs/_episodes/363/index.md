@@ -13,12 +13,15 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/363"
+  transcription:
+    filename:         
+    keywords:         
   hallOfRecords:      
 
 image:                "/assets/images/episodes/363/imdb.jpg"
 description: |-
   The gang gets back together one more time to catch up on everything since the show's finale.
-showDate:             "2021-02-21 17:00:00-08:00"
+showDate:             "2021-02-22 01:00:00Z"
 releaseDate:          "2021-03-18 07:00:00Z"
 venue:                
 comptroller:          "Jeff B. Davis"

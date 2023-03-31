@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/115/100"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E100.vtt.zip"
+    keywords:         "flizdamn, mc's, sconce, 100th, burry, centaur, dehydrated, azusa, luigi, gardening, mardigan, welder's, gambler, horseman, dipping, bojack, tonic, sims, grandchildren, narration, fetishes, hundredth, darts, hideout, tablet"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYBPC1hoju2vCHkkDbq2aQ3"
 
 image:                "/assets/images/episode-placeholder.jpg"

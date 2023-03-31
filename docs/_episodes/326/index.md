@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/343/326"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E326.vtt.zip"
+    keywords:         "diablos, falco, proppy, fieri, girlie, booties, bellevue, champagne's, gorelly, shields, diablo, follicles, marcus, angular, bentley, derby, metronome, aviation, recommendation, farmed, martini, tally, disturb, pyramid, hotels"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/240/223"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E223.vtt.zip"
+    keywords:         "babyland, detrain, kenyan, maeve, ptolemae, racetrack, slocum, tolome, emt, emts, paramedic, roswell, rider's, stubbed, paramedics, ockerman, kenya, portman, willpower, westworld, lanterns, ackerman, senate, eclipse, hopkins"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

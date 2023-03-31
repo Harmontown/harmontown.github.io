@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/76/62"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E062.vtt.zip"
+    keywords:         "aldrin's, fathalbap, gorshan, harriman, liu, spacesuit, keychains, flutes, necklaces, teleportation, x-men, pact, breadcrumbs, conceivable, hubbub, teleporting, lemurs, necklace, biracial, mundane, superpower, squat, crowe, roy, teleport"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZh7lIHCuuY3Utqj4_IuRKa"
 
 image:                "/assets/images/episode-placeholder.jpg"

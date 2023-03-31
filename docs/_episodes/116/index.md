@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/131/116"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E116.vtt.zip"
+    keywords:         "anchorage, seth's, spis, cooch, randomness, utilitarian, xoxo, milky, opt, outfitters, morrison, darvon, 18th, innovation, sleet, mill, transformed, oregon, salmon, sap, tinder, mckenna, swift, flyers, lennon"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObKIHnwxzbmbrvPJmy3DBaX"
 
 image:                "/assets/images/episode-placeholder.jpg"

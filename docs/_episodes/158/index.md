@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/173/158"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E158.vtt.zip"
+    keywords:         "gwent, kebuts, looters, play-doh's, quibital, cal, buick, kibbutz, latke, melanie, salinger, mensch, barricade, mordor, utopia, beeping, rory, morge, ghoul, brutality, ghouls, auras, fist-sized, milling, ashley"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYsLqN8PLhZ2dPeBPs3p9x_"
 
 image:                "/assets/images/episode-placeholder.jpg"

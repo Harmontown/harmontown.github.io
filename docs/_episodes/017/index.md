@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/30/17"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E017.vtt.zip"
+    keywords:         "60-inch, dead-eyed, dumbledumble, hufflepuff, imble, lyons, serpentard, slytherin, soufflé, stumpers, quidditch, nulls, marauders, fedora, butz, plains, butt's, dumbledore, romney, customary, fumble, basilisk, tents, gnolls, electoral"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObYVGdjbfLyV8x3uWjpTxaH"
 
 image:                "/assets/images/episode-placeholder.jpg"

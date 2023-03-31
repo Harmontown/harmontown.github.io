@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/25/12"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E012.vtt.zip"
+    keywords:         "carmine, coran's, pacman, regusso, repossessed, cha-cha, conny, acclaim, brennan, looser, pilgrim, rags, laverne, thorn, depressive, proups, bipolar, seed, periods, codeine, shirley, ferris, finder, manic, desperately"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZyMcMPdL943dv3nLlnqeyc"
 
 image:                "/assets/images/episode-placeholder.jpg"

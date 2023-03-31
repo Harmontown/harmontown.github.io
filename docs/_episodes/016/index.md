@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/29/16"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E016.vtt.zip"
+    keywords:         "jarrah, tanglefoot, cod, dogma, spats, broadleaf, null, ting, conjugate, knolls, labyrinth, jareth, babysitting, bandits, clavin, carpenter, leone, puppets, bowie, sergio, babysitter, bronco, orangutan, henson, leveled"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOanNReIwfgRmbHZyWzTKZ2p"
 
 image:                "/assets/images/episode-placeholder.jpg"

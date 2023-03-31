@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/360"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E360.vtt.zip"
+    keywords:         "8k, keisha, kugen, percenters, crom, ricardo, brittle, icicle, tropic, tic, module, branson, brendan, headbutt, 360, town's, tallest, arnold, kristen, diapers, texture, whoo, engagement, niece"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

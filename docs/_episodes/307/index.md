@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/324/307"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E307.vtt.zip"
+    keywords:         "ba-gah, gamesburg, oyloik, quickfire, reverend, oy, polyamory, serge, boba, frenchman, polyamorous, pp, jc, travis, coupling, fu, oath, gardeners, kung, retro, paul's, bids, lottery, pronoun, zebra"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/329/312"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E312.vtt.zip"
+    keywords:         "diggins, doome, ee, flayers, tracebutt, flayer, cha, hodge, dooms, lars, otherworldly, soviets, dah, knockout, runes, dandy, salute, goatee, flares, hen, bamboo, inserted, omega, orc, murdoch"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

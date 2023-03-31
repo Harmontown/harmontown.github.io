@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/175/160"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E160.vtt.zip"
+    keywords:         "chickpea, garbanzo, ravioli, suck-a-dick, yakima, horatio, khalifa, blah-blah-blah, borderlands, ivanka, barton, galore, porthole, minstrel, championships, love's, wiz, philharmonic, resisting, appointments, bigot, gadgets, jamorge, cuba, tongs"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYEh5ZOwRnaQGycBb1EMFin"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/48/35"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E035.vtt.zip"
+    keywords:         "acosta, heuristic, kaleel, shytown, valisthen, khalil, ponderously, sixler, make-a-wish, unclog, valescent, abad, mutilation, tensors, bloomington, iris, boldly, mutilate, prilosec, specialist, greenblatt, filmmaking, cbs, mason, bashful"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb8UfTsst4vpo8biC72UUs2"
 
 image:                "/assets/images/episode-placeholder.jpg"

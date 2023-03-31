@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/189/173"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E173.vtt.zip"
+    keywords:         "104th, anagirth, arshan, arshan's, arshon, elevens, foursome, jingle-ing-ding, southside, sussudio, threesome's, 103rd, threesomes, i'ma, threesome, denham, midtown, farsi, brooklyn's, persian, nigger, endow, fingerless, ruffalo, compulsive"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZTRROmMclWyGHYUGYw1jHj"
 
 image:                "/assets/images/episode-placeholder.jpg"

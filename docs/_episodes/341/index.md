@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/358/341"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E341.vtt.zip"
+    keywords:         "bathwater, dermatology, mink, transference, mutations, apiarist, melanin, orcas, nucleus, lampshade, degeneres, orca, arrowhead, retaining, schmuck, wart, bagel, moles, coomail, chernobyl, sunscreen, tennis, stung, spade, bait"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

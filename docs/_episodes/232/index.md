@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/249/232"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E232.vtt.zip"
+    keywords:         "1599, atson, pussycat, ravel, sable, third-grade, deep-fried, coached, nougat, trent, brita, keane, geese, hitchcock, swans, essay, ostrich, samoans, weinberg, graders, richie, bueller, destabilization, snorkeling, arden"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

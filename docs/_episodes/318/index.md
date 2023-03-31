@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/335/318"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E318.vtt.zip"
+    keywords:         "kujo's, kujo, mlk, vultures, u2, lollipop, woof, dahmer's, soaking, jehovah's, gangly, mods, maron, marc, launcher, camels, raced, yosemite, witnesses, deliberate, sharon, funky, freudian, mormonism, heaven"
   hallOfRecords:      
 
 image:                "/assets/images/episodes/318/05.png"

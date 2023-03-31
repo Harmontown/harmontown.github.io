@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/73/59"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E059.vtt.zip"
+    keywords:         "grocer, horseless, tubers, rooty, extremist, pitiful, fincher, woodgrowth, plaque, prude, rudy, daredevil, assange, gillian, cheats, scat, throng, tier, solely, hamm, janitor, shattering, voiceover, aloft, ventura"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZDQHaBhVI87EzH_1b2Jham"
 
 image:                "/assets/images/episode-placeholder.jpg"

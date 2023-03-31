@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/207/191"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E191.vtt.zip"
+    keywords:         "duplain, florentine, hostesson, morage, explorer, mariah, munch, overton, pianist, hostess, gilmore, goldbug, mcdowell, rourke, wasp, brownies, chainsaw, loki, authors, rumbled, ricardo, willow, av, rudd, economics"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZeb_jMkW_ywWGJ9SKJyoiP"
 
 image:                "/assets/images/episode-placeholder.jpg"

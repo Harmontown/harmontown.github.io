@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/218/202"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E202.vtt.zip"
+    keywords:         "biloxi, chewable, entenmins, kc, magnetron, magnetrons, cannibals, eu, ganges, yee, symmetrical, poaching, scarrett, gillies, devout, limestone, hindu, starscream, helium, microwaves, gosling, megatron, hydrogen, macaroni, mariachi"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaT5rAkggFgY3lfChxJ2XhI"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/62/49"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E049.vtt.zip"
+    keywords:         "elmer, fudd, nosecone, steepie, horrormovieaday, manatee, blogspot, lassoes, contamination, shannon, blackjack, jams, leprechaun, parlors, warwick, noose, dragon's, spleen, turbo, scorpions, hospitals, potty, xanadu, jam, bling"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObAhmN208IZGF1H87b-k1ns"
 
 image:                "/assets/images/episode-placeholder.jpg"

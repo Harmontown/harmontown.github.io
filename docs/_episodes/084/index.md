@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/98/84"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E084.vtt.zip"
+    keywords:         "kamalich, supplantation, tram, bradshaw, tinkle, kilt, heathrow, wally, jada, brewer, abyss, o'connell, cinderella, lebron, rental, vomited, buffet, circumcised, ketamine, meyer, plantation, edinburgh, gregarious, presents, joshua"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYj6Y9jVFYe3_s9BcEsPCtp"
 
 image:                "/assets/images/episode-placeholder.jpg"

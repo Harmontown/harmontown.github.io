@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/44/31"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E031.vtt.zip"
+    keywords:         "oedipus, spalding, rhode, excess, multi-camera, manila, sexism, wallace, corey, colorado"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYgzvlVxD9oGT44j-NbfQRY"
 
 image:                "/assets/images/episode-placeholder.jpg"

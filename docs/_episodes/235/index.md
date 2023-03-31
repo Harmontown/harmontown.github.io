@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/252/235"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E235.vtt.zip"
+    keywords:         "chandra, cylone, cylum, luana, luanna, luwana, ossio, lacey, 66, craps, arkansas, cherokee, eden, oklahoma, gamblers, hooker, conor, tulsa, poet, poetry, voltron, blacklisted, inferno, $15, poems"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

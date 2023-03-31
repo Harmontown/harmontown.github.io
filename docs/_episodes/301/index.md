@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/318/301"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E301.vtt.zip"
+    keywords:         "ant-man, tomagachi, brrr, bicyclists, trumpets, swoop, sociology, nova, e-scooters, mccain, atari, supernova, cabaret, dispensary, sims, penguins, clarita, smite, schrobb, mandel, scooters, vape, audrey, screenwriters, scooter"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

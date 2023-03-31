@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/236/219"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E219.vtt.zip"
+    keywords:         "buyan, cock-sucker, houlihan, olly, seven-year, zuzza, circadian, nominally, seamy, peta, phylum, uneven, uh-uh, lois, cocked, ripe, joffrey, wichita, disorders, gramercy, $700, belgian, pots, collector, insults"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/220/204"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E204.vtt.zip"
+    keywords:         "invaders, io3, irl, jackon, nitteran, polymorph, snaker, yellows, illusionary, marmalade, arg, reds, shingling, viewfinder, 3am, viscera, creepypasta, no-no, perpendicular, pokemons, jacobs, bomber, orchard, foxy, panda"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYbkAhSFicY_BYX4FDNQU3l"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/354/337"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E337.vtt.zip"
+    keywords:         "dragnet, shauna, tress, utis, zibi, herman's, lamas, chopper, yardley, lorenzo, catalina, lgbtq, renegade, stalked, investigated, detectives, overdrive, cuter, simpson, fernando, harrowing, donor, greece, dominate, stalking"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

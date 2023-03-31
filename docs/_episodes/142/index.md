@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/157/142"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E142.vtt.zip"
+    keywords:         "apocrypha, chain-zinger, chainsinging, chainzingers, colby, metatron, mettitron, razzal, spazuli, zinging, hard-boiled, hoppy, zinger, bagouli, hitlering, postponed, scribe, darko, parole, zingers, pleasantly, zing, butterflies, easter, geese"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZVdVNXXgHml6kuRxXh6ZYl"
 
 image:                "/assets/images/episode-placeholder.jpg"

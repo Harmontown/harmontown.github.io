@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/125/110"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E110.vtt.zip"
+    keywords:         "carby, rosebrook, smizing, cripples, cripple, lancaster, wayne's, leach, ursula, tenacious, carvey, dana, preschool, lodge, lodgy, sophomore, modeling, cher, coomail, burt, orcs, broccoli, crippled, martin's, trim"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYOI9XmA8B9dqanOq-_StyS"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/317/300"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E300.vtt.zip"
+    keywords:         "paradoxes, flushes, resents, ac, flushing, mommas, co-worker, converse, flush, peepy, cheapy, shitter, conditioning, kent, dryer, ceilings, flushed, magnets, overhead"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

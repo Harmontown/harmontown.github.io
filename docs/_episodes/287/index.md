@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/304/287"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E287.vtt.zip"
+    keywords:         "garrick, gaspacho, neoprene, convictions, gandhi, pushback, sunken, infinity, confidential, composite, incel, tucker, slut, empathetic, spoilers, innocence, peanut, styrofoam, gamergate, spoiling, parton, depp, cradle, discipline, butter"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

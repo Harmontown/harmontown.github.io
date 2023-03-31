@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/338/321"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E321.vtt.zip"
+    keywords:         "cbb, libya, greyhound, dhabi, spokane, scammed, gaddafi, asylum, benghazi, arabic, abu, embassy, interpreter, dubai, permit, richards, immigration, inconvenient, skipping, bastard, citizenship, tossing, warrant, papers, funded"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

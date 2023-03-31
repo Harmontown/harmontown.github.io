@@ -154,11 +154,19 @@ layout: default
             <td colspan="2">
               <table>
                 <tbody>
-                  {% if page.external.harmonCity %}
+                  <!-- {% if page.external.harmonCity %}
                   <tr>
                     <th>Transcription</th>
                     <td>
                       <a href="{{ page.external.harmonCity }}" target="_blank">harmon.city</a>
+                    </td>
+                  </tr>
+                  {% endif %} -->
+                  {% if page.external.transcription.filename %}
+                  <tr>
+                    <th>Transcription</th>
+                    <td title="Keywords: {{ page.external.transcription.keywords }}">
+                      <a href="{{ page.external.transcription.filename }}" target="_blank">VTT</a> by @avenant 
                     </td>
                   </tr>
                   {% endif %}

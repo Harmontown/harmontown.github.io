@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/352/335"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E335.vtt.zip"
+    keywords:         "chomlishment, corlax, hodel, wraith, dahlia, nantucket, eagle's, peru, anesthetic, zodiac, percocet, reconstruction, canyons, farming, realtor, hairline, dp, memorial, tom's, bangs, polio, anesthesia, peeling, olives, bleach"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

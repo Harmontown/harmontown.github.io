@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/71/57"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E057.vtt.zip"
+    keywords:         "gimlin, mediterranean's, moren, murf, rommish, romspring, tamba, wamba, woodchuck, zucker, gulfway, liberace, dilaudid, stabby, mediterranean, husky, geer, doppelganger, follicle, jumanji, peeps, nutty, co, ethnics, bachelorette"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOajzw9rjF71gJnhtOAJpr0s"
 
 image:                "/assets/images/episode-placeholder.jpg"

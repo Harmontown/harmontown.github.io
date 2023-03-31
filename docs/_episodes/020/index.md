@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/33/20"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E020.vtt.zip"
+    keywords:         "b-ck, cleanish, no's, po-dank, shoneys, tempe, terraform, azusa, enlarge, insignia, gettysburg, snort, woodpecker, wedged, denny's, noel, pouch, curry, cubicle, warp, albertsons, flour, gillies, jose, tremors"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ-mIB1YjXYNaC32RiV8Hmu"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/245/228"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E228.vtt.zip"
+    keywords:         "dipper, fijian, kava, labradors, littlefinger, menchi, mypillow, orion's, inserts, lambert, stimpy, fiji, hindi, labrador, scratchy, vermin, flipper, ed's, ren, resort, streep, retriever, meryl, constellation, flippers"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

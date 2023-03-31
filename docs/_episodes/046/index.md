@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/59/46"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E046.vtt.zip"
+    keywords:         "bytes, kebabs, patakkes, shalub, worldweary, palestinian, brews, tapas, kebab, latkes, valanche, bendy, shalu, territories, pooty, abbot, 76, pudi, mosaic, abed's, ridley, sniffer, aziz, auditioned, clump"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYb1FGdRuDovmy6n2uJTNj7"
 
 image:                "/assets/images/episode-placeholder.jpg"

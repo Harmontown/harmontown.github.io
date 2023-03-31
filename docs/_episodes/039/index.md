@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/52/39"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E039.vtt.zip"
+    keywords:         "acryte, ghiblet, jafar, keller, keller's, knuts, lexi, lexie, raquel, shimla, slovenian, snuffer, structure-wise, tobi, zucchini, axl, giblets, rockies, harvett, crease, altitude, keith's, jj, troops, elevation"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb0Fq7lbAoGSE-pG4rLFtPa"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/39/26"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E026.vtt.zip"
+    keywords:         "atlanta's, dianna, fert, ken-, kenesaw, kennesaw, pubis, thirty-six, nathaniel, swarmy, sherman's, stumped, deanna, buffett, mets, sherman, railroads, cylinder, atlanta, constructs, louisiana, cylindrical, strippers, kubrick, nexus"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObwWbifD5TqxrUdUWbsW3Cp"
 
 image:                "/assets/images/episode-placeholder.jpg"

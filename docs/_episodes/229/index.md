@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/246/229"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E229.vtt.zip"
+    keywords:         "camry, clickhole, mammy, oberman, shammy, tomism, vom, reductress, ringmaster, cesspool, faithfully, boogaloo, biscuit, boxed, satirical, feminists, righteousness, lucifer, latent, maddow, adhd, pearl, simplify, wad, greasy"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

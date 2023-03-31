@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/376/359"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E359.vtt.zip"
+    keywords:         "ashlyn, cybertruck, deadhead, drosten, edmonton, frencheris, kimono, neurodivergent, nonverbal, oswego, wavis, yves, samson, durang, maslow's, papillon, schnitzel, chico, neurotribes, neurodiversity, notley, austria, methane, osaka, potassium"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

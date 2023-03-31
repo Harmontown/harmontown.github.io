@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/201/185"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E185.vtt.zip"
+    keywords:         "hypnip, lowkey, camilla, racine, ambien, brad's, registry, crocodiles, becky, luke's, sniper, afar, tapered, 5000, friedel, chinaman, hoarder, rifle, trisha, turbo, hoarding, crocodile, dose, shh, heart"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZkKVnpY8iY0rcqt-jv8rVg"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/258/241"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E241.vtt.zip"
+    keywords:         "armoral, scrump, dunning, thirteen, kruger, aclu, trimester, swapped, forty, half-life, parenthood, autobiographical, jude, bop, cosmetic, fifty, stem, apes, dentists, fling, mosaic, tile, stripper, cricket, hawking"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

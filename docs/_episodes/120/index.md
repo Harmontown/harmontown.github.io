@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/135/120"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E120.vtt.zip"
+    keywords:         "bobsketch, eczema, goldfob, lunchables, niner, nuit, dodo, transgenderism, tango, blanche, earthshine, physiology, hazing, jillian, rebooting, snowmobile, jenner, horse-drawn, wee-wee, papa, diggity, jocks, bodyguard, spizzbulb, thailand"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa2cZLogkhPavP4POXwGCR1"
 
 image:                "/assets/images/episode-placeholder.jpg"

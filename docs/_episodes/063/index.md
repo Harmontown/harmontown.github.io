@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/77/63"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E063.vtt.zip"
+    keywords:         "heeded, shovels, cambodia, conundrums, scrapbook, lemurs, melph's, orbits, metagaming, yurch, moran, valet, conundrum, thornheim, fornheim, deafness, hugger, aneurysms, itch, aneurysm, deaf, coils, connor, butz, commissary"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ5ebQFKMFQX6txBfqj_cXq"
 
 image:                "/assets/images/episode-placeholder.jpg"

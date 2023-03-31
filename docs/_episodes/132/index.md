@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/147/132"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E132.vtt.zip"
+    keywords:         "endodontist, periodonist, sena, precognition, non-living, birmingham, distributors, wayans, caa, chrissy, spaulding, deodorant, hypothesis, julie, canals, orthodox, reviewer, leukemia, atheism, poorest, precog, torrent, pine, prostitutes, flee"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZcGoY-HY4z8jtsVSBbD8oW"
 
 image:                "/assets/images/episode-placeholder.jpg"

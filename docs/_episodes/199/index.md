@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/215/199"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E199.vtt.zip"
+    keywords:         "2150, centigrade, cilento, close-off, sila, tonys, clank, nae, goonie, claudius, macarena, shampoos, a-holes, apocalypto, barb, fahrenheit, orville, rugs, tornadoes, corning, footloose, forte, barbs, drills, lauren's"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaoIMc7QoTke8pSoB908v1e"
 
 image:                "/assets/images/episode-placeholder.jpg"

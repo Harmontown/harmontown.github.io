@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/275/258"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E258.vtt.zip"
+    keywords:         "alcada, angelus, b-squid, caladero, cheez-it, screamo, cheez-its, agnes, winters, hobbling, polyps, bandito, nunchucks, verve, sigh, infantry, armageddon, banditos, beside, churn, heimlich, evan, lone, ninja, miso"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

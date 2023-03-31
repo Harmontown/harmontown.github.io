@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/161/146"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E146.vtt.zip"
+    keywords:         "alginate, squatchy, avalon, jax, unbridled, bogota, chipmunks, hakai, speedball, at-at, chipmunk, hordergaard, bigfoot, moped, finland, splatter, 10-year, jonah, contrarian, craig, hackeye, tennessee, tori, atm, mythological"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaT5U1IQC8nw-Bhm9MEY2eE"
 
 image:                "/assets/images/episode-placeholder.jpg"

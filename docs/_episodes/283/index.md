@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/300/283"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E283.vtt.zip"
+    keywords:         "flange, moynihan, veterinarians, dommer, necrophilia, tiddy, para, pisser, inflammation, three-day, tittie, annihilation, fleck, slender, removal, unprofessional, aviation, lin, planetarium, clump, veterinarian, hard-on, kaiser, alec, allergies"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

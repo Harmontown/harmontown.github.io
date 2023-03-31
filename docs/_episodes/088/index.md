@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/102/88"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E088.vtt.zip"
+    keywords:         "lenev's, moomoo, plue, pocahontas, telemvarna, tisk, laurels, androids, poway, va, seahawks, shackling, broncos, high-concept, kilmer, capote, princesses, val, moo, tor, unshackled, rotted, tormod, frontierland, reattached"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObt24qHgM0laPaAsv2gT-Lw"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/137/122"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E122.vtt.zip"
+    keywords:         "1942, bechtel, clapgrass, gutterman, gutterman's, i-m, lagged, wigwams, gamergator, asparagus, penicillin, entrepreneurship, kebler, shaq, trolley, royals, telegram, francisco's, necromancer, vaughn, ebola, lil, overdue, transit, yarn"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYTccLqROHY4q2ti5w7g7gT"
 
 image:                "/assets/images/episode-placeholder.jpg"

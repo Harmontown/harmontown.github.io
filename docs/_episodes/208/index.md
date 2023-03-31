@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/225/208"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E208.vtt.zip"
+    keywords:         "165, can-openers, clemens, cratum, gabrielle's, heineken, socio, tupperware, marina, dea, upe, radiohead, winslow, brownie, 25%, opium, chronic, clinics, recurring, gabrielle, pew, harley, tolerate, godzilla, wage"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZThXN4abL2nv07yr-pgysi"
 
 image:                "/assets/images/episode-placeholder.jpg"

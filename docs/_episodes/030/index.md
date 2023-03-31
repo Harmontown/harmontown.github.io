@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/43/30"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E030.vtt.zip"
+    keywords:         "boucha, brighton, gibbeted, gypsies, lowell, waka, walford, imps, mitzi, kara, jingling, rejoinder, somerville's, summerville, somerville, boucher, dupa, providence, sovereign, toothbrushes, d's, non-profit, self-defense, clint, inn"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaXxtFgBlHURu39fBmy6X9p"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/357/340"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E340.vtt.zip"
+    keywords:         "b-hive, beeville, confederates, hymenologist, o-b-hive, radcliffe's, submersible, suppositions, wittier, dur, sensor, loo, earthquake, earthquakes, mojo, lectern, withdraws, martha's, supposition, fernando, sprinkler, quake, wasps, roseanne, turquoise"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

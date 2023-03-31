@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/374/357"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E357.vtt.zip"
+    keywords:         "bjs, krugerons, laris, mcnulty, rufi, rufy, grieved, demographically, kettlebell, llc, limes, outlier, cv, pier, signaled, drywall, greendale, rutherford, myra, corp, tilda, oaks, alphabets, boomer, centrist"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

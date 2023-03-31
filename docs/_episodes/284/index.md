@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/301/284"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E284.vtt.zip"
+    keywords:         "bm, breathalyzer, milmac, miltz, osho, tycho, milch, galaxies, p-tape, migrant, add-ons, palooza, altruism, numbness, interference, riverside, shelters, buddhism, ecstatic, hookers, barbara, gif, produces, camping, mordor"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

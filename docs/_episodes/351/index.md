@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/368/351"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E351.vtt.zip"
+    keywords:         "all-access, ramam, schitt's, robbie, inseam, bluegrass, rulebook, succession, raker, scat, tina, cowboys, grammy, rambling, pretzel, cbs, creek, fever, nelson, partial, bun, willie, genie, hideout, justification"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/191/175"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E175.vtt.zip"
+    keywords:         "beatington, denero, hukas, pegg, mcchinaman, ar, gage, vernon, fondling, gao, swingy, probed, iwatch, valleys, yen, hyped, siri, cyberware, reims, hyping, raccoons, opium, augmented, pilgrims, jessica"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObTI8U8xGc_Q6EZf6zFHZus"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/170/155"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E155.vtt.zip"
+    keywords:         "ivies, knottley, paddocks, trillions, nagasaki, vivisect, go-bot, paddock, repent, spools, warsaw, aniston, hiroshima, electrician, electricians, eclectic, fernette, grohl, cartons, logan, bronco, inhaled, guacamole, victor, volcanoes"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObmT9lg1DXJSKVIgrdVLv5W"
 
 image:                "/assets/images/episode-placeholder.jpg"

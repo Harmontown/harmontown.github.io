@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/292/275"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E275.vtt.zip"
+    keywords:         "artha, hendry, integra, itania, jetta, vertebra, wanderland, biv, credence, clapton, determination, spielberg's, trade-off, womanizer, mayer, mayer's, wonderland, brah, obscurity, autofill, fonda, patty, raisin, untalented, acura"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

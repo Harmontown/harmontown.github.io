@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/336/319"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E319.vtt.zip"
+    keywords:         "airhead, dunneway, greaseball, wildfish, merida, barbo, rizzo, willis', pelosi, larusso, essences, adrian, dashing, scarf, classmates, goldie, polygraph, sam's, tamale, recita, red-handed, hamm, mittens, sam, dropout"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

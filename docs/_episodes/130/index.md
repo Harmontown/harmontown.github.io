@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/145/130"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E130.vtt.zip"
+    keywords:         "namblates, sniffers, store-to-store, trotter, trawlers, botanical, barkley, sniffer, centipedes, bog, sniff, sniffing, dunham, sarcoidosis, lena, shelves, dickies, unbutton, scoota, muffin, gardens, lymph, grocery, cosby's, hater"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZE-TgUHFs5LpHz4GOJnW5t"
 
 image:                "/assets/images/episode-placeholder.jpg"

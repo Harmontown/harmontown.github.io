@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/121/106"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E106.vtt.zip"
+    keywords:         "alexi, nine-year-old, ossuary, pack-a-snap, pre-dawn, silverheels, siskel, siskel's, t-neck, tylenall's, coops, lawless, secretions, hast, ebert, suarez, parlors, yeti, carny, macedonia, thine, menacing, maid, chaplain, riches"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaQbIE4ZPv7MsJiI5pZX4PK"
 
 image:                "/assets/images/episode-placeholder.jpg"

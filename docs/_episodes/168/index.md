@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/184/168"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E168.vtt.zip"
+    keywords:         "bangle, fugun, hark, seasaw, shingam, shogun, sva, carvings, outlaws, weevil, outlaw, flim, fist-sized, yeast, stunning, evan, rats, shapiro, fondue, beads, etiquette, tomb, crown, werner, crude"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZcLn2elRItrkDXvq2bq1Fx"
 
 image:                "/assets/images/episode-placeholder.jpg"

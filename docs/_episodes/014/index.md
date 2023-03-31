@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/27/14"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E014.vtt.zip"
+    keywords:         "cohorts, maris, medea, relish, doobie, stiffly, upsell, eidel, goldbright, perry's, ziggurat, dystrophy, baggins, thermometer, peg, 29th, cloaks, stormed, groom, auntie, hauling, bride, idle, hymen, agee"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYrjWtqyFzuFXPxRlDvTXHs"
 
 image:                "/assets/images/episode-placeholder.jpg"

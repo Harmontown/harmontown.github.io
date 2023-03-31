@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/119/104"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E104.vtt.zip"
+    keywords:         "crunchies, earlobes, gages, krishna, regularizations, bifurcate, devall's, hare, blueprints, che, boardwalk, cowering, laurel, 2d8, devall, samuel, kent, luthor, cower, laundromat, shank, gnomes, lois, scarves, faggots"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZz3N9SAW8h2A06vdxKf4zG"
 
 image:                "/assets/images/episode-placeholder.jpg"

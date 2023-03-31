@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/117/102"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E102.vtt.zip"
+    keywords:         "canyoneer, canyoneering, tie-dyed, yam, zion, hoochie, danza, spooked, stutters, stuttered, cultivate, lollipops, shawl, bergen, island's, robinson, hepburn, swells, blondie, maxwell, activating, stammer, cormac, nascar, ridden"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZxVwGZ-_2LrLWb9chMIIEB"
 
 image:                "/assets/images/episode-placeholder.jpg"

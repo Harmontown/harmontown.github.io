@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/17/4"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E004.vtt.zip"
+    keywords:         "couche, pentecostal, zoran, nightcourt, open-ended, anthony's, she-ra, willard, cyborgs, voldemort, methodist, singularity, moth, golfing, bonobo, literary, adidas, skynet, mcgathy's, wieners, watson, licorice, perfection, anthony, cleveland"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObPXDf9RnOKccpUDJQGcIha"
 
 image:                "/assets/images/episode-placeholder.jpg"

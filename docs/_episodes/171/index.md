@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/187/171"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E171.vtt.zip"
+    keywords:         "nightbreed, vikenin, orphanage, aubrey, kronenberg, timeout, creeps, abandonment, boyish, plaza, borderline, creep, daycare, helicopters, tampons, helicopter, bites, libertine, nitrous, oxide, shtick, niro, rapists, abandon, crayon"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ5-HLhQf6DMl9oLGKkNL9r"
 
 image:                "/assets/images/episode-placeholder.jpg"

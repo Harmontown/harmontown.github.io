@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/362/345"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E345.vtt.zip"
+    keywords:         "airee, assad, bellingcat, christchurch, labamba, raqqa, tans, ypj, bamba, kurdish, confidentiality, recruitment, epstein, rojava, 8chan, alon, rehabilitate, phillips, evans, authoritarianism, syria, lou, censorship, comrade, syrian"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

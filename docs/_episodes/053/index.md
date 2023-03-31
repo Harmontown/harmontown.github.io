@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/66/53"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E053.vtt.zip"
+    keywords:         "bou, cheetahs, e-cigarette, e-cigarettes, rollerskating, truant, zartas, spider-like, deviant, ore, sh-, benign, fibes, webby, nicotine, bugle, downplay, motivations, soapy, tetanus, abominable, jon, langoliers, merciful, millionth"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZBzN_nZCWRHBz47AHKCvBl"
 
 image:                "/assets/images/episode-placeholder.jpg"

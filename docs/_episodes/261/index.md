@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/278/261"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E261.vtt.zip"
+    keywords:         "corvair, grotily, kinkier, kush, pureburn, thrain, burgess, brights, inquisitor, schrader, abernathy, briefing, inappropriately, maids, guilds, inquisitors, plausible, groomed, relic, peaches, absalom, titans, latina, mick, bishop"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

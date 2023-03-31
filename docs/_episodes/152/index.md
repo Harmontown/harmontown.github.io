@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/167/152"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E152.vtt.zip"
+    keywords:         "birdseed, cuvasier, dimorph, karimie, larper, marcie, peacekeepers, psionic, rexman, scala, spieth, tamika, trinidad, darsan, hearthstone, larp, sputnik, skyler, vertigo, beholders, disable, fifa, larping, nerf, macfarlane"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYUQ-Ri9dEzuCb7tvQ7Q31z"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/237/220"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E220.vtt.zip"
+    keywords:         "naturebox, razzelle, spliff, veg, gallbladder, innuendo, marley, flintoff, pompey, vag, wichita, beatboxing, jared, bane, bile, humiliate, appendix, nationalist, beatbox, junk, guillotine, syllable, humane, x-rays, corey"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/149/134"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E134.vtt.zip"
+    keywords:         "apocrates, bedford, fogarty, monofilament, jamba, laguardia, druggies, gatehouse, noxious, post-racial, recycle, armors, fueled, quaid, recycling, whistling, intuition, mono, leroy, goldblum, nicholas, devito, bungalow, passport, murdoch"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZTjp7WCyOV7mTVoAi8IiIa"
 
 image:                "/assets/images/episode-placeholder.jpg"

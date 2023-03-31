@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/93/79"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E079.vtt.zip"
+    keywords:         "amazeballs, katerra, nolay, redicent, ts, zanku, bangkok, hetero, concierge, bola, mchugh, reluctant, brody, budweiser, bondage, grappled, nole, dipping, batgirl, squirting, heel, stevens, absinthe, cadillac, jock"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYgPrvcbnB92qZUKgczqGGL"
 
 image:                "/assets/images/episode-placeholder.jpg"

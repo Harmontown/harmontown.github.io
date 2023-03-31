@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/210/194"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E194.vtt.zip"
+    keywords:         "goom, lovelace, phrupp, hansel, 195, mears, renner's, holodeck, ada, renner, derek, goon, c-3po, feisty, stuntman, cranberry, exercises, crusty, doo, gretel, tamale, yearbook, bronson, christensen, dioxide"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZwYlOdi332mkfS1XJvSRkJ"
 
 image:                "/assets/images/episode-placeholder.jpg"

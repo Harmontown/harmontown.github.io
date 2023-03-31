@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/88/74"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E074.vtt.zip"
+    keywords:         "–, demonize, reciprocation, castrate, megan's, preppy, reciprocity, mousse, gow, immoral, workings, pedophiles, morality, sustainable, lacks, propose, pedophilia, traded, pow, three-year-old, motto, unto, willfully, rumbling, surf"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYWRQ2IVuvRJ0H4si7PWROK"
 
 image:                "/assets/images/episode-placeholder.jpg"

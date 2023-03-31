@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/177/162"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E162.vtt.zip"
+    keywords:         "bluebird, freud's, furlum, gynees, philanthropy, phylogeny, vaz, cuties, shawn, canis, ex-files, kristofferson, wu, highwaymen, brickson, motility, tay, terriers, cutie, sperms, syringe, waylon, horowitz, tonic, sperm"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaGSlac6vdWsDUTZbJfp3-E"
 
 image:                "/assets/images/episode-placeholder.jpg"

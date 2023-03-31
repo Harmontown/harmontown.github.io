@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/306/289"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E289.vtt.zip"
+    keywords:         "dawkin, hah, hoh, whiffleball, beefy, blowers, dat, engulf, talker, byrne, hiss, reappear, fend, roseanne, yanny, paw, newsletter, normalize, shingle, streep, meryl, witnesses, entangled, segments, toenails"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/162/147"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E147.vtt.zip"
+    keywords:         "delancey, tootin', daniela, rootin', 12%, aluminium, marissa's, maternity, bruise, expands, marissa, raisins, wee, pepitone, napoleon, 1%, aluminum, cain, fiscal, gyllenhaal, jeopardy, adjusted, humiliating"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObM8JEiDe3u6gCDgjZNO_tI"
 
 image:                "/assets/images/episode-placeholder.jpg"

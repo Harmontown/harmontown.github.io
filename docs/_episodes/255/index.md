@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/272/255"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E255.vtt.zip"
+    keywords:         "bandstand, firepull, gospacho, pwnum, bowers, rotunda, mounds, dupa, hooded, turkish, virgins, incel, yiddish, mist, peeled, involuntary, flammable, alarming, pepe, python, arthur, beetle, cuck, leno, shambling"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

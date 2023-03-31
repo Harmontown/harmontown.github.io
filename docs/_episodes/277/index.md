@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/294/277"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E277.vtt.zip"
+    keywords:         "cacao, gppp, piquel, sizemore, throwers, cluck, emotionless, airplayed, twee, delts, lollie, craven, kytel, creme, peeping, crossword, garth, cheapy, chippy, peepy, pippy, courtney, dioxide, aerosmith, lolly"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

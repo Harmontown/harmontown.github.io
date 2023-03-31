@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/139/124"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E124.vtt.zip"
+    keywords:         "baskin's, bastions, booey, inscriptions, isaiah's, sun-dried, mausoleum, dunkel, kroger, baba, houston, caroline, dabber, lil, baskins, mork, rouge, boyfriends, tequila, michael's, bottomless, dentists, marco, nurture, pillows"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaOupNXko_UDIl0MjHY7UVi"
 
 image:                "/assets/images/episode-placeholder.jpg"

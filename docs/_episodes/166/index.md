@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/181/166"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E166.vtt.zip"
+    keywords:         "berenstein, dga, dickula, satan's, yip, villagers, knievel, castlevania, goggle, mystics, purism, tards, villager, tabletop, froyo, sundry, utensil, chekhov's, letdown, werewolf, legalize, legislative, ex-boyfriend, gm, counterpart"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaMAU6w01HSCkTK9Bh6Jrmw"
 
 image:                "/assets/images/episode-placeholder.jpg"

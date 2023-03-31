@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/359/342"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E342.vtt.zip"
+    keywords:         "clappers, doopies, hopelessness, pediatricians, prolapse, umma, wongs, preppers, 93%, bromance, musk's, quinoa, errors, calculator, prepping, jizz, blender, hopeless, cynicism, insulin, trudeau, doomsday, optimism, prepper, hilton"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

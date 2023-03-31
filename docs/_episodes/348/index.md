@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/365/348"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E348.vtt.zip"
+    keywords:         "cushing's, teaspoon, slake, 330, bequeathing, dreamcast, goat's, prisoner's, weiger, zardos, seaman, iodine, goats, maggots, xanadu, moo, wagging, ballot, 1999, barks, harvey's, goat, heather, bark, dilemma"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

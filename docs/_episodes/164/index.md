@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/179/164"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E164.vtt.zip"
+    keywords:         "acetaminophen, audited, crustaceous, csow, duck-duck-go, lessig, clymer, chewie, biafra, hitlers, hampshire, dapper, battlestar, majeure, elijah, galactica, hackeye, contractual, vermont, nightcrawler, rental, stratigo, nader, precocious, cricket"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObGriZk6DLVju2dWBCqAUom"
 
 image:                "/assets/images/episode-placeholder.jpg"

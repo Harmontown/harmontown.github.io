@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/221/205"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E205.vtt.zip"
+    keywords:         "borg-1, comma-con, macaw, samwell, gazebo, varys, hooters, ridgecrest, davos, eunuch, contempt, pelton, reptilians, borg, comic-con's, conga, erica, whoopee, davros, eyelid, snowman, 34, hodor, britta, leisure"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOboTK2lpt_Vk-TvjLvPEvKw"
 
 image:                "/assets/images/episode-placeholder.jpg"

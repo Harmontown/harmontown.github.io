@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/270/253"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E253.vtt.zip"
+    keywords:         "berthold, calais, jamali, mcconnelly, octomom, stubens, stupens, thrainin, maddox, refugee, abernathy, priory, robed, boarded, mansplain, courtyard, thy, price's, quieter, frisbee, stealthy, left-wing, refugees, dexterity, frosty"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

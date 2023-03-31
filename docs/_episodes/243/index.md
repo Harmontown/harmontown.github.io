@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/260/243"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E243.vtt.zip"
+    keywords:         "buscha, omniscient, warsh, defrost, marcellus, wither, communicative, handmaids, hostel, sasha, anthology, self-deprecation, gimme, jefferson's, joss, redstone, cutter, microwaves, whedon, boogers, vaudeville, freddy, amc, sneakers, boucher"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

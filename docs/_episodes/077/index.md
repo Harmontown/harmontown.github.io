@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/91/77"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E077.vtt.zip"
+    keywords:         "archway, faul, tennant, carpool, joinery, 1d, jackhammer, jackhammering, diem, yerch, willem, backstab, exoskeleton, masseuse, mortis, motivate, brefi, dafoe, caustic, rickles, headache, clamber, optimist, triangles, buckets"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaI-GUkr8_BpzFtzCfgodZ8"
 
 image:                "/assets/images/episode-placeholder.jpg"

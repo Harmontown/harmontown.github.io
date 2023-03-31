@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/16/3"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E003.vtt.zip"
+    keywords:         "frickin', plinko, tailbone, two-face, $35, violet, drew's, pfft, duh, nodded, matches, wrestle, carmen, arrogant, bj"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOawdpYr2espJPYTwEKyTWHU"
 
 image:                "/assets/images/episode-placeholder.jpg"

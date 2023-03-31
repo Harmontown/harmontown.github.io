@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/165/150"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E150.vtt.zip"
+    keywords:         "schnity, trebek, sansa, tarnished, tatiana, dunkin', jacobson, arrowheads, serialization, crowbar, paralysis, cloaked, documents, dudley, brown's, obsidian, unconditional, brutality, conditional, controversy, decay, fluorescent, gilligan, donuts, scope"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZdc0wPapJ90pzxaDm-Xujj"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/22/9"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E009.vtt.zip"
+    keywords:         "margers, marters, peckinpah, play-movie, post-modern, unsheath, wallowing, stingray, pig's, clarinet, piggy, hugo, tomes, 20-sided, rickety, seafood, stung, scrolls, pig, sponsorship, eclipse, usa, examined, avenue, albino"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYgqKXa9rCqgUiL2vHKLCUf"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/370/353"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E353.vtt.zip"
+    keywords:         "1-800-usa-girl, 8-0-5, angola, chuh, cornwall, homin', hozenpizler, ja, karim, kubanabi, kubi, langsam, mle, rambus, rilke, scheißfreundlich, schmeigel, smoggy, stepy, stirb, stumpf, treppenwitz, und, vits, flula"
   hallOfRecords:      
 
 image:                "/assets/images/episodes/353/03.png"

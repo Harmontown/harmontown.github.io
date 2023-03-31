@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/264/247"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E247.vtt.zip"
+    keywords:         "firewalk, half-neck, miffed, whomp, zealous, a7, zeppelins, iceman, lea, keyhole, keepers, ukulele, ag, unpleasant, outskirts, dom, zealot, finn, polio, weaknesses, bling, unique, dicaprio, weakness, peaks"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

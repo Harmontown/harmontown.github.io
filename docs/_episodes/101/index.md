@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/116/101"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E101.vtt.zip"
+    keywords:         "barak, daedalus, emblematic, outsmarted, pterogon, pua, yomeiji, loam, terragon, shafts, pteragon, scrawl, clumps, wolfenstein, paloma, cornell, rodriguez, artistry, welder's, welder, flanked, yomiji, bedtime, bull's, smacks"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOayl58S3LIhr_VSE6QXnEFJ"
 
 image:                "/assets/images/episode-placeholder.jpg"

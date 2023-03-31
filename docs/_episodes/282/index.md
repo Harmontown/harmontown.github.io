@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/299/282"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E282.vtt.zip"
+    keywords:         "rufus, thileoma, toga, waldren, beaters, mesothelioma, mara, nra, miso, goldbond, bib, caliber, entanglement, reprogramming, mugs, kmart, befriend, entangle, blankets, untie, weakest, dexterity, heals, sheep, entangled"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

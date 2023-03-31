@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/283/266"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E266.vtt.zip"
+    keywords:         "bukaki, cross-mounted, k-cups, keurig, murr, whirlitzer, doorknester, acupuncturist, muff, sciatica, palomino, institute, milwaukee's, gravestones, cupping, acupuncture, cougar, hamper, turnover, flair, sprint, canoe, honorary, lime, crafting"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

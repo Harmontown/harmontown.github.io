@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/84/70"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E070.vtt.zip"
+    keywords:         "harmin', lucette, non-cancerous, roundum, six-eyed, zoomie, zoomies, randish, convection, humid, pemberton, baited, halliburton, self-deprecating, binoculars, slabs, swimmers, compliments, porcupine, coldest, twisting, seizure, humidity, lifeguard, tumor"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaAFIchPVZfIAgKOhFBtFN-"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/15/2"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E002.vtt.zip"
+    keywords:         "dreamscape, fatahbab, ewoks, tiffany, callas, chewbacca's, inception, three-way, yachts, zorro, hinges, muttering, platonic, burlap, two-man, angela"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZujfsmDZV1WWvhBR_Cpl3R"
 
 image:                "/assets/images/episode-placeholder.jpg"

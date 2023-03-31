@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/18/5"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E005.vtt.zip"
+    keywords:         "edition's, bjork, confession, yon, confessions, confessing, confessed, gutter, hardwick, adidas, nike, 85%, diaries"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZySzSoNnne7tXKA6SEDs3e"
 
 image:                "/assets/images/episode-placeholder.jpg"

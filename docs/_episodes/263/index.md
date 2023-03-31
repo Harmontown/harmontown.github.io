@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/280/263"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E263.vtt.zip"
+    keywords:         "flatbread, godfried, sardis, piscopo, sparrow's, chickens, urn, arquette, andre, crohn's, gilbert's, fecund, savages, gilbert, boots, fearless, emo, parrots, griffin, reserved, concerts, jonestown, joyless, goldthwaite, elon"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

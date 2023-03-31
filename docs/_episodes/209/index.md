@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/226/209"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E209.vtt.zip"
+    keywords:         "bralettes, cryptozoic, dare's, etheria, obsessions, rickle, scrimshaw, wap, dominoes, frilly, squirrely, derek's, lingerie, corsets, shopper, garter, pantyhose, coconuts, aunts, lacy, undergarments, westwood, encasement, kaplan, radiohead"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

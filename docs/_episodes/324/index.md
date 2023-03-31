@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/341/324"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E324.vtt.zip"
+    keywords:         "aquaman's, arcoons, cheaters, deathstroke, frozone, incredibles, jocko, stathom, antipathy, clancy, catwoman, na, bandaid, swims, flash, spills, manhunter, paparazzi, jacob, aquaman, csi, superman's, luthor, lex, superman"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

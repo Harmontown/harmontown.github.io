@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/164/149"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E149.vtt.zip"
+    keywords:         "intertubing, 8x10, tongue-in-cheek, warden, malcolm's, finland, daybreakers, hawke, ollie, malcolm, centipede, sluts, girth, roberts, accountant, headshot, fangs, strippers, diameter, riots, jacks, flapping, stripper, toot, reckon"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb4iA0NASSh1ARcWLf4Ar3C"
 
 image:                "/assets/images/episode-placeholder.jpg"

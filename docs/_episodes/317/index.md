@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/334/317"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E317.vtt.zip"
+    keywords:         "cannonballs, dashiki, lindsey, fontana, coon, rex, weathermen, weatherman, porous, mongoose, poise, rollerball, job's, disenfranchisement, tito, idiom, riverside, earl, outspoken, ranked, mit, boiler, funk, poland, gamble"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

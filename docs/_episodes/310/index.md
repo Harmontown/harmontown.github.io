@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/327/310"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E310.vtt.zip"
+    keywords:         "boffo, butterfinger, saa, tidbit, spaced, swedes, boarding, scouts, vulnerability, mechanic, lax, checkpoint, lounge, breasts, alaska"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

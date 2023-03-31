@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/269/252"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E252.vtt.zip"
+    keywords:         "manil, congressperson, impeachment, pippi, caitlyn, dunham's, stagnant, snopes, donovan, amendments, suppression, citizenship, cows, voter, romero, cow, congressman, legislative, stabilize, 1st, id, laziest, fells, officials, dunham"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

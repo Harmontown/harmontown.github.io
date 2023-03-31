@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/41/28"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E028.vtt.zip"
+    keywords:         "newcastle, wolfwoman, zuckie, adrienne, rawr, carolinas, interferes, bissell, clayton, charlotte, carolina, pshh, appalled, clover, lockers, dignified, grate, butt's, katie, orleans, nathan, chime, roach, knight, henderson"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZbViFHV-_LHROFGme8VOLy"
 
 image:                "/assets/images/episode-placeholder.jpg"

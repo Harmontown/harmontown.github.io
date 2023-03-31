@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/332/315"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E315.vtt.zip"
+    keywords:         "luxembourg, conrad, morphs, policemen, patriot, morphing, off-screen, claus, sleigh, cia, doorbell, santa, amsterdam, homicide, shannon, allen, elves"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

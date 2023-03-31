@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/251/234"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E234.vtt.zip"
+    keywords:         "elizia, flucca, longinette, nickleback, thornton, paxton, hibbert, playbook, influences, prince's, monarchy, gerrymandering, pluto, stub, charter, eo, bannon, twins, lining, machete, schwarzenegger, st, twin, louis, israel"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

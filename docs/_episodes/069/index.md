@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/83/69"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E069.vtt.zip"
+    keywords:         "dispensership, lay's, serpentor, insolence, stocky, destro, kutcher, lizette, ashton, imp, pcp, sculptor, snowflake, lisette, creamer, snorkel, capes, elven, salts, bargained, cheddar, cobra, magicians, stacks, rockets"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObiAPSO3RfXHy7kARqAc09_"
 
 image:                "/assets/images/episode-placeholder.jpg"

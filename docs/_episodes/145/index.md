@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/160/145"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E145.vtt.zip"
+    keywords:         "mayweather, pacquiao, brads, hyperion, manny, ethnics, fixable, pay-per-view, hitter, clomp, jogger, mets, heavyweight, feeder, linguistics, boxing, clarinet, kimmel, hutch, techno, boxers, magenta, skittles, lint, spaguli"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObGW5aDYyEPvi1q-rN7NTdm"
 
 image:                "/assets/images/episode-placeholder.jpg"

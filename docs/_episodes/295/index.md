@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/312/295"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E295.vtt.zip"
+    keywords:         "faunches, miners', rothschilds, self-congratulatory, seligman, silverlake, hyundai, beatty, edie, heath, amin, cullen, glen, pigeons, carrier, warren, gratification, optimism, bureau, reread, dispute, hula, mining, slashed, departed"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

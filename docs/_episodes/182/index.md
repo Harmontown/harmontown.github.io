@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/198/182"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E182.vtt.zip"
+    keywords:         "gaville, gettaven, newsflash, slee, wiseau, dibble, caucus, huffpo, yow, harlequin, mercury's, gavel, uggs, omaze, burris, delegates, sweatshop, desist, huffington, ugg, aziz, tingle, boutique, aligned, raptor"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObR7nULqIws8v3e5z3gnlLr"
 
 image:                "/assets/images/episode-placeholder.jpg"

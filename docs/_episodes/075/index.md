@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/89/75"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E075.vtt.zip"
+    keywords:         "branagh, heroine's, jays, kenneth, mayfair, combustion, baja, brefie, kimosabe, widow's, yanking, spontaneous, 40th, skimming, wrappers, marquette, robby, lea, cocky, promoter, snipes, wesley, peed, sync, backpacks"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYzMdiBuhqOGI47U5spiNdI"
 
 image:                "/assets/images/episode-placeholder.jpg"

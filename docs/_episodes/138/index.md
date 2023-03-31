@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/153/138"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E138.vtt.zip"
+    keywords:         "christ-christy, elkada, aberdeen, liters, dogg, mana, trick-or-treat, jamorge, astral, chekhov, mcleod, nate, crapper, sodomy, horticard, jill, diabetic, louie, snoop, john's, crawford, plague, hugged, holland, huddle"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ_9TSokj7eO6uv8BVXOEQy"
 
 image:                "/assets/images/episode-placeholder.jpg"

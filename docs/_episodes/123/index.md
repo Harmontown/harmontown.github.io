@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/138/123"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E123.vtt.zip"
+    keywords:         "10개의, kinte, kunta, kuta, lao, lavar, laver, lovar, molen, shaka, 가족이, 것, 것에, 그, 그게, 그는, 그레이브가, 그리고, 내려가기, 네, 대해, 때, 때문에, 로봇뱅크는, 롤빅스는"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYcMtpaTkgtdac4zAZOUOvg"
 
 image:                "/assets/images/episode-placeholder.jpg"

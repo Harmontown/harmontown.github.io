@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/82/68"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E068.vtt.zip"
+    keywords:         "frostbite, moretson, chud, catwalks, rampage, 1d10, ogre's, flamboyant, abduct, achilles, chewbacca, ogre, fiercely, snipers, terraform, armored, crouch, fertilizer, levi's, otter, gnoll, token, tendon, jolly, 62"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObxbRd732zAUnpve2MVWtnf"
 
 image:                "/assets/images/episode-placeholder.jpg"

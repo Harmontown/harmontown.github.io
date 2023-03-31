@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/263/246"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E246.vtt.zip"
+    keywords:         "nordflork, renf, sajak, smalls, stereos, stoller, dass, realizations, restraining, pugs, pug, malibu, spec, poachers, edibles, meth, savvy, poacher, scoot, mushrooms, ivory, 1990, 1989, aye, fred"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/257/240"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E240.vtt.zip"
+    keywords:         "fillin', jaycee, matza, matzah, ornstein, tiflin, jesuit, diesel's, torrenting, maxine, bucey, indianapolis, somalia, turing's, vin, piggyback, dahmer, roaster, hamlet, daryl, diesel, busey, bannon, madison, o'reilly"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

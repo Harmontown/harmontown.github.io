@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/305/288"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E288.vtt.zip"
+    keywords:         "castile, chickasaw, gangstocking, gellin's, goi, greer, infante, peacoltre, pembertunes, scoopeteer, jarell, sheldon, scab, aberrant, blubber, hathaway, prog, snapper, pemberton's, roscoe, yanny, puppeteer, onions, sewn, brainstorm"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

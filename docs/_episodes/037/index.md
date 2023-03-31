@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/50/37"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E037.vtt.zip"
+    keywords:         "fascinist, gibbon, jaffer, plantar, teapot, rhubarb, dingos, wobegon, garrison, keeler, minneapolis, tendon, casserole, gong, surfer, abbott, arnold, tentacle, scorching, blob, owl, josh, gotham"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-kxN3QSR5OPJEHQAE0Qyv"
 
 image:                "/assets/images/episode-placeholder.jpg"

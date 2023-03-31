@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/361"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E361.vtt.zip"
+    keywords:         "conning, covid, pandemic, queef, stranding, touchey, queefed, vaccine, zanadu, extroverts, fiends, four-year-olds, introverts, vaccines, gauzy, postmates, satisfactory, viva, quarantine, warby, musicals, extrovert, optometrist, clink, nile"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

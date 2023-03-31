@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/316/299"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E299.vtt.zip"
+    keywords:         "bachmann, cortana, energetics, haystacks, hickenbotham, kettlebells, revoiced, storytime, mar, humanism, c5, 8%, antiques, he-haw, dexter, neanderthal, planking, blogging, deus, donner, genocidal, palms, tenor, 54, predicting"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

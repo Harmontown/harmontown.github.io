@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/253/236"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E236.vtt.zip"
+    keywords:         "artois, esther's, follies, dijon, radisson, tucky, stella, disgust, somalian, mucky, calvin, thumping, benson, chomp, mustard, abuser, outlets, doug, ac, outlet, passengers, vermont, sailing, inn, cindy"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

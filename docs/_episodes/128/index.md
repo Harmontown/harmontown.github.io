@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/143/128"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E128.vtt.zip"
+    keywords:         "bod, caucasized, clement, elmo's, itsy-bitsy, luganis, sana, pelt, trigonometry, lesbianism, fosse, vows, allah, raza, rory's, scissoring, burton's, bear's, pelts, prescribed, ria, segway, geometry, sauces, hiking"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYuNTVwQ1ytYqsWEL4iusNj"
 
 image:                "/assets/images/episode-placeholder.jpg"

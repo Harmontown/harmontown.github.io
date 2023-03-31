@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/326/309"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E309.vtt.zip"
+    keywords:         "cyclon, glip, glit, glop, howell, mcb, michigana, micro-model, usury, firehouse, onesies, foundational, organizers, tantrums, onesie, banderas, banking, latitude, shimali, wendy, tantrum, abandonment, functionality, antonio, casper"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/202/186"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E186.vtt.zip"
+    keywords:         "whoopi, gwen, nina, shriver, teletype, liv, duplass, mimosas, bono, garcia, revenant, 7-up, toro, presenters, benicio, troopers, mermaid, karaoke, bottomless, fundamentalist, regulars, schwab, cough, iowa, coughed"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZVfCfdXS3MOYLWkqz2ipXx"
 
 image:                "/assets/images/episode-placeholder.jpg"

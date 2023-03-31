@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/99/85"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E085.vtt.zip"
+    keywords:         "gender-neutral, ishmael, kaipo, tormat, unthinkable, paige, shortcake, crack-wees, imprint, gender-wise, girly, hairdresser, princesses, mattel, muzzle, publisher, levitate, crumbled, heap, dogmatic, woolly, elaine, frat, femininity, sage"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYtSHUk7Pf0TuBUMc4nZkE7"
 
 image:                "/assets/images/episode-placeholder.jpg"

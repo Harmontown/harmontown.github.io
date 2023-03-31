@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/298/281"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E281.vtt.zip"
+    keywords:         "huckstables, blackish, champing, mayville, jezebel, bumpy, colorblind, shonda, arugula, limbo, kenya, naivete, rewrites, hymns, commenting, splits, youp, tomorrow's, confederate, pasta, chart, cosby"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

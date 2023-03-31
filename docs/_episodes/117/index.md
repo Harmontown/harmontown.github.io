@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/132/117"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E117.vtt.zip"
+    keywords:         "citywalk, hypnotherapy, notchbury, octomoms, quasar, synecdoche, transgresses, comet, hypnotherapist, nottingham, dippin', world-class, alf, hypnotists, hypnotist, upstart, rubens, hailing, estrogen, janine, hydraulic, hypnosis, gaga, stacey, ticker"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYhgcVBJQ_jj5ADJ3xpbfYH"
 
 image:                "/assets/images/episodes/117/05.png"

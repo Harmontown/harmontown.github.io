@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/51/38"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E038.vtt.zip"
+    keywords:         "april's, darren, missouri, libby, kyle's, solomon, ian, vips, omaha, kansas, tulsa, hogan, booths, april, vip, crier, duke, understudy, bunny, kyle"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-b74EO7LTRzJHoy_W8E9y"
 
 image:                "/assets/images/episode-placeholder.jpg"

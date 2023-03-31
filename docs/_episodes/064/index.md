@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/78/64"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E064.vtt.zip"
+    keywords:         "evacuate, gibran, rabaniya, silences, unseal, thornheim, hopping, splendor, transponder, debunking, surfboard, alberta, bounding, armlet, headstone, star's, theorists, reinforce, calgary, heinz, mowing, persons, madman, paintball, dining"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaOM7Ugd8qBFcinV1o3Vm5e"
 
 image:                "/assets/images/episode-placeholder.jpg"

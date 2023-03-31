@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/14/1"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E001.vtt.zip"
+    keywords:         "marty's, sashes, x2, tout, hanky-panky, sash, crouched, pokey, perez, cottage, frontierland, rosie, peaches, poopoo, kilmer, severed, ketchup, dart, val, darts, disneyland"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZSS-OZejKrzkRlpjHbfrfE"
 
 image:                "/assets/images/episode-placeholder.jpg"

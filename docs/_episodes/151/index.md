@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/166/151"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E151.vtt.zip"
+    keywords:         "short-form, trollinger, kikowski, don's, gerber, paget, hawkeye, doorbells, grandson, padgett, agreements, impeccable, cosmology, long-form, hippocratic, protege, nursing, rapidly, pageant, omaha, earthshine, o'connell, orderly, argh, nurses"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYnBD8-tFhm7NGUMj6gA8nJ"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/256/239"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E239.vtt.zip"
+    keywords:         "corain, frango, gwynethor, shindler, mince, bristles, escalator, corraine, bristle, survey, boulder, daddy's, troy, goblins, bottoms"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

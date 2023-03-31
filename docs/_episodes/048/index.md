@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/61/48"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E048.vtt.zip"
+    keywords:         "gater, mershalk, paralyzer, petraeus, wreck-it, aldrin, felicity, reaganomics, affliction, congestion, thalidomide, sharknado, avalanche, aides, shazam, tremors, hackman, o's, f-i-v, whack-a-mole, scorpion, breeder, fondue, cauldron, leroy"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaFXDLI4pALG5ZfvPET4oI7"
 
 image:                "/assets/images/episode-placeholder.jpg"

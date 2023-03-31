@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/344/327"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E327.vtt.zip"
+    keywords:         "flugel, junco, muchnick, 999, saruti, mccann, badgers, confiding, rosanna, temp, high-risk, madeleine, powell, dingo, tandem, tb, 9-1-1, clack, bugle, scrubs, gravitate, foxes, bradley, spouse, decapitated"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

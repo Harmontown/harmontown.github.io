@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/55/42"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E042.vtt.zip"
+    keywords:         "2xl, 49er, hardball, gabrielle, niners, raven, 49ers, ravens, schindler, scrimmage, proofs, sharon, formidable, poe, steady, switching, baltimore, martha, momma, 95%, molly, lauren, wildly"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaoSUBA12pcTkkDu7UUtWut"
 
 image:                "/assets/images/episode-placeholder.jpg"

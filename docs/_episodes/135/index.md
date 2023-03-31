@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/150/135"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E135.vtt.zip"
+    keywords:         "scones, starwalkers, tartovsky, hippity, solaris, hanukkah, heinz, shortage, hipity, rake, ply, valentine's, madman, d'morge, worm, mdma, rabbit's, benny, prophecy, cain, mow, airlock, elders, shades, hop"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObka9sEbA1wX23JLIbHranx"
 
 image:                "/assets/images/episode-placeholder.jpg"

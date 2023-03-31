@@ -124,15 +124,21 @@ public record External
 {
   public External() { }
 
-  public External(string harmonCity, PDEntry podcastDynamite, string hallOfRecords)
+  public External(
+    string harmonCity,
+    PDEntry podcastDynamite,
+    TranscriptionEntry transcription,
+    string hallOfRecords)
   {
     HarmonCity = harmonCity;
     PodcastDynamite = podcastDynamite;
+    Transcription = transcription;
     HallOfRecords = hallOfRecords;
   }
 
   public string HarmonCity { get; init; }
   public PDEntry PodcastDynamite { get; init; }
+  public TranscriptionEntry Transcription { get; init; }
   public string HallOfRecords { get; init; }
 }
 public record PDEntry
@@ -146,4 +152,16 @@ public record PDEntry
 
   public bool HasMinutes { get; init; }
   public string? Url { get; init; }
+}
+public record TranscriptionEntry
+{
+  public TranscriptionEntry() { }
+  public TranscriptionEntry(string? vttZipFilename, string? keywords)
+  {
+    VttZipFilename = vttZipFilename;
+    Keywords = keywords;
+  }
+
+  public string? VttZipFilename { get; init; }
+  public string? Keywords { get; init; }
 }

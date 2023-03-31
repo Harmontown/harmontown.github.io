@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/346/329"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E329.vtt.zip"
+    keywords:         "broomate, brumate, drinkware, longsocksilver, p-rimiter, saturate, adapter, cravello, ramsey, memphis, cannibal, quota, transylvania, birther, silo, slingshot, broderick, brew, counseling, carlin, dale, raiders, enforcement, font, blues"
   hallOfRecords:      
 
 image:                "/assets/images/episodes/329/01.png"

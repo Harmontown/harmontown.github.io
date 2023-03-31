@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/205/189"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E189.vtt.zip"
+    keywords:         "bogdanovich, nair, nobler, noblin, rai, sardine, sayer, turkey's, wearer, were-tricky, nikes, shears, rufalo, yankovic, pubes, quaker, weinberg, trimming, shaft, draper, kaiser, brazilian, pews, overdrive, hemingway"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYyFa_78n4cnTEQzG_fZi1N"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/347/330"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E330.vtt.zip"
+    keywords:         "dryers, gamalian, kessie, ghillie, shimali, webbed, smote, packaging, notre, procrastination, rebuild, trove, dame, toad's, monuments, coliseum, credibility, yardley, skunk, coyotes, skunks, wga, aye, mermaid, prayed"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

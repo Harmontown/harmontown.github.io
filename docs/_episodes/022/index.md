@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/35/22"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E022.vtt.zip"
+    keywords:         "haunch, juror, shuttle's, atlas, purified, 31st, head-to-toe, impartial, documentarian, jury, cupid, auras, courthouse, attorneys, encasement, hobbit, fragments, tolkien, anastasia, hallelujah, bravo, dwarves, fellowship, jehovah's, smog"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObTuam0Ycko9ZqzdTMpVmqH"
 
 image:                "/assets/images/episode-placeholder.jpg"

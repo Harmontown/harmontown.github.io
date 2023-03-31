@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/24/11"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E011.vtt.zip"
+    keywords:         "acute, brahmin, co2, elflet, elflit, embermawler, embermolar, embermoles, embermuller, mahler, mahler's, succor, ember, screed, confinement, solitary, respiratory, alkalosis, corset, light-headed, sharpey, dost, thornvale, fainting, flanks"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZp9MHpv9D44MFt_JS3Nncd"
 
 image:                "/assets/images/episode-placeholder.jpg"

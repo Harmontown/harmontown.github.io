@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/168/153"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E153.vtt.zip"
+    keywords:         "vance, cross-stitch, iguanas, 48-year-old, disarmed, gestapo, morge, termites, turks, yellowman's, kombat, termite, sanitation, portuguese, upward, marriages, reflexes, goth, shocker, characteristics, formidable, hortegaard, spam, ebb, agreements"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa1UcNzMk90oKRt129hwD3t"
 
 image:                "/assets/images/episode-placeholder.jpg"

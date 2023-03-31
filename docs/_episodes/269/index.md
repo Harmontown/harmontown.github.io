@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/286/269"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E269.vtt.zip"
+    keywords:         "fabricator, mckenzie, spudgeon, zonkey, tijuana, cunningham, battlefront, anomalous, rubies, jaco, templify, clitoris, breaststroke, giraffe, retard, tanchum, c's, doornester, groping, zebra, rowan, camels, giraffes, endurance, drafts"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

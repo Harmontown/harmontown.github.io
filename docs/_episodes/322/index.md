@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/339/322"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E322.vtt.zip"
+    keywords:         "hud, humper, irvine, oribach, smosh, weiser, weissal, weissall, serum, goldenfold, wrecking, inland, willful, booger, ernie, zap, traveler, animate, bearded, harbin, rubik, edible, baron, anime, illuminati"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

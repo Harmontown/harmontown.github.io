@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/32/19"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E019.vtt.zip"
+    keywords:         "mcing, stencil, unger, misha, backflip, spatula, hum, nuzzle, upgraded, folksy, chan, llama, daddy, eidel, grilled, prediction, librarian"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObT2tGM8bPyKIgC4BNxX4AT"
 
 image:                "/assets/images/episode-placeholder.jpg"

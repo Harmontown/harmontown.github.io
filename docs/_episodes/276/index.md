@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/293/276"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E276.vtt.zip"
+    keywords:         "agnew, birthmark, brady's, dmb, gliders, hemmings, jolla, matthews', riverdale, shibas, spiro, calrissian, patchen, mcbride, shamblin', pippy, hi-hat, hurrying, chippy, lando, thermometers, frothy, matthews, welfare, moldy"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

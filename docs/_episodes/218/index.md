@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/235/218"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E218.vtt.zip"
+    keywords:         "blanco, heeled, pantson, provo, insomnia, chloroform, chimes, cara, carbonite, tb, reincarnation, bootson, hint, bedtime, hormann, deflecting, golly, peeping, tarp, joey, colombian, $24, ackerman, drowsy, flavored"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

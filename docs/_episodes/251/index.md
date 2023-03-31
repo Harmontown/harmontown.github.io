@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/268/251"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E251.vtt.zip"
+    keywords:         "dorado, manneal, spielrock, tetski, archers, systematic, canna, daft, jacob's, necromancy, reagent, strap-on, anti-christ, rhonda, robotics, macaulay, freshest, cheeto, donovan, dank, tablets, nash, variable, graves, roach"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/297/280"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E280.vtt.zip"
+    keywords:         "bering, ideations, nunberg, ideation, mooch, non-linear, charter, prostate, minivan, hartman, nozzle, plum, stardew, gel, bronx, mugs, leaking, cushions, stitches, forge, suicidal, formal, grandparents, boxers, schwab"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/100/86"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E086.vtt.zip"
+    keywords:         "bls, la-nev, lenore, mcnuggettini, nev, pika, tufts, poppies, egged, bieber's, egging, allie, hardstark, mcnugget, slumber, bieber, monstrosity, raided, sternum, dueling, creamer, surly, yule, laverne, dominance"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZawnnkhQxQ-yZq4oC1_hDd"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/315/298"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E298.vtt.zip"
+    keywords:         "habilis, recliner, uninsured, erectus, ahhh, seinfeld's, disney's, replying, sapiens, pretzels, homo, donkeys, retrograde, spotify, anthropology, peppa, membership, neanderthals, gofundme, raccoon, abducted, nigel's, ruined, belief, harsh"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/114/99"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E099.vtt.zip"
+    keywords:         "fliz, huber's, kimberley, meep-mop-mop, powell's, schnitzer, panhandling, mary's, panhandler, martigan, panhandlers, chameleon, devon, banjo, bookstore, hellraiser, negroni, jupiter, doughnut, fin, adomian, dolphin, portland, hodor, carries"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOao9FZ6en-pqeUwmQdeD8Gt"
 
 image:                "/assets/images/episode-placeholder.jpg"

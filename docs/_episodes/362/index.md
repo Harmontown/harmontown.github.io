@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/377/362"
+  transcription:
+    filename:         
+    keywords:         
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

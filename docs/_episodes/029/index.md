@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/42/29"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E029.vtt.zip"
+    keywords:         "fludge, markowitz, neu, nex, pe-, biden's, annexed, stanton, biden, geller, revlon, boroughs, herbie, wilde, tootsie, maya, ax, borough, burrows, squid, govern, billiard, olivia, brooklyn, looney"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZc3Q-mDiG3lG_Kv_VGrs8-"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/108/94"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E094.vtt.zip"
+    keywords:         "cooperatives, mcgatney, non-canonical, pumas, lamar, xl, saffron, 650, cooperative, m&m's, badges, puma, berkley, skaldor, sorrow, meredith, ladders, corrections, m&m, bitcoin, carrie, ladder, forged, brendan, injustice"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYHBUC8_ob1mHSycTEOTNcr"
 
 image:                "/assets/images/episode-placeholder.jpg"

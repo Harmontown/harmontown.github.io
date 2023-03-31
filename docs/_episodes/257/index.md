@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/274/257"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E257.vtt.zip"
+    keywords:         "chalipop, hyah, scallops, vito, wheelbarrow, grouchy, burbank's, corleone, relics, wang, cagney, fells, juju, priors, dabbing, unclean, airpods, banditos, dorothy, ventriloquist, bogart, godfather, knotts, bandito, arden"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

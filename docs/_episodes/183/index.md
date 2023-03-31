@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/199/183"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E183.vtt.zip"
+    keywords:         "180-degree, dimores, leicester's, dwarfism, favoritism, gumball, nappy, left-handed, six-year-olds, buffoon, obed, spartan, bronson, cthulhu, carell, glen, ethnicities, schumer, cleopatra, malice, dehumanization, spacey, pullman, yale, arsenal"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY4rUYY85yRexhP5ABjPMjD"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/134/119"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E119.vtt.zip"
+    keywords:         "braden, brayden, huckleberry, q-word, r2g2, rj, tagalog, ewan, crip, mcgregor, ewing, filipino, gonzalez, obi-wan, eject, schraub, q&a, philippines, c-word, vista, beanie, nbc's, tightening, two-hour, fanny"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZilMKB5wzq8Igmb1oxUNT1"
 
 image:                "/assets/images/episode-placeholder.jpg"

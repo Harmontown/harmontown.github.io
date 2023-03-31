@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/250/233"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E233.vtt.zip"
+    keywords:         "game-stated, wubajub, keezy, sampling, upholstery, postcard, sassafras, ryland, mri, upstaging, cougar, mcs, mellon, suicides, psst, prisons, oval, authenticity, grandparents, suburban"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

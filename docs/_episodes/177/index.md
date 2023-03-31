@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/193/177"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E177.vtt.zip"
+    keywords:         "chara, colts, datch, schafer, munsters, tara, fillion, reflesh, timorge, brundle, grindr, riboflavin, munster, cheney, chevron, freewheeling, mediator, starburst, sauron, circuitry, hortegaard, scissor, diehard, meathead, clink"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa4MIdhm_by26ssxEKUN8Du"
 
 image:                "/assets/images/episode-placeholder.jpg"

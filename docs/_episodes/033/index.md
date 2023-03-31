@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/46/33"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E033.vtt.zip"
+    keywords:         "ena, gooskies, gorskies, pittsburgh's, stillers, stimulis, yins, yinzer, steelers, clatter, pustules, jen's, worshiped, falcons, pittsburgh, usher, syringes, volleyball, ushered, wagner, 49ers, crawls, joel's, niners, jen"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZobqXx_hFsWcy_8FkDDQ_s"
 
 image:                "/assets/images/episode-placeholder.jpg"

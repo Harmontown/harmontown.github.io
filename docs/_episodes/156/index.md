@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/171/156"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E156.vtt.zip"
+    keywords:         "aquariums, bec, gobi, pediolite, smotherman, smotherman's, strumpets, triss, stayin', colada, strumpet, pina, starter, strident, withdrawn, cherries, sores, poopoo, lactose, ping-pong, washington's, chugging, lighthouse, bowel, sorceress"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ7k2Y_LQXkEFE0e3y9kLgP"
 
 image:                "/assets/images/episode-placeholder.jpg"

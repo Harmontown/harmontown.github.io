@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/204/188"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E188.vtt.zip"
+    keywords:         "nunny, overd, sw, tosser, underroos, taster, brigadoon, impounded, bruckheimer, hpv, rampart, thermostat, reactor, concentrated, maneuvering, swab, donna, flagged, villages, pacifier, urinals, ballers, robby, submarine, miami"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYkoxNRn8sw8ou-o78nZMXW"
 
 image:                "/assets/images/episode-placeholder.jpg"

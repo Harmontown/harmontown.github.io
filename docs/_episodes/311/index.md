@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/328/311"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E311.vtt.zip"
+    keywords:         "maladaptive, asa, homeschool, trumpy, rfk, ingrained, payments, wagner, redemption, asexual, existential, heavyweight, bisexual, sabotage, walken, theft, saloon, caroline, grumble, tummy, natalie, follow-up, auto"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

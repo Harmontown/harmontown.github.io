@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/330/313"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E313.vtt.zip"
+    keywords:         "bagby, heterodoxic, heterodoxy, muta, scots, scottish-gaelic, secession, sex-ified, strokin', turpin, stroking, scotland's, stroked, celtic, peterson, rangers, mick, fallacy, glasgow, headbutt, clarence, roaster, briefcase, scotland, clients"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

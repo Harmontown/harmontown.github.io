@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              
+  transcription:
+    filename:         
+    keywords:         
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

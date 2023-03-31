@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/230/213"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E213.vtt.zip"
+    keywords:         "auto-tuned, celebious, enema, jammers, tune-up, colonic, epaulets, emmy's, saddles, counterfeit, mittens, weatherproof, tilt, basin, seatbelts, denzel, backgrounds, pedestal, vocoder, seatbelt, cockroach, dementia, blazing, edward, jets"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

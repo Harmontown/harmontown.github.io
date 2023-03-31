@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/228/211"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E211.vtt.zip"
+    keywords:         "cotton's, jupacabra, lawnjarts, lawnjerk, meondies, bladders, benet, kilgariff, epilepsy, dateline, kat, gacy, domino's, noid, hitchhiking, mansplaining, hoopa, absinthe, critter, asteroid, hopper, oj, seizures, hamper, grinder"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

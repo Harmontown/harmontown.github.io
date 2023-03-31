@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/279/262"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E262.vtt.zip"
+    keywords:         "gowan, ros, steinhoffel, steinhoffels, mcgowan, crafters, crews, pictionary, unconsciousness, porcelain, porno, macbeth, weinstein, bart, terry, judy, milkshake, prostitute, believable, bias, unto, truths"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

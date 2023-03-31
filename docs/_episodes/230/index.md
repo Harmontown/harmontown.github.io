@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/247/230"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E230.vtt.zip"
+    keywords:         "begonias, eep, g-tube, rekener, tiefling, daniella, necromancer, friendsforbenefits, pete's, sorting, 2x4, zayn, disgruntled, gelatinous, gerard, warlock, syrup, mime, kink, mussolini, ooze, healer, barrel, inauguration, bb"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

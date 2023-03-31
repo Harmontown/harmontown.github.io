@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/123/108"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E108.vtt.zip"
+    keywords:         "bas-lisk, bursum, hamas, kid-fucking, rubins, refrigeration, atwater, kamel's, tees, basilisk, netanyahu, satanists, socrates, embarrassment, raza, cupcakes, 2011, israel, cupcake, conundrum, crane, infected, gacy, tvs, heights"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObORGwI5Lrg8cWgtv3nTO5Y"
 
 image:                "/assets/images/episode-placeholder.jpg"

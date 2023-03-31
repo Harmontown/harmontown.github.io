@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/129/114"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E114.vtt.zip"
+    keywords:         "brut, burton-elly, darvott, pentagonal, qantas, bertie, alba, avenger's, newton-john, darmvan, g'day, aussie, fudges, darm, prawns, woolly, colonoscopy, djs, juicery, birdie, olivia, prawn, valerie, chock, dander"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObWOffcHOKO-GEArWuSfhA-"
 
 image:                "/assets/images/episode-placeholder.jpg"

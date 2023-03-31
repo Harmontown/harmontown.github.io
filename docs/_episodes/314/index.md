@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/331/314"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E314.vtt.zip"
+    keywords:         "apologetics, p-tips, rocco, smocking, ted's, marlin, spectacles, dang, pete, corral, nom, neo, contentment, enlightenment, whiff, yorker, chipper, valerie, burr, caption, cockney, fudge, crashing, holmes, fireplace"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

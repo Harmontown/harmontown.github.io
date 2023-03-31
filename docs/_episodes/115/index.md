@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/130/115"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E115.vtt.zip"
+    keywords:         "cymbal, deceptions, earthos, entie's, windmills, stork, $350, creamy, bull's, pressurized, spizzbulb, glasgow, windmill, elton, grin, musketeers, propane, dolphins, blimp, dye, skype, paula, crawdad, helium, horowitz"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObg6Uo3Zi7dSciMx53DgBQy"
 
 image:                "/assets/images/episode-placeholder.jpg"

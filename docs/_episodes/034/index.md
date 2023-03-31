@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/47/34"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E034.vtt.zip"
+    keywords:         "blanned, cayman, clayman, graspy, indiana's, outcropping, swooning, dun, lark, wussy, ruth, dwellers, non-smoking, rickman, bland, yank, criterion, enya, pulsating, iris, jupiter, wasps, tensors, 750, charcoal"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYVQKeNqoZkfAj_L6bF7Apr"
 
 image:                "/assets/images/episode-placeholder.jpg"

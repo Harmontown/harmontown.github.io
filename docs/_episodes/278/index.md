@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/295/278"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E278.vtt.zip"
+    keywords:         "bidets, cavitt, eroni, fritt, goodbar, unblast, laguna, all-terrain, curling, kirkman, zander, gimple, skating, poacher, daybreakers, payday, skaters, nozzle, blast, russ, panther, underscore, charts, violin, watson"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/360/343"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E343.vtt.zip"
+    keywords:         "dietician, hornhub, wendt, albinistic, dietic, albinos, gingrich, kalen, weepy, hoarders, caramel, harley, albinism, katelyn, quench, boogie, albino, sunscreen, gorge, pigmentation, shirley, norm, hilton, eugenics, russo"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

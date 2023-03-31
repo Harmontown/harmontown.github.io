@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/190/174"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E174.vtt.zip"
+    keywords:         "baklava, cassie, indicators, lip-sit, poot, raiser, semen's, snoopy-doop, swifty, birch, coder, middleditch, hitman, alfalfa, machismo, nypd, spa, scrub, husbandry, gums, acronyms, packages, koreatown, scrubs, poltergeist"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOY-43uRb1g5C3W0WH612n6U"
 
 image:                "/assets/images/episodes/174/02.png"

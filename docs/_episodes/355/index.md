@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/372/355"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E355.vtt.zip"
+    keywords:         "balan, endymion, jewfro, memoji, tiktok, gentleness, silicone, alicia, fierstein, fritos, mallory, kindergartners, bleh, scatman, trafficking, prayed, larson, dispose, norway, compartmentalized, heathrow, sweetest, philosophical, tackle, 130"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

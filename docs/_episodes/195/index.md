@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/211/195"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E195.vtt.zip"
+    keywords:         "ba-da-da-da-da-da, cph, jeffersons, keomey, kiyomi, moreno, rockford, carmichael, lear's, mothman, vassar, civics, marianne, maud, toasts, wilma, audacity, jefferson's, nightclub, acquiescence, norman, velma, drake, rita, lear"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYh7PJd0xcsKcAyLqVXHsSD"
 
 image:                "/assets/images/episode-placeholder.jpg"

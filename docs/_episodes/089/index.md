@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/103/89"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E089.vtt.zip"
+    keywords:         "boogaloo's, cowan, ironside, kissin', smuck, telemvarnah, cobbs, gashes, jolene, headboard, zarda, eva, televarna, tipper, rites, zit, owning, sedentary, slogans, cashew, tor, defendant, betrothed, pleading, parton"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOZ3io55H0gPCjPcLUslaNMi"
 
 image:                "/assets/images/episode-placeholder.jpg"

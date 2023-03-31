@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/369/352"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E352.vtt.zip"
+    keywords:         "splice, 1900s, camelot, percenter, resurrection, conspiracies, reductive, noel, cooperation, ufo, ufos, conspiracy, congrats, mating, jfk, baron, agencies, billions, cautious, worldview, fringe, assassination, shutter, theories, moby"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

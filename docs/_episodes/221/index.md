@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/238/221"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E221.vtt.zip"
+    keywords:         "glum, man-splain, sav, sundowning, titus, ostriches, babes, horton, blondie, giuliani, alt-right, barbed, empires, handicapped, sunshine, jay-z, newt, rappin', ha, cohen, filler, kumeil, beliefs, clowns, polls"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

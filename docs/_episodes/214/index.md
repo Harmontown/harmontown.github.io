@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/231/214"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E214.vtt.zip"
+    keywords:         "adele's, antacid, bisquick, cauliflower, gangnam, mennonite, mennonites, non-vegan, peterborough, pudugook, sightbar, anya, chums, elmira, papal, pardo, ariana, gaelic, inuit, veganism, doughnuts, waffle, hoser, hoses, preemptive"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/373/356"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E356.vtt.zip"
+    keywords:         "umnia, omnia, metta, md, trustee, wha, hoodies, hoodie, superstitious, harmonize, cambridge, opposing, kanye, mattresses, athletes, phd, diana, spotify, estate, predictable, subversive, camping, garrison, moss, platinum"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

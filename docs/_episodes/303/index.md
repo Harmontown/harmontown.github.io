@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/320/303"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E303.vtt.zip"
+    keywords:         "caleb, derbs, dinklages, flibber, gildy, predator-language, anthological, governors, thanos, perlman's, raft, go-bots, knotted, perlman, predator, gaslighting, lexus, predators, slaughterhouse, crabs, crab, dinklage, mantle, rhea, purge"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

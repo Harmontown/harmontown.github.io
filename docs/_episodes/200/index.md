@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/216/200"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E200.vtt.zip"
+    keywords:         "rijerk, spielberger, spittin, sprogue, dippin, lucha, marsupial, chow, morrissey's, 200th, morrissey, armin, derrick, dixon, marsupials, paddington, scoping, cues, simulation, ruffle, bryan, cordy, jovi, beige, griddle"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYt7LhndjmITqJKpHNpXu0a"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/101/87"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E087.vtt.zip"
+    keywords:         "ario, baha'i, donut's, magnans, multi-cave, speedwagon, twiggy's, aftermash, islam's, klinger, skutt, brosnan, cro-magnons, submerge, kamel, nutsack, schroeder, waterproof, twister, spawn, bony, burial, volcanoes, lemons, sabbath"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaFKR_VO-GVmwYb_IZP5UfT"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/148/133"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E133.vtt.zip"
+    keywords:         "comlick, demorsch, duriel, geomati, nano-whip, pluser, lmu, thunderbird, ev, nab, jamal, ingress, sicilian, crates, man-sized, revlon, descend, katy, nationwide, cartel, mixtape, shaven, thwart, paloma, non-lethal"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObM3_6gs_cXtRt-IGoZuxKE"
 
 image:                "/assets/images/episode-placeholder.jpg"

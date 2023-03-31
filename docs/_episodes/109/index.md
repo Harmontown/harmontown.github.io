@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/124/109"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E109.vtt.zip"
+    keywords:         "egbert, kates, mojave, repeat-rooting, satchmo, schrabbs, suzanne, typer, walkable, rogaine, groton, sieg, tatum, vitao, channing, phoebe, pillage, strudel, shush, furman, lannister, seer, blaring, hawks, 5th"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOb1fofIeJcIHnkgRJEE4luJ"
 
 image:                "/assets/images/episode-placeholder.jpg"

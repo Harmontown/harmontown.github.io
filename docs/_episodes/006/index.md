@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/19/6"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E006.vtt.zip"
+    keywords:         "stuyben, desegregation, tate, beastmaster, pitchfork, menagerie, predominantly, disciples, shrimpy, pitchforks, stockings, leggings, morse, bandana, cactus, sweetest, tights, bard, nylon"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaVMxqtQoObkowkRqGMRkeD"
 
 image:                "/assets/images/episode-placeholder.jpg"

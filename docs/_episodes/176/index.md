@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/192/176"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E176.vtt.zip"
+    keywords:         "channies, incursions, interdiction, oolala, pre-tinder, ultralight, sesh, swiping, transplant, defying, streisand, ritz, yada, supplements, voldemort, monopoly, whiz, rejection, swiped, donor, dissolving, bilbo, ridley's, ghoulish, aircraft"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOYsobZsqwq8xysXZg4ZmJxN"
 
 image:                "/assets/images/episode-placeholder.jpg"

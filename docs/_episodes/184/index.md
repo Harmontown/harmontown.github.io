@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/200/184"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E184.vtt.zip"
+    keywords:         "838, amir, banky, bunkmate, consumethemovie, dior, gamma, lister-jones, noony, pussie, saget's, tc2000, triscuits, triscus, trisket, cletus, loincloth, vaccinate, celiac, thins, lister, coldplay, kabbalah, sativa, andromeda"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOaQN5I_Evklm2UCc-lxKUtO"
 
 image:                "/assets/images/episode-placeholder.jpg"

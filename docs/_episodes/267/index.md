@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/284/267"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E267.vtt.zip"
+    keywords:         "hubel's, juggal, juggalis, lycoris, robocall, seacrest, tolhouse, tomas, yipp-yipp-yipp-yipp, deborah, hubel, urkel, juggalos, o'neal, pharrell, shaquille, polanski, manson, calumet, walsh, zoolander, manson's, stalling, franken, cruelty"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

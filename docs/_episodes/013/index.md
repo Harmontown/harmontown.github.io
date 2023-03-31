@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       true
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/26/13"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E013.vtt.zip"
+    keywords:         "giulietta, jariths, polka, calderon, duvet, jarith, cush, decorator, dickies, juju, gardener, gardeners, 29th, motor, gnarled, crashes, skies, peppers, animator, opportunities, toothpaste, kleenex"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObMPhTHhB42msc1OiLAp65l"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/337/320"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E320.vtt.zip"
+    keywords:         "mcclane, deletes, scud, yippee-ki-yay, gunn, caretakers, argyle, caitlyn, jenner, plumbing, vendor, adams, surfaces, funches, deleted, weatherman, sinatra, plumber, carlin, salem, punches"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/290/273"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E273.vtt.zip"
+    keywords:         "asriel, belman, chileli, gargamel's, ingrid, micromachines, mumra, orco, pantera, panthro, poo-ka-noo, sundercats, tigro, snarf, bergman, coleco, brainy, chitara, gwyneth, barbies, belmont, micronauts, bakers, bakeries, muka"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"

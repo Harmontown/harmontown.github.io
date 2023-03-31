@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/223/207"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E207.vtt.zip"
+    keywords:         "jean-philippe, philippe, shayna, ottawa, lubbock, kneeler, jp, customs, quebec, bilingual, ferret, palatable, montreal, rogen, transit, sulu, governed, mayonnaise, yum, maggie, coughed, penguins, pens, maddie, passport"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNOa1oizSqy5eQ1ilRDHq_YsJ"
 
 image:                "/assets/images/episode-placeholder.jpg"

@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/203/187"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E187.vtt.zip"
+    keywords:         "ceramics, clop, iambic, mid-born, relegate, vanderbilt, untying, burnout, fitch, interfacing, pinhead, toasted, romeo, abercrombie, blinks, thatcher, acclaimed, davey, delegate, omens, rehearsals, reagan, omen, pus, certainty"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObrK0akaYCShkJdgOHZkSdR"
 
 image:                "/assets/images/episode-placeholder.jpg"

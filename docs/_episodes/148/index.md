@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/163/148"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E148.vtt.zip"
+    keywords:         "altoids, enish, gad, janis, lepsi, madoopy, menonists, menonites, seamstress, copier, hebdo, fundamentalists, hearse, pinball, comedian's, wii, stickler, mengele, gervais, jimi, corolla, fallon, antidote, jonestown, recon"
   hallOfRecords:      "https://www.youtube.com/playlist?list=PLqxM5x81hNObpASCG-DSZGnLmir2wsFDJ"
 
 image:                "/assets/images/episode-placeholder.jpg"

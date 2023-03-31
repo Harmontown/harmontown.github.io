@@ -13,6 +13,9 @@ external:
   podcastDynamite:
     hasMinutes:       false
     url:              "https://podcastdynamite.com/#/p/Harmontown/e/229/212"
+  transcription:
+    filename:         "/assets/transcripts/Harmontown.S01E212.vtt.zip"
+    keywords:         "modine, popeyes, winona, skulljuice, volkswagen, duffer, encyclopedia, scoping, rejection, fey, synth, periscoping, delusional, reggie, kroll, rudd, audrey, watts, carpenter, tallest, chapman, costco, grown-up, kubrick, neon"
   hallOfRecords:      
 
 image:                "/assets/images/episode-placeholder.jpg"
