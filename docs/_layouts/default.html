@@ -6,14 +6,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   {% seo %}
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+  {% if page.external %}
+  <meta name="transcription_tags" content="{{page.external.transcription.keywords}}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.commit | relative_url }}">
   <script src="https://code.jquery.com/jquery-3.3.0.min.js"
     integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
-    <![endif]-->
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% include head-custom.html %}
 </head>
@@ -57,7 +62,8 @@
     </section>
     <footer>
       <small>
-        <p>Project maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a></p>
+        <p>Project maintained by <a href="{{ site.github.owner_url }}" target="_blank">{{ site.github.owner_name }}</a>
+        </p>
         <p>Hosted on GitHub Pages <br />Theme by <a href="https://twitter.com/mattgraham" target="_blank">mattgraham</a>
         </p>
         {% if site.commit %}
