@@ -165,8 +165,8 @@ layout: default
                   {% if page.external.transcription.filename %}
                   <tr>
                     <th>Transcription</th>
-                    <td title="Keywords: {{ page.external.transcription.keywords }}">
-                      <a href="{{ page.external.transcription.filename }}" target="_blank">VTT</a> by @avenant 
+                    <td>
+                      <a href="{{ page.external.transcription.filename }}" target="_blank">VTT</a> by @avenant
                     </td>
                   </tr>
                   {% endif %}
@@ -198,13 +198,24 @@ layout: default
           </tr>
           {% endif %}
 
+          {% if page.external.transcription.filename %}
+          <tr class="section-header">
+            <th colspan="2">
+              <div>Keywords (extracted from VTT)</div>
+            </th>
+          </tr>
+          <tr>
+            <td colspan="2">{{ page.external.transcription.keywords }}</td>
+          </tr>
+          {% endif %}
+
         </tbody>
 
       </table>
     </div>
-    
+
     {{ content }}
-  
+
   </div>
 
   {% if page.images.size > 0 %}
