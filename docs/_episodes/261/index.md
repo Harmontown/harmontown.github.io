@@ -18,7 +18,7 @@ external:
     keywords:         "corvair, grotily, kinkier, kush, pureburn, thrain, burgess, brights, inquisitor, schrader, abernathy, briefing, inappropriately, maids, guilds, inquisitors, plausible, groomed, relic, peaches, absalom, titans, latina, mick, bishop"
   hallOfRecords:      
 
-image:                "/assets/images/episode-placeholder.jpg"
+image:                "/assets/images/episodes/261/01.png"
 description: |-
   In an in-studio episode, Jeff tells a mysterious story about Ron Jeremy and Dan discusses the tragedy in Las Vegas as well as the effect of easily-available smut on the web on today's youth. Then the role playing gang ventures forth in their exploits.
 showDate:             "2017-10-07 00:00:00Z"
@@ -73,8 +73,6 @@ images:
 
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->
-
-
 
 
 <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
