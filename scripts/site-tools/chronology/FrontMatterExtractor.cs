@@ -1,6 +1,3 @@
-using System;
-using System.IO;
-using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
@@ -49,7 +46,12 @@ public class FrontMatterExtractor
 
 public record Episode
 {
-  public Episode() { }
+  public Episode()
+    : this(
+        default!,
+        default, default, default, default, default, default, default, default, default, default,
+        default, default, default, default, default, default, default!, default, default, default
+        ) { }
 
   public Episode(
   string slug,
@@ -122,7 +124,8 @@ public record Episode
 
 public record External
 {
-  public External() { }
+  public External()
+    : this(default!, default!, default!, default!) { }
 
   public External(
     string harmonCity,
@@ -156,12 +159,12 @@ public record PDEntry
 public record TranscriptionEntry
 {
   public TranscriptionEntry() { }
-  public TranscriptionEntry(string? vttZipFilename, string? keywords)
+  public TranscriptionEntry(string? filename, string? keywords)
   {
-    VttZipFilename = vttZipFilename;
+    Filename = filename;
     Keywords = keywords;
   }
 
-  public string? VttZipFilename { get; init; }
+  public string? Filename { get; init; }
   public string? Keywords { get; init; }
 }

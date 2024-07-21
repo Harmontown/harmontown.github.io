@@ -10,15 +10,14 @@ const string OutDir = "../../../docs/_episodes/";
 
 void GenerateEpisodeStubs()
 {
-  var episodes = JsonSerializer.Deserialize<IEnumerable<Episode>>(File.ReadAllText(ChronologyInput));
-
+  var episodes = JsonSerializer.Deserialize<IEnumerable<Episode>>(File.ReadAllText(ChronologyInput))!;
   // debugging...
   // episodes = episodes.Skip(0).Take(20).ToList();
 
   var first = episodes.First();
   var last = episodes.Last();
 
-  string FormatList(string[] list, params string[] examples)
+  string FormatList(string[]? list, params string[] examples)
   {
     var items = (list ?? new string[0]);
     var itemLines = (list ?? new string[0]).Select(item => $"- {FormatString(item)}").ToList();
@@ -53,13 +52,13 @@ external:
     hasMinutes:       {{{FormatBool(ep.External.PodcastDynamite.HasMinutes)}}}
     url:              {{{FormatString(ep.External.PodcastDynamite.Url)}}}
   transcription:
-    filename:         {{{FormatString(ep.External.Transcription?.VttZipFilename)}}}
+    filename:         {{{FormatString(ep.External.Transcription?.Filename)}}}
     keywords:         {{{FormatString(ep.External.Transcription?.Keywords)}}}
   hallOfRecords:      {{{FormatString(ep.External.HallOfRecords)}}}
 
 image:                {{{FormatString(ep.Image)}}}
 description: |-
-  {{{ep.Description.Replace("\r", "").Replace("\n", "\r\n  ")}}}
+  {{{ep.Description!.Replace("\r", "").Replace("\n", "\r\n  ")}}}
 showDate:             {{{FormatDateString(ep.ShowDate)}}}
 releaseDate:          {{{FormatDateString(ep.ReleaseDate)}}}
 venue:                {{{FormatString(ep.Venue)}}}
@@ -157,7 +156,7 @@ GenerateEpisodeStubs();
 
 public record Episode
 {
-  public Episode() { }
+  // public Episode() { }
 
   public Episode(
   string slug,
@@ -230,7 +229,7 @@ public record Episode
 
 public record External
 {
-  public External() { }
+  // public External() { }
 
   public External(
     string harmonCity,
@@ -264,12 +263,12 @@ public record PDEntry
 public record TranscriptionEntry
 {
   public TranscriptionEntry() { }
-  public TranscriptionEntry(string? vttZipFilename, string? keywords)
+  public TranscriptionEntry(string? filename, string? keywords)
   {
-    VttZipFilename = vttZipFilename;
+    Filename = filename;
     Keywords = keywords;
   }
 
-  public string? VttZipFilename { get; init; }
+  public string? Filename { get; init; }
   public string? Keywords { get; init; }
 }

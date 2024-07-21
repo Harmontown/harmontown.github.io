@@ -13,6 +13,7 @@ var episodes = new FrontMatterExtractor().GetEpisodes().OrderBy(item => item.Seq
 
 File.WriteAllText(Output, JsonSerializer.Serialize(episodes, new JsonSerializerOptions { WriteIndented = true }));
 
+#pragma warning disable 8321
 
 static List<Episode> MergeTheTVDB(List<Episode> episodes)
 {
@@ -51,7 +52,7 @@ static List<Episode> MergeVttInfo(List<Episode> episodes)
       {
         Transcription = new TranscriptionEntry()
         {
-          VttZipFilename = vttZipFilename,
+          Filename = vttZipFilename,
           Keywords = string.Join(", ", keywords)
         }
       }
@@ -61,3 +62,5 @@ static List<Episode> MergeVttInfo(List<Episode> episodes)
   episodes = episodes.Select(item => !item.EpisodeNumber.HasValue ? item : epsByNumber[item.EpisodeNumber.Value]).ToList();
   return episodes;
 }
+
+#pragma warning restore 3821

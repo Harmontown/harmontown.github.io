@@ -1,5 +1,7 @@
 @import "colors";
 
+$infoBoxWidth: 267px;
+
 .banner-box {
   border: 3px double $box-border-color;
   margin: 24px 12px;
@@ -61,6 +63,10 @@
 
 .episode-content {
   flex: 1;
+
+  table {
+    width: unset;
+  }
 }
 
 .episode-bottom-navigation {
@@ -68,16 +74,13 @@
   margin-top: 20px;
 }
 
-.info-box-wrapper {
-}
 
 .info-box {
-  $width: 267px;
   background-color: $paper-white;
   float: right;
   margin-left: 12px;
   // margin-right: ($width / -1.25);
-  max-width: $width;
+  max-width: $infoBoxWidth;
   border: 1px solid $box-border-color;
   padding: 6px;
 

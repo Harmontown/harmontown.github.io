@@ -32,8 +32,8 @@ hasDnD:
 #       the guest, audienceGuests, and images lists.
 
 guests:
-#- "Example guest 1"
-#- "Example guest 2"
+- "Nick Wiger"
+- "Mike Mitchell"
 
 audienceGuests:
 #- "Example guest 1"
@@ -74,8 +74,25 @@ images:
 <!-- Add your content BELOW here -->
 <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvv -->
 
+## Minutes
 
+| Time  | Entry 
+| ----- | ----- 
+| 00:01 | Mother's Day business, Game of Thrones.
+| 00:03 | Incremental Tappers.
+| 00:05 | Chiropractors and sexy George Clooney.
+| 00:07 | Problematization and transatlantic colonial literature.
+| 00:17 | Jeff on Dino on Hitler.
+| 00:21 | Spencer on his parents.
+| 00:24 | Dan on his parents.
+| 00:34 | The Doughboys enter.
+| ..... | (and the rest...)
 
+## Recurring
+* Dan's story about his mother throwing his 11th birthday cake at his father.
+
+## See also
+* [The Doughboys Podcast](https://headgum.com/doughboys)
 
 <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
 <!-- Add your content ABOVE here -->
